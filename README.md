@@ -1,12 +1,14 @@
-DC building and address import
+Bellingham, Washington building and address import
 ==============================
 
-**[Work in progress, do not use for import yet](https://github.com/osmlab/dcbuildings/issues)**
+This repository is based on the [DC buildings import](https://github.com/osmlab/dcbuildings/). There will be many references to DC that have not been switched over yet.
 
-Generates an OSM file of buildings with addresses per DC census tract, ready
+**[Work in progress, do not use for import yet](https://github.com/almccon/bellingham-wa-buildings/issues)**
+
+Generates an OSM file of buildings with addresses per Bellingham census tract, ready
 to be used in JOSM for a manual review and upload to OpenStreetMap.
 
-[Import proposal](https://github.com/osmlab/dcbuildings/blob/master/PROPOSAL.md)
+No formal import proposal has been made yet. We will follow the [import guidelines](http://wiki.openstreetmap.org/wiki/Import/Guidelines) before any data is imported.
 
 ## Prerequisites 
 
@@ -33,8 +35,8 @@ to be used in JOSM for a manual review and upload to OpenStreetMap.
 
 ## Set up Python virtualenv and get dependencies
     # may need to easy_install pip and pip install virtualenv 
-    virtualenv ~/venvs/dcbuildings
-    source ~/venvs/dcbuildings/bin/activate 
+    virtualenv ~/venvs/bellingham-wa-buildings
+    source ~/venvs/bellingham-wa-buildings/bin/activate 
     pip install -r requirements.txt
 
 
@@ -56,7 +58,7 @@ You can run stages separately, like so:
 
     # Generate importable .osm files.
     # This will populate the osm/ directory with one .osm file per
-    # DC census tract.
+    # census tract.
     make osm
 
     # Clean up all intermediary files:
@@ -68,14 +70,14 @@ You can run stages separately, like so:
 
 ## Source data
 
-- Address Points http://data.dc.gov/Metadata.aspx?id=190
-- Buildings http://data.dc.gov/Metadata.aspx?id=59
+- Address Points http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip
+- Buildings http://www.cob.org/data/gis/FGDB_Files/COB_struc_shps.zip
 
 ## Features
 
 - Conflates buildings and addresses
 - Cleans address names
-- Exports one OSM XML building file per DC census tract
+- Exports one OSM XML building file per census tract
 - Exports OSM XML address files for addresses that pertain to buildings with
   more than one address
 - Handles multipolygons
@@ -106,5 +108,4 @@ Each address is a node tagged with:
 
 ## Related
 
-- [Ongoing import proposal (not updated with this script yet)](http://www.sixpica.com/osm/2013/05/19/proposal-for-importing-dc-gis-building-data-to-osm/)
-- [DC import page](http://wiki.openstreetmap.org/wiki/Washington_DC/DCGIS_imports)
+- [Bellingham import page](http://wiki.openstreetmap.org/wiki/Bellingham,_Washington/GIS_imports)
