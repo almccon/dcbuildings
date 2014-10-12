@@ -6,7 +6,7 @@ clean:
 	rm -f BlockGroupPly.zip
 
 BldgPly.zip:
-	curl -L "http://dcatlas.dcgis.dc.gov/catalog/download.asp?downloadID=1021&downloadTYPE=ESRI" -o BldgPly.zip
+	curl -L "http://dcbuildings.s3.amazonaws.com/BLDG_FOR_OSM.zip" -o BldgPly.zip
 
 AddressPt.zip:
 	curl -L "http://dcatlas.dcgis.dc.gov/catalog/download.asp?downloadID=2182&downloadTYPE=ESRI" -o AddressPt.zip
@@ -17,21 +17,18 @@ BlockGroupPly.zip:
 BldgPly: BldgPly.zip
 	rm -rf BldgPly
 	unzip BldgPly.zip -d BldgPly
-	rm BldgPly.zip
 
 AddressPt: AddressPt.zip
 	rm -rf AddressPt
 	unzip AddressPt.zip -d AddressPt
-	rm AddressPt.zip
 
 BlockGroupPly: BlockGroupPly.zip
 	rm -rf BlockGroupPly
 	unzip BlockGroupPly.zip -d BlockGroupPly
-	rm BlockGroupPly.zip
 
 BldgPly/buildings.shp: BldgPly
 	rm -f BldgPly/buildings.*
-	ogr2ogr -simplify 0.2 -t_srs EPSG:4326 -overwrite BldgPly/buildings.shp BldgPly/BldgPly.shp
+	ogr2ogr -simplify 0.2 -t_srs EPSG:4326 -overwrite BldgPly/buildings.shp BldgPly/BLDG_FOR_OSM.shp
 
 AddressPt/addresses.shp: AddressPt
 	rm -f AddressPt/addresses.*
