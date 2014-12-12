@@ -35,13 +35,15 @@ def chunk(featureFileName, sectionFileName, pattern, key = None):
                             sectionShape = asShape(section['geometry'])
                             for j in featureIdx.intersection(sectionShape.bounds):
                                 if asShape(features[j]['geometry']).intersects(sectionShape):
+                                    properties = features[j]['properties']
                                     output.write(features[j])
                             print "Exported %s" % fileName
                             i = i + 1
                     except ValueError:
-                        print 'Error exporting ' + fileName
+                        print "Error exporting " + fileName
                         pprint(properties)
                         pprint(featureFile.schema)
+
 
 usage = """
 chunk.py

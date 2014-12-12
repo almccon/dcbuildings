@@ -1,4 +1,4 @@
-all: BldgPly/buildings.shp AddressPt/addresses.shp BlockGroupPly/blockgroups.shp directories chunks osm
+all: BldgPly/buildings.shp AddressPt/addresses.shp BlockGroupPly/blockgroups.shp directories chunks merged osm
 
 clean:
 	rm -f BldgPly.zip
@@ -6,13 +6,13 @@ clean:
 	rm -f BlockGroupPly.zip
 
 BldgPly.zip:
-	curl -L "http://dcbuildings.s3.amazonaws.com/BLDG_FOR_OSM.zip" -o BldgPly.zip
+	curl -L "http://www.cob.org/data/gis/FGDB_Files/COB_struc_shps.zip" -o BldgPly.zip
 
 AddressPt.zip:
-	curl -L "http://dcatlas.dcgis.dc.gov/catalog/download.asp?downloadID=2182&downloadTYPE=ESRI" -o AddressPt.zip
+	curl -L "http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip" -o AddressPt.zip
 
 BlockGroupPly.zip:
-	curl -L "http://dcatlas.dcgis.dc.gov/catalog/download.asp?downloadID=1371&downloadTYPE=ESRI" -o BlockGroupPly.zip
+	curl -L "http://www2.census.gov/geo/tiger/GENZ2013/cb_2013_53_bg_500k.zip" -o BlockGroupPly.zip
 
 BldgPly: BldgPly.zip
 	rm -rf BldgPly
@@ -22,37 +22,42 @@ AddressPt: AddressPt.zip
 	rm -rf AddressPt
 	unzip AddressPt.zip -d AddressPt
 
+# NOTE: this downloads block groups for all of Washington State. ogr2ogr selects & creates BlockGroupPolyshp with Whatcom county only.
+
 BlockGroupPly: BlockGroupPly.zip
 	rm -rf BlockGroupPly
 	unzip BlockGroupPly.zip -d BlockGroupPly
+▸ ogr2ogr -where "COUNTYFP='073'" BlockGroupPly/BlockGroupPly.shp BlockGroupPly/cb_2013_53_bg_500k.shp
 
 BldgPly/buildings.shp: BldgPly
 	rm -f BldgPly/buildings.*
-	ogr2ogr -simplify 0.2 -t_srs EPSG:4326 -overwrite BldgPly/buildings.shp BldgPly/BLDG_FOR_OSM.shp
+	ogr2ogr -simplify 0.2 -t_srs EPSG:4326 -overwrite BldgPly/buildings.shp BldgPly/COB_Shps/COB_struc_Buildings.shp
 
 AddressPt/addresses.shp: AddressPt
 	rm -f AddressPt/addresses.*
-	ogr2ogr -t_srs EPSG:4326 -overwrite AddressPt/addresses.shp AddressPt/AddressPt.shp
+	ogr2ogr -t_srs EPSG:4326 -overwrite AddressPt/addresses.shp AddressPt/COB_Shps/COB_land_AddressPoints.shp
 
 BlockGroupPly/blockgroups.shp: BlockGroupPly
 	rm -f BlockGroupPly/blockgroups.*
-	ogr2ogr -t_srs EPSG:4326 BlockGroupPly/blockgroups.shp BlockGroupPly/BlockGroupPly.shp
+	ogr2ogr -t_srs EPSG:4326 BlockGroupPly/blockgroups.shp BlockGroupPly/cb_2013_53_bg_500k.shp
 
 BlockGroupPly/blockgroups.geojson: BlockGroupPly
 	rm -f BlockGroupPly/blockgroups.geojson
 	rm -f BlockGroupPly/blockgroups-900913.geojson
 	ogr2ogr -simplify 3 -t_srs EPSG:900913 -f "GeoJSON" BlockGroupPly/blockgroups-900913.geojson BlockGroupPly/BlockGroupPly.shp
-	python tasks.py BlockGroupPly/blockgroups-900913.geojson > BlockGroupPly/blockgroups.geojson
+#	python tasks.py BlockGroupPly/blockgroups-900913.geojson > BlockGroupPly/blockgroups.geojson
 
-chunks: directories
-	rm -f chunks/*
-	python chunk.py AddressPt/addresses.shp BlockGroupPly/blockgroups.shp chunks/addresses-%s.shp OBJECTID
-	python chunk.py BldgPly/buildings.shp BlockGroupPly/blockgroups.shp chunks/buildings-%s.shp OBJECTID
+chunks: directories AddressPt/addresses.shp BldgPly/buildings.shp
+#	python chunk.py AddressPt/addresses.shp BlockGroupPly/blockgroups.shp chunks/addresses-%s.shp OBJECTID
+#	python chunk.py BldgPly/buildings.shp BlockGroupPly/blockgroups.shp chunks/buildings-%s.shp OBJECTID
 
-osm: directories
-	rm -f osm/*
-	python convert.py
+merged: directories
+#	python merge.py
+
+osm: merged
+#	python convert.py merged/*
 
 directories:
 	mkdir -p chunks
+	mkdir -p merged
 	mkdir -p osm

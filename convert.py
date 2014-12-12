@@ -1,47 +1,31 @@
-# Convert DC building footprints and addresses into importable OSM files.
-from fiona import collection
+# Convert NYC building footprints and addresses into importable OSM files.
+# TODO: adapt from NYC to Bellingham
 from lxml import etree
 from lxml.etree import tostring
-from rtree import index
 from shapely.geometry import asShape, Point, LineString
-from shapely import speedups
-from sys import argv
+from sys import argv, exit, stderr
 from glob import glob
+from merge import merge
 import re
-from pprint import pprint
 from decimal import Decimal, getcontext
 from multiprocessing import Pool
+import json
+from rtree import index
+import ntpath
 
+# Adjust precision for buffer operations
 getcontext().prec = 16
 
-# Converts given building and address shapefiles into corresponding OSM XML
-# files.
-def convert(buildingIn, addressIn, osmOut):
-    # Load all addresses.
-    addresses = []
-    with collection(addressIn, "r") as input:
-        for address in input:
-            shape = asShape(address['geometry'])
-            shape.original = address
-            addresses.append(shape)
-
-    # Load and index all buildings.
+# Converts given buildings into corresponding OSM XML files.
+def convert(buildingsFile, osmOut):
+    with open(buildingsFile) as f:
+        buildings = json.load(f)
+    buildingShapes = []
     buildingIdx = index.Index()
-    buildings = []
-    with collection(buildingIn, "r") as input:
-        for building in input:
-            building['shape'] = asShape(building['geometry'])
-            if building['properties']['DESCRIPTIO'] != 'Void':
-                building['properties']['addresses'] = []
-                buildings.append(building)
-                buildingIdx.add(len(buildings) - 1, building['shape'].bounds)
-
-    # Map addresses to buildings.
-    for address in addresses:
-        for i in buildingIdx.intersection(address.bounds):
-            if buildings[i]['shape'].contains(address):
-                buildings[i]['properties']['addresses'].append(
-                    address.original)
+    for building in buildings:
+        shape = asShape(building['geometry'])
+        buildingShapes.append(shape)
+        buildingIdx.add(len(buildingShapes) - 1, shape.bounds)
 
     # Generates a new osm id.
     osmIds = dict(node = -1, way = -1, rel = -1)
@@ -49,33 +33,78 @@ def convert(buildingIn, addressIn, osmOut):
         osmIds[type] = osmIds[type] - 1
         return osmIds[type]
 
+    ## Formats multi part house numbers
+    def formatHousenumber(p):
+        def suffix(part1, part2, hyphen_type=None):
+            part1 = stripZeroes(part1)
+            if not part2:
+                return str(part1)
+            part2 = stripZeroes(part2)
+            if hyphen_type == 'U': # unit numbers
+                return part1 + '-' + part2
+            if len(part2) == 1 and part2.isalpha(): # single letter extensions
+                return part1 + part2
+            return part1 + ' ' + part2 # All others
+        def stripZeroes(addr): # strip leading zeroes from numbers
+            if addr.isdigit():
+                addr = str(int(addr))
+            if '-' in addr:
+                try:
+                    addr2 = addr.split('-')
+                    if len(addr2) == 2:
+                        addr = str(int(addr2[0])) + '-' + str(int(addr2[1])).zfill(2)
+                except:
+                    pass
+            return addr
+        number = suffix(p['HOUSE_NUMB'], p['HOUSE_NU_1'], p['HYPHEN_TYP'])
+        return number
+
     # Converts an address
     def convertAddress(address):
         result = dict()
-        def quadrant(q):
-            quadrants = dict()
-            quadrants['NW'] = 'Northwest'
-            quadrants['NE'] = 'Northeast'
-            quadrants['SE'] = 'Southeast'
-            quadrants['SW'] = 'Southwest'
-            if q in quadrants:
-                return quadrants[q]
-            return q
-
-        if all (k in address for k in ('ADDRNUM', 'STNAME', 'STREET_TYP', 'QUADRANT')):
-            result['addr:housenumber'] = str(address['ADDRNUM'])
-            if address['ADDRNUMSUF']:
-                result['addr:housenumber'] = "%s %s" % \
-                    (result['addr:housenumber'], address['ADDRNUMSUF'].title())
-            if re.match('^(\d+)\w\w$', address['STNAME']): # Test for 2ND, 14TH, 21ST
-                streetname = address['STNAME'].lower()
-            else:
-                streetname = address['STNAME'].title()
-            result['addr:street'] = "%s %s %s" % \
-                (streetname,
-                address['STREET_TYP'].title(),
-                quadrant(address['QUADRANT']))
-            result['addr:postcode'] = str(int(address['ZIPCODE']))
+        if all (k in address for k in ('HOUSE_NUMB', 'STREET_NAM')):
+            if address['HOUSE_NUMB']:
+                result['addr:housenumber'] = formatHousenumber(address)
+            if address['STREET_NAM']:
+                streetname = address['STREET_NAM'].title()
+                streetname = streetname.replace('F D R ', 'FDR ')
+                # Expand Service Road
+                # See https://github.com/osmlab/nycbuildings/issues/30
+                streetname = re.sub(r"(.*)\bSr\b(.*)", r"\1Service Road\2", streetname)
+                # Expand cardinal directions on Service Roads
+                streetname = re.sub(r"(.*\bService Road\s)\bN\b(.*)", r"\1North\2", streetname)
+                streetname = re.sub(r"(.*\bService Road\s)\bE\b(.*)", r"\1East\2", streetname)
+                streetname = re.sub(r"(.*\bService Road\s)\bS\b(.*)", r"\1South\2", streetname)
+                streetname = re.sub(r"(.*\bService Road\s)\bW\b(.*)", r"\1West\2", streetname)
+                # Expand Expressway on Service Roads
+                streetname = re.sub(r"(.*)Expwy\s\bN\b(.*)", r"\1Expressway North\2", streetname)
+                streetname = re.sub(r"(.*)Expwy\s\bE\b(.*)", r"\1Expressway East\2", streetname)
+                streetname = re.sub(r"(.*)Expwy\s\bS\b(.*)", r"\1Expressway South\2", streetname)
+                streetname = re.sub(r"(.*)Expwy\s\bW\b(.*)", r"\1Expressway West\2", streetname)
+                streetname = re.sub(r"(.*)Expwy(.*)", r"\1Expressway\2", streetname)
+                # Add ordinal suffixes to numerals
+                streetname = re.sub(r"(.*)(\d*11)\s+(.*)", r"\1\2th \3", streetname)
+                streetname = re.sub(r"(.*)(\d*12)\s+(.*)", r"\1\2th \3", streetname)
+                streetname = re.sub(r"(.*)(\d*13)\s+(.*)", r"\1\2th \3", streetname)
+                streetname = re.sub(r"(.*)(\d*1)\s+(.*)", r"\1\2st \3", streetname)
+                streetname = re.sub(r"(.*)(\d*2)\s+(.*)", r"\1\2nd \3", streetname)
+                streetname = re.sub(r"(.*)(\d*3)\s+(.*)", r"\1\2rd \3", streetname)
+                streetname = re.sub(r"(.*)(\d+)\s+(.*)", r"\1\2th \3", streetname)
+                # Expand 'Ft' -> 'Fort'
+                if streetname[0:3] == 'Ft ': streetname = 'Fort ' + streetname[3:]
+                # Expand 'St ' -> 'Saint'
+                if streetname[0:3] == 'St ': streetname = 'Saint ' + streetname[3:]
+                # Expand 'Rev ' -> 'Reverend '
+                if streetname[0:4] == 'Rev ': streetname = 'Reverend ' + streetname[3:]
+                # Expand middlename ' St John' fix
+                streetname = streetname.replace('St John', 'Saint John')
+                # Middle name expansions
+                streetname = streetname.replace(' St ', ' Street ')
+                streetname = streetname.replace(' Rd ', ' Road ')
+                streetname = streetname.replace(' Blvd ', ' Boulevard ')
+                result['addr:street'] = streetname
+            if address['ZIPCODE']:
+                result['addr:postcode'] = str(int(address['ZIPCODE']))
         return result
 
     # Appends new node or returns existing if exists.
@@ -108,7 +137,7 @@ def convert(buildingIn, addressIn, osmOut):
             except IndexError:
                 line = LineString([coord, coords[1]])
             for idx, c in enumerate(intersects):
-                if line.buffer(0.0000015).contains(Point(c[0], c[1])) and c not in coords:
+                if line.buffer(0.000001).contains(Point(c[0], c[1])) and c not in coords:
                     t_node = appendNewNode(c, osmXml)
                     for n in way.iter('nd'):
                         if n.get('ref') == t_node.get('id'):
@@ -128,18 +157,29 @@ def convert(buildingIn, addressIn, osmOut):
             element.append(etree.Element('tag', k=k, v=v))
 
     # Appends a building to a given OSM xml document.
-    def appendBuilding(building, address, osmXml):
+    def appendBuilding(building, shape, address, osmXml):
         # Check for intersecting buildings
         intersects = []
-        for i in buildingIdx.intersection(building['shape'].bounds):
-            for c in buildings[i]['shape'].exterior.coords:
-                if Point(c[0], c[1]).intersects(building['shape']):
-                    intersects.append(c)
+        for i in buildingIdx.intersection(shape.bounds):
+            try:
+                for c in buildingShapes[i].exterior.coords:
+                    if Point(c[0], c[1]).buffer(0.000001).intersects(shape):
+                        intersects.append(c)
+            except AttributeError:
+                for c in buildingShapes[i][0].exterior.coords:
+                    if Point(c[0], c[1]).buffer(0.000001).intersects(shape):
+                        intersects.append(c)
+
         # Export building, create multipolygon if there are interior shapes.
-        way = appendNewWay(list(building['shape'].exterior.coords), intersects, osmXml)
         interiors = []
-        for interior in building['shape'].interiors:
-            interiors.append(appendNewWay(list(interior.coords), [], osmXml))
+        try:
+            way = appendNewWay(list(shape.exterior.coords), intersects, osmXml)
+            for interior in shape.interiors:
+                interiors.append(appendNewWay(list(interior.coords), [], osmXml))
+        except AttributeError:
+            way = appendNewWay(list(shape[0].exterior.coords), intersects, osmXml)
+            for interior in shape[0].interiors:
+                interiors.append(appendNewWay(list(interior.coords), [], osmXml))
         if len(interiors) > 0:
             relation = etree.Element('relation', visible='true', id=str(newOsmId('way')))
             relation.append(etree.Element('member', type='way', role='outer', ref=way.get('id')))
@@ -149,52 +189,53 @@ def convert(buildingIn, addressIn, osmOut):
             osmXml.append(relation)
             way = relation
         way.append(etree.Element('tag', k='building', v='yes'))
-        if 'GIS_ID' in building['properties']:
-            way.append(etree.Element('tag', k='dcgis:gis_id', v=str(building['properties']['GIS_ID'])))
-        if 'FLOORS' in building['properties'] and building['properties']['FLOORS'] != None:
-            floors = building['properties']['FLOORS'].split(' ')[0]
-            way.append(etree.Element('tag', k='building:levels', v=str(floors)))
+        if 'HEIGHT_ROO' in building['properties']:
+            height = round(((building['properties']['HEIGHT_ROO'] * 12) * 0.0254), 1)
+            if height > 0:
+                way.append(etree.Element('tag', k='height', v=str(height)))
+        if 'BIN' in building['properties']:
+            way.append(etree.Element('tag', k='nycdoitt:bin', v=str(building['properties']['BIN'])))
         if address: appendAddress(address, way)
 
-    # Export buildings & addresses. Only export address with building if thre is exactly
+    # Export buildings & addresses. Only export address with building if there is exactly
     # one address per building. Export remaining addresses as individual nodes.
-    addresses = []
+    allAddresses = []
     osmXml = etree.Element('osm', version='0.6', generator='alex@mapbox.com')
-    for building in buildings:
+    for i in range(0, len(buildings)):
+
+        # Filter out special addresses categories A and B
+        buildingAddresses = []
+        for address in buildings[i]['properties']['addresses']:
+            if address['properties']['SPECIAL_CO'] not in ['A', 'B']:
+                buildingAddresses.append(address)
         address = None
-        if len(building['properties']['addresses']) == 1:
-            address = building['properties']['addresses'][0]
+        if len(buildingAddresses) == 1:
+            address = buildingAddresses[0]
         else:
-            addresses.extend(building['properties']['addresses'])
-        appendBuilding(building, address, osmXml)
-    if (len(addresses) > 0):
-        for address in addresses:
+            allAddresses.extend(buildingAddresses)
+
+        if int(buildings[i]['properties']['HEIGHT_ROO']) == 0:
+            if shape.area > 1e-09:
+                appendBuilding(buildings[i], buildingShapes[i], address, osmXml)
+        else:
+            appendBuilding(buildings[i], buildingShapes[i], address, osmXml)
+
+    # Export any addresses that aren't the only address for a building.
+    if (len(allAddresses) > 0):
+        for address in allAddresses:
             node = appendNewNode(address['geometry']['coordinates'], osmXml)
             appendAddress(address, node)
+
     with open(osmOut, 'w') as outFile:
         outFile.writelines(tostring(osmXml, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
-        print "Exported " + osmOut
+        print 'Exported ' + osmOut
 
-def convertTown(buildingFile):
-    matches = re.match('^.*-(\d+)\.shp$', buildingFile).groups(0)
-    convert(
-        buildingFile,
-        'chunks/addresses-%s.shp' % matches[0],
-        'osm/buildings-addresses-%s.osm' % matches[0])
-
+def prep(fil3):
+    matches = re.match('^(.*)\..*?$', ntpath.basename(fil3)).groups(0)
+    convert(fil3, 'osm/%s.osm' % matches[0])
 
 if __name__ == '__main__':
-# Run conversions. Expects an chunks/addresses-[tract id].shp for each
-# chunks/buildings-[tract id].shp. Optinally convert only one census tract.
-    if (len(argv) == 2):
-        convert(
-            'chunks/buildings-%s.shp' % argv[1],
-            'chunks/addresses-%s.shp' % argv[1],
-            'osm/buildings-addresses-%s.osm' % argv[1])
-    else:
-        buildingFiles = glob("chunks/buildings-*.shp")
-
-        pool = Pool()
-        pool.map(convertTown, buildingFiles)
-        pool.close()
-        pool.join()
+    pool = Pool()
+    pool.map(prep, argv[1:])
+    pool.close()
+    pool.join()
