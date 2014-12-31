@@ -12,7 +12,7 @@ AddressPt.zip:
 	curl -L "http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip" -o AddressPt.zip
 
 BlockGroupPly.zip:
-	curl -L "http://www2.census.gov/geo/tiger/GENZ2013/cb_2013_53_bg_500k.zip" -o BlockGroupPly.zip
+	curl -L "http://www2.census.gov/geo/tiger/TIGER2014/BG/tl_2014_53_bg.zip" -o BlockGroupPly.zip
 
 BldgPly: BldgPly.zip
 	rm -rf BldgPly
@@ -27,7 +27,10 @@ AddressPt: AddressPt.zip
 BlockGroupPly: BlockGroupPly.zip
 	rm -rf BlockGroupPly
 	unzip BlockGroupPly.zip -d BlockGroupPly
-▸ ogr2ogr -where "COUNTYFP='073'" BlockGroupPly/BlockGroupPly.shp BlockGroupPly/cb_2013_53_bg_500k.shp
+
+BlockGroupPly/BlockGroupPly.shp: BlockGroupPly
+	rm -f BlockGroupPly/BlockGroupPly.*
+▸ ogr2ogr -where "COUNTYFP='073'" BlockGroupPly/BlockGroupPly.shp BlockGroupPly/tl_2014_53_bg.shp
 
 BldgPly/buildings.shp: BldgPly
 	rm -f BldgPly/buildings.*
@@ -37,9 +40,9 @@ AddressPt/addresses.shp: AddressPt
 	rm -f AddressPt/addresses.*
 	ogr2ogr -t_srs EPSG:4326 -overwrite AddressPt/addresses.shp AddressPt/COB_Shps/COB_land_AddressPoints.shp
 
-BlockGroupPly/blockgroups.shp: BlockGroupPly
+BlockGroupPly/blockgroups.shp: BlockGroupPly/BlockGroupPly.shp
 	rm -f BlockGroupPly/blockgroups.*
-	ogr2ogr -t_srs EPSG:4326 BlockGroupPly/blockgroups.shp BlockGroupPly/cb_2013_53_bg_500k.shp
+	ogr2ogr -t_srs EPSG:4326 BlockGroupPly/blockgroups.shp BlockGroupPly/BlockGroupPly.shp
 
 BlockGroupPly/blockgroups.geojson: BlockGroupPly
 	rm -f BlockGroupPly/blockgroups.geojson
