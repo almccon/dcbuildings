@@ -5,6 +5,10 @@ This repository is based on the [DC buildings import](https://github.com/osmlab/
 
 **[Work in progress, do not use for import yet](https://github.com/almccon/bellingham-wa-buildings/issues)**
 
+![Bellingham buildings screenshot](belingham_buildings_screenshot.png?raw=true "Bellingham buildings screenshot from QGIS")
+
+![Bellingham addresses screenshot](belingham_addresses_screenshot.png?raw=true "Bellingham addresses screenshot from QGIS")
+
 Generates an OSM file of buildings with addresses per Bellingham census tract, ready
 to be used in JOSM for a manual review and upload to OpenStreetMap.
 
