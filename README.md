@@ -5,12 +5,12 @@ This repository is based on the [DC buildings import](https://github.com/osmlab/
 
 **[Work in progress, do not use for import yet](https://github.com/almccon/bellingham-wa-buildings/issues)**
 
-![Bellingham buildings screenshot](bellingham_buildings_screenshot.png?raw=true "Bellingham buildings screenshot from QGIS")
-
-![Bellingham addresses screenshot](bellingham_addresses_screenshot.png?raw=true "Bellingham addresses screenshot from QGIS")
+![Bellingham buildings screenshot](buildings_with_block_groups.png?raw=true "Bellingham buildings screenshot from QGIS, include block group overlay")
 
 Generates an OSM file of buildings per Bellingham census block group, ready
 to be used in JOSM for a manual review and upload to OpenStreetMap.
+
+The .osm files are in the [osm folder](https://github.com/almccon/bellingham-wa-buildings/tree/master/osm) and are numbered according the the census block group ID. To find the file you're looking for, see [this map of block groups in Whatcom County](https://github.com/almccon/bellingham-wa-buildings/blob/master/BlockGroupPly/blockgroups.geojson) and find the `GEOID` of the block group by clicking on it.
 
 No formal import proposal has been made yet. We will follow the [import guidelines](http://wiki.openstreetmap.org/wiki/Import/Guidelines) before any data is imported.
 
