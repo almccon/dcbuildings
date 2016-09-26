@@ -1,7 +1,7 @@
 Bellingham, Washington building and address import
 ==============================
 
-This repository is based on the [DC buildings import](https://github.com/osmlab/dcbuildings/). There will be many references to DC that have not been switched over yet.
+This repository is based on the [DC buildings import](https://github.com/osmlab/dcbuildings/) and the later [LA buildings import](https://github.com/osmlab/labuildings/). There may be some references to DC or LA that have not been switched over yet.
 
 **[Work in progress, do not use for import yet](https://github.com/almccon/bellingham-wa-buildings/issues)**
 
@@ -9,7 +9,7 @@ This repository is based on the [DC buildings import](https://github.com/osmlab/
 
 ![Bellingham addresses screenshot](bellingham_addresses_screenshot.png?raw=true "Bellingham addresses screenshot from QGIS")
 
-Generates an OSM file of buildings with addresses per Bellingham census tract, ready
+Generates an OSM file of buildings per Bellingham census block group, ready
 to be used in JOSM for a manual review and upload to OpenStreetMap.
 
 No formal import proposal has been made yet. We will follow the [import guidelines](http://wiki.openstreetmap.org/wiki/Import/Guidelines) before any data is imported.
@@ -57,7 +57,7 @@ You can run stages separately, like so:
     # Download and expand all files, reproject
     make download
 
-    # Chunk address and building files by census tracts
+    # Chunk building files by census tracts
     make chunks
 
     # Generate importable .osm files.
@@ -68,22 +68,19 @@ You can run stages separately, like so:
     # Clean up all intermediary files:
     make clean
 
-    # For testing it's useful to convert just a single census tract.
-    # For instance, convert census tract 000100:
-    python convert.py 000100
-
 ## Source data
 
-- Address Points http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip
 - Buildings http://www.cob.org/data/gis/FGDB_Files/COB_struc_shps.zip
+
+For future import (not in current phase):
+
+- Address Points http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip
+- LIDAR for building heights? See: http://pugetsoundlidar.ess.washington.edu/lidardata/restricted/nonpslc/bellingham2013/bellingham2013.html
 
 ## Features
 
-- Conflates buildings and addresses
-- Cleans address names
-- Exports one OSM XML building file per census tract
-- Exports OSM XML address files for addresses that pertain to buildings with
-  more than one address
+- Transforms relevant attributes to OSM tags
+- Exports one OSM XML building file per census block group
 - Handles multipolygons
 - Simplifies building shapes
 
@@ -93,22 +90,18 @@ You can run stages separately, like so:
 
 Each building is a closed way tagged with:
 
-    building="yes"
-    addr:housenumber="ADDRNUM ADDRNUMSUF" # If available
-    addr:streetname="STNAME STREET_TYP QUADRANT" # If available
-    addr:postcode="ZIPCODE" # If available
+    `building=yes`, or:
+      - `building=house` if `BLDGTYPE=HOUSE`
+      - `building=residential` if `BLDGTYPE=DUPLX`
+      - `building=public` if `TYPE=PUBLIC`
+      - `building=static_caravan` if `TYPE=TRAILER`
+      - `man_made=storage_tank` if `TYPE=RESERVOIR`
+    `name=NAME` # if available
+    `building:levels=NUMFLOORS` # integer values, or 0.5, 1.5, 2.5, 3.5
+    `start_date=YRBUILT` # if > 1800 (there is one erroneous value to filter out)
 
-(All entities in CAPS are from DCGIS address file.)
+(All entities in CAPS are from `COB_struc_Buildings` shapefile.)
 
-*Addresses*
-
-Each address is a node tagged with:
-
-    addr:housenumber="ADDRNUM ADDRNUMSUF"
-    addr:streetname="STNAME STREET_TYP QUADRANT"
-    addr:postcode=ZIPCODE
-
-(All entities in CAPS from DCGIS address file.)
 
 ## Related
 
