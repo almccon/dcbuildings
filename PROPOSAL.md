@@ -75,10 +75,3 @@ polygons and handles multipolygons.
   census tract 000100: [ to add here ]
 - Sample: Full export of all cleaned and concatenated addresses:
   [ to add here ]
-
-## Known issues
-
-- [Duplicate nodes](https://github.com/osmlab/dcbuildings/issues/11)
-- [Include dc:gis](https://github.com/osmlab/dcbuildings/issues/14)
-- [Expand abbreviations](https://github.com/osmlab/dcbuildings/issues/15)
-- [Some odd multipolygons](https://github.com/osmlab/dcbuildings/issues/16)
