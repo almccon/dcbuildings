@@ -1,0 +1,1081 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm generator="alan@stamen.com" version="0.6">
+  <node id="-2" visible="true" lon="-122.5364048918283" lat="48.83358750358202"/>
+  <node id="-3" visible="true" lon="-122.5362175066697" lat="48.83360309258174"/>
+  <node id="-4" visible="true" lon="-122.5362071233877" lat="48.83352562349800"/>
+  <node id="-5" visible="true" lon="-122.5363908721080" lat="48.83350991675459"/>
+  <way id="-2" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-2"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-6" visible="true" lon="-122.5355757948569" lat="48.83353741186004"/>
+  <node id="-7" visible="true" lon="-122.5357874765606" lat="48.83353432094761"/>
+  <node id="-8" visible="true" lon="-122.5357885141401" lat="48.83356531992535"/>
+  <node id="-9" visible="true" lon="-122.5357926661252" lat="48.83356525927783"/>
+  <node id="-10" visible="true" lon="-122.5357940538504" lat="48.83360670541249"/>
+  <node id="-11" visible="true" lon="-122.5355626563361" lat="48.83361008338218"/>
+  <node id="-12" visible="true" lon="-122.5355612688297" lat="48.83356863814374"/>
+  <node id="-13" visible="true" lon="-122.5355768323074" lat="48.83356841083959"/>
+  <way id="-3" visible="true">
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-6"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-14" visible="true" lon="-122.5364526351396" lat="48.83371103338487"/>
+  <node id="-15" visible="true" lon="-122.5362174354268" lat="48.83372492048008"/>
+  <node id="-16" visible="true" lon="-122.5362080065787" lat="48.83367588192018"/>
+  <node id="-17" visible="true" lon="-122.5364426010935" lat="48.83365943311352"/>
+  <way id="-4" visible="true">
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-14"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-18" visible="true" lon="-122.5447362028971" lat="48.83366461771362"/>
+  <node id="-19" visible="true" lon="-122.5447398482929" lat="48.83377285668858"/>
+  <node id="-20" visible="true" lon="-122.5444679806122" lat="48.83377684657449"/>
+  <node id="-21" visible="true" lon="-122.5444648319612" lat="48.83368333659851"/>
+  <node id="-22" visible="true" lon="-122.5446396783210" lat="48.83368077039698"/>
+  <node id="-23" visible="true" lon="-122.5446391821347" lat="48.83366604228942"/>
+  <way id="-5" visible="true">
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-18"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-24" visible="true" lon="-122.5441950231852" lat="48.83364051887781"/>
+  <node id="-25" visible="true" lon="-122.5441985058884" lat="48.83374396177343"/>
+  <node id="-26" visible="true" lon="-122.5440568656765" lat="48.83374603992226"/>
+  <node id="-27" visible="true" lon="-122.5440533832919" lat="48.83364259792148"/>
+  <way id="-6" visible="true">
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-24"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-28" visible="true" lon="-122.5440840458817" lat="48.83378248169819"/>
+  <node id="-29" visible="true" lon="-122.5440858671911" lat="48.83383660075445"/>
+  <node id="-30" visible="true" lon="-122.5440635588866" lat="48.83383692819338"/>
+  <node id="-31" visible="true" lon="-122.5440650456497" lat="48.83388111433820"/>
+  <node id="-32" visible="true" lon="-122.5439830704928" lat="48.83388231662473"/>
+  <node id="-33" visible="true" lon="-122.5439815838009" lat="48.83383813047885"/>
+  <node id="-34" visible="true" lon="-122.5439706870201" lat="48.83383829041142"/>
+  <node id="-35" visible="true" lon="-122.5439688658332" lat="48.83378417135343"/>
+  <way id="-7" visible="true">
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-28"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-36" visible="true" lon="-122.5436054086280" lat="48.83362706519752"/>
+  <node id="-37" visible="true" lon="-122.5436090516119" lat="48.83373530420944"/>
+  <node id="-38" visible="true" lon="-122.5433932175274" lat="48.83373846934427"/>
+  <node id="-39" visible="true" lon="-122.5433961969965" lat="48.83382701244128"/>
+  <node id="-40" visible="true" lon="-122.5433925651904" lat="48.83382706572735"/>
+  <node id="-41" visible="true" lon="-122.5433936433706" lat="48.83385909215636"/>
+  <node id="-42" visible="true" lon="-122.5432670488696" lat="48.83386094858799"/>
+  <node id="-43" visible="true" lon="-122.5432648927003" lat="48.83379689662623"/>
+  <node id="-44" visible="true" lon="-122.5433204074198" lat="48.83379608215902"/>
+  <node id="-45" visible="true" lon="-122.5433192485748" lat="48.83376165812880"/>
+  <node id="-46" visible="true" lon="-122.5432782610692" lat="48.83376225856757"/>
+  <node id="-47" visible="true" lon="-122.5432753682997" lat="48.83367628477173"/>
+  <node id="-48" visible="true" lon="-122.5433796541025" lat="48.83367475563902"/>
+  <node id="-49" visible="true" lon="-122.5433781607993" lat="48.83363039779524"/>
+  <way id="-8" visible="true">
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-36"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-50" visible="true" lon="-122.5430239040033" lat="48.83362325650241"/>
+  <node id="-51" visible="true" lon="-122.5430266363090" lat="48.83370443508633"/>
+  <node id="-52" visible="true" lon="-122.5429897981106" lat="48.83370497455828"/>
+  <node id="-53" visible="true" lon="-122.5429911225724" lat="48.83374436641815"/>
+  <node id="-54" visible="true" lon="-122.5429273079767" lat="48.83374530157338"/>
+  <node id="-55" visible="true" lon="-122.5429259822327" lat="48.83370591063176"/>
+  <node id="-56" visible="true" lon="-122.5428554201925" lat="48.83370694472015"/>
+  <node id="-57" visible="true" lon="-122.5428560023616" lat="48.83372424304082"/>
+  <node id="-58" visible="true" lon="-122.5427517191649" lat="48.83372577166512"/>
+  <node id="-59" visible="true" lon="-122.5427484065576" lat="48.83362729563268"/>
+  <way id="-9" visible="true">
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-50"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-60" visible="true" lon="-122.5427680030165" lat="48.83376237354577"/>
+  <node id="-61" visible="true" lon="-122.5427712292055" lat="48.83385828026572"/>
+  <node id="-62" visible="true" lon="-122.5425994951502" lat="48.83386079891104"/>
+  <node id="-63" visible="true" lon="-122.5425962692550" lat="48.83376489128744"/>
+  <way id="-10" visible="true">
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-60"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-64" visible="true" lon="-122.5423644960073" lat="48.83361818756995"/>
+  <node id="-65" visible="true" lon="-122.5423684705708" lat="48.83373636043606"/>
+  <node id="-66" visible="true" lon="-122.5423311135437" lat="48.83373690820660"/>
+  <node id="-67" visible="true" lon="-122.5423328465414" lat="48.83378845798414"/>
+  <node id="-68" visible="true" lon="-122.5422617669070" lat="48.83378949930072"/>
+  <node id="-69" visible="true" lon="-122.5422600326196" lat="48.83373794954210"/>
+  <node id="-70" visible="true" lon="-122.5422377243466" lat="48.83373827663164"/>
+  <node id="-71" visible="true" lon="-122.5422337501174" lat="48.83362010466018"/>
+  <way id="-11" visible="true">
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-64"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-72" visible="true" lon="-122.5421794705695" lat="48.83354961967267"/>
+  <node id="-73" visible="true" lon="-122.5421819538003" lat="48.83362343466906"/>
+  <node id="-74" visible="true" lon="-122.5420849316530" lat="48.83362485623996"/>
+  <node id="-75" visible="true" lon="-122.5420863373665" lat="48.83366664389408"/>
+  <node id="-76" visible="true" lon="-122.5421309566050" lat="48.83366599062772"/>
+  <node id="-77" visible="true" lon="-122.5421323609958" lat="48.83370777830059"/>
+  <node id="-78" visible="true" lon="-122.5420093986552" lat="48.83370958101870"/>
+  <node id="-79" visible="true" lon="-122.5420079943353" lat="48.83366779244541"/>
+  <node id="-80" visible="true" lon="-122.5420157767558" lat="48.83366767835326"/>
+  <node id="-81" visible="true" lon="-122.5420143710700" lat="48.83362588979931"/>
+  <node id="-82" visible="true" lon="-122.5420029568627" lat="48.83362605713415"/>
+  <node id="-83" visible="true" lon="-122.5420004752837" lat="48.83355224301307"/>
+  <way id="-12" visible="true">
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-72"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-84" visible="true" lon="-122.5419245274703" lat="48.83362463632191"/>
+  <node id="-85" visible="true" lon="-122.5419286622740" lat="48.83374760350519"/>
+  <node id="-86" visible="true" lon="-122.5417948044229" lat="48.83374956571762"/>
+  <node id="-87" visible="true" lon="-122.5417906699128" lat="48.83362659763073"/>
+  <way id="-13" visible="true">
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-84"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-88" visible="true" lon="-122.5418545561338" lat="48.83375125951548"/>
+  <node id="-89" visible="true" lon="-122.5418571181841" lat="48.83382747213359"/>
+  <node id="-90" visible="true" lon="-122.5417600969998" lat="48.83382889341411"/>
+  <node id="-91" visible="true" lon="-122.5417575350949" lat="48.83375268079390"/>
+  <way id="-14" visible="true">
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-88"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-92" visible="true" lon="-122.5380406946364" lat="48.83370084796100"/>
+  <node id="-93" visible="true" lon="-122.5380435612916" lat="48.83378630766410"/>
+  <node id="-94" visible="true" lon="-122.5379340881927" lat="48.83378790878213"/>
+  <node id="-95" visible="true" lon="-122.5379312216914" lat="48.83370244817742"/>
+  <way id="-15" visible="true">
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-92"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-96" visible="true" lon="-122.5371232295533" lat="48.83370911768665"/>
+  <node id="-97" visible="true" lon="-122.5371273929680" lat="48.83383328428732"/>
+  <node id="-98" visible="true" lon="-122.5370096184210" lat="48.83383500498832"/>
+  <node id="-99" visible="true" lon="-122.5370054552941" lat="48.83371083838352"/>
+  <way id="-16" visible="true">
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-96"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-100" visible="true" lon="-122.5369543458192" lat="48.83370370374843"/>
+  <node id="-101" visible="true" lon="-122.5369567798527" lat="48.83377631872080"/>
+  <node id="-102" visible="true" lon="-122.5368509358271" lat="48.83377786577589"/>
+  <node id="-103" visible="true" lon="-122.5368485019146" lat="48.83370524990234"/>
+  <way id="-17" visible="true">
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-100"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-104" visible="true" lon="-122.5368113021331" lat="48.83354009972994"/>
+  <node id="-105" visible="true" lon="-122.5368119109433" lat="48.83355825391967"/>
+  <node id="-106" visible="true" lon="-122.5368632748840" lat="48.83355750319139"/>
+  <node id="-107" visible="true" lon="-122.5368637056529" lat="48.83357034795011"/>
+  <node id="-108" visible="true" lon="-122.5368989873051" lat="48.83356983226523"/>
+  <node id="-109" visible="true" lon="-122.5369001188215" lat="48.83360357133193"/>
+  <node id="-110" visible="true" lon="-122.5368804033521" lat="48.83360385949918"/>
+  <node id="-111" visible="true" lon="-122.5368812706581" lat="48.83362972072293"/>
+  <node id="-112" visible="true" lon="-122.5367676444788" lat="48.83363138055282"/>
+  <node id="-113" visible="true" lon="-122.5367656471645" lat="48.83357178024040"/>
+  <node id="-114" visible="true" lon="-122.5367734295820" lat="48.83357166649823"/>
+  <node id="-115" visible="true" lon="-122.5367723900697" lat="48.83354066844822"/>
+  <way id="-18" visible="true">
+    <nd ref="-104"/>
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-104"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-116" visible="true" lon="-122.5517392355916" lat="48.83376586025585"/>
+  <node id="-117" visible="true" lon="-122.5517436288595" lat="48.83359403781338"/>
+  <node id="-118" visible="true" lon="-122.5519549677745" lat="48.83359639204256"/>
+  <node id="-119" visible="true" lon="-122.5519534312163" lat="48.83365652026528"/>
+  <node id="-120" visible="true" lon="-122.5519152061728" lat="48.83365609543121"/>
+  <node id="-121" visible="true" lon="-122.5519189753194" lat="48.83376786196050"/>
+  <way id="-19" visible="true">
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-116"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5301"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-122" visible="true" lon="-122.5518313292692" lat="48.83382550561214"/>
+  <node id="-123" visible="true" lon="-122.5518322955602" lat="48.83385410774810"/>
+  <node id="-124" visible="true" lon="-122.5518572020497" lat="48.83385374051245"/>
+  <node id="-125" visible="true" lon="-122.5518565588747" lat="48.83383472967078"/>
+  <node id="-126" visible="true" lon="-122.5519577304127" lat="48.83383323878390"/>
+  <node id="-127" visible="true" lon="-122.5519597397502" lat="48.83389266712260"/>
+  <node id="-128" visible="true" lon="-122.5519379489390" lat="48.83389298843810"/>
+  <node id="-129" visible="true" lon="-122.5519409272730" lat="48.83398101707121"/>
+  <node id="-130" visible="true" lon="-122.5517572587812" lat="48.83398372428583"/>
+  <node id="-131" visible="true" lon="-122.5517543632377" lat="48.83389809322180"/>
+  <node id="-132" visible="true" lon="-122.5517216769849" lat="48.83389857423698"/>
+  <node id="-133" visible="true" lon="-122.5517192623811" lat="48.83382715792509"/>
+  <way id="-20" visible="true">
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-122"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5307"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-134" visible="true" lon="-122.5518484098343" lat="48.83411568899815"/>
+  <node id="-135" visible="true" lon="-122.5518352544350" lat="48.83415649329502"/>
+  <node id="-136" visible="true" lon="-122.5519150368361" lat="48.83416713997871"/>
+  <node id="-137" visible="true" lon="-122.5519018769989" lat="48.83420777165701"/>
+  <node id="-138" visible="true" lon="-122.5518758790667" lat="48.83429862721859"/>
+  <node id="-139" visible="true" lon="-122.5517167485091" lat="48.83427475585606"/>
+  <node id="-140" visible="true" lon="-122.5517649970726" lat="48.83410509579549"/>
+  <way id="-21" visible="true">
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-134"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5313"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-141" visible="true" lon="-122.5514711177924" lat="48.83458850525869"/>
+  <node id="-142" visible="true" lon="-122.5515015360604" lat="48.83453646895328"/>
+  <node id="-143" visible="true" lon="-122.5514561376161" lat="48.83452490319009"/>
+  <node id="-144" visible="true" lon="-122.5515027629822" lat="48.83444513768872"/>
+  <node id="-145" visible="true" lon="-122.5517268965575" lat="48.83450223756864"/>
+  <node id="-146" visible="true" lon="-122.5516523559805" lat="48.83463467718893"/>
+  <way id="-22" visible="true">
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-141"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5325"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-147" visible="true" lon="-122.5511300933232" lat="48.83398416033966"/>
+  <node id="-148" visible="true" lon="-122.5511357704103" lat="48.83381462519161"/>
+  <node id="-149" visible="true" lon="-122.5512751520238" lat="48.83381665965690"/>
+  <node id="-150" visible="true" lon="-122.5512732636593" lat="48.83387301631745"/>
+  <node id="-151" visible="true" lon="-122.5512920268273" lat="48.83387329020646"/>
+  <node id="-152" visible="true" lon="-122.5512887048192" lat="48.83398647622037"/>
+  <way id="-23" visible="true">
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-147"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5306"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-153" visible="true" lon="-122.5510453188199" lat="48.83376910678469"/>
+  <node id="-154" visible="true" lon="-122.5510437064529" lat="48.83362513393111"/>
+  <node id="-155" visible="true" lon="-122.5512238346008" lat="48.83362425548613"/>
+  <node id="-156" visible="true" lon="-122.5512245679491" lat="48.83368977021596"/>
+  <node id="-157" visible="true" lon="-122.5512821210540" lat="48.83368948855232"/>
+  <node id="-158" visible="true" lon="-122.5512813183606" lat="48.83376795528024"/>
+  <way id="-24" visible="true">
+    <nd ref="-153"/>
+    <nd ref="-154"/>
+    <nd ref="-155"/>
+    <nd ref="-156"/>
+    <nd ref="-157"/>
+    <nd ref="-158"/>
+    <nd ref="-153"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5300"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-159" visible="true" lon="-122.5509694657229" lat="48.83413072928688"/>
+  <node id="-160" visible="true" lon="-122.5510906679288" lat="48.83403454483060"/>
+  <node id="-161" visible="true" lon="-122.5512335230739" lat="48.83411300249330"/>
+  <node id="-162" visible="true" lon="-122.5512046074648" lat="48.83413594959866"/>
+  <node id="-163" visible="true" lon="-122.5512627421838" lat="48.83416787618697"/>
+  <node id="-164" visible="true" lon="-122.5511633077037" lat="48.83423718781977"/>
+  <way id="-25" visible="true">
+    <nd ref="-159"/>
+    <nd ref="-160"/>
+    <nd ref="-161"/>
+    <nd ref="-162"/>
+    <nd ref="-163"/>
+    <nd ref="-164"/>
+    <nd ref="-159"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5312"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-165" visible="true" lon="-122.5506872715751" lat="48.83453725629537"/>
+  <node id="-166" visible="true" lon="-122.5507545396679" lat="48.83440749506299"/>
+  <node id="-167" visible="true" lon="-122.5508476124043" lat="48.83442852307980"/>
+  <node id="-168" visible="true" lon="-122.5508564172192" lat="48.83441153885310"/>
+  <node id="-169" visible="true" lon="-122.5509704327761" lat="48.83443729768358"/>
+  <node id="-170" visible="true" lon="-122.5509316963357" lat="48.83451202050887"/>
+  <node id="-171" visible="true" lon="-122.5508985000138" lat="48.83450452003774"/>
+  <node id="-172" visible="true" lon="-122.5508612286170" lat="48.83457655982321"/>
+  <way id="-26" visible="true">
+    <nd ref="-165"/>
+    <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-168"/>
+    <nd ref="-169"/>
+    <nd ref="-170"/>
+    <nd ref="-171"/>
+    <nd ref="-172"/>
+    <nd ref="-165"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5324"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-173" visible="true" lon="-122.5507243972900" lat="48.83480185495771"/>
+  <node id="-174" visible="true" lon="-122.5507290262899" lat="48.83477201641454"/>
+  <node id="-175" visible="true" lon="-122.5506034257943" lat="48.83476352535462"/>
+  <node id="-176" visible="true" lon="-122.5506200279007" lat="48.83465650634206"/>
+  <node id="-177" visible="true" lon="-122.5507495377826" lat="48.83466526177315"/>
+  <node id="-178" visible="true" lon="-122.5507532762486" lat="48.83464116124109"/>
+  <node id="-179" visible="true" lon="-122.5508358499190" lat="48.83464674420557"/>
+  <node id="-180" visible="true" lon="-122.5508230328157" lat="48.83472937421777"/>
+  <node id="-181" visible="true" lon="-122.5508491085312" lat="48.83473113692183"/>
+  <node id="-182" visible="true" lon="-122.5508373935883" lat="48.83480949367473"/>
+  <way id="-27" visible="true">
+    <nd ref="-173"/>
+    <nd ref="-174"/>
+    <nd ref="-175"/>
+    <nd ref="-176"/>
+    <nd ref="-177"/>
+    <nd ref="-178"/>
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-182"/>
+    <nd ref="-173"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5330"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-183" visible="true" lon="-122.5491659623235" lat="48.83424333956747"/>
+  <node id="-184" visible="true" lon="-122.5491734043642" lat="48.83384013653636"/>
+  <node id="-185" visible="true" lon="-122.5495821811148" lat="48.83384342348445"/>
+  <node id="-186" visible="true" lon="-122.5495747436795" lat="48.83424662652111"/>
+  <way id="-28" visible="true">
+    <nd ref="-183"/>
+    <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-186"/>
+    <nd ref="-183"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-187" visible="true" lon="-122.5485874737167" lat="48.83422157043334"/>
+  <node id="-188" visible="true" lon="-122.5485869489965" lat="48.83415293434692"/>
+  <node id="-189" visible="true" lon="-122.5486284360879" lat="48.83415279599579"/>
+  <node id="-190" visible="true" lon="-122.5486273851696" lat="48.83401516046700"/>
+  <node id="-191" visible="true" lon="-122.5487563730250" lat="48.83401473176550"/>
+  <node id="-192" visible="true" lon="-122.5487548636299" lat="48.83422101281543"/>
+  <way id="-29" visible="true">
+    <nd ref="-187"/>
+    <nd ref="-188"/>
+    <nd ref="-189"/>
+    <nd ref="-190"/>
+    <nd ref="-191"/>
+    <nd ref="-192"/>
+    <nd ref="-187"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5321"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-193" visible="true" lon="-122.5485779820473" lat="48.83488102391223"/>
+  <node id="-194" visible="true" lon="-122.5485746390677" lat="48.83478198532532"/>
+  <node id="-195" visible="true" lon="-122.5486006041391" lat="48.83478160321430"/>
+  <node id="-196" visible="true" lon="-122.5485986103878" lat="48.83472256142253"/>
+  <node id="-197" visible="true" lon="-122.5487197774280" lat="48.83472077910907"/>
+  <node id="-198" visible="true" lon="-122.5487225417897" lat="48.83480267583388"/>
+  <node id="-199" visible="true" lon="-122.5488090925421" lat="48.83480140289048"/>
+  <node id="-200" visible="true" lon="-122.5488087784579" lat="48.83487762812862"/>
+  <way id="-30" visible="true">
+    <nd ref="-193"/>
+    <nd ref="-194"/>
+    <nd ref="-195"/>
+    <nd ref="-196"/>
+    <nd ref="-197"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-200"/>
+    <nd ref="-193"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5339"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-201" visible="true" lon="-122.5485722995961" lat="48.83445617421098"/>
+  <node id="-202" visible="true" lon="-122.5485713145707" lat="48.83437023442366"/>
+  <node id="-203" visible="true" lon="-122.5486384813531" lat="48.83436989804450"/>
+  <node id="-204" visible="true" lon="-122.5486374264949" lat="48.83427802032658"/>
+  <node id="-205" visible="true" lon="-122.5487681540630" lat="48.83427736634458"/>
+  <node id="-206" visible="true" lon="-122.5487685408106" lat="48.83445519289596"/>
+  <way id="-31" visible="true">
+    <nd ref="-201"/>
+    <nd ref="-202"/>
+    <nd ref="-203"/>
+    <nd ref="-204"/>
+    <nd ref="-205"/>
+    <nd ref="-206"/>
+    <nd ref="-201"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5327"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-207" visible="true" lon="-122.5479660551846" lat="48.83419641132872"/>
+  <node id="-208" visible="true" lon="-122.5479659031028" lat="48.83400947009294"/>
+  <node id="-209" visible="true" lon="-122.5481208143351" lat="48.83400941445122"/>
+  <node id="-210" visible="true" lon="-122.5481208573217" lat="48.83406299212453"/>
+  <node id="-211" visible="true" lon="-122.5480943282633" lat="48.83406300197170"/>
+  <node id="-212" visible="true" lon="-122.5480988262288" lat="48.83419636393127"/>
+  <way id="-32" visible="true">
+    <nd ref="-207"/>
+    <nd ref="-208"/>
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-212"/>
+    <nd ref="-207"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-213" visible="true" lon="-122.5479664841013" lat="48.83395249687716"/>
+  <node id="-214" visible="true" lon="-122.5479658883349" lat="48.83377917146741"/>
+  <node id="-215" visible="true" lon="-122.5480810010538" lat="48.83377899889268"/>
+  <node id="-216" visible="true" lon="-122.5480813551615" lat="48.83388219369726"/>
+  <node id="-217" visible="true" lon="-122.5481314411215" lat="48.83388211879091"/>
+  <node id="-218" visible="true" lon="-122.5481316157869" lat="48.83393289729393"/>
+  <node id="-219" visible="true" lon="-122.5481101517288" lat="48.83393292976459"/>
+  <node id="-220" visible="true" lon="-122.5481107940807" lat="48.83395228060325"/>
+  <way id="-33" visible="true">
+    <nd ref="-213"/>
+    <nd ref="-214"/>
+    <nd ref="-215"/>
+    <nd ref="-216"/>
+    <nd ref="-217"/>
+    <nd ref="-218"/>
+    <nd ref="-219"/>
+    <nd ref="-220"/>
+    <nd ref="-213"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-221" visible="true" lon="-122.5479601764988" lat="48.83444993271792"/>
+  <node id="-222" visible="true" lon="-122.5479594216007" lat="48.83423040043559"/>
+  <node id="-223" visible="true" lon="-122.5481027514427" lat="48.83423018511067"/>
+  <node id="-224" visible="true" lon="-122.5481030819912" lat="48.83432614251021"/>
+  <node id="-225" visible="true" lon="-122.5481263936235" lat="48.83432610804499"/>
+  <node id="-226" visible="true" lon="-122.5481265834734" lat="48.83438153368377"/>
+  <node id="-227" visible="true" lon="-122.5481050047764" lat="48.83438156603843"/>
+  <node id="-228" visible="true" lon="-122.5481044892226" lat="48.83444971553279"/>
+  <way id="-34" visible="true">
+    <nd ref="-221"/>
+    <nd ref="-222"/>
+    <nd ref="-223"/>
+    <nd ref="-224"/>
+    <nd ref="-225"/>
+    <nd ref="-226"/>
+    <nd ref="-227"/>
+    <nd ref="-228"/>
+    <nd ref="-221"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-229" visible="true" lon="-122.5479307053932" lat="48.83468855756438"/>
+  <node id="-230" visible="true" lon="-122.5479233148302" lat="48.83446953036296"/>
+  <node id="-231" visible="true" lon="-122.5480848728223" lat="48.83446715451296"/>
+  <node id="-232" visible="true" lon="-122.5480875718692" lat="48.83454714720860"/>
+  <node id="-233" visible="true" lon="-122.5480298734808" lat="48.83454799606022"/>
+  <node id="-234" visible="true" lon="-122.5480316080097" lat="48.83459941897943"/>
+  <node id="-235" visible="true" lon="-122.5481066173823" lat="48.83459831634460"/>
+  <node id="-236" visible="true" lon="-122.5481095736450" lat="48.83468592704263"/>
+  <way id="-35" visible="true">
+    <nd ref="-229"/>
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <nd ref="-234"/>
+    <nd ref="-235"/>
+    <nd ref="-236"/>
+    <nd ref="-229"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5328"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-237" visible="true" lon="-122.5481141469438" lat="48.83357968891436"/>
+  <node id="-238" visible="true" lon="-122.5481163381697" lat="48.83364459842472"/>
+  <node id="-239" visible="true" lon="-122.5481023284822" lat="48.83364480454336"/>
+  <node id="-240" visible="true" lon="-122.5481057728909" lat="48.83374687726680"/>
+  <node id="-241" visible="true" lon="-122.5479745093902" lat="48.83374880751003"/>
+  <node id="-242" visible="true" lon="-122.5479710652451" lat="48.83364673478277"/>
+  <node id="-243" visible="true" lon="-122.5478123041688" lat="48.83364906937141"/>
+  <node id="-244" visible="true" lon="-122.5478101147232" lat="48.83358416073440"/>
+  <way id="-36" visible="true">
+    <nd ref="-237"/>
+    <nd ref="-238"/>
+    <nd ref="-239"/>
+    <nd ref="-240"/>
+    <nd ref="-241"/>
+    <nd ref="-242"/>
+    <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-237"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5304"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-245" visible="true" lon="-122.5473053589046" lat="48.83446146533825"/>
+  <node id="-246" visible="true" lon="-122.5473050993578" lat="48.83428818541681"/>
+  <node id="-247" visible="true" lon="-122.5474407548971" lat="48.83428809725385"/>
+  <node id="-248" visible="true" lon="-122.5474410149066" lat="48.83446137717500"/>
+  <way id="-37" visible="true">
+    <nd ref="-245"/>
+    <nd ref="-246"/>
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-245"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-249" visible="true" lon="-122.5473039336799" lat="48.83424806718700"/>
+  <node id="-250" visible="true" lon="-122.5473082057382" lat="48.83406558507578"/>
+  <node id="-251" visible="true" lon="-122.5474612356838" lat="48.83406714727574"/>
+  <node id="-252" visible="true" lon="-122.5474569641447" lat="48.83424962849347"/>
+  <way id="-38" visible="true">
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-252"/>
+    <nd ref="-249"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5313"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belfern Drive"/>
+  </way>
+  <node id="-253" visible="true" lon="-122.5474958058589" lat="48.83357644448557"/>
+  <node id="-254" visible="true" lon="-122.5475029003279" lat="48.83378675611763"/>
+  <node id="-255" visible="true" lon="-122.5473716367013" lat="48.83378868568195"/>
+  <node id="-256" visible="true" lon="-122.5473669397186" lat="48.83364944883611"/>
+  <node id="-257" visible="true" lon="-122.5472730320214" lat="48.83365082982414"/>
+  <node id="-258" visible="true" lon="-122.5472706352096" lat="48.83357975502820"/>
+  <way id="-39" visible="true">
+    <nd ref="-253"/>
+    <nd ref="-254"/>
+    <nd ref="-255"/>
+    <nd ref="-256"/>
+    <nd ref="-257"/>
+    <nd ref="-258"/>
+    <nd ref="-253"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5301"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belfern Drive"/>
+  </way>
+  <node id="-259" visible="true" lon="-122.5473846779176" lat="48.83467371978627"/>
+  <node id="-260" visible="true" lon="-122.5473792237981" lat="48.83459562673728"/>
+  <node id="-261" visible="true" lon="-122.5472696466801" lat="48.83459896144250"/>
+  <node id="-262" visible="true" lon="-122.5472633068454" lat="48.83450814005519"/>
+  <node id="-263" visible="true" lon="-122.5475026300585" lat="48.83450085552259"/>
+  <node id="-264" visible="true" lon="-122.5475057819292" lat="48.83467003286393"/>
+  <way id="-40" visible="true">
+    <nd ref="-259"/>
+    <nd ref="-260"/>
+    <nd ref="-261"/>
+    <nd ref="-262"/>
+    <nd ref="-263"/>
+    <nd ref="-264"/>
+    <nd ref="-259"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5325"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belfern Drive"/>
+  </way>
+  <node id="-265" visible="true" lon="-122.5472285219013" lat="48.83398049677540"/>
+  <node id="-266" visible="true" lon="-122.5472288403544" lat="48.83391159916178"/>
+  <node id="-267" visible="true" lon="-122.5473329468804" lat="48.83391180863666"/>
+  <node id="-268" visible="true" lon="-122.5473332254049" lat="48.83385118008941"/>
+  <node id="-269" visible="true" lon="-122.5472243760605" lat="48.83385096120939"/>
+  <node id="-270" visible="true" lon="-122.5472245859835" lat="48.83380513383405"/>
+  <node id="-271" visible="true" lon="-122.5474573689901" lat="48.83380560238660"/>
+  <node id="-272" visible="true" lon="-122.5474565600028" lat="48.83398095506523"/>
+  <way id="-41" visible="true">
+    <nd ref="-265"/>
+    <nd ref="-266"/>
+    <nd ref="-267"/>
+    <nd ref="-268"/>
+    <nd ref="-269"/>
+    <nd ref="-270"/>
+    <nd ref="-271"/>
+    <nd ref="-272"/>
+    <nd ref="-265"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5307"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belfern Drive"/>
+  </way>
+  <node id="-273" visible="true" lon="-122.5488124914703" lat="48.83358483760585"/>
+  <node id="-274" visible="true" lon="-122.5488185444941" lat="48.83376415031859"/>
+  <node id="-275" visible="true" lon="-122.5487858583300" lat="48.83376463140957"/>
+  <node id="-276" visible="true" lon="-122.5487859682336" lat="48.83376788573926"/>
+  <node id="-277" visible="true" lon="-122.5486126796296" lat="48.83377043523317"/>
+  <node id="-278" visible="true" lon="-122.5486104819963" lat="48.83370535492799"/>
+  <node id="-279" visible="true" lon="-122.5486670355770" lat="48.83370452352244"/>
+  <node id="-280" visible="true" lon="-122.5486662027678" lat="48.83367986163503"/>
+  <node id="-281" visible="true" lon="-122.5487082277670" lat="48.83367924313092"/>
+  <node id="-282" visible="true" lon="-122.5487050944205" lat="48.83358641739450"/>
+  <way id="-42" visible="true">
+    <nd ref="-273"/>
+    <nd ref="-274"/>
+    <nd ref="-275"/>
+    <nd ref="-276"/>
+    <nd ref="-277"/>
+    <nd ref="-278"/>
+    <nd ref="-279"/>
+    <nd ref="-280"/>
+    <nd ref="-281"/>
+    <nd ref="-282"/>
+    <nd ref="-273"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5309"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-283" visible="true" lon="-122.5488221008009" lat="48.83389736965205"/>
+  <node id="-284" visible="true" lon="-122.5487544821970" lat="48.83389899358863"/>
+  <node id="-285" visible="true" lon="-122.5487573323580" lat="48.83395071220395"/>
+  <node id="-286" visible="true" lon="-122.5485782342861" lat="48.83395501379020"/>
+  <node id="-287" visible="true" lon="-122.5485720661103" lat="48.83384307660437"/>
+  <node id="-288" visible="true" lon="-122.5486128800902" lat="48.83384209639798"/>
+  <node id="-289" visible="true" lon="-122.5486110902175" lat="48.83380962802780"/>
+  <node id="-290" visible="true" lon="-122.5488158542151" lat="48.83380470937053"/>
+  <way id="-43" visible="true">
+    <nd ref="-283"/>
+    <nd ref="-284"/>
+    <nd ref="-285"/>
+    <nd ref="-286"/>
+    <nd ref="-287"/>
+    <nd ref="-288"/>
+    <nd ref="-289"/>
+    <nd ref="-290"/>
+    <nd ref="-283"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5315"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-291" visible="true" lon="-122.5510630114406" lat="48.83425354623044"/>
+  <node id="-292" visible="true" lon="-122.5510002480266" lat="48.83431632793476"/>
+  <node id="-293" visible="true" lon="-122.5511243825423" lat="48.83436453305297"/>
+  <node id="-294" visible="true" lon="-122.5510617798324" lat="48.83443210909617"/>
+  <node id="-295" visible="true" lon="-122.5507766294345" lat="48.83431962143129"/>
+  <node id="-296" visible="true" lon="-122.5509273389772" lat="48.83418649166239"/>
+  <way id="-44" visible="true">
+    <nd ref="-291"/>
+    <nd ref="-292"/>
+    <nd ref="-293"/>
+    <nd ref="-294"/>
+    <nd ref="-295"/>
+    <nd ref="-296"/>
+    <nd ref="-291"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5318"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-297" visible="true" lon="-122.5515532560876" lat="48.83441285650055"/>
+  <node id="-298" visible="true" lon="-122.5516352591534" lat="48.83427986619197"/>
+  <node id="-299" visible="true" lon="-122.5518485793336" lat="48.83433719450692"/>
+  <node id="-300" visible="true" lon="-122.5517665767337" lat="48.83447018496252"/>
+  <way id="-45" visible="true">
+    <nd ref="-297"/>
+    <nd ref="-298"/>
+    <nd ref="-299"/>
+    <nd ref="-300"/>
+    <nd ref="-297"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5319"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Drive"/>
+  </way>
+  <node id="-301" visible="true" lon="-122.5485655905737" lat="48.83468493659588"/>
+  <node id="-302" visible="true" lon="-122.5485666424985" lat="48.83462788809538"/>
+  <node id="-303" visible="true" lon="-122.5485952809094" lat="48.83462811963094"/>
+  <node id="-304" visible="true" lon="-122.5485967020280" lat="48.83455118013925"/>
+  <node id="-305" visible="true" lon="-122.5486045573370" lat="48.83455124352348"/>
+  <node id="-306" visible="true" lon="-122.5486057293422" lat="48.83448782706746"/>
+  <node id="-307" visible="true" lon="-122.5487381818268" lat="48.83448889354101"/>
+  <node id="-308" visible="true" lon="-122.5487330463764" lat="48.83468628485940"/>
+  <way id="-46" visible="true">
+    <nd ref="-301"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-301"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5333"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bellaire Way"/>
+  </way>
+  <node id="-309" visible="true" lon="-122.5467691641097" lat="48.83359415105030"/>
+  <node id="-310" visible="true" lon="-122.5467716873103" lat="48.83366899350928"/>
+  <node id="-311" visible="true" lon="-122.5468847930569" lat="48.83366733157590"/>
+  <node id="-312" visible="true" lon="-122.5468875345727" lat="48.83374868091531"/>
+  <node id="-313" visible="true" lon="-122.5466447229313" lat="48.83375224869503"/>
+  <node id="-314" visible="true" lon="-122.5466394574328" lat="48.83359605690835"/>
+  <way id="-47" visible="true">
+    <nd ref="-309"/>
+    <nd ref="-310"/>
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-309"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="5300"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belfern Drive"/>
+  </way>
+  <node id="-315" visible="true" lon="-122.5465237717507" lat="48.83382907614715"/>
+  <node id="-316" visible="true" lon="-122.5465265834012" lat="48.83391248145232"/>
+  <node id="-317" visible="true" lon="-122.5464487589516" lat="48.83391362626073"/>
+  <node id="-318" visible="true" lon="-122.5464459473682" lat="48.83383021915577"/>
+  <way id="-48" visible="true">
+    <nd ref="-315"/>
+    <nd ref="-316"/>
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-315"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-319" visible="true" lon="-122.5464257582012" lat="48.83361633137390"/>
+  <node id="-320" visible="true" lon="-122.5464329002121" lat="48.83382818393095"/>
+  <node id="-321" visible="true" lon="-122.5463031915935" lat="48.83383009033366"/>
+  <node id="-322" visible="true" lon="-122.5462960500930" lat="48.83361823686983"/>
+  <way id="-49" visible="true">
+    <nd ref="-319"/>
+    <nd ref="-320"/>
+    <nd ref="-321"/>
+    <nd ref="-322"/>
+    <nd ref="-319"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-323" visible="true" lon="-122.5460369119665" lat="48.83372262685302"/>
+  <node id="-324" visible="true" lon="-122.5460395091157" lat="48.83379969431640"/>
+  <node id="-325" visible="true" lon="-122.5459160278627" lat="48.83380150877935"/>
+  <node id="-326" visible="true" lon="-122.5459134308704" lat="48.83372444041428"/>
+  <way id="-50" visible="true">
+    <nd ref="-323"/>
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-323"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-327" visible="true" lon="-122.5454080289504" lat="48.83363762035162"/>
+  <node id="-328" visible="true" lon="-122.5454113467439" lat="48.83373609720695"/>
+  <node id="-329" visible="true" lon="-122.5452427275338" lat="48.83373857309976"/>
+  <node id="-330" visible="true" lon="-122.5452394100669" lat="48.83364009623972"/>
+  <way id="-51" visible="true">
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-330"/>
+    <nd ref="-327"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-331" visible="true" lon="-122.5528870152220" lat="48.83438482467006"/>
+  <node id="-332" visible="true" lon="-122.5528864650800" lat="48.83422968314832"/>
+  <node id="-333" visible="true" lon="-122.5529804715568" lat="48.83422953831282"/>
+  <node id="-334" visible="true" lon="-122.5529804675889" lat="48.83422857597709"/>
+  <node id="-335" visible="true" lon="-122.5530469072837" lat="48.83418535827619"/>
+  <node id="-336" visible="true" lon="-122.5531275234176" lat="48.83423937243062"/>
+  <node id="-337" visible="true" lon="-122.5530566952315" lat="48.83428544587152"/>
+  <node id="-338" visible="true" lon="-122.5530605916389" lat="48.83438455726081"/>
+  <way id="-52" visible="true">
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-334"/>
+    <nd ref="-335"/>
+    <nd ref="-336"/>
+    <nd ref="-337"/>
+    <nd ref="-338"/>
+    <nd ref="-331"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-339" visible="true" lon="-122.5538969395875" lat="48.83369206102640"/>
+  <node id="-340" visible="true" lon="-122.5539001578528" lat="48.83378711340445"/>
+  <node id="-341" visible="true" lon="-122.5538539808155" lat="48.83378779417227"/>
+  <node id="-342" visible="true" lon="-122.5538561606048" lat="48.83385218937007"/>
+  <node id="-343" visible="true" lon="-122.5537326794735" lat="48.83385401121394"/>
+  <node id="-344" visible="true" lon="-122.5537272819536" lat="48.83369456542922"/>
+  <way id="-53" visible="true">
+    <nd ref="-339"/>
+    <nd ref="-340"/>
+    <nd ref="-341"/>
+    <nd ref="-342"/>
+    <nd ref="-343"/>
+    <nd ref="-344"/>
+    <nd ref="-339"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-345" visible="true" lon="-122.5527832306232" lat="48.83408013815053"/>
+  <node id="-346" visible="true" lon="-122.5527780973076" lat="48.83392841012231"/>
+  <node id="-347" visible="true" lon="-122.5531802906566" lat="48.83392247874240"/>
+  <node id="-348" visible="true" lon="-122.5531854251424" lat="48.83407420585424"/>
+  <way id="-54" visible="true">
+    <nd ref="-345"/>
+    <nd ref="-346"/>
+    <nd ref="-347"/>
+    <nd ref="-348"/>
+    <nd ref="-345"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-349" visible="true" lon="-122.5538680274947" lat="48.83404940762340"/>
+  <node id="-350" visible="true" lon="-122.5538762969696" lat="48.83429362762784"/>
+  <node id="-351" visible="true" lon="-122.5537149399801" lat="48.83429600854959"/>
+  <node id="-352" visible="true" lon="-122.5537066712806" lat="48.83405178853393"/>
+  <way id="-55" visible="true">
+    <nd ref="-349"/>
+    <nd ref="-350"/>
+    <nd ref="-351"/>
+    <nd ref="-352"/>
+    <nd ref="-349"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-353" visible="true" lon="-122.5537256310178" lat="48.83474948296907"/>
+  <node id="-354" visible="true" lon="-122.5537227800725" lat="48.83456272971229"/>
+  <node id="-355" visible="true" lon="-122.5537921882621" lat="48.83456226823873"/>
+  <node id="-356" visible="true" lon="-122.5537911498551" lat="48.83449416043609"/>
+  <node id="-357" visible="true" lon="-122.5539061965969" lat="48.83449339487677"/>
+  <node id="-358" visible="true" lon="-122.5539080895814" lat="48.83461741687156"/>
+  <node id="-359" visible="true" lon="-122.5539504047268" lat="48.83461713578898"/>
+  <node id="-360" visible="true" lon="-122.5539514484135" lat="48.83468543329271"/>
+  <node id="-361" visible="true" lon="-122.5538935365827" lat="48.83468581779263"/>
+  <node id="-362" visible="true" lon="-122.5538974751333" lat="48.83474923990160"/>
+  <way id="-56" visible="true">
+    <nd ref="-353"/>
+    <nd ref="-354"/>
+    <nd ref="-355"/>
+    <nd ref="-356"/>
+    <nd ref="-357"/>
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-361"/>
+    <nd ref="-362"/>
+    <nd ref="-353"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-363" visible="true" lon="-122.5725631810623" lat="48.83379225142312"/>
+  <node id="-364" visible="true" lon="-122.5725623017269" lat="48.83394853490316"/>
+  <node id="-365" visible="true" lon="-122.5724397238467" lat="48.83394642264803"/>
+  <node id="-366" visible="true" lon="-122.5724374905803" lat="48.83379018471922"/>
+  <way id="-57" visible="true">
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-363"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-367" visible="true" lon="-122.5724661070532" lat="48.83403478832076"/>
+  <node id="-368" visible="true" lon="-122.5724695345324" lat="48.83413497516334"/>
+  <node id="-369" visible="true" lon="-122.5723730338457" lat="48.83413641505933"/>
+  <node id="-370" visible="true" lon="-122.5723696051641" lat="48.83403622733534"/>
+  <way id="-58" visible="true">
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <nd ref="-367"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-371" visible="true" lon="-122.5720139373893" lat="48.83413988544667"/>
+  <node id="-372" visible="true" lon="-122.5720076894359" lat="48.83421520142474"/>
+  <node id="-373" visible="true" lon="-122.5717473632735" lat="48.83420760231910"/>
+  <node id="-374" visible="true" lon="-122.5717567245815" lat="48.83413223992365"/>
+  <way id="-59" visible="true">
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-371"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-375" visible="true" lon="-122.5722299693500" lat="48.83414249003335"/>
+  <node id="-376" visible="true" lon="-122.5722328069782" lat="48.83422538046679"/>
+  <node id="-377" visible="true" lon="-122.5720989476566" lat="48.83422737659807"/>
+  <node id="-378" visible="true" lon="-122.5720961116085" lat="48.83414448614113"/>
+  <way id="-60" visible="true">
+    <nd ref="-375"/>
+    <nd ref="-376"/>
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <nd ref="-375"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-379" visible="true" lon="-122.5562209076136" lat="48.83393738496200"/>
+  <node id="-380" visible="true" lon="-122.5562277419917" lat="48.83413896150299"/>
+  <node id="-381" visible="true" lon="-122.5560388862118" lat="48.83414175213740"/>
+  <node id="-382" visible="true" lon="-122.5560367398840" lat="48.83407838540545"/>
+  <node id="-383" visible="true" lon="-122.5560746144822" lat="48.83407782559421"/>
+  <node id="-384" visible="true" lon="-122.5560699284700" lat="48.83393961665465"/>
+  <way id="-61" visible="true">
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-383"/>
+    <nd ref="-384"/>
+    <nd ref="-379"/>
+    <tag k="building" v="yes"/>
+  </way>
+</osm>

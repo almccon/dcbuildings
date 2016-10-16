@@ -57,7 +57,10 @@ You can run stages separately, like so:
     # Download and expand all files, reproject
     make download
 
-    # Chunk building files by census tracts
+    # Chunk building and address files by census tracts
+    make chunks
+
+    # Merge building and address files
     make chunks
 
     # Generate importable .osm files.
@@ -71,16 +74,16 @@ You can run stages separately, like so:
 ## Source data
 
 - Buildings http://www.cob.org/data/gis/FGDB_Files/COB_struc_shps.zip
+- Address Points http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip
 
 For future import (not in current phase):
 
-- Address Points http://www.cob.org/data/gis/SHP_Files/COB_land_shps.zip
 - LIDAR for building heights? See: http://pugetsoundlidar.ess.washington.edu/lidardata/restricted/nonpslc/bellingham2013/bellingham2013.html
 
 ## Features
 
 - Transforms relevant attributes to OSM tags
-- Exports one OSM XML building file per census block group
+- Exports one OSM XML building and address file per census block group
 - Handles multipolygons
 - Simplifies building shapes
 
@@ -102,6 +105,16 @@ Each building is a closed way tagged with:
 
 (All entities in CAPS are from `COB_struc_Buildings` shapefile.)
 
+*Addresses*
+
+Addresses are only imported if they intersect a building. If a building contains only one address, the address will be added to the building object. If a building contains more than one address, the addresses will be imported as separate nodes.
+
+    `addr:housenumber=ADDR_NUM`
+    `addr:street=STREET_NAM`  # with direction prefixes and postfixes expanded
+    `addr:unit=ADDR_SUITE`    # if available
+    `addr:postcode=ZIP-PLUS4`
+
+(All entities in CAPS are from `COB_land_AddressPoints` shapefile.)
 
 ## Related
 

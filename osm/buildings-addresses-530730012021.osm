@@ -1,0 +1,2731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm generator="alan@stamen.com" version="0.6">
+  <node id="-2" visible="true" lon="-122.4442737259339" lat="48.68965647439244"/>
+  <node id="-3" visible="true" lon="-122.4443704422072" lat="48.68950948953180"/>
+  <node id="-4" visible="true" lon="-122.4444357021097" lat="48.68952714691550"/>
+  <node id="-5" visible="true" lon="-122.4443433426057" lat="48.68967549977261"/>
+  <way id="-2" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-2"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-6" visible="true" lon="-122.4481837922403" lat="48.68965646953166"/>
+  <node id="-7" visible="true" lon="-122.4481856771953" lat="48.68964787602541"/>
+  <node id="-8" visible="true" lon="-122.4481443104705" lat="48.68963559938663"/>
+  <node id="-9" visible="true" lon="-122.4481688219638" lat="48.68959242223092"/>
+  <node id="-10" visible="true" lon="-122.4482841154429" lat="48.68962366111138"/>
+  <node id="-11" visible="true" lon="-122.4482512991924" lat="48.68967694934210"/>
+  <way id="-3" visible="true">
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-6"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-12" visible="true" lon="-122.4445325347815" lat="48.68972969470703"/>
+  <node id="-13" visible="true" lon="-122.4444979773522" lat="48.68978277929700"/>
+  <node id="-14" visible="true" lon="-122.4444368917065" lat="48.68976614702203"/>
+  <node id="-15" visible="true" lon="-122.4444529535631" lat="48.68973388128720"/>
+  <node id="-16" visible="true" lon="-122.4443214155832" lat="48.68969903483635"/>
+  <node id="-17" visible="true" lon="-122.4443330743238" lat="48.68967488386994"/>
+  <way id="-4" visible="true">
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-12"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-18" visible="true" lon="-122.4450169710356" lat="48.68969900093175"/>
+  <node id="-19" visible="true" lon="-122.4449943305973" lat="48.68982390828053"/>
+  <node id="-20" visible="true" lon="-122.4449061938621" lat="48.68981617820818"/>
+  <node id="-21" visible="true" lon="-122.4449067600475" lat="48.68981384886426"/>
+  <node id="-22" visible="true" lon="-122.4448522551343" lat="48.68980980426630"/>
+  <node id="-23" visible="true" lon="-122.4448577735507" lat="48.68977974262280"/>
+  <node id="-24" visible="true" lon="-122.4449134643167" lat="48.68978631713026"/>
+  <node id="-25" visible="true" lon="-122.4449368921687" lat="48.68969011667271"/>
+  <way id="-5" visible="true">
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-18"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-26" visible="true" lon="-122.4474920618166" lat="48.68989963524221"/>
+  <node id="-27" visible="true" lon="-122.4473203737782" lat="48.68990458942701"/>
+  <node id="-28" visible="true" lon="-122.4473099630495" lat="48.68975565737500"/>
+  <node id="-29" visible="true" lon="-122.4474816573574" lat="48.68975087400779"/>
+  <way id="-6" visible="true">
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-26"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="787"/>
+    <tag k="addr:postcode" v="98229-4391"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-30" visible="true" lon="-122.4460084757754" lat="48.68979753476960"/>
+  <node id="-31" visible="true" lon="-122.4459895594969" lat="48.68987045073466"/>
+  <node id="-32" visible="true" lon="-122.4457734995395" lat="48.68984723037590"/>
+  <node id="-33" visible="true" lon="-122.4457918987419" lat="48.68977432162368"/>
+  <way id="-7" visible="true">
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-30"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-34" visible="true" lon="-122.4455800040958" lat="48.68983363467114"/>
+  <node id="-35" visible="true" lon="-122.4455801526775" lat="48.68988743800347"/>
+  <node id="-36" visible="true" lon="-122.4454248186834" lat="48.68988582225632"/>
+  <node id="-37" visible="true" lon="-122.4454251876715" lat="48.68983201264622"/>
+  <way id="-8" visible="true">
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-34"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-38" visible="true" lon="-122.4463986506735" lat="48.69004215319170"/>
+  <node id="-39" visible="true" lon="-122.4464185990004" lat="48.68990724228087"/>
+  <node id="-40" visible="true" lon="-122.4465811700443" lat="48.68991777957726"/>
+  <node id="-41" visible="true" lon="-122.4465582816237" lat="48.69005249927313"/>
+  <way id="-9" visible="true">
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-38"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-42" visible="true" lon="-122.4487780843106" lat="48.68999314890585"/>
+  <node id="-43" visible="true" lon="-122.4488282753296" lat="48.68992878596730"/>
+  <node id="-44" visible="true" lon="-122.4488806430244" lat="48.68994668754760"/>
+  <node id="-45" visible="true" lon="-122.4488532819282" lat="48.68998177428551"/>
+  <node id="-46" visible="true" lon="-122.4488644671946" lat="48.68998559799445"/>
+  <node id="-47" visible="true" lon="-122.4488399686277" lat="48.69001430467397"/>
+  <way id="-10" visible="true">
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-42"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-48" visible="true" lon="-122.4478746651689" lat="48.69004201033612"/>
+  <node id="-49" visible="true" lon="-122.4478721772915" lat="48.68996351074533"/>
+  <node id="-50" visible="true" lon="-122.4479606525766" lat="48.68996513826487"/>
+  <node id="-51" visible="true" lon="-122.4479545628269" lat="48.69004518445983"/>
+  <way id="-11" visible="true">
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-48"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-52" visible="true" lon="-122.4475855771043" lat="48.68999223861784"/>
+  <node id="-53" visible="true" lon="-122.4475898931819" lat="48.69012857567617"/>
+  <node id="-54" visible="true" lon="-122.4474802099377" lat="48.69013009819622"/>
+  <node id="-55" visible="true" lon="-122.4474758914377" lat="48.68999376117157"/>
+  <way id="-12" visible="true">
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-52"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-56" visible="true" lon="-122.4486930668339" lat="48.69013660470909"/>
+  <node id="-57" visible="true" lon="-122.4487386331971" lat="48.69008229724820"/>
+  <node id="-58" visible="true" lon="-122.4487297588708" lat="48.69007903234842"/>
+  <node id="-59" visible="true" lon="-122.4487500770266" lat="48.69005481631818"/>
+  <node id="-60" visible="true" lon="-122.4487991221380" lat="48.69007285676280"/>
+  <node id="-61" visible="true" lon="-122.4487831382970" lat="48.69009190544560"/>
+  <node id="-62" visible="true" lon="-122.4487984428735" lat="48.69009753377566"/>
+  <node id="-63" visible="true" lon="-122.4487521354485" lat="48.69015833123914"/>
+  <way id="-13" visible="true">
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-56"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-64" visible="true" lon="-122.4479774650160" lat="48.69005945094998"/>
+  <node id="-65" visible="true" lon="-122.4479729103129" lat="48.69020978894483"/>
+  <node id="-66" visible="true" lon="-122.4478574516223" lat="48.69020882321215"/>
+  <node id="-67" visible="true" lon="-122.4478620079670" lat="48.69005848340476"/>
+  <way id="-14" visible="true">
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-64"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-68" visible="true" lon="-122.4482875857872" lat="48.69015684073602"/>
+  <node id="-69" visible="true" lon="-122.4483043165703" lat="48.69013019213968"/>
+  <node id="-70" visible="true" lon="-122.4482637262652" lat="48.69011902187434"/>
+  <node id="-71" visible="true" lon="-122.4483000457234" lat="48.69006116700691"/>
+  <node id="-72" visible="true" lon="-122.4484012658289" lat="48.69008902240907"/>
+  <node id="-73" visible="true" lon="-122.4483846062061" lat="48.69011555670038"/>
+  <node id="-74" visible="true" lon="-122.4484273743026" lat="48.69012732717754"/>
+  <node id="-75" visible="true" lon="-122.4483906508130" lat="48.69018520478906"/>
+  <way id="-15" visible="true">
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-68"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-76" visible="true" lon="-122.4435804629639" lat="48.69076660020792"/>
+  <node id="-77" visible="true" lon="-122.4435888470715" lat="48.69075346084867"/>
+  <node id="-78" visible="true" lon="-122.4436703065979" lat="48.69077597883830"/>
+  <node id="-79" visible="true" lon="-122.4436579350289" lat="48.69079397204067"/>
+  <node id="-80" visible="true" lon="-122.4437394000506" lat="48.69081666080302"/>
+  <node id="-81" visible="true" lon="-122.4436762036727" lat="48.69091349292660"/>
+  <node id="-82" visible="true" lon="-122.4435461774622" lat="48.69087742565883"/>
+  <node id="-83" visible="true" lon="-122.4435392710275" lat="48.69088814479779"/>
+  <node id="-84" visible="true" lon="-122.4434473499244" lat="48.69086217293362"/>
+  <node id="-85" visible="true" lon="-122.4435209177720" lat="48.69074960341000"/>
+  <way id="-16" visible="true">
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-76"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-86" visible="true" lon="-122.4439280100883" lat="48.69093208436663"/>
+  <node id="-87" visible="true" lon="-122.4439988344886" lat="48.69092110812572"/>
+  <node id="-88" visible="true" lon="-122.4440449286163" lat="48.69101470962990"/>
+  <node id="-89" visible="true" lon="-122.4439719927663" lat="48.69102714349130"/>
+  <way id="-17" visible="true">
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-86"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-90" visible="true" lon="-122.4444246197650" lat="48.69101801417947"/>
+  <node id="-91" visible="true" lon="-122.4445239098421" lat="48.69095238253640"/>
+  <node id="-92" visible="true" lon="-122.4446121741379" lat="48.69101541410313"/>
+  <node id="-93" visible="true" lon="-122.4445083453921" lat="48.69107396887138"/>
+  <way id="-18" visible="true">
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-90"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-94" visible="true" lon="-122.4471396022138" lat="48.69107760745023"/>
+  <node id="-95" visible="true" lon="-122.4471133486535" lat="48.69126200406149"/>
+  <node id="-96" visible="true" lon="-122.4469411405635" lat="48.69125068560790"/>
+  <node id="-97" visible="true" lon="-122.4469628088779" lat="48.69110130911975"/>
+  <node id="-98" visible="true" lon="-122.4470406181034" lat="48.69110656814312"/>
+  <node id="-99" visible="true" lon="-122.4470451985311" lat="48.69107137813291"/>
+  <way id="-19" visible="true">
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-94"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-100" visible="true" lon="-122.4467563342917" lat="48.69108669653796"/>
+  <node id="-101" visible="true" lon="-122.4467512247207" lat="48.69117055888182"/>
+  <node id="-102" visible="true" lon="-122.4466398297245" lat="48.69116713485211"/>
+  <node id="-103" visible="true" lon="-122.4466444220887" lat="48.69108327969514"/>
+  <way id="-20" visible="true">
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-100"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-104" visible="true" lon="-122.4478633333780" lat="48.69135851507600"/>
+  <node id="-105" visible="true" lon="-122.4477558731558" lat="48.69136497732537"/>
+  <node id="-106" visible="true" lon="-122.4477322834259" lat="48.69119772214508"/>
+  <node id="-107" visible="true" lon="-122.4478508075971" lat="48.69119464737046"/>
+  <way id="-21" visible="true">
+    <nd ref="-104"/>
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-104"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1965"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="839"/>
+    <tag k="addr:postcode" v="98229-9379"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-108" visible="true" lon="-122.4445771005065" lat="48.69141232672061"/>
+  <node id="-109" visible="true" lon="-122.4445455622981" lat="48.69149535632381"/>
+  <node id="-110" visible="true" lon="-122.4444144246363" lat="48.69147335668622"/>
+  <node id="-111" visible="true" lon="-122.4444459630449" lat="48.69139032711796"/>
+  <way id="-22" visible="true">
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-108"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-112" visible="true" lon="-122.4464746880819" lat="48.69166782392838"/>
+  <node id="-113" visible="true" lon="-122.4464684782181" lat="48.69160793898504"/>
+  <node id="-114" visible="true" lon="-122.4466062694749" lat="48.69160031486872"/>
+  <node id="-115" visible="true" lon="-122.4465996815490" lat="48.69166466065408"/>
+  <way id="-23" visible="true">
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-112"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-116" visible="true" lon="-122.4476228092576" lat="48.69174816840556"/>
+  <node id="-117" visible="true" lon="-122.4476135802759" lat="48.69173376140169"/>
+  <node id="-118" visible="true" lon="-122.4475327269151" lat="48.69175646140727"/>
+  <node id="-119" visible="true" lon="-122.4475121093307" lat="48.69172427564138"/>
+  <node id="-120" visible="true" lon="-122.4476407376773" lat="48.69168816050570"/>
+  <node id="-121" visible="true" lon="-122.4476705829915" lat="48.69173475416724"/>
+  <way id="-24" visible="true">
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-116"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-122" visible="true" lon="-122.4473717954610" lat="48.69180897056352"/>
+  <node id="-123" visible="true" lon="-122.4471048872851" lat="48.69186391075316"/>
+  <node id="-124" visible="true" lon="-122.4470865435650" lat="48.69182407046493"/>
+  <node id="-125" visible="true" lon="-122.4473534529099" lat="48.69176913029781"/>
+  <way id="-25" visible="true">
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-122"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-126" visible="true" lon="-122.4477315415447" lat="48.69196950343906"/>
+  <node id="-127" visible="true" lon="-122.4476861678440" lat="48.69197510227924"/>
+  <node id="-128" visible="true" lon="-122.4476908606843" lat="48.69199251530052"/>
+  <node id="-129" visible="true" lon="-122.4476398389892" lat="48.69199956334225"/>
+  <node id="-130" visible="true" lon="-122.4476063032915" lat="48.69188865055227"/>
+  <node id="-131" visible="true" lon="-122.4477042506657" lat="48.69187598123652"/>
+  <way id="-26" visible="true">
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-126"/>
+    <tag k="building" v="static_caravan"/>
+  </way>
+  <node id="-132" visible="true" lon="-122.4473478247329" lat="48.69199696658310"/>
+  <node id="-133" visible="true" lon="-122.4473060493392" lat="48.69197184479862"/>
+  <node id="-134" visible="true" lon="-122.4474222237705" lat="48.69189455402949"/>
+  <node id="-135" visible="true" lon="-122.4474553744957" lat="48.69191979555323"/>
+  <way id="-27" visible="true">
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-132"/>
+    <tag k="building" v="static_caravan"/>
+  </way>
+  <node id="-136" visible="true" lon="-122.4480655971728" lat="48.69205125181889"/>
+  <node id="-137" visible="true" lon="-122.4481389994713" lat="48.69191743827570"/>
+  <node id="-138" visible="true" lon="-122.4482584755086" lat="48.69194433681180"/>
+  <node id="-139" visible="true" lon="-122.4481894289937" lat="48.69207951644767"/>
+  <way id="-28" visible="true">
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-136"/>
+    <tag k="building" v="static_caravan"/>
+  </way>
+  <node id="-140" visible="true" lon="-122.4477836349066" lat="48.69206944770647"/>
+  <node id="-141" visible="true" lon="-122.4477373506708" lat="48.69197013871361"/>
+  <node id="-142" visible="true" lon="-122.4478083127385" lat="48.69196344145572"/>
+  <node id="-143" visible="true" lon="-122.4478373490933" lat="48.69206299001966"/>
+  <way id="-29" visible="true">
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-140"/>
+    <tag k="building" v="static_caravan"/>
+  </way>
+  <node id="-144" visible="true" lon="-122.4474451529542" lat="48.69200561057242"/>
+  <node id="-145" visible="true" lon="-122.4474461774985" lat="48.69196989878497"/>
+  <node id="-146" visible="true" lon="-122.4475842423395" lat="48.69197083792833"/>
+  <node id="-147" visible="true" lon="-122.4475833521738" lat="48.69201083015597"/>
+  <way id="-30" visible="true">
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-144"/>
+    <tag k="building" v="static_caravan"/>
+  </way>
+  <node id="-148" visible="true" lon="-122.4479139800454" lat="48.69209905048540"/>
+  <node id="-149" visible="true" lon="-122.4478827417619" lat="48.69199810419388"/>
+  <node id="-150" visible="true" lon="-122.4479472809359" lat="48.69199292441079"/>
+  <node id="-151" visible="true" lon="-122.4479678299762" lat="48.69209687495610"/>
+  <way id="-31" visible="true">
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-148"/>
+    <tag k="building" v="static_caravan"/>
+  </way>
+  <node id="-152" visible="true" lon="-122.4490922951447" lat="48.69232541671059"/>
+  <node id="-153" visible="true" lon="-122.4492129770203" lat="48.69232231058700"/>
+  <node id="-154" visible="true" lon="-122.4492132939489" lat="48.69233230182456"/>
+  <node id="-155" visible="true" lon="-122.4492585673197" lat="48.69233167237571"/>
+  <node id="-156" visible="true" lon="-122.4492600613736" lat="48.69237877135443"/>
+  <node id="-157" visible="true" lon="-122.4490960347504" lat="48.69237534024120"/>
+  <way id="-32" visible="true">
+    <nd ref="-152"/>
+    <nd ref="-153"/>
+    <nd ref="-154"/>
+    <nd ref="-155"/>
+    <nd ref="-156"/>
+    <nd ref="-157"/>
+    <nd ref="-152"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-158" visible="true" lon="-122.4502903115385" lat="48.68954272145231"/>
+  <node id="-159" visible="true" lon="-122.4502635249226" lat="48.68959569972837"/>
+  <node id="-160" visible="true" lon="-122.4502770948896" lat="48.68959928055082"/>
+  <node id="-161" visible="true" lon="-122.4502132926181" lat="48.68972542647460"/>
+  <node id="-162" visible="true" lon="-122.4500532678908" lat="48.68969012559062"/>
+  <node id="-163" visible="true" lon="-122.4501156012979" lat="48.68956657083796"/>
+  <node id="-164" visible="true" lon="-122.4501380060267" lat="48.68957122864465"/>
+  <node id="-165" visible="true" lon="-122.4501667820621" lat="48.68951565207603"/>
+  <way id="-33" visible="true">
+    <nd ref="-158"/>
+    <nd ref="-159"/>
+    <nd ref="-160"/>
+    <nd ref="-161"/>
+    <nd ref="-162"/>
+    <nd ref="-163"/>
+    <nd ref="-164"/>
+    <nd ref="-165"/>
+    <nd ref="-158"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-166" visible="true" lon="-122.4489683552954" lat="48.69209009189161"/>
+  <node id="-167" visible="true" lon="-122.4489634067774" lat="48.69217892070322"/>
+  <node id="-168" visible="true" lon="-122.4488463546978" lat="48.69217677726846"/>
+  <node id="-169" visible="true" lon="-122.4488471966794" lat="48.69215431786650"/>
+  <node id="-170" visible="true" lon="-122.4487736443595" lat="48.69215277047716"/>
+  <node id="-171" visible="true" lon="-122.4487771970918" lat="48.69208520800432"/>
+  <way id="-34" visible="true">
+    <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-168"/>
+    <nd ref="-169"/>
+    <nd ref="-170"/>
+    <nd ref="-171"/>
+    <nd ref="-166"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:postcode" v="98229-9379"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-172" visible="true" lon="-122.4483488209227" lat="48.68975983989697"/>
+  <node id="-173" visible="true" lon="-122.4483775066516" lat="48.68971232058340"/>
+  <node id="-174" visible="true" lon="-122.4485339877756" lat="48.68975012672301"/>
+  <node id="-175" visible="true" lon="-122.4485255364893" lat="48.68976071654088"/>
+  <node id="-176" visible="true" lon="-122.4484333560577" lat="48.68993149913139"/>
+  <node id="-177" visible="true" lon="-122.4483199330000" lat="48.68990391856994"/>
+  <node id="-178" visible="true" lon="-122.4483337684250" lat="48.68987897779039"/>
+  <node id="-179" visible="true" lon="-122.4483194805005" lat="48.68987550296087"/>
+  <node id="-180" visible="true" lon="-122.4483399328924" lat="48.68983863339430"/>
+  <node id="-181" visible="true" lon="-122.4483526038785" lat="48.68984171424289"/>
+  <node id="-182" visible="true" lon="-122.4483932424844" lat="48.68976845280384"/>
+  <way id="-35" visible="true">
+    <nd ref="-172"/>
+    <nd ref="-173"/>
+    <nd ref="-174"/>
+    <nd ref="-175"/>
+    <nd ref="-176"/>
+    <nd ref="-177"/>
+    <nd ref="-178"/>
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-182"/>
+    <nd ref="-172"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="785"/>
+    <tag k="addr:postcode" v="98229-4391"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-183" visible="true" lon="-122.4445324627442" lat="48.69132658445105"/>
+  <node id="-184" visible="true" lon="-122.4444152348169" lat="48.69131863664228"/>
+  <node id="-185" visible="true" lon="-122.4444250251297" lat="48.69122800774042"/>
+  <node id="-186" visible="true" lon="-122.4445466886200" lat="48.69123625652563"/>
+  <way id="-36" visible="true">
+    <nd ref="-183"/>
+    <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-186"/>
+    <nd ref="-183"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="853"/>
+    <tag k="addr:postcode" v="98229-9379"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-187" visible="true" lon="-122.4433559092109" lat="48.69075308838323"/>
+  <node id="-188" visible="true" lon="-122.4433044975694" lat="48.69082971001014"/>
+  <node id="-189" visible="true" lon="-122.4431728438724" lat="48.69079126513193"/>
+  <node id="-190" visible="true" lon="-122.4432242556730" lat="48.69071464356222"/>
+  <way id="-37" visible="true">
+    <nd ref="-187"/>
+    <nd ref="-188"/>
+    <nd ref="-189"/>
+    <nd ref="-190"/>
+    <nd ref="-187"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-191" visible="true" lon="-122.4431469466119" lat="48.69066137840125"/>
+  <node id="-192" visible="true" lon="-122.4431568227629" lat="48.69063268393566"/>
+  <node id="-193" visible="true" lon="-122.4430893616786" lat="48.69061362798251"/>
+  <node id="-194" visible="true" lon="-122.4431052561979" lat="48.69057057132760"/>
+  <node id="-195" visible="true" lon="-122.4432832924177" lat="48.69060808594507"/>
+  <node id="-196" visible="true" lon="-122.4432404110645" lat="48.69068435822211"/>
+  <way id="-38" visible="true">
+    <nd ref="-191"/>
+    <nd ref="-192"/>
+    <nd ref="-193"/>
+    <nd ref="-194"/>
+    <nd ref="-195"/>
+    <nd ref="-196"/>
+    <nd ref="-191"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-197" visible="true" lon="-122.4401958662267" lat="48.69077646722128"/>
+  <node id="-198" visible="true" lon="-122.4402117632420" lat="48.69073341096453"/>
+  <node id="-199" visible="true" lon="-122.4402290531596" lat="48.69073460024360"/>
+  <node id="-200" visible="true" lon="-122.4402371823973" lat="48.69071878069298"/>
+  <node id="-201" visible="true" lon="-122.4402893263169" lat="48.69073091111402"/>
+  <node id="-202" visible="true" lon="-122.4402811970651" lat="48.69074672976916"/>
+  <node id="-203" visible="true" lon="-122.4403244477609" lat="48.69075041584481"/>
+  <node id="-204" visible="true" lon="-122.4403064871350" lat="48.69079635641557"/>
+  <way id="-39" visible="true">
+    <nd ref="-197"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-200"/>
+    <nd ref="-201"/>
+    <nd ref="-202"/>
+    <nd ref="-203"/>
+    <nd ref="-204"/>
+    <nd ref="-197"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-205" visible="true" lon="-122.4397106397294" lat="48.69084600261363"/>
+  <node id="-206" visible="true" lon="-122.4397246943862" lat="48.69081296661899"/>
+  <node id="-207" visible="true" lon="-122.4397745931312" lat="48.69082227163921"/>
+  <node id="-208" visible="true" lon="-122.4397626486174" lat="48.69085385104127"/>
+  <way id="-40" visible="true">
+    <nd ref="-205"/>
+    <nd ref="-206"/>
+    <nd ref="-207"/>
+    <nd ref="-208"/>
+    <nd ref="-205"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-209" visible="true" lon="-122.4381323049256" lat="48.69010531667804"/>
+  <node id="-210" visible="true" lon="-122.4381622126234" lat="48.69002779808608"/>
+  <node id="-211" visible="true" lon="-122.4383747353536" lat="48.69006484393645"/>
+  <node id="-212" visible="true" lon="-122.4383405164450" lat="48.69014242212469"/>
+  <way id="-41" visible="true">
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-212"/>
+    <nd ref="-209"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1003"/>
+    <tag k="addr:postcode" v="98229-9378"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-213" visible="true" lon="-122.4374020741854" lat="48.68951711394243"/>
+  <node id="-214" visible="true" lon="-122.4374402931091" lat="48.68949802441769"/>
+  <node id="-215" visible="true" lon="-122.4375895817552" lat="48.68965017498476"/>
+  <node id="-216" visible="true" lon="-122.4375426935387" lat="48.68966795679075"/>
+  <way id="-42" visible="true">
+    <nd ref="-213"/>
+    <nd ref="-214"/>
+    <nd ref="-215"/>
+    <nd ref="-216"/>
+    <nd ref="-213"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-217" visible="true" lon="-122.4358982141996" lat="48.69066160526312"/>
+  <node id="-218" visible="true" lon="-122.4358991120747" lat="48.69055307395928"/>
+  <node id="-219" visible="true" lon="-122.4359810777684" lat="48.69055337113653"/>
+  <node id="-220" visible="true" lon="-122.4359888467438" lat="48.69066321126041"/>
+  <way id="-43" visible="true">
+    <nd ref="-217"/>
+    <nd ref="-218"/>
+    <nd ref="-219"/>
+    <nd ref="-220"/>
+    <nd ref="-217"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-221" visible="true" lon="-122.4424986876036" lat="48.69026792125471"/>
+  <node id="-222" visible="true" lon="-122.4424607445106" lat="48.69041049737573"/>
+  <node id="-223" visible="true" lon="-122.4420971709440" lat="48.69037097801841"/>
+  <node id="-224" visible="true" lon="-122.4421294170439" lat="48.69022830909405"/>
+  <way id="-44" visible="true">
+    <nd ref="-221"/>
+    <nd ref="-222"/>
+    <nd ref="-223"/>
+    <nd ref="-224"/>
+    <nd ref="-221"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-225" visible="true" lon="-122.4416893817095" lat="48.69043122252500"/>
+  <node id="-226" visible="true" lon="-122.4416792829346" lat="48.69050487193914"/>
+  <node id="-227" visible="true" lon="-122.4416253627476" lat="48.69050202030012"/>
+  <node id="-228" visible="true" lon="-122.4416224858774" lat="48.69052570585069"/>
+  <node id="-229" visible="true" lon="-122.4415524929119" lat="48.69052204762083"/>
+  <node id="-230" visible="true" lon="-122.4415567313552" lat="48.69049234567377"/>
+  <node id="-231" visible="true" lon="-122.4414203563858" lat="48.69048463553971"/>
+  <node id="-232" visible="true" lon="-122.4414290547601" lat="48.69041580321571"/>
+  <way id="-45" visible="true">
+    <nd ref="-225"/>
+    <nd ref="-226"/>
+    <nd ref="-227"/>
+    <nd ref="-228"/>
+    <nd ref="-229"/>
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-232"/>
+    <nd ref="-225"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-233" visible="true" lon="-122.4352378517610" lat="48.69031803928586"/>
+  <node id="-234" visible="true" lon="-122.4352186623278" lat="48.69039918072566"/>
+  <node id="-235" visible="true" lon="-122.4349418167970" lat="48.69035637130655"/>
+  <node id="-236" visible="true" lon="-122.4349608180822" lat="48.69027471982221"/>
+  <way id="-46" visible="true">
+    <nd ref="-233"/>
+    <nd ref="-234"/>
+    <nd ref="-235"/>
+    <nd ref="-236"/>
+    <nd ref="-233"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1055"/>
+    <tag k="addr:postcode" v="98229-9378"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-237" visible="true" lon="-122.4416261362875" lat="48.69029690085236"/>
+  <node id="-238" visible="true" lon="-122.4416217143993" lat="48.69033722879220"/>
+  <node id="-239" visible="true" lon="-122.4415662408859" lat="48.69033439862347"/>
+  <node id="-240" visible="true" lon="-122.4415622282210" lat="48.69037129487762"/>
+  <node id="-241" visible="true" lon="-122.4414528345840" lat="48.69036561116322"/>
+  <node id="-242" visible="true" lon="-122.4414628187206" lat="48.69028836374155"/>
+  <way id="-47" visible="true">
+    <nd ref="-237"/>
+    <nd ref="-238"/>
+    <nd ref="-239"/>
+    <nd ref="-240"/>
+    <nd ref="-241"/>
+    <nd ref="-242"/>
+    <nd ref="-237"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-243" visible="true" lon="-122.4398511755256" lat="48.69092544890378"/>
+  <node id="-244" visible="true" lon="-122.4398119344013" lat="48.69103383395885"/>
+  <node id="-245" visible="true" lon="-122.4396599434823" lat="48.69101662080357"/>
+  <node id="-246" visible="true" lon="-122.4396932172246" lat="48.69090907022491"/>
+  <way id="-48" visible="true">
+    <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-245"/>
+    <nd ref="-246"/>
+    <nd ref="-243"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-247" visible="true" lon="-122.4374942096378" lat="48.69015110246990"/>
+  <node id="-248" visible="true" lon="-122.4374565917794" lat="48.69015641937847"/>
+  <node id="-249" visible="true" lon="-122.4374450144775" lat="48.69011751053976"/>
+  <node id="-250" visible="true" lon="-122.4374821149555" lat="48.69011220167521"/>
+  <way id="-49" visible="true">
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-247"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-251" visible="true" lon="-122.4367209564182" lat="48.69028329173457"/>
+  <node id="-252" visible="true" lon="-122.4365286014019" lat="48.69039214729489"/>
+  <node id="-253" visible="true" lon="-122.4364495707920" lat="48.69033155119873"/>
+  <node id="-254" visible="true" lon="-122.4366520607429" lat="48.69021855878181"/>
+  <way id="-50" visible="true">
+    <nd ref="-251"/>
+    <nd ref="-252"/>
+    <nd ref="-253"/>
+    <nd ref="-254"/>
+    <nd ref="-251"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1045"/>
+    <tag k="addr:postcode" v="98229-9378"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-255" visible="true" lon="-122.4394315958589" lat="48.69072802821876"/>
+  <node id="-256" visible="true" lon="-122.4394199102421" lat="48.69081712223474"/>
+  <node id="-257" visible="true" lon="-122.4393317274429" lat="48.69081114339573"/>
+  <node id="-258" visible="true" lon="-122.4393434132408" lat="48.69072205028748"/>
+  <way id="-51" visible="true">
+    <nd ref="-255"/>
+    <nd ref="-256"/>
+    <nd ref="-257"/>
+    <nd ref="-258"/>
+    <nd ref="-255"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-259" visible="true" lon="-122.4368910823371" lat="48.68992541425156"/>
+  <node id="-260" visible="true" lon="-122.4368984912495" lat="48.69009950094541"/>
+  <node id="-261" visible="true" lon="-122.4367648793287" lat="48.69010277184037"/>
+  <node id="-262" visible="true" lon="-122.4367592639858" lat="48.68992436371363"/>
+  <way id="-52" visible="true">
+    <nd ref="-259"/>
+    <nd ref="-260"/>
+    <nd ref="-261"/>
+    <nd ref="-262"/>
+    <nd ref="-259"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-263" visible="true" lon="-122.4353479268762" lat="48.69046068533633"/>
+  <node id="-264" visible="true" lon="-122.4353081239732" lat="48.69056113164371"/>
+  <node id="-265" visible="true" lon="-122.4352100367102" lat="48.69053643729207"/>
+  <node id="-266" visible="true" lon="-122.4352504285297" lat="48.69043820994619"/>
+  <way id="-53" visible="true">
+    <nd ref="-263"/>
+    <nd ref="-264"/>
+    <nd ref="-265"/>
+    <nd ref="-266"/>
+    <nd ref="-263"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-267" visible="true" lon="-122.4416222421036" lat="48.69126713874537"/>
+  <node id="-268" visible="true" lon="-122.4414640591217" lat="48.69112607702120"/>
+  <node id="-269" visible="true" lon="-122.4415147744042" lat="48.69110114939468"/>
+  <node id="-270" visible="true" lon="-122.4416729546764" lat="48.69124220929051"/>
+  <way id="-54" visible="true">
+    <nd ref="-267"/>
+    <nd ref="-268"/>
+    <nd ref="-269"/>
+    <nd ref="-270"/>
+    <nd ref="-267"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-271" visible="true" lon="-122.4372756358267" lat="48.68980259143905"/>
+  <node id="-272" visible="true" lon="-122.4372761106052" lat="48.68981240691237"/>
+  <node id="-273" visible="true" lon="-122.4372342683199" lat="48.68981329198535"/>
+  <node id="-274" visible="true" lon="-122.4372301188358" lat="48.68972732017778"/>
+  <node id="-275" visible="true" lon="-122.4374407377170" lat="48.68972286354537"/>
+  <node id="-276" visible="true" lon="-122.4374423260606" lat="48.68979906396505"/>
+  <way id="-55" visible="true">
+    <nd ref="-271"/>
+    <nd ref="-272"/>
+    <nd ref="-273"/>
+    <nd ref="-274"/>
+    <nd ref="-275"/>
+    <nd ref="-276"/>
+    <nd ref="-271"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98229-9378"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-277" visible="true" lon="-122.4404469838449" lat="48.69023826633512"/>
+  <node id="-278" visible="true" lon="-122.4402962156530" lat="48.69039799650793"/>
+  <node id="-279" visible="true" lon="-122.4401986761758" lat="48.69035787673248"/>
+  <node id="-280" visible="true" lon="-122.4402663213621" lat="48.69028703052545"/>
+  <node id="-281" visible="true" lon="-122.4402332778097" lat="48.69027326434474"/>
+  <node id="-282" visible="true" lon="-122.4403184611584" lat="48.69018418294365"/>
+  <way id="-56" visible="true">
+    <nd ref="-277"/>
+    <nd ref="-278"/>
+    <nd ref="-279"/>
+    <nd ref="-280"/>
+    <nd ref="-281"/>
+    <nd ref="-282"/>
+    <nd ref="-277"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-283" visible="true" lon="-122.4129055664435" lat="48.68117913454798"/>
+  <node id="-284" visible="true" lon="-122.4129051212005" lat="48.68114238278861"/>
+  <node id="-285" visible="true" lon="-122.4129960371761" lat="48.68114298444902"/>
+  <node id="-286" visible="true" lon="-122.4129944024745" lat="48.68117976538406"/>
+  <way id="-57" visible="true">
+    <nd ref="-283"/>
+    <nd ref="-284"/>
+    <nd ref="-285"/>
+    <nd ref="-286"/>
+    <nd ref="-283"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-287" visible="true" lon="-122.4131114174044" lat="48.68123882537328"/>
+  <node id="-288" visible="true" lon="-122.4131117214034" lat="48.68120390100300"/>
+  <node id="-289" visible="true" lon="-122.4132311035880" lat="48.68120503470543"/>
+  <node id="-290" visible="true" lon="-122.4132321147120" lat="48.68123764400143"/>
+  <way id="-58" visible="true">
+    <nd ref="-287"/>
+    <nd ref="-288"/>
+    <nd ref="-289"/>
+    <nd ref="-290"/>
+    <nd ref="-287"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-291" visible="true" lon="-122.4301708066914" lat="48.68440934741965"/>
+  <node id="-292" visible="true" lon="-122.4301944633717" lat="48.68432159192250"/>
+  <node id="-293" visible="true" lon="-122.4304801486249" lat="48.68437886727452"/>
+  <node id="-294" visible="true" lon="-122.4304494127066" lat="48.68445142043572"/>
+  <way id="-59" visible="true">
+    <nd ref="-291"/>
+    <nd ref="-292"/>
+    <nd ref="-293"/>
+    <nd ref="-294"/>
+    <nd ref="-291"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-295" visible="true" lon="-122.4305168550924" lat="48.68439147769685"/>
+  <node id="-296" visible="true" lon="-122.4305162386715" lat="48.68437181423329"/>
+  <node id="-297" visible="true" lon="-122.4306290424752" lat="48.68438993569835"/>
+  <node id="-298" visible="true" lon="-122.4306049057096" lat="48.68446239819557"/>
+  <node id="-299" visible="true" lon="-122.4304921715990" lat="48.68444646141826"/>
+  <way id="-60" visible="true">
+    <nd ref="-295"/>
+    <nd ref="-296"/>
+    <nd ref="-297"/>
+    <nd ref="-298"/>
+    <nd ref="-299"/>
+    <nd ref="-295"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-300" visible="true" lon="-122.4333043029893" lat="48.68506569402851"/>
+  <node id="-301" visible="true" lon="-122.4333167476609" lat="48.68504147939758"/>
+  <node id="-302" visible="true" lon="-122.4332236712585" lat="48.68502090324531"/>
+  <node id="-303" visible="true" lon="-122.4332643707138" lat="48.68495039871034"/>
+  <node id="-304" visible="true" lon="-122.4333706449926" lat="48.68497079221176"/>
+  <node id="-305" visible="true" lon="-122.4333647321505" lat="48.68499273214246"/>
+  <node id="-306" visible="true" lon="-122.4336042975073" lat="48.68505282057640"/>
+  <node id="-307" visible="true" lon="-122.4335637357083" lat="48.68512769558095"/>
+  <way id="-61" visible="true">
+    <nd ref="-300"/>
+    <nd ref="-301"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
+    <nd ref="-300"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-308" visible="true" lon="-122.4254315358823" lat="48.68538590063797"/>
+  <node id="-309" visible="true" lon="-122.4253804737884" lat="48.68527394210351"/>
+  <node id="-310" visible="true" lon="-122.4255389717455" lat="48.68524128817659"/>
+  <node id="-311" visible="true" lon="-122.4254996300955" lat="48.68515971987168"/>
+  <node id="-312" visible="true" lon="-122.4256119782232" lat="48.68513562319412"/>
+  <node id="-313" visible="true" lon="-122.4256888841081" lat="48.68529342334395"/>
+  <node id="-314" visible="true" lon="-122.4257060270021" lat="48.68533100947779"/>
+  <way id="-62" visible="true">
+    <nd ref="-308"/>
+    <nd ref="-309"/>
+    <nd ref="-310"/>
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-308"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-315" visible="true" lon="-122.4256570421107" lat="48.68540027646051"/>
+  <node id="-316" visible="true" lon="-122.4256439097545" lat="48.68537248526074"/>
+  <node id="-317" visible="true" lon="-122.4256845200904" lat="48.68536380855663"/>
+  <node id="-318" visible="true" lon="-122.4256976242542" lat="48.68539069708918"/>
+  <way id="-63" visible="true">
+    <nd ref="-315"/>
+    <nd ref="-316"/>
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-315"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-319" visible="true" lon="-122.4260737440943" lat="48.68547847759067"/>
+  <node id="-320" visible="true" lon="-122.4260383389294" lat="48.68543565335069"/>
+  <node id="-321" visible="true" lon="-122.4260840289864" lat="48.68541517713867"/>
+  <node id="-322" visible="true" lon="-122.4261236058381" lat="48.68546065063696"/>
+  <way id="-64" visible="true">
+    <nd ref="-319"/>
+    <nd ref="-320"/>
+    <nd ref="-321"/>
+    <nd ref="-322"/>
+    <nd ref="-319"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-323" visible="true" lon="-122.4209097179981" lat="48.68557635375833"/>
+  <node id="-324" visible="true" lon="-122.4208566222570" lat="48.68549755870700"/>
+  <node id="-325" visible="true" lon="-122.4210885031295" lat="48.68542904930177"/>
+  <node id="-326" visible="true" lon="-122.4211416005156" lat="48.68550784423048"/>
+  <way id="-65" visible="true">
+    <nd ref="-323"/>
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-323"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-327" visible="true" lon="-122.4238982013722" lat="48.68558815415635"/>
+  <node id="-328" visible="true" lon="-122.4240407089102" lat="48.68564131112372"/>
+  <node id="-329" visible="true" lon="-122.4241067625751" lat="48.68580891009371"/>
+  <node id="-330" visible="true" lon="-122.4240500942548" lat="48.68583935958757"/>
+  <node id="-331" visible="true" lon="-122.4239778352214" lat="48.68583186954480"/>
+  <node id="-332" visible="true" lon="-122.4239625436624" lat="48.68580346551676"/>
+  <node id="-333" visible="true" lon="-122.4239497446031" lat="48.68580364070396"/>
+  <node id="-334" visible="true" lon="-122.4239128072121" lat="48.68569711071525"/>
+  <node id="-335" visible="true" lon="-122.4238333552287" lat="48.68566428526181"/>
+  <way id="-66" visible="true">
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-330"/>
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-334"/>
+    <nd ref="-335"/>
+    <nd ref="-327"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-336" visible="true" lon="-122.4253024547969" lat="48.68587070945326"/>
+  <node id="-337" visible="true" lon="-122.4253381513593" lat="48.68574841314940"/>
+  <node id="-338" visible="true" lon="-122.4256268251816" lat="48.68578506116072"/>
+  <node id="-339" visible="true" lon="-122.4255911574689" lat="48.68590825931517"/>
+  <way id="-67" visible="true">
+    <nd ref="-336"/>
+    <nd ref="-337"/>
+    <nd ref="-338"/>
+    <nd ref="-339"/>
+    <nd ref="-336"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-340" visible="true" lon="-122.4257265230152" lat="48.68587933642998"/>
+  <node id="-341" visible="true" lon="-122.4257473118403" lat="48.68580326019549"/>
+  <node id="-342" visible="true" lon="-122.4258676562617" lat="48.68581694940747"/>
+  <node id="-343" visible="true" lon="-122.4258455352622" lat="48.68589394697047"/>
+  <way id="-68" visible="true">
+    <nd ref="-340"/>
+    <nd ref="-341"/>
+    <nd ref="-342"/>
+    <nd ref="-343"/>
+    <nd ref="-340"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-344" visible="true" lon="-122.4227504750203" lat="48.68596451651360"/>
+  <node id="-345" visible="true" lon="-122.4227372596679" lat="48.68590719538349"/>
+  <node id="-346" visible="true" lon="-122.4226733898275" lat="48.68591109556405"/>
+  <node id="-347" visible="true" lon="-122.4226454775517" lat="48.68582219693520"/>
+  <node id="-348" visible="true" lon="-122.4227959670658" lat="48.68581105965535"/>
+  <node id="-349" visible="true" lon="-122.4228039998365" lat="48.68584877978154"/>
+  <node id="-350" visible="true" lon="-122.4228654899701" lat="48.68584188632580"/>
+  <node id="-351" visible="true" lon="-122.4228731924480" lat="48.68586901813506"/>
+  <node id="-352" visible="true" lon="-122.4229940789513" lat="48.68586131216284"/>
+  <node id="-353" visible="true" lon="-122.4230102864245" lat="48.68594129087533"/>
+  <way id="-69" visible="true">
+    <nd ref="-344"/>
+    <nd ref="-345"/>
+    <nd ref="-346"/>
+    <nd ref="-347"/>
+    <nd ref="-348"/>
+    <nd ref="-349"/>
+    <nd ref="-350"/>
+    <nd ref="-351"/>
+    <nd ref="-352"/>
+    <nd ref="-353"/>
+    <nd ref="-344"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-354" visible="true" lon="-122.4156860593455" lat="48.68599880360201"/>
+  <node id="-355" visible="true" lon="-122.4157210478533" lat="48.68588690705102"/>
+  <node id="-356" visible="true" lon="-122.4158471795381" lat="48.68590419755273"/>
+  <node id="-357" visible="true" lon="-122.4158121899655" lat="48.68601609505858"/>
+  <way id="-70" visible="true">
+    <nd ref="-354"/>
+    <nd ref="-355"/>
+    <nd ref="-356"/>
+    <nd ref="-357"/>
+    <nd ref="-354"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-358" visible="true" lon="-122.4147241213226" lat="48.68645384168114"/>
+  <node id="-359" visible="true" lon="-122.4146143895616" lat="48.68635813324399"/>
+  <node id="-360" visible="true" lon="-122.4147698591002" lat="48.68627998458923"/>
+  <node id="-361" visible="true" lon="-122.4148795895992" lat="48.68637569200161"/>
+  <way id="-71" visible="true">
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-361"/>
+    <nd ref="-358"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-362" visible="true" lon="-122.4189296195252" lat="48.68692913948552"/>
+  <node id="-363" visible="true" lon="-122.4189244962363" lat="48.68692148311713"/>
+  <node id="-364" visible="true" lon="-122.4188517992685" lat="48.68694280791585"/>
+  <node id="-365" visible="true" lon="-122.4187970843649" lat="48.68686103441221"/>
+  <node id="-366" visible="true" lon="-122.4190757426065" lat="48.68677929330347"/>
+  <node id="-367" visible="true" lon="-122.4191355811832" lat="48.68686872303775"/>
+  <way id="-72" visible="true">
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-362"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-368" visible="true" lon="-122.4210088693716" lat="48.68716095177242"/>
+  <node id="-369" visible="true" lon="-122.4209789377635" lat="48.68723024324974"/>
+  <node id="-370" visible="true" lon="-122.4206650732296" lat="48.68717352820487"/>
+  <node id="-371" visible="true" lon="-122.4206944878780" lat="48.68710424387358"/>
+  <way id="-73" visible="true">
+    <nd ref="-368"/>
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <nd ref="-371"/>
+    <nd ref="-368"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-372" visible="true" lon="-122.4198750430776" lat="48.68726656114745"/>
+  <node id="-373" visible="true" lon="-122.4197433615250" lat="48.68727623976257"/>
+  <node id="-374" visible="true" lon="-122.4197331065212" lat="48.68721280846226"/>
+  <node id="-375" visible="true" lon="-122.4198611650464" lat="48.68720317841803"/>
+  <way id="-74" visible="true">
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-375"/>
+    <nd ref="-372"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-376" visible="true" lon="-122.4305475065107" lat="48.68726204860172"/>
+  <node id="-377" visible="true" lon="-122.4305314872411" lat="48.68724189257959"/>
+  <node id="-378" visible="true" lon="-122.4305686776647" lat="48.68722836276981"/>
+  <node id="-379" visible="true" lon="-122.4305873138442" lat="48.68725018098526"/>
+  <way id="-75" visible="true">
+    <nd ref="-376"/>
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <nd ref="-379"/>
+    <nd ref="-376"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-380" visible="true" lon="-122.4305653464222" lat="48.68755840221639"/>
+  <node id="-381" visible="true" lon="-122.4304435728650" lat="48.68743724753542"/>
+  <node id="-382" visible="true" lon="-122.4305474548921" lat="48.68739676474245"/>
+  <node id="-383" visible="true" lon="-122.4306640302294" lat="48.68751572594662"/>
+  <way id="-76" visible="true">
+    <nd ref="-380"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-383"/>
+    <nd ref="-380"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-384" visible="true" lon="-122.4303989351102" lat="48.68764955509049"/>
+  <node id="-385" visible="true" lon="-122.4304098666701" lat="48.68764374461260"/>
+  <node id="-386" visible="true" lon="-122.4306536663871" lat="48.68753964181111"/>
+  <node id="-387" visible="true" lon="-122.4307260969949" lat="48.68761392768878"/>
+  <node id="-388" visible="true" lon="-122.4304686953971" lat="48.68772048238853"/>
+  <way id="-77" visible="true">
+    <nd ref="-384"/>
+    <nd ref="-385"/>
+    <nd ref="-386"/>
+    <nd ref="-387"/>
+    <nd ref="-388"/>
+    <nd ref="-384"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-389" visible="true" lon="-122.4297100201424" lat="48.68773311276702"/>
+  <node id="-390" visible="true" lon="-122.4296801141680" lat="48.68760494424257"/>
+  <node id="-391" visible="true" lon="-122.4298012280745" lat="48.68759255456224"/>
+  <node id="-392" visible="true" lon="-122.4298311357042" lat="48.68772072303743"/>
+  <way id="-78" visible="true">
+    <nd ref="-389"/>
+    <nd ref="-390"/>
+    <nd ref="-391"/>
+    <nd ref="-392"/>
+    <nd ref="-389"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-393" visible="true" lon="-122.4274806868516" lat="48.68793533079027"/>
+  <node id="-394" visible="true" lon="-122.4273459974723" lat="48.68772762865658"/>
+  <node id="-395" visible="true" lon="-122.4276631357494" lat="48.68763746615933"/>
+  <node id="-396" visible="true" lon="-122.4277978261549" lat="48.68784516703295"/>
+  <way id="-79" visible="true">
+    <nd ref="-393"/>
+    <nd ref="-394"/>
+    <nd ref="-395"/>
+    <nd ref="-396"/>
+    <nd ref="-393"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-397" visible="true" lon="-122.4226994847456" lat="48.68801503945718"/>
+  <node id="-398" visible="true" lon="-122.4226765487547" lat="48.68793206316494"/>
+  <node id="-399" visible="true" lon="-122.4229196524697" lat="48.68790260292674"/>
+  <node id="-400" visible="true" lon="-122.4229425901732" lat="48.68798557825419"/>
+  <way id="-80" visible="true">
+    <nd ref="-397"/>
+    <nd ref="-398"/>
+    <nd ref="-399"/>
+    <nd ref="-400"/>
+    <nd ref="-397"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-401" visible="true" lon="-122.4217947295904" lat="48.68800126693446"/>
+  <node id="-402" visible="true" lon="-122.4218033120568" lat="48.68791049768479"/>
+  <node id="-403" visible="true" lon="-122.4219757864145" lat="48.68791764639322"/>
+  <node id="-404" visible="true" lon="-122.4219672055841" lat="48.68800841473779"/>
+  <way id="-81" visible="true">
+    <nd ref="-401"/>
+    <nd ref="-402"/>
+    <nd ref="-403"/>
+    <nd ref="-404"/>
+    <nd ref="-401"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-405" visible="true" lon="-122.4225350387763" lat="48.68815034753593"/>
+  <node id="-406" visible="true" lon="-122.4224984139722" lat="48.68801813003549"/>
+  <node id="-407" visible="true" lon="-122.4226306898348" lat="48.68800206669091"/>
+  <node id="-408" visible="true" lon="-122.4226673176303" lat="48.68813428231517"/>
+  <way id="-82" visible="true">
+    <nd ref="-405"/>
+    <nd ref="-406"/>
+    <nd ref="-407"/>
+    <nd ref="-408"/>
+    <nd ref="-405"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-409" visible="true" lon="-122.4180935281182" lat="48.68841879556887"/>
+  <node id="-410" visible="true" lon="-122.4180930178892" lat="48.68822242318635"/>
+  <node id="-411" visible="true" lon="-122.4182424531856" lat="48.68822225348900"/>
+  <node id="-412" visible="true" lon="-122.4182429639625" lat="48.68841862497183"/>
+  <way id="-83" visible="true">
+    <nd ref="-409"/>
+    <nd ref="-410"/>
+    <nd ref="-411"/>
+    <nd ref="-412"/>
+    <nd ref="-409"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-413" visible="true" lon="-122.4186744153738" lat="48.68842021012421"/>
+  <node id="-414" visible="true" lon="-122.4187146028412" lat="48.68837678967695"/>
+  <node id="-415" visible="true" lon="-122.4186171888591" lat="48.68833726376159"/>
+  <node id="-416" visible="true" lon="-122.4186606055528" lat="48.68829035439281"/>
+  <node id="-417" visible="true" lon="-122.4187416811173" lat="48.68832325205821"/>
+  <node id="-418" visible="true" lon="-122.4187753666544" lat="48.68828685773491"/>
+  <node id="-419" visible="true" lon="-122.4188899570097" lat="48.68833335376501"/>
+  <node id="-420" visible="true" lon="-122.4188242486340" lat="48.68840434786954"/>
+  <node id="-421" visible="true" lon="-122.4188771549036" lat="48.68842581458190"/>
+  <node id="-422" visible="true" lon="-122.4188257650462" lat="48.68848162132040"/>
+  <way id="-84" visible="true">
+    <nd ref="-413"/>
+    <nd ref="-414"/>
+    <nd ref="-415"/>
+    <nd ref="-416"/>
+    <nd ref="-417"/>
+    <nd ref="-418"/>
+    <nd ref="-419"/>
+    <nd ref="-420"/>
+    <nd ref="-421"/>
+    <nd ref="-422"/>
+    <nd ref="-413"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-423" visible="true" lon="-122.4283900240526" lat="48.68866996119126"/>
+  <node id="-424" visible="true" lon="-122.4285193332753" lat="48.68863416642441"/>
+  <node id="-425" visible="true" lon="-122.4285445401110" lat="48.68868179715686"/>
+  <node id="-426" visible="true" lon="-122.4285877259996" lat="48.68867248149292"/>
+  <node id="-427" visible="true" lon="-122.4286569299640" lat="48.68877882346891"/>
+  <node id="-428" visible="true" lon="-122.4286058709038" lat="48.68878911969776"/>
+  <node id="-429" visible="true" lon="-122.4286268259642" lat="48.68882721253077"/>
+  <node id="-430" visible="true" lon="-122.4285143067169" lat="48.68885230914110"/>
+  <way id="-85" visible="true">
+    <nd ref="-423"/>
+    <nd ref="-424"/>
+    <nd ref="-425"/>
+    <nd ref="-426"/>
+    <nd ref="-427"/>
+    <nd ref="-428"/>
+    <nd ref="-429"/>
+    <nd ref="-430"/>
+    <nd ref="-423"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-431" visible="true" lon="-122.4328424129142" lat="48.68901827888595"/>
+  <node id="-432" visible="true" lon="-122.4328343473421" lat="48.68905328143789"/>
+  <node id="-433" visible="true" lon="-122.4325921660535" lat="48.68903376645412"/>
+  <node id="-434" visible="true" lon="-122.4325995852912" lat="48.68899738406129"/>
+  <node id="-435" visible="true" lon="-122.4325955940584" lat="48.68899704052747"/>
+  <node id="-436" visible="true" lon="-122.4326434398512" lat="48.68875683373869"/>
+  <node id="-437" visible="true" lon="-122.4328427424690" lat="48.68877431145464"/>
+  <node id="-438" visible="true" lon="-122.4328101463523" lat="48.68893959996867"/>
+  <node id="-439" visible="true" lon="-122.4328838333923" lat="48.68894561142175"/>
+  <node id="-440" visible="true" lon="-122.4328685861320" lat="48.68902053066694"/>
+  <way id="-86" visible="true">
+    <nd ref="-431"/>
+    <nd ref="-432"/>
+    <nd ref="-433"/>
+    <nd ref="-434"/>
+    <nd ref="-435"/>
+    <nd ref="-436"/>
+    <nd ref="-437"/>
+    <nd ref="-438"/>
+    <nd ref="-439"/>
+    <nd ref="-440"/>
+    <nd ref="-431"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1095"/>
+    <tag k="addr:postcode" v="98229-9378"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-441" visible="true" lon="-122.4283330013355" lat="48.68891062470637"/>
+  <node id="-442" visible="true" lon="-122.4285342515878" lat="48.68885814175147"/>
+  <node id="-443" visible="true" lon="-122.4285815396833" lat="48.68893774348662"/>
+  <node id="-444" visible="true" lon="-122.4283787795386" lat="48.68898414176771"/>
+  <way id="-87" visible="true">
+    <nd ref="-441"/>
+    <nd ref="-442"/>
+    <nd ref="-443"/>
+    <nd ref="-444"/>
+    <nd ref="-441"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-445" visible="true" lon="-122.4189311244754" lat="48.68842417701074"/>
+  <node id="-446" visible="true" lon="-122.4190097321729" lat="48.68831287163289"/>
+  <node id="-447" visible="true" lon="-122.4192118718219" lat="48.68837545748418"/>
+  <node id="-448" visible="true" lon="-122.4191332644415" lat="48.68848676209724"/>
+  <way id="-88" visible="true">
+    <nd ref="-445"/>
+    <nd ref="-446"/>
+    <nd ref="-447"/>
+    <nd ref="-448"/>
+    <nd ref="-445"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-449" visible="true" lon="-122.4214780169540" lat="48.68535576247456"/>
+  <node id="-450" visible="true" lon="-122.4214979243256" lat="48.68532385763861"/>
+  <node id="-451" visible="true" lon="-122.4214670437104" lat="48.68531540928306"/>
+  <node id="-452" visible="true" lon="-122.4214504652736" lat="48.68534198075086"/>
+  <node id="-453" visible="true" lon="-122.4214086951447" lat="48.68533055380680"/>
+  <node id="-454" visible="true" lon="-122.4213144416428" lat="48.68535426241045"/>
+  <node id="-455" visible="true" lon="-122.4212697981196" lat="48.68527644486958"/>
+  <node id="-456" visible="true" lon="-122.4214340638482" lat="48.68523512531206"/>
+  <node id="-457" visible="true" lon="-122.4214837395186" lat="48.68526793837536"/>
+  <node id="-458" visible="true" lon="-122.4215349335630" lat="48.68528217500258"/>
+  <node id="-459" visible="true" lon="-122.4215670710916" lat="48.68523150326756"/>
+  <node id="-460" visible="true" lon="-122.4217106240266" lat="48.68527142144421"/>
+  <node id="-461" visible="true" lon="-122.4216145143531" lat="48.68539310312843"/>
+  <way id="-89" visible="true">
+    <nd ref="-449"/>
+    <nd ref="-450"/>
+    <nd ref="-451"/>
+    <nd ref="-452"/>
+    <nd ref="-453"/>
+    <nd ref="-454"/>
+    <nd ref="-455"/>
+    <nd ref="-456"/>
+    <nd ref="-457"/>
+    <nd ref="-458"/>
+    <nd ref="-459"/>
+    <nd ref="-460"/>
+    <nd ref="-461"/>
+    <nd ref="-449"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-462" visible="true" lon="-122.4214128835351" lat="48.68689204559693"/>
+  <node id="-463" visible="true" lon="-122.4214286339527" lat="48.68678581398870"/>
+  <node id="-464" visible="true" lon="-122.4216320518484" lat="48.68679903612315"/>
+  <node id="-465" visible="true" lon="-122.4216163032368" lat="48.68690526863899"/>
+  <way id="-90" visible="true">
+    <nd ref="-462"/>
+    <nd ref="-463"/>
+    <nd ref="-464"/>
+    <nd ref="-465"/>
+    <nd ref="-462"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-466" visible="true" lon="-122.4220803666694" lat="48.68698198774736"/>
+  <node id="-467" visible="true" lon="-122.4219504014062" lat="48.68706327132352"/>
+  <node id="-468" visible="true" lon="-122.4218403127362" lat="48.68698526838615"/>
+  <node id="-469" visible="true" lon="-122.4219614857266" lat="48.68690410512159"/>
+  <way id="-91" visible="true">
+    <nd ref="-466"/>
+    <nd ref="-467"/>
+    <nd ref="-468"/>
+    <nd ref="-469"/>
+    <nd ref="-466"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-470" visible="true" lon="-122.4294132963964" lat="48.68782836394799"/>
+  <node id="-471" visible="true" lon="-122.4293877885923" lat="48.68774191268790"/>
+  <node id="-472" visible="true" lon="-122.4296661188734" lat="48.68770590925880"/>
+  <node id="-473" visible="true" lon="-122.4296916258301" lat="48.68779236227564"/>
+  <way id="-92" visible="true">
+    <nd ref="-470"/>
+    <nd ref="-471"/>
+    <nd ref="-472"/>
+    <nd ref="-473"/>
+    <nd ref="-470"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-474" visible="true" lon="-122.4239359955128" lat="48.68819534289791"/>
+  <node id="-475" visible="true" lon="-122.4239874614406" lat="48.68809399360824"/>
+  <node id="-476" visible="true" lon="-122.4242187378128" lat="48.68814547846254"/>
+  <node id="-477" visible="true" lon="-122.4241672750368" lat="48.68824682871465"/>
+  <way id="-93" visible="true">
+    <nd ref="-474"/>
+    <nd ref="-475"/>
+    <nd ref="-476"/>
+    <nd ref="-477"/>
+    <nd ref="-474"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-478" visible="true" lon="-122.4306421051255" lat="48.68840289674670"/>
+  <node id="-479" visible="true" lon="-122.4306114198591" lat="48.68856336063205"/>
+  <node id="-480" visible="true" lon="-122.4305019225781" lat="48.68855424119176"/>
+  <node id="-481" visible="true" lon="-122.4305326081839" lat="48.68839377733480"/>
+  <way id="-94" visible="true">
+    <nd ref="-478"/>
+    <nd ref="-479"/>
+    <nd ref="-480"/>
+    <nd ref="-481"/>
+    <nd ref="-478"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1145"/>
+    <tag k="addr:postcode" v="98229-9359"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-482" visible="true" lon="-122.4325781021727" lat="48.68862405628882"/>
+  <node id="-483" visible="true" lon="-122.4325520916082" lat="48.68865285848995"/>
+  <node id="-484" visible="true" lon="-122.4325101860827" lat="48.68863698505249"/>
+  <node id="-485" visible="true" lon="-122.4324482247624" lat="48.68870775025816"/>
+  <node id="-486" visible="true" lon="-122.4323339870402" lat="48.68866305517598"/>
+  <node id="-487" visible="true" lon="-122.4324219605009" lat="48.68856348964274"/>
+  <way id="-95" visible="true">
+    <nd ref="-482"/>
+    <nd ref="-483"/>
+    <nd ref="-484"/>
+    <nd ref="-485"/>
+    <nd ref="-486"/>
+    <nd ref="-487"/>
+    <nd ref="-482"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-488" visible="true" lon="-122.4563808879411" lat="48.69161703125970"/>
+  <node id="-489" visible="true" lon="-122.4562678497978" lat="48.69146046994538"/>
+  <node id="-490" visible="true" lon="-122.4563811023681" lat="48.69142462630589"/>
+  <node id="-491" visible="true" lon="-122.4564191721522" lat="48.69147735420611"/>
+  <node id="-492" visible="true" lon="-122.4563803586907" lat="48.69148963775584"/>
+  <node id="-493" visible="true" lon="-122.4564521744969" lat="48.69159446854114"/>
+  <way id="-96" visible="true">
+    <nd ref="-488"/>
+    <nd ref="-489"/>
+    <nd ref="-490"/>
+    <nd ref="-491"/>
+    <nd ref="-492"/>
+    <nd ref="-493"/>
+    <nd ref="-488"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="695"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-494" visible="true" lon="-122.4565495178553" lat="48.69216973112586"/>
+  <node id="-495" visible="true" lon="-122.4564667409806" lat="48.69230111504179"/>
+  <node id="-496" visible="true" lon="-122.4563711779928" lat="48.69227486055171"/>
+  <node id="-497" visible="true" lon="-122.4564539550999" lat="48.69214347760167"/>
+  <way id="-97" visible="true">
+    <nd ref="-494"/>
+    <nd ref="-495"/>
+    <nd ref="-496"/>
+    <nd ref="-497"/>
+    <nd ref="-494"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-498" visible="true" lon="-122.4567720808954" lat="48.69221785830030"/>
+  <node id="-499" visible="true" lon="-122.4567240857352" lat="48.69230369107449"/>
+  <node id="-500" visible="true" lon="-122.4566974581123" lat="48.69229652285223"/>
+  <node id="-501" visible="true" lon="-122.4566631544506" lat="48.69235714596685"/>
+  <node id="-502" visible="true" lon="-122.4565238526053" lat="48.69232276427848"/>
+  <node id="-503" visible="true" lon="-122.4566066733239" lat="48.69217647300968"/>
+  <way id="-98" visible="true">
+    <nd ref="-498"/>
+    <nd ref="-499"/>
+    <nd ref="-500"/>
+    <nd ref="-501"/>
+    <nd ref="-502"/>
+    <nd ref="-503"/>
+    <nd ref="-498"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="675"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-504" visible="true" lon="-122.4558691425950" lat="48.69253718371745"/>
+  <node id="-505" visible="true" lon="-122.4558173275695" lat="48.69256806494047"/>
+  <node id="-506" visible="true" lon="-122.4557685699406" lat="48.69253241832795"/>
+  <node id="-507" visible="true" lon="-122.4557167480320" lat="48.69256312780527"/>
+  <node id="-508" visible="true" lon="-122.4556801703377" lat="48.69253605115558"/>
+  <node id="-509" visible="true" lon="-122.4556613864116" lat="48.69254762222051"/>
+  <node id="-510" visible="true" lon="-122.4556226627551" lat="48.69251817575753"/>
+  <node id="-511" visible="true" lon="-122.4556485689656" lat="48.69250273566053"/>
+  <node id="-512" visible="true" lon="-122.4556332042578" lat="48.69249164035994"/>
+  <node id="-513" visible="true" lon="-122.4557297229823" lat="48.69243409053640"/>
+  <way id="-99" visible="true">
+    <nd ref="-504"/>
+    <nd ref="-505"/>
+    <nd ref="-506"/>
+    <nd ref="-507"/>
+    <nd ref="-508"/>
+    <nd ref="-509"/>
+    <nd ref="-510"/>
+    <nd ref="-511"/>
+    <nd ref="-512"/>
+    <nd ref="-513"/>
+    <nd ref="-504"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="681"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-514" visible="true" lon="-122.4581282399568" lat="48.69281483578995"/>
+  <node id="-515" visible="true" lon="-122.4580937357796" lat="48.69284838578205"/>
+  <node id="-516" visible="true" lon="-122.4580549738542" lat="48.69283091151858"/>
+  <node id="-517" visible="true" lon="-122.4581522229604" lat="48.69273635028313"/>
+  <node id="-518" visible="true" lon="-122.4583579960236" lat="48.69282910819162"/>
+  <node id="-519" visible="true" lon="-122.4582923717140" lat="48.69288882322104"/>
+  <way id="-100" visible="true">
+    <nd ref="-514"/>
+    <nd ref="-515"/>
+    <nd ref="-516"/>
+    <nd ref="-517"/>
+    <nd ref="-518"/>
+    <nd ref="-519"/>
+    <nd ref="-514"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-520" visible="true" lon="-122.4581665323359" lat="48.69294690562478"/>
+  <node id="-521" visible="true" lon="-122.4580808499762" lat="48.69303583556848"/>
+  <node id="-522" visible="true" lon="-122.4578352673251" lat="48.69293148733521"/>
+  <node id="-523" visible="true" lon="-122.4579214714340" lat="48.69284272117670"/>
+  <way id="-101" visible="true">
+    <nd ref="-520"/>
+    <nd ref="-521"/>
+    <nd ref="-522"/>
+    <nd ref="-523"/>
+    <nd ref="-520"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="649"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-524" visible="true" lon="-122.4556305932539" lat="48.69301121726134"/>
+  <node id="-525" visible="true" lon="-122.4555023594427" lat="48.69308069118680"/>
+  <node id="-526" visible="true" lon="-122.4554130827241" lat="48.69300808372856"/>
+  <node id="-527" visible="true" lon="-122.4555413178608" lat="48.69293861077991"/>
+  <way id="-102" visible="true">
+    <nd ref="-524"/>
+    <nd ref="-525"/>
+    <nd ref="-526"/>
+    <nd ref="-527"/>
+    <nd ref="-524"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-528" visible="true" lon="-122.4588078925963" lat="48.69302818828474"/>
+  <node id="-529" visible="true" lon="-122.4587711628076" lat="48.69311009294137"/>
+  <node id="-530" visible="true" lon="-122.4586737297179" lat="48.69309020764022"/>
+  <node id="-531" visible="true" lon="-122.4587109756413" lat="48.69300829399889"/>
+  <way id="-103" visible="true">
+    <nd ref="-528"/>
+    <nd ref="-529"/>
+    <nd ref="-530"/>
+    <nd ref="-531"/>
+    <nd ref="-528"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-532" visible="true" lon="-122.4590215111466" lat="48.69307163770831"/>
+  <node id="-533" visible="true" lon="-122.4590090957081" lat="48.69310436811936"/>
+  <node id="-534" visible="true" lon="-122.4590985655905" lat="48.69311802515630"/>
+  <node id="-535" visible="true" lon="-122.4590638708300" lat="48.69321498084236"/>
+  <node id="-536" visible="true" lon="-122.4589364276697" lat="48.69319551552375"/>
+  <node id="-537" visible="true" lon="-122.4589449443904" lat="48.69317037890237"/>
+  <node id="-538" visible="true" lon="-122.4589147692966" lat="48.69316565964888"/>
+  <node id="-539" visible="true" lon="-122.4589371321506" lat="48.69310400299274"/>
+  <node id="-540" visible="true" lon="-122.4589027877798" lat="48.69309831487026"/>
+  <node id="-541" visible="true" lon="-122.4589184999468" lat="48.69305542846313"/>
+  <way id="-104" visible="true">
+    <nd ref="-532"/>
+    <nd ref="-533"/>
+    <nd ref="-534"/>
+    <nd ref="-535"/>
+    <nd ref="-536"/>
+    <nd ref="-537"/>
+    <nd ref="-538"/>
+    <nd ref="-539"/>
+    <nd ref="-540"/>
+    <nd ref="-541"/>
+    <nd ref="-532"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-542" visible="true" lon="-122.4559089297391" lat="48.69325031192913"/>
+  <node id="-543" visible="true" lon="-122.4558240764128" lat="48.69331660993525"/>
+  <node id="-544" visible="true" lon="-122.4555679140870" lat="48.69317247868985"/>
+  <node id="-545" visible="true" lon="-122.4556527675066" lat="48.69310618086737"/>
+  <way id="-105" visible="true">
+    <nd ref="-542"/>
+    <nd ref="-543"/>
+    <nd ref="-544"/>
+    <nd ref="-545"/>
+    <nd ref="-542"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="680"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-546" visible="true" lon="-122.4571818006210" lat="48.69320118451828"/>
+  <node id="-547" visible="true" lon="-122.4571413173183" lat="48.69325386374316"/>
+  <node id="-548" visible="true" lon="-122.4569320786055" lat="48.69318539247175"/>
+  <node id="-549" visible="true" lon="-122.4569756694318" lat="48.69313195124374"/>
+  <way id="-106" visible="true">
+    <nd ref="-546"/>
+    <nd ref="-547"/>
+    <nd ref="-548"/>
+    <nd ref="-549"/>
+    <nd ref="-546"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-550" visible="true" lon="-122.4586650213975" lat="48.69315801356760"/>
+  <node id="-551" visible="true" lon="-122.4586206097886" lat="48.69325870461705"/>
+  <node id="-552" visible="true" lon="-122.4585065373454" lat="48.69323648030631"/>
+  <node id="-553" visible="true" lon="-122.4585504317799" lat="48.69313579743375"/>
+  <way id="-107" visible="true">
+    <nd ref="-550"/>
+    <nd ref="-551"/>
+    <nd ref="-552"/>
+    <nd ref="-553"/>
+    <nd ref="-550"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-554" visible="true" lon="-122.4572854475051" lat="48.69330237788153"/>
+  <node id="-555" visible="true" lon="-122.4571840437652" lat="48.69345030088133"/>
+  <node id="-556" visible="true" lon="-122.4570653968334" lat="48.69341443135350"/>
+  <node id="-557" visible="true" lon="-122.4571667994884" lat="48.69326650847428"/>
+  <way id="-108" visible="true">
+    <nd ref="-554"/>
+    <nd ref="-555"/>
+    <nd ref="-556"/>
+    <nd ref="-557"/>
+    <nd ref="-554"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-558" visible="true" lon="-122.4598841785078" lat="48.69332362631753"/>
+  <node id="-559" visible="true" lon="-122.4598862437336" lat="48.69350106034570"/>
+  <node id="-560" visible="true" lon="-122.4597849164262" lat="48.69350247833940"/>
+  <node id="-561" visible="true" lon="-122.4597816929107" lat="48.69332386154667"/>
+  <way id="-109" visible="true">
+    <nd ref="-558"/>
+    <nd ref="-559"/>
+    <nd ref="-560"/>
+    <nd ref="-561"/>
+    <nd ref="-558"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-562" visible="true" lon="-122.4606893786154" lat="48.69338050152673"/>
+  <node id="-563" visible="true" lon="-122.4606172316456" lat="48.69348792199480"/>
+  <node id="-564" visible="true" lon="-122.4605236970169" lat="48.69346044349263"/>
+  <node id="-565" visible="true" lon="-122.4605958428157" lat="48.69335302399963"/>
+  <way id="-110" visible="true">
+    <nd ref="-562"/>
+    <nd ref="-563"/>
+    <nd ref="-564"/>
+    <nd ref="-565"/>
+    <nd ref="-562"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-566" visible="true" lon="-122.4597714438325" lat="48.69352174615830"/>
+  <node id="-567" visible="true" lon="-122.4596540348428" lat="48.69352475895069"/>
+  <node id="-568" visible="true" lon="-122.4596488059156" lat="48.69342579018112"/>
+  <node id="-569" visible="true" lon="-122.4597662187736" lat="48.69342294823350"/>
+  <way id="-111" visible="true">
+    <nd ref="-566"/>
+    <nd ref="-567"/>
+    <nd ref="-568"/>
+    <nd ref="-569"/>
+    <nd ref="-566"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="603"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-570" visible="true" lon="-122.4601567577642" lat="48.69351138677369"/>
+  <node id="-571" visible="true" lon="-122.4601676225576" lat="48.69349495631974"/>
+  <node id="-572" visible="true" lon="-122.4602725414379" lat="48.69352227395183"/>
+  <node id="-573" visible="true" lon="-122.4602435731451" lat="48.69357151638226"/>
+  <node id="-574" visible="true" lon="-122.4603239755297" lat="48.69359300956209"/>
+  <node id="-575" visible="true" lon="-122.4602881189705" lat="48.69365348460815"/>
+  <node id="-576" visible="true" lon="-122.4600380774740" lat="48.69358809949362"/>
+  <node id="-577" visible="true" lon="-122.4600935942741" lat="48.69349479259768"/>
+  <way id="-112" visible="true">
+    <nd ref="-570"/>
+    <nd ref="-571"/>
+    <nd ref="-572"/>
+    <nd ref="-573"/>
+    <nd ref="-574"/>
+    <nd ref="-575"/>
+    <nd ref="-576"/>
+    <nd ref="-577"/>
+    <nd ref="-570"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-578" visible="true" lon="-122.4580526759105" lat="48.69359718111071"/>
+  <node id="-579" visible="true" lon="-122.4580286409244" lat="48.69367137058709"/>
+  <node id="-580" visible="true" lon="-122.4579662288536" lat="48.69366213220966"/>
+  <node id="-581" visible="true" lon="-122.4579592269478" lat="48.69368604859714"/>
+  <node id="-582" visible="true" lon="-122.4577616521208" lat="48.69365882224123"/>
+  <node id="-583" visible="true" lon="-122.4577687374138" lat="48.69363747534856"/>
+  <node id="-584" visible="true" lon="-122.4576813694292" lat="48.69362481688601"/>
+  <node id="-585" visible="true" lon="-122.4577053666830" lat="48.69354942903848"/>
+  <way id="-113" visible="true">
+    <nd ref="-578"/>
+    <nd ref="-579"/>
+    <nd ref="-580"/>
+    <nd ref="-581"/>
+    <nd ref="-582"/>
+    <nd ref="-583"/>
+    <nd ref="-584"/>
+    <nd ref="-585"/>
+    <nd ref="-578"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1926"/>
+    <tag k="building:levels" v="1.5"/>
+    <tag k="addr:housenumber" v="647"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-586" visible="true" lon="-122.4574451882560" lat="48.69357191217539"/>
+  <node id="-587" visible="true" lon="-122.4574188806852" lat="48.69363979300040"/>
+  <node id="-588" visible="true" lon="-122.4573257460850" lat="48.69362481420082"/>
+  <node id="-589" visible="true" lon="-122.4573520524427" lat="48.69355693431459"/>
+  <way id="-114" visible="true">
+    <nd ref="-586"/>
+    <nd ref="-587"/>
+    <nd ref="-588"/>
+    <nd ref="-589"/>
+    <nd ref="-586"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-590" visible="true" lon="-122.4596860755911" lat="48.69357177586987"/>
+  <node id="-591" visible="true" lon="-122.4596896724027" lat="48.69368447519955"/>
+  <node id="-592" visible="true" lon="-122.4595608361723" lat="48.69368627701908"/>
+  <node id="-593" visible="true" lon="-122.4595572396455" lat="48.69357357768546"/>
+  <way id="-115" visible="true">
+    <nd ref="-590"/>
+    <nd ref="-591"/>
+    <nd ref="-592"/>
+    <nd ref="-593"/>
+    <nd ref="-590"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-594" visible="true" lon="-122.4611819464580" lat="48.69367850099871"/>
+  <node id="-595" visible="true" lon="-122.4611037103267" lat="48.69377349739391"/>
+  <node id="-596" visible="true" lon="-122.4608889719974" lat="48.69369511000694"/>
+  <node id="-597" visible="true" lon="-122.4609677312802" lat="48.69360027732836"/>
+  <way id="-116" visible="true">
+    <nd ref="-594"/>
+    <nd ref="-595"/>
+    <nd ref="-596"/>
+    <nd ref="-597"/>
+    <nd ref="-594"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-598" visible="true" lon="-122.4608582802247" lat="48.69367423523614"/>
+  <node id="-599" visible="true" lon="-122.4608335269507" lat="48.69372581674857"/>
+  <node id="-600" visible="true" lon="-122.4606376219677" lat="48.69368606132185"/>
+  <node id="-601" visible="true" lon="-122.4606623699637" lat="48.69363430902990"/>
+  <way id="-117" visible="true">
+    <nd ref="-598"/>
+    <nd ref="-599"/>
+    <nd ref="-600"/>
+    <nd ref="-601"/>
+    <nd ref="-598"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-602" visible="true" lon="-122.4607428882528" lat="48.69385032505947"/>
+  <node id="-603" visible="true" lon="-122.4607653726582" lat="48.69381145678985"/>
+  <node id="-604" visible="true" lon="-122.4608176614144" lat="48.69382785928932"/>
+  <node id="-605" visible="true" lon="-122.4607928394231" lat="48.69386104874641"/>
+  <way id="-118" visible="true">
+    <nd ref="-602"/>
+    <nd ref="-603"/>
+    <nd ref="-604"/>
+    <nd ref="-605"/>
+    <nd ref="-602"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-606" visible="true" lon="-122.4610301028089" lat="48.69391892085225"/>
+  <node id="-607" visible="true" lon="-122.4609858952195" lat="48.69400967187262"/>
+  <node id="-608" visible="true" lon="-122.4609249195452" lat="48.69399681712668"/>
+  <node id="-609" visible="true" lon="-122.4609696446485" lat="48.69390605888327"/>
+  <way id="-119" visible="true">
+    <nd ref="-606"/>
+    <nd ref="-607"/>
+    <nd ref="-608"/>
+    <nd ref="-609"/>
+    <nd ref="-606"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-610" visible="true" lon="-122.4612395550969" lat="48.69406837080665"/>
+  <node id="-611" visible="true" lon="-122.4612065866593" lat="48.69411941445014"/>
+  <node id="-612" visible="true" lon="-122.4612344629998" lat="48.69412606766704"/>
+  <node id="-613" visible="true" lon="-122.4612094394885" lat="48.69418275026370"/>
+  <node id="-614" visible="true" lon="-122.4610740306478" lat="48.69415705854047"/>
+  <node id="-615" visible="true" lon="-122.4610953193014" lat="48.69411049410844"/>
+  <node id="-616" visible="true" lon="-122.4610328309050" lat="48.69409886047907"/>
+  <node id="-617" visible="true" lon="-122.4610641055946" lat="48.69402456984469"/>
+  <node id="-618" visible="true" lon="-122.4611536966662" lat="48.69404199235522"/>
+  <node id="-619" visible="true" lon="-122.4611609776538" lat="48.69402681187735"/>
+  <node id="-620" visible="true" lon="-122.4612500581904" lat="48.69404441326078"/>
+  <way id="-120" visible="true">
+    <nd ref="-610"/>
+    <nd ref="-611"/>
+    <nd ref="-612"/>
+    <nd ref="-613"/>
+    <nd ref="-614"/>
+    <nd ref="-615"/>
+    <nd ref="-616"/>
+    <nd ref="-617"/>
+    <nd ref="-618"/>
+    <nd ref="-619"/>
+    <nd ref="-620"/>
+    <nd ref="-610"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="585"/>
+    <tag k="addr:postcode" v="98229-9338"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-621" visible="true" lon="-122.4603322070662" lat="48.69420753666845"/>
+  <node id="-622" visible="true" lon="-122.4602924117782" lat="48.69427440710562"/>
+  <node id="-623" visible="true" lon="-122.4600982521238" lat="48.69422451822385"/>
+  <node id="-624" visible="true" lon="-122.4601375302085" lat="48.69415765509405"/>
+  <way id="-121" visible="true">
+    <nd ref="-621"/>
+    <nd ref="-622"/>
+    <nd ref="-623"/>
+    <nd ref="-624"/>
+    <nd ref="-621"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-625" visible="true" lon="-122.4606085210586" lat="48.69428506210722"/>
+  <node id="-626" visible="true" lon="-122.4605769227275" lat="48.69434924723290"/>
+  <node id="-627" visible="true" lon="-122.4603121156636" lat="48.69429160864284"/>
+  <node id="-628" visible="true" lon="-122.4603442303544" lat="48.69422741636382"/>
+  <way id="-122" visible="true">
+    <nd ref="-625"/>
+    <nd ref="-626"/>
+    <nd ref="-627"/>
+    <nd ref="-628"/>
+    <nd ref="-625"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-629" visible="true" lon="-122.4579385366420" lat="48.69433610619187"/>
+  <node id="-630" visible="true" lon="-122.4579316640803" lat="48.69447773983382"/>
+  <node id="-631" visible="true" lon="-122.4577746828774" lat="48.69447359366893"/>
+  <node id="-632" visible="true" lon="-122.4577815626805" lat="48.69433213083772"/>
+  <way id="-123" visible="true">
+    <nd ref="-629"/>
+    <nd ref="-630"/>
+    <nd ref="-631"/>
+    <nd ref="-632"/>
+    <nd ref="-629"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="628"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-633" visible="true" lon="-122.4601949231387" lat="48.69446642962298"/>
+  <node id="-634" visible="true" lon="-122.4600293140322" lat="48.69450010350918"/>
+  <node id="-635" visible="true" lon="-122.4599848422810" lat="48.69440425464568"/>
+  <node id="-636" visible="true" lon="-122.4601499336553" lat="48.69437058716482"/>
+  <way id="-124" visible="true">
+    <nd ref="-633"/>
+    <nd ref="-634"/>
+    <nd ref="-635"/>
+    <nd ref="-636"/>
+    <nd ref="-633"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="590"/>
+    <tag k="addr:postcode" v="98229-9338"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-637" visible="true" lon="-122.4581691340610" lat="48.69471022636772"/>
+  <node id="-638" visible="true" lon="-122.4582343619772" lat="48.69452368825252"/>
+  <node id="-639" visible="true" lon="-122.4583512830482" lat="48.69453776083297"/>
+  <node id="-640" visible="true" lon="-122.4582882576750" lat="48.69472569566340"/>
+  <way id="-125" visible="true">
+    <nd ref="-637"/>
+    <nd ref="-638"/>
+    <nd ref="-639"/>
+    <nd ref="-640"/>
+    <nd ref="-637"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-641" visible="true" lon="-122.4575526041415" lat="48.69464399255988"/>
+  <node id="-642" visible="true" lon="-122.4575417001631" lat="48.69472416686671"/>
+  <node id="-643" visible="true" lon="-122.4573202393811" lat="48.69471098121367"/>
+  <node id="-644" visible="true" lon="-122.4573311450633" lat="48.69463080690826"/>
+  <way id="-126" visible="true">
+    <nd ref="-641"/>
+    <nd ref="-642"/>
+    <nd ref="-643"/>
+    <nd ref="-644"/>
+    <nd ref="-641"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="644"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-645" visible="true" lon="-122.4602331495849" lat="48.69490838873259"/>
+  <node id="-646" visible="true" lon="-122.4602825814723" lat="48.69476776379435"/>
+  <node id="-647" visible="true" lon="-122.4604038155196" lat="48.69478177305375"/>
+  <node id="-648" visible="true" lon="-122.4603502544421" lat="48.69492816829992"/>
+  <way id="-127" visible="true">
+    <nd ref="-645"/>
+    <nd ref="-646"/>
+    <nd ref="-647"/>
+    <nd ref="-648"/>
+    <nd ref="-645"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-649" visible="true" lon="-122.4622182899861" lat="48.69560791259872"/>
+  <node id="-650" visible="true" lon="-122.4620531734300" lat="48.69575433386858"/>
+  <node id="-651" visible="true" lon="-122.4619589945429" lat="48.69570681840165"/>
+  <node id="-652" visible="true" lon="-122.4620194053982" lat="48.69565336536856"/>
+  <node id="-653" visible="true" lon="-122.4619846906643" lat="48.69563620175207"/>
+  <node id="-654" visible="true" lon="-122.4619131755177" lat="48.69569854948034"/>
+  <node id="-655" visible="true" lon="-122.4618921208346" lat="48.69568770650789"/>
+  <node id="-656" visible="true" lon="-122.4618684109886" lat="48.69570864347386"/>
+  <node id="-657" visible="true" lon="-122.4618831395859" lat="48.69571727787332"/>
+  <node id="-658" visible="true" lon="-122.4618477962056" lat="48.69574691817858"/>
+  <node id="-659" visible="true" lon="-122.4616585047952" lat="48.69565071443800"/>
+  <node id="-660" visible="true" lon="-122.4617263585406" lat="48.69559580630519"/>
+  <node id="-661" visible="true" lon="-122.4617397976061" lat="48.69560248358072"/>
+  <node id="-662" visible="true" lon="-122.4617754659736" lat="48.69556873003303"/>
+  <node id="-663" visible="true" lon="-122.4618358780908" lat="48.69559742269632"/>
+  <node id="-664" visible="true" lon="-122.4618162755058" lat="48.69561699609474"/>
+  <node id="-665" visible="true" lon="-122.4618600838583" lat="48.69563725870280"/>
+  <node id="-666" visible="true" lon="-122.4620110202833" lat="48.69550440683273"/>
+  <way id="-128" visible="true">
+    <nd ref="-649"/>
+    <nd ref="-650"/>
+    <nd ref="-651"/>
+    <nd ref="-652"/>
+    <nd ref="-653"/>
+    <nd ref="-654"/>
+    <nd ref="-655"/>
+    <nd ref="-656"/>
+    <nd ref="-657"/>
+    <nd ref="-658"/>
+    <nd ref="-659"/>
+    <nd ref="-660"/>
+    <nd ref="-661"/>
+    <nd ref="-662"/>
+    <nd ref="-663"/>
+    <nd ref="-664"/>
+    <nd ref="-665"/>
+    <nd ref="-666"/>
+    <nd ref="-649"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1936"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98229-8506"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-667" visible="true" lon="-122.4646382989323" lat="48.69590079739648"/>
+  <node id="-668" visible="true" lon="-122.4645683932941" lat="48.69587322070872"/>
+  <node id="-669" visible="true" lon="-122.4645433442048" lat="48.69589927425509"/>
+  <node id="-670" visible="true" lon="-122.4644625666169" lat="48.69586899430316"/>
+  <node id="-671" visible="true" lon="-122.4645309710348" lat="48.69578236099270"/>
+  <node id="-672" visible="true" lon="-122.4646839936055" lat="48.69584589628155"/>
+  <way id="-129" visible="true">
+    <nd ref="-667"/>
+    <nd ref="-668"/>
+    <nd ref="-669"/>
+    <nd ref="-670"/>
+    <nd ref="-671"/>
+    <nd ref="-672"/>
+    <nd ref="-667"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1814"/>
+    <tag k="addr:postcode" v="98229-8506"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-673" visible="true" lon="-122.4619424898138" lat="48.69622554616353"/>
+  <node id="-674" visible="true" lon="-122.4618991051089" lat="48.69627872640083"/>
+  <node id="-675" visible="true" lon="-122.4617419513697" lat="48.69622355634516"/>
+  <node id="-676" visible="true" lon="-122.4617866391067" lat="48.69616952321531"/>
+  <way id="-130" visible="true">
+    <nd ref="-673"/>
+    <nd ref="-674"/>
+    <nd ref="-675"/>
+    <nd ref="-676"/>
+    <nd ref="-673"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-677" visible="true" lon="-122.4613518080148" lat="48.69686786605119"/>
+  <node id="-678" visible="true" lon="-122.4614300306285" lat="48.69681822224423"/>
+  <node id="-679" visible="true" lon="-122.4614763557455" lat="48.69685041432056"/>
+  <node id="-680" visible="true" lon="-122.4614045562878" lat="48.69689854075310"/>
+  <way id="-131" visible="true">
+    <nd ref="-677"/>
+    <nd ref="-678"/>
+    <nd ref="-679"/>
+    <nd ref="-680"/>
+    <nd ref="-677"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-681" visible="true" lon="-122.4639904520243" lat="48.69695510518173"/>
+  <node id="-682" visible="true" lon="-122.4640828955092" lat="48.69687812972217"/>
+  <node id="-683" visible="true" lon="-122.4640563834889" lat="48.69685851123970"/>
+  <node id="-684" visible="true" lon="-122.4640919385746" lat="48.69682374308895"/>
+  <node id="-685" visible="true" lon="-122.4642277611986" lat="48.69688894774186"/>
+  <node id="-686" visible="true" lon="-122.4640782467666" lat="48.69700242078264"/>
+  <way id="-132" visible="true">
+    <nd ref="-681"/>
+    <nd ref="-682"/>
+    <nd ref="-683"/>
+    <nd ref="-684"/>
+    <nd ref="-685"/>
+    <nd ref="-686"/>
+    <nd ref="-681"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:postcode" v="98229-8506"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-687" visible="true" lon="-122.4638234791084" lat="48.69688399964624"/>
+  <node id="-688" visible="true" lon="-122.4637730893882" lat="48.69691092385845"/>
+  <node id="-689" visible="true" lon="-122.4637050155286" lat="48.69685430356570"/>
+  <node id="-690" visible="true" lon="-122.4637554052575" lat="48.69682738028152"/>
+  <way id="-133" visible="true">
+    <nd ref="-687"/>
+    <nd ref="-688"/>
+    <nd ref="-689"/>
+    <nd ref="-690"/>
+    <nd ref="-687"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-691" visible="true" lon="-122.4646248302622" lat="48.69717451212754"/>
+  <node id="-692" visible="true" lon="-122.4645958988356" lat="48.69720867569039"/>
+  <node id="-693" visible="true" lon="-122.4645324852375" lat="48.69718454722295"/>
+  <node id="-694" visible="true" lon="-122.4645619355287" lat="48.69715037729373"/>
+  <way id="-134" visible="true">
+    <nd ref="-691"/>
+    <nd ref="-692"/>
+    <nd ref="-693"/>
+    <nd ref="-694"/>
+    <nd ref="-691"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-695" visible="true" lon="-122.4606331007375" lat="48.69719206539223"/>
+  <node id="-696" visible="true" lon="-122.4606187829376" lat="48.69721654036775"/>
+  <node id="-697" visible="true" lon="-122.4605708940428" lat="48.69720293192853"/>
+  <node id="-698" visible="true" lon="-122.4605974641704" lat="48.69715686757677"/>
+  <node id="-699" visible="true" lon="-122.4607255362346" lat="48.69718220393472"/>
+  <node id="-700" visible="true" lon="-122.4607091543188" lat="48.69720956359528"/>
+  <way id="-135" visible="true">
+    <nd ref="-695"/>
+    <nd ref="-696"/>
+    <nd ref="-697"/>
+    <nd ref="-698"/>
+    <nd ref="-699"/>
+    <nd ref="-700"/>
+    <nd ref="-695"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-701" visible="true" lon="-122.4648570554865" lat="48.69721632006959"/>
+  <node id="-702" visible="true" lon="-122.4647711797300" lat="48.69731519659214"/>
+  <node id="-703" visible="true" lon="-122.4647198277548" lat="48.69729586933293"/>
+  <node id="-704" visible="true" lon="-122.4647378127600" lat="48.69727556800575"/>
+  <node id="-705" visible="true" lon="-122.4646707357242" lat="48.69725012115620"/>
+  <node id="-706" visible="true" lon="-122.4647091366279" lat="48.69720451579332"/>
+  <node id="-707" visible="true" lon="-122.4647437326374" lat="48.69721790975587"/>
+  <node id="-708" visible="true" lon="-122.4647727037709" lat="48.69718494637322"/>
+  <way id="-136" visible="true">
+    <nd ref="-701"/>
+    <nd ref="-702"/>
+    <nd ref="-703"/>
+    <nd ref="-704"/>
+    <nd ref="-705"/>
+    <nd ref="-706"/>
+    <nd ref="-707"/>
+    <nd ref="-708"/>
+    <nd ref="-701"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-709" visible="true" lon="-122.4617589600839" lat="48.69761273487605"/>
+  <node id="-710" visible="true" lon="-122.4617116800538" lat="48.69767217042272"/>
+  <node id="-711" visible="true" lon="-122.4615739893448" lat="48.69762406341331"/>
+  <node id="-712" visible="true" lon="-122.4616212708490" lat="48.69756462790262"/>
+  <way id="-137" visible="true">
+    <nd ref="-709"/>
+    <nd ref="-710"/>
+    <nd ref="-711"/>
+    <nd ref="-712"/>
+    <nd ref="-709"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-713" visible="true" lon="-122.4622471718778" lat="48.69767855050429"/>
+  <node id="-714" visible="true" lon="-122.4621954423214" lat="48.69777694560539"/>
+  <node id="-715" visible="true" lon="-122.4621036471657" lat="48.69775561328994"/>
+  <node id="-716" visible="true" lon="-122.4621129585123" lat="48.69773920445025"/>
+  <node id="-717" visible="true" lon="-122.4620670609617" lat="48.69772853781936"/>
+  <node id="-718" visible="true" lon="-122.4621099968464" lat="48.69764654436366"/>
+  <way id="-138" visible="true">
+    <nd ref="-713"/>
+    <nd ref="-714"/>
+    <nd ref="-715"/>
+    <nd ref="-716"/>
+    <nd ref="-717"/>
+    <nd ref="-718"/>
+    <nd ref="-713"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1938"/>
+    <tag k="building:levels" v="1.5"/>
+    <tag k="addr:housenumber" v="1781"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-719" visible="true" lon="-122.4517297138126" lat="48.69146446262386"/>
+  <node id="-720" visible="true" lon="-122.4517212332491" lat="48.69149079715711"/>
+  <node id="-721" visible="true" lon="-122.4517028873685" lat="48.69153802490631"/>
+  <node id="-722" visible="true" lon="-122.4515974609597" lat="48.69152147859192"/>
+  <node id="-723" visible="true" lon="-122.4516236119964" lat="48.69144846181555"/>
+  <way id="-139" visible="true">
+    <nd ref="-719"/>
+    <nd ref="-720"/>
+    <nd ref="-721"/>
+    <nd ref="-722"/>
+    <nd ref="-723"/>
+    <nd ref="-719"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-724" visible="true" lon="-122.4529670913882" lat="48.69270221857950"/>
+  <node id="-725" visible="true" lon="-122.4528392921322" lat="48.69272027778146"/>
+  <node id="-726" visible="true" lon="-122.4527878192234" lat="48.69255813233741"/>
+  <node id="-727" visible="true" lon="-122.4529102482146" lat="48.69254214751003"/>
+  <way id="-140" visible="true">
+    <nd ref="-724"/>
+    <nd ref="-725"/>
+    <nd ref="-726"/>
+    <nd ref="-727"/>
+    <nd ref="-724"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-728" visible="true" lon="-122.4522637511338" lat="48.69208423446066"/>
+  <node id="-729" visible="true" lon="-122.4522582834354" lat="48.69198007447938"/>
+  <node id="-730" visible="true" lon="-122.4526353154498" lat="48.69197151563697"/>
+  <node id="-731" visible="true" lon="-122.4526424599334" lat="48.69207224061299"/>
+  <way id="-141" visible="true">
+    <nd ref="-728"/>
+    <nd ref="-729"/>
+    <nd ref="-730"/>
+    <nd ref="-731"/>
+    <nd ref="-728"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="704"/>
+    <tag k="addr:postcode" v="98229-4391"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-732" visible="true" lon="-122.4528802872048" lat="48.69279681418862"/>
+  <node id="-733" visible="true" lon="-122.4527313502644" lat="48.69281756755708"/>
+  <node id="-734" visible="true" lon="-122.4527104585755" lat="48.69274657587608"/>
+  <node id="-735" visible="true" lon="-122.4528588738385" lat="48.69272565890373"/>
+  <way id="-142" visible="true">
+    <nd ref="-732"/>
+    <nd ref="-733"/>
+    <nd ref="-734"/>
+    <nd ref="-735"/>
+    <nd ref="-732"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-736" visible="true" lon="-122.4512782062410" lat="48.69134588832694"/>
+  <node id="-737" visible="true" lon="-122.4512690924673" lat="48.69136863291752"/>
+  <node id="-738" visible="true" lon="-122.4513507977008" lat="48.69138240394643"/>
+  <node id="-739" visible="true" lon="-122.4513197498214" lat="48.69146422794230"/>
+  <node id="-740" visible="true" lon="-122.4511199163542" lat="48.69143068252523"/>
+  <node id="-741" visible="true" lon="-122.4511600837533" lat="48.69132628392232"/>
+  <way id="-143" visible="true">
+    <nd ref="-736"/>
+    <nd ref="-737"/>
+    <nd ref="-738"/>
+    <nd ref="-739"/>
+    <nd ref="-740"/>
+    <nd ref="-741"/>
+    <nd ref="-736"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="760"/>
+    <tag k="addr:postcode" v="98229-4391"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-742" visible="true" lon="-122.4535477452490" lat="48.69255961729230"/>
+  <node id="-743" visible="true" lon="-122.4536363791677" lat="48.69254707281075"/>
+  <node id="-744" visible="true" lon="-122.4536508287955" lat="48.69259450745815"/>
+  <node id="-745" visible="true" lon="-122.4536302088937" lat="48.69259719377203"/>
+  <node id="-746" visible="true" lon="-122.4536429469302" lat="48.69263968188697"/>
+  <node id="-747" visible="true" lon="-122.4534357455287" lat="48.69266758779326"/>
+  <node id="-748" visible="true" lon="-122.4534277065363" lat="48.69264268148341"/>
+  <node id="-749" visible="true" lon="-122.4530658743116" lat="48.69269141746916"/>
+  <node id="-750" visible="true" lon="-122.4530449454321" lat="48.69261922648351"/>
+  <node id="-751" visible="true" lon="-122.4533495781829" lat="48.69257865619451"/>
+  <node id="-752" visible="true" lon="-122.4533623119348" lat="48.69262097439966"/>
+  <node id="-753" visible="true" lon="-122.4534226085975" lat="48.69261259468539"/>
+  <node id="-754" visible="true" lon="-122.4533932373133" lat="48.69251910268868"/>
+  <node id="-755" visible="true" lon="-122.4535288037376" lat="48.69250110638720"/>
+  <way id="-144" visible="true">
+    <nd ref="-742"/>
+    <nd ref="-743"/>
+    <nd ref="-744"/>
+    <nd ref="-745"/>
+    <nd ref="-746"/>
+    <nd ref="-747"/>
+    <nd ref="-748"/>
+    <nd ref="-749"/>
+    <nd ref="-750"/>
+    <nd ref="-751"/>
+    <nd ref="-752"/>
+    <nd ref="-753"/>
+    <nd ref="-754"/>
+    <nd ref="-755"/>
+    <nd ref="-742"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="688"/>
+    <tag k="addr:postcode" v="98229-9327"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-756" visible="true" lon="-122.4513816483589" lat="48.68972922111227"/>
+  <node id="-757" visible="true" lon="-122.4512923675410" lat="48.68990061604314"/>
+  <node id="-758" visible="true" lon="-122.4511401021975" lat="48.68986520951518"/>
+  <node id="-759" visible="true" lon="-122.4511581368964" lat="48.68983000289414"/>
+  <node id="-760" visible="true" lon="-122.4510225856006" lat="48.68979933214226"/>
+  <node id="-761" visible="true" lon="-122.4510709462849" lat="48.68970852716393"/>
+  <node id="-762" visible="true" lon="-122.4512138154181" lat="48.68974149483583"/>
+  <node id="-763" visible="true" lon="-122.4512367041973" lat="48.68969611073633"/>
+  <way id="-145" visible="true">
+    <nd ref="-756"/>
+    <nd ref="-757"/>
+    <nd ref="-758"/>
+    <nd ref="-759"/>
+    <nd ref="-760"/>
+    <nd ref="-761"/>
+    <nd ref="-762"/>
+    <nd ref="-763"/>
+    <nd ref="-756"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="781"/>
+    <tag k="addr:postcode" v="98229-4391"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-764" visible="true" lon="-122.4654677518212" lat="48.69743507358958"/>
+  <node id="-765" visible="true" lon="-122.4655623326717" lat="48.69734389418384"/>
+  <node id="-766" visible="true" lon="-122.4656649305659" lat="48.69739053481841"/>
+  <node id="-767" visible="true" lon="-122.4655724580168" lat="48.69748267140661"/>
+  <way id="-146" visible="true">
+    <nd ref="-764"/>
+    <nd ref="-765"/>
+    <nd ref="-766"/>
+    <nd ref="-767"/>
+    <nd ref="-764"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-768" visible="true" lon="-122.4720126851739" lat="48.70002373742221"/>
+  <node id="-769" visible="true" lon="-122.4721339319350" lat="48.69990351370083"/>
+  <node id="-770" visible="true" lon="-122.4722433467749" lat="48.69995194679730"/>
+  <node id="-771" visible="true" lon="-122.4721241651767" lat="48.70006928663737"/>
+  <way id="-147" visible="true">
+    <nd ref="-768"/>
+    <nd ref="-769"/>
+    <nd ref="-770"/>
+    <nd ref="-771"/>
+    <nd ref="-768"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-772" visible="true" lon="-122.4716889415389" lat="48.70008541642808"/>
+  <node id="-773" visible="true" lon="-122.4717051798203" lat="48.69998666361003"/>
+  <node id="-774" visible="true" lon="-122.4719041427890" lat="48.70000242127157"/>
+  <node id="-775" visible="true" lon="-122.4718901076554" lat="48.70010257140610"/>
+  <way id="-148" visible="true">
+    <nd ref="-772"/>
+    <nd ref="-773"/>
+    <nd ref="-774"/>
+    <nd ref="-775"/>
+    <nd ref="-772"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1776"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-776" visible="true" lon="-122.4716913193278" lat="48.70010923654457"/>
+  <node id="-777" visible="true" lon="-122.4716119585206" lat="48.70018625043315"/>
+  <node id="-778" visible="true" lon="-122.4714675653351" lat="48.70011603100600"/>
+  <node id="-779" visible="true" lon="-122.4715441086450" lat="48.70004093679044"/>
+  <way id="-149" visible="true">
+    <nd ref="-776"/>
+    <nd ref="-777"/>
+    <nd ref="-778"/>
+    <nd ref="-779"/>
+    <nd ref="-776"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-780" visible="true" lon="-122.4722806611379" lat="48.70044118830285"/>
+  <node id="-781" visible="true" lon="-122.4723374073584" lat="48.70039469482850"/>
+  <node id="-782" visible="true" lon="-122.4724383365964" lat="48.70044753241486"/>
+  <node id="-783" visible="true" lon="-122.4723836999309" lat="48.70049256695387"/>
+  <way id="-150" visible="true">
+    <nd ref="-780"/>
+    <nd ref="-781"/>
+    <nd ref="-782"/>
+    <nd ref="-783"/>
+    <nd ref="-780"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-784" visible="true" lon="-122.4721601023136" lat="48.70058282123850"/>
+  <node id="-785" visible="true" lon="-122.4722439166953" lat="48.70050596096208"/>
+  <node id="-786" visible="true" lon="-122.4722768097606" lat="48.70052263187561"/>
+  <node id="-787" visible="true" lon="-122.4723080967166" lat="48.70048934883166"/>
+  <node id="-788" visible="true" lon="-122.4723605338459" lat="48.70051002827667"/>
+  <node id="-789" visible="true" lon="-122.4723163098537" lat="48.70054349374283"/>
+  <node id="-790" visible="true" lon="-122.4723403040446" lat="48.70055172277034"/>
+  <node id="-791" visible="true" lon="-122.4722520855204" lat="48.70062578943075"/>
+  <way id="-151" visible="true">
+    <nd ref="-784"/>
+    <nd ref="-785"/>
+    <nd ref="-786"/>
+    <nd ref="-787"/>
+    <nd ref="-788"/>
+    <nd ref="-789"/>
+    <nd ref="-790"/>
+    <nd ref="-791"/>
+    <nd ref="-784"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1772"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-792" visible="true" lon="-122.4751548681029" lat="48.70137630328968"/>
+  <node id="-793" visible="true" lon="-122.4751441809717" lat="48.70137241804500"/>
+  <node id="-794" visible="true" lon="-122.4751397622584" lat="48.70136961550327"/>
+  <node id="-795" visible="true" lon="-122.4751334417587" lat="48.70136271376322"/>
+  <node id="-796" visible="true" lon="-122.4751310686190" lat="48.70135479734861"/>
+  <node id="-797" visible="true" lon="-122.4751329290730" lat="48.70134682109610"/>
+  <node id="-798" visible="true" lon="-122.4751387987207" lat="48.70133974705928"/>
+  <node id="-799" visible="true" lon="-122.4751479695951" lat="48.70133442847085"/>
+  <node id="-800" visible="true" lon="-122.4751534594923" lat="48.70133263854586"/>
+  <node id="-801" visible="true" lon="-122.4751654192374" lat="48.70133106771133"/>
+  <node id="-802" visible="true" lon="-122.4751774693845" lat="48.70133229918154"/>
+  <node id="-803" visible="true" lon="-122.4751881565098" lat="48.70133618442324"/>
+  <node id="-804" visible="true" lon="-122.4751925752229" lat="48.70133898696314"/>
+  <node id="-805" visible="true" lon="-122.4751988957276" lat="48.70134588870003"/>
+  <node id="-806" visible="true" lon="-122.4752012688775" lat="48.70135380511330"/>
+  <node id="-807" visible="true" lon="-122.4751994084339" lat="48.70136178136688"/>
+  <node id="-808" visible="true" lon="-122.4751935387921" lat="48.70136885540671"/>
+  <node id="-809" visible="true" lon="-122.4751843679163" lat="48.70137417399866"/>
+  <node id="-810" visible="true" lon="-122.4751788780156" lat="48.70137596392509"/>
+  <node id="-811" visible="true" lon="-122.4751669182604" lat="48.70137753476098"/>
+  <way id="-152" visible="true">
+    <nd ref="-792"/>
+    <nd ref="-793"/>
+    <nd ref="-794"/>
+    <nd ref="-795"/>
+    <nd ref="-796"/>
+    <nd ref="-797"/>
+    <nd ref="-798"/>
+    <nd ref="-799"/>
+    <nd ref="-800"/>
+    <nd ref="-801"/>
+    <nd ref="-802"/>
+    <nd ref="-803"/>
+    <nd ref="-804"/>
+    <nd ref="-805"/>
+    <nd ref="-806"/>
+    <nd ref="-807"/>
+    <nd ref="-808"/>
+    <nd ref="-809"/>
+    <nd ref="-810"/>
+    <nd ref="-811"/>
+    <nd ref="-792"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-812" visible="true" lon="-122.4759529217667" lat="48.70153322448966"/>
+  <node id="-813" visible="true" lon="-122.4759407582445" lat="48.70157349423786"/>
+  <node id="-814" visible="true" lon="-122.4758892847768" lat="48.70156668051146"/>
+  <node id="-815" visible="true" lon="-122.4759014470087" lat="48.70152641168677"/>
+  <way id="-153" visible="true">
+    <nd ref="-812"/>
+    <nd ref="-813"/>
+    <nd ref="-814"/>
+    <nd ref="-815"/>
+    <nd ref="-812"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-816" visible="true" lon="-122.4767463048637" lat="48.70171393012046"/>
+  <node id="-817" visible="true" lon="-122.4767395363785" lat="48.70179301988524"/>
+  <node id="-818" visible="true" lon="-122.4765482535824" lat="48.70178561493851"/>
+  <node id="-819" visible="true" lon="-122.4765550278458" lat="48.70170669510486"/>
+  <way id="-154" visible="true">
+    <nd ref="-816"/>
+    <nd ref="-817"/>
+    <nd ref="-818"/>
+    <nd ref="-819"/>
+    <nd ref="-816"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-820" visible="true" lon="-122.4767154872295" lat="48.70193899125302"/>
+  <node id="-821" visible="true" lon="-122.4767307031634" lat="48.70180883762168"/>
+  <node id="-822" visible="true" lon="-122.4768905863877" lat="48.70181657288896"/>
+  <node id="-823" visible="true" lon="-122.4768850855720" lat="48.70184663592368"/>
+  <node id="-824" visible="true" lon="-122.4769066939316" lat="48.70184775875109"/>
+  <node id="-825" visible="true" lon="-122.4769075690172" lat="48.70187487585723"/>
+  <node id="-826" visible="true" lon="-122.4768881622687" lat="48.70187515024286"/>
+  <node id="-827" visible="true" lon="-122.4768775277721" lat="48.70194669604547"/>
+  <way id="-155" visible="true">
+    <nd ref="-820"/>
+    <nd ref="-821"/>
+    <nd ref="-822"/>
+    <nd ref="-823"/>
+    <nd ref="-824"/>
+    <nd ref="-825"/>
+    <nd ref="-826"/>
+    <nd ref="-827"/>
+    <nd ref="-820"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1732"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-828" visible="true" lon="-122.4766838282451" lat="48.70361317014504"/>
+  <node id="-829" visible="true" lon="-122.4765457814285" lat="48.70364077408826"/>
+  <node id="-830" visible="true" lon="-122.4765942839921" lat="48.70371295989460"/>
+  <node id="-831" visible="true" lon="-122.4764956464017" lat="48.70373148882675"/>
+  <node id="-832" visible="true" lon="-122.4764110288719" lat="48.70358275685131"/>
+  <node id="-833" visible="true" lon="-122.4766400946762" lat="48.70352811496898"/>
+  <way id="-156" visible="true">
+    <nd ref="-828"/>
+    <nd ref="-829"/>
+    <nd ref="-830"/>
+    <nd ref="-831"/>
+    <nd ref="-832"/>
+    <nd ref="-833"/>
+    <nd ref="-828"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1976"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="3020"/>
+    <tag k="addr:postcode" v="98225-8355"/>
+    <tag k="addr:street" v="Church Street"/>
+  </way>
+  <node id="-834" visible="true" lon="-122.4753638813696" lat="48.70273400259731"/>
+  <node id="-835" visible="true" lon="-122.4753650453195" lat="48.70284377942113"/>
+  <node id="-836" visible="true" lon="-122.4750823687278" lat="48.70283869191309"/>
+  <node id="-837" visible="true" lon="-122.4750791236803" lat="48.70273802451575"/>
+  <way id="-157" visible="true">
+    <nd ref="-834"/>
+    <nd ref="-835"/>
+    <nd ref="-836"/>
+    <nd ref="-837"/>
+    <nd ref="-834"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1991"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="3215"/>
+    <tag k="addr:postcode" v="98229-9345"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </way>
+  <node id="-838" visible="true" lon="-122.4723982542357" lat="48.70006507948487"/>
+  <node id="-839" visible="true" lon="-122.4723090788693" lat="48.70014155946092"/>
+  <node id="-840" visible="true" lon="-122.4722201370172" lat="48.70009654804307"/>
+  <node id="-841" visible="true" lon="-122.4723092187320" lat="48.70001715610977"/>
+  <way id="-158" visible="true">
+    <nd ref="-838"/>
+    <nd ref="-839"/>
+    <nd ref="-840"/>
+    <nd ref="-841"/>
+    <nd ref="-838"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-842" visible="true" lon="-122.4755086050489" lat="48.70155361012650"/>
+  <node id="-843" visible="true" lon="-122.4754334470148" lat="48.70161525397985"/>
+  <node id="-844" visible="true" lon="-122.4753676406213" lat="48.70158113974600"/>
+  <node id="-845" visible="true" lon="-122.4754397924842" lat="48.70152015812773"/>
+  <way id="-159" visible="true">
+    <nd ref="-842"/>
+    <nd ref="-843"/>
+    <nd ref="-844"/>
+    <nd ref="-845"/>
+    <nd ref="-842"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-846" visible="true" lon="-122.4749910536908" lat="48.70158096385484"/>
+  <node id="-847" visible="true" lon="-122.4749792923745" lat="48.70163373568032"/>
+  <node id="-848" visible="true" lon="-122.4749357014859" lat="48.70163058074286"/>
+  <node id="-849" visible="true" lon="-122.4749308978424" lat="48.70165823586944"/>
+  <node id="-850" visible="true" lon="-122.4748286246174" lat="48.70164957019436"/>
+  <node id="-851" visible="true" lon="-122.4748335952434" lat="48.70162705222025"/>
+  <node id="-852" visible="true" lon="-122.4747141689168" lat="48.70161622980729"/>
+  <node id="-853" visible="true" lon="-122.4747252087725" lat="48.70155712791665"/>
+  <way id="-160" visible="true">
+    <nd ref="-846"/>
+    <nd ref="-847"/>
+    <nd ref="-848"/>
+    <nd ref="-849"/>
+    <nd ref="-850"/>
+    <nd ref="-851"/>
+    <nd ref="-852"/>
+    <nd ref="-853"/>
+    <nd ref="-846"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1966"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1758"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-854" visible="true" lon="-122.4742146124725" lat="48.70166611824776"/>
+  <node id="-855" visible="true" lon="-122.4742381412732" lat="48.70165721878119"/>
+  <node id="-856" visible="true" lon="-122.4742942536444" lat="48.70171160306315"/>
+  <node id="-857" visible="true" lon="-122.4742019777702" lat="48.70175608591369"/>
+  <node id="-858" visible="true" lon="-122.4742232900474" lat="48.70177480502211"/>
+  <node id="-859" visible="true" lon="-122.4741413060042" lat="48.70181742907655"/>
+  <node id="-860" visible="true" lon="-122.4740286674942" lat="48.70171192312204"/>
+  <node id="-861" visible="true" lon="-122.4741772788200" lat="48.70163220317420"/>
+  <way id="-161" visible="true">
+    <nd ref="-854"/>
+    <nd ref="-855"/>
+    <nd ref="-856"/>
+    <nd ref="-857"/>
+    <nd ref="-858"/>
+    <nd ref="-859"/>
+    <nd ref="-860"/>
+    <nd ref="-861"/>
+    <nd ref="-854"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1996"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="addr:housenumber" v="1764"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-862" visible="true" lon="-122.4746404170759" lat="48.70230011290256"/>
+  <node id="-863" visible="true" lon="-122.4746342234323" lat="48.70239718622619"/>
+  <node id="-864" visible="true" lon="-122.4746285309234" lat="48.70239726659884"/>
+  <node id="-865" visible="true" lon="-122.4746211739525" lat="48.70245819992561"/>
+  <node id="-866" visible="true" lon="-122.4745170250348" lat="48.70245555712681"/>
+  <node id="-867" visible="true" lon="-122.4745243862761" lat="48.70239479464509"/>
+  <node id="-868" visible="true" lon="-122.4744414536672" lat="48.70239185224451"/>
+  <node id="-869" visible="true" lon="-122.4744475801235" lat="48.70229272462284"/>
+  <way id="-162" visible="true">
+    <nd ref="-862"/>
+    <nd ref="-863"/>
+    <nd ref="-864"/>
+    <nd ref="-865"/>
+    <nd ref="-866"/>
+    <nd ref="-867"/>
+    <nd ref="-868"/>
+    <nd ref="-869"/>
+    <nd ref="-862"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1997"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="addr:housenumber" v="1755"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-870" visible="true" lon="-122.4778470654889" lat="48.70438464240084"/>
+  <node id="-871" visible="true" lon="-122.4778462865531" lat="48.70448883587545"/>
+  <node id="-872" visible="true" lon="-122.4777385259112" lat="48.70448676148508"/>
+  <node id="-873" visible="true" lon="-122.4777398281035" lat="48.70438273150972"/>
+  <way id="-163" visible="true">
+    <nd ref="-870"/>
+    <nd ref="-871"/>
+    <nd ref="-872"/>
+    <nd ref="-873"/>
+    <nd ref="-870"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1918"/>
+    <tag k="building:levels" v="1.5"/>
+    <tag k="addr:housenumber" v="3006"/>
+    <tag k="addr:postcode" v="98225-8345"/>
+    <tag k="addr:street" v="University Street"/>
+  </way>
+  <node id="-874" visible="true" lon="-122.4807668409152" lat="48.69947421400841"/>
+  <node id="-875" visible="true" lon="-122.4809398850112" lat="48.69948889611243"/>
+  <node id="-876" visible="true" lon="-122.4809246304876" lat="48.69957142287223"/>
+  <node id="-877" visible="true" lon="-122.4807689348367" lat="48.69955957822091"/>
+  <node id="-878" visible="true" lon="-122.4807631252831" lat="48.69964273923225"/>
+  <node id="-879" visible="true" lon="-122.4806492046952" lat="48.69963769411753"/>
+  <node id="-880" visible="true" lon="-122.4806622856934" lat="48.69953966811910"/>
+  <node id="-881" visible="true" lon="-122.4807576091805" lat="48.69954395230221"/>
+  <way id="-164" visible="true">
+    <nd ref="-874"/>
+    <nd ref="-875"/>
+    <nd ref="-876"/>
+    <nd ref="-877"/>
+    <nd ref="-878"/>
+    <nd ref="-879"/>
+    <nd ref="-880"/>
+    <nd ref="-881"/>
+    <nd ref="-874"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:postcode" v="98229-8902"/>
+    <tag k="addr:street" v="California Street"/>
+  </way>
+  <node id="-882" visible="true" lon="-122.4705360317215" lat="48.69956817193317"/>
+  <node id="-883" visible="true" lon="-122.4704095137817" lat="48.69964260663454"/>
+  <node id="-884" visible="true" lon="-122.4703612580026" lat="48.69960695892513"/>
+  <node id="-885" visible="true" lon="-122.4704872570938" lat="48.69953253158263"/>
+  <way id="-165" visible="true">
+    <nd ref="-882"/>
+    <nd ref="-883"/>
+    <nd ref="-884"/>
+    <nd ref="-885"/>
+    <nd ref="-882"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-886" visible="true" lon="-122.4661116445090" lat="48.69764388546530"/>
+  <node id="-887" visible="true" lon="-122.4659520268276" lat="48.69780017219558"/>
+  <node id="-888" visible="true" lon="-122.4658159967156" lat="48.69773936627658"/>
+  <node id="-889" visible="true" lon="-122.4659038298008" lat="48.69765314293837"/>
+  <node id="-890" visible="true" lon="-122.4657562570005" lat="48.69758753046921"/>
+  <node id="-891" visible="true" lon="-122.4658280474376" lat="48.69751763906918"/>
+  <way id="-166" visible="true">
+    <nd ref="-886"/>
+    <nd ref="-887"/>
+    <nd ref="-888"/>
+    <nd ref="-889"/>
+    <nd ref="-890"/>
+    <nd ref="-891"/>
+    <nd ref="-886"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1978"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="addr:housenumber" v="1807"/>
+    <tag k="addr:postcode" v="98229-8506"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-892" visible="true" lon="-122.4690527078147" lat="48.69933440178976"/>
+  <node id="-893" visible="true" lon="-122.4691553318061" lat="48.69925394116701"/>
+  <node id="-894" visible="true" lon="-122.4693891754116" lat="48.69938463063897"/>
+  <node id="-895" visible="true" lon="-122.4692865514973" lat="48.69946509056540"/>
+  <way id="-167" visible="true">
+    <nd ref="-892"/>
+    <nd ref="-893"/>
+    <nd ref="-894"/>
+    <nd ref="-895"/>
+    <nd ref="-892"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1775"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-896" visible="true" lon="-122.4690846684522" lat="48.69836770670550"/>
+  <node id="-897" visible="true" lon="-122.4689096359842" lat="48.69846286964323"/>
+  <node id="-898" visible="true" lon="-122.4688341504173" lat="48.69840138795887"/>
+  <node id="-899" visible="true" lon="-122.4690086653262" lat="48.69830623151523"/>
+  <way id="-168" visible="true">
+    <nd ref="-896"/>
+    <nd ref="-897"/>
+    <nd ref="-898"/>
+    <nd ref="-899"/>
+    <nd ref="-896"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1970"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <node id="-900" visible="true" lon="-122.4693218967579" lat="48.69877464597452"/>
+  <node id="-901" visible="true" lon="-122.4692085140474" lat="48.69883895551213"/>
+  <node id="-902" visible="true" lon="-122.4691097737166" lat="48.69876272276007"/>
+  <node id="-903" visible="true" lon="-122.4692231563243" lat="48.69869841151892"/>
+  <way id="-169" visible="true">
+    <nd ref="-900"/>
+    <nd ref="-901"/>
+    <nd ref="-902"/>
+    <nd ref="-903"/>
+    <nd ref="-900"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-904" visible="true" lon="-122.4696872149536" lat="48.69880131941369"/>
+  <node id="-905" visible="true" lon="-122.4697015955824" lat="48.69887839660591"/>
+  <node id="-906" visible="true" lon="-122.4696180082471" lat="48.69888711344058"/>
+  <node id="-907" visible="true" lon="-122.4695948339557" lat="48.69887476000019"/>
+  <node id="-908" visible="true" lon="-122.4695717664356" lat="48.69889804517612"/>
+  <node id="-909" visible="true" lon="-122.4695390012851" lat="48.69887725849301"/>
+  <node id="-910" visible="true" lon="-122.4695559747785" lat="48.69885765783675"/>
+  <node id="-911" visible="true" lon="-122.4694465816466" lat="48.69878825648962"/>
+  <node id="-912" visible="true" lon="-122.4694443932826" lat="48.69872008768728"/>
+  <node id="-913" visible="true" lon="-122.4695404545592" lat="48.69871290975489"/>
+  <way id="-170" visible="true">
+    <nd ref="-904"/>
+    <nd ref="-905"/>
+    <nd ref="-906"/>
+    <nd ref="-907"/>
+    <nd ref="-908"/>
+    <nd ref="-909"/>
+    <nd ref="-910"/>
+    <nd ref="-911"/>
+    <nd ref="-912"/>
+    <nd ref="-913"/>
+    <nd ref="-904"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="1780"/>
+    <tag k="addr:postcode" v="98229-4393"/>
+    <tag k="addr:street" v="Old Samish Road"/>
+  </way>
+  <node id="-914" visible="true" lon="-122.4858122291966" lat="48.69951624764123"/>
+  <node id="-915" visible="true" lon="-122.4857478990167" lat="48.69963985233434"/>
+  <node id="-916" visible="true" lon="-122.4857119100878" lat="48.69963162385773"/>
+  <node id="-917" visible="true" lon="-122.4857026462641" lat="48.69964923388549"/>
+  <node id="-918" visible="true" lon="-122.4856077386095" lat="48.69962813509837"/>
+  <node id="-919" visible="true" lon="-122.4856183895535" lat="48.69960536493740"/>
+  <node id="-920" visible="true" lon="-122.4855646844642" lat="48.69959361949351"/>
+  <node id="-921" visible="true" lon="-122.4856255511951" lat="48.69947503456239"/>
+  <way id="-171" visible="true">
+    <nd ref="-914"/>
+    <nd ref="-915"/>
+    <nd ref="-916"/>
+    <nd ref="-917"/>
+    <nd ref="-918"/>
+    <nd ref="-919"/>
+    <nd ref="-920"/>
+    <nd ref="-921"/>
+    <nd ref="-914"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1984"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:postcode" v="98229-8972"/>
+    <tag k="addr:street" v="California Street"/>
+  </way>
+  <node id="-922" visible="true" lon="-122.4828894423905" lat="48.69947409707481"/>
+  <node id="-923" visible="true" lon="-122.4828797874954" lat="48.69957561504689"/>
+  <node id="-924" visible="true" lon="-122.4827869345899" lat="48.69957264853351"/>
+  <node id="-925" visible="true" lon="-122.4827853800214" lat="48.69959123367047"/>
+  <node id="-926" visible="true" lon="-122.4827066926410" lat="48.69958666922027"/>
+  <node id="-927" visible="true" lon="-122.4827092236793" lat="48.69955287743249"/>
+  <node id="-928" visible="true" lon="-122.4826221277147" lat="48.69954914281207"/>
+  <node id="-929" visible="true" lon="-122.4826292126637" lat="48.69948015886036"/>
+  <node id="-930" visible="true" lon="-122.4827126861913" lat="48.69948394397463"/>
+  <node id="-931" visible="true" lon="-122.4827142291375" lat="48.69946764273489"/>
+  <way id="-172" visible="true">
+    <nd ref="-922"/>
+    <nd ref="-923"/>
+    <nd ref="-924"/>
+    <nd ref="-925"/>
+    <nd ref="-926"/>
+    <nd ref="-927"/>
+    <nd ref="-928"/>
+    <nd ref="-929"/>
+    <nd ref="-930"/>
+    <nd ref="-931"/>
+    <nd ref="-922"/>
+    <tag k="building" v="house"/>
+    <tag k="start_date" v="1949"/>
+    <tag k="building:levels" v="1.5"/>
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98229-8974"/>
+    <tag k="addr:street" v="California Street"/>
+  </way>
+</osm>
