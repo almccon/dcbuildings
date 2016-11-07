@@ -17,7 +17,7 @@ from fiona import collection
 getcontext().prec = 16
 
 # Converts given buildings into corresponding OSM XML files.
-def convert(buildingsFile, osmOut):
+def convert(buildingsFile, extraAddressesFile, osmOut):
     with open(buildingsFile) as f:
         buildings = json.load(f)
     buildingShapes = []
@@ -26,6 +26,13 @@ def convert(buildingsFile, osmOut):
         shape = asShape(building['geometry'])
         buildingShapes.append(shape)
         buildingIdx.add(len(buildingShapes) - 1, shape.bounds)
+
+    try:
+        with open(extraAddressesFile) as f:
+            extraAddresses = json.load(f)
+    except:
+        print "couldn't open", extraAddressesFile, "ignoring..."
+        extraAddresses = []
 
     # Generates a new osm id.
     osmIds = dict(node = -1, way = -1, rel = -1)
@@ -176,6 +183,9 @@ def convert(buildingsFile, osmOut):
 
         if building['properties']['NAME'] != None:
             name = str(building['properties']['NAME']).title()
+            if name[-3:] == ' Es': name = name[:-3] + ' Elementary School'
+            if name[-3:] == ' Ms': name = name[:-3] + ' Middle School'
+            if name[-3:] == ' Hs': name = name[:-3] + ' High School'
             way.append(etree.Element('tag', k='name', v=name))
         if building['properties']['YRBUILT'] > 1800:
             yrbuilt = str(int(building['properties']['YRBUILT']))
@@ -212,20 +222,37 @@ def convert(buildingsFile, osmOut):
             node = appendNewNode(address['geometry']['coordinates'], osmXml)
             appendAddress(address, node)
 
+    # Export any addresses that didn't originally intersect a building.
+    if (len(extraAddresses) > 0):
+        for address in extraAddresses:
+            node = appendNewNode(address['geometry']['coordinates'], osmXml)
+            appendAddress(address, node)
+
     with open(osmOut, 'w') as outFile:
         outFile.writelines(tostring(osmXml, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
         print 'Exported ' + osmOut
 
 def prep(fil3):
-    matches = re.match('^(.*)\..*?$', ntpath.basename(fil3)).groups(0)
-    convert(fil3, 'osm/%s.osm' % matches[0])
+    matches = re.match('^.*-(\d+)\.geojson$', fil3).groups(0)
+    convert(fil3,
+            'merged/extra-addresses-%s.geojson' % matches[0],
+            'osm/buildings-addresses-%s.osm' % matches[0])
 
 if __name__ == '__main__':
-    # this is better for debugging
-    #for fil3 in argv[1:]:
-    #    prep(fil3)
+    # Run conversion.
+    # Checks for an optional merged/extra-addresses-[block group geoid].geojson
+    # for each merged/buildings-addresses-[block group geoid].geojson.
+    # Optionally convert only one block group (passing the id as the argument).
 
-    pool = Pool()
-    pool.map(prep, argv[1:])
-    pool.close()
-    pool.join()
+    if (len(argv) == 2):
+        convert('merged/buildings-addresses-%s.geojson' % argv[1],
+                'merged/extra-addresses-%s.geojson' % argv[1],
+                'osm/buildings-addresses-%s.osm' % argv[1])
+
+    else:
+        buildingFiles = glob("merged/buildings-addresses-*.geojson")
+
+        pool = Pool()
+        pool.map(prep, buildingFiles)
+        pool.close()
+        pool.join()
