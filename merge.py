@@ -34,12 +34,15 @@ def merge(buildingIn, addressIn, mergedOut, extraOut):
 
     # Map addresses to buildings.
     for address in addresses:
+        didMatch = False
         for i in buildingIdx.intersection(address.bounds):
             if buildingShapes[i].contains(address):
-                buildings[i]['properties']['addresses'].append(
-                    address.original)
-            else:
-                extraAddrs.append(address.original)
+                buildings[i]['properties']['addresses'].append(address.original)
+                didMatch = True
+                break
+
+        if not didMatch:
+            extraAddrs.append(address.original)
 
     # These are the buildings w/ any intersected addresses
     if len(buildings) > 0:
@@ -62,7 +65,8 @@ def prep(fil3):
 
 if __name__ == '__main__':
     # Run merges. Expects an chunks/addresses-[block group geoid].shp for each
-    # chunks/buildings-[block group geoid].shp. Optionally convert only one block group.
+    # chunks/buildings-[block group geoid].shp.
+    # Optionally convert only one block group (passing the id as the argument).
     if (len(argv) == 2):
         merge('chunks/buildings-%s.shp' % argv[1],
             'chunks/addresses-%s.shp' % argv[1],
