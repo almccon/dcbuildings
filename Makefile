@@ -60,7 +60,7 @@ merged: directories
 	python merge.py
 
 osm: merged
-	python convert.py merged/*
+	python convert.py
 
 directories:
 	mkdir -p chunks
