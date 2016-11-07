@@ -42,14 +42,16 @@ def merge(buildingIn, addressIn, mergedOut, extraOut):
                 extraAddrs.append(address.original)
 
     # These are the buildings w/ any intersected addresses
-    with open(mergedOut, 'w') as outFile:
-	    outFile.writelines(json.dumps(buildings, indent=4))
-	    print 'Exported ' + mergedOut
+    if len(buildings) > 0:
+      with open(mergedOut, 'w') as outFile:
+        outFile.writelines(json.dumps(buildings, indent=4))
+        print 'Exported ' + mergedOut
 
     # These are the remaining addresses that failed to intersect
-    with open(extraOut, 'w') as outFile2:
-	    outFile2.writelines(json.dumps(extraAddrs, indent=4))
-	    print 'Exported ' + extraOut
+    if len(extraAddrs) > 0:
+      with open(extraOut, 'w') as outFile2:
+        outFile2.writelines(json.dumps(extraAddrs, indent=4))
+        print 'Exported ' + extraOut
 
 def prep(fil3):
     matches = re.match('^.*-(\d+)\.shp$', fil3).groups(0)
