@@ -10,8 +10,9 @@ from glob import glob
 from multiprocessing import Pool
 import json
 
-def merge(buildingIn, addressIn, mergedOut):
+def merge(buildingIn, addressIn, mergedOut, extraOut):
     addresses = []
+    extraAddrs = [] # the addresses that fail to join
 
     with collection(addressIn, "r") as input:
         for address in input:
@@ -37,16 +38,25 @@ def merge(buildingIn, addressIn, mergedOut):
             if buildingShapes[i].contains(address):
                 buildings[i]['properties']['addresses'].append(
                     address.original)
+            else:
+                extraAddrs.append(address.original)
 
+    # These are the buildings w/ any intersected addresses
     with open(mergedOut, 'w') as outFile:
 	    outFile.writelines(json.dumps(buildings, indent=4))
 	    print 'Exported ' + mergedOut
+
+    # These are the remaining addresses that failed to intersect
+    with open(extraOut, 'w') as outFile2:
+	    outFile2.writelines(json.dumps(extraAddrs, indent=4))
+	    print 'Exported ' + extraOut
 
 def prep(fil3):
     matches = re.match('^.*-(\d+)\.shp$', fil3).groups(0)
     merge(fil3,
         'chunks/addresses-%s.shp' % matches[0],
-        'merged/buildings-addresses-%s.geojson' % matches[0])
+        'merged/buildings-addresses-%s.geojson' % matches[0],
+        'merged/extra-addresses-%s.geojson' % matches[0])
 
 if __name__ == '__main__':
     # Run merges. Expects an chunks/addresses-[block group geoid].shp for each
@@ -54,7 +64,8 @@ if __name__ == '__main__':
     if (len(argv) == 2):
         merge('chunks/buildings-%s.shp' % argv[1],
             'chunks/addresses-%s.shp' % argv[1],
-            'merged/buildings-addresses-%s.geojson' % argv[1])
+            'merged/buildings-addresses-%s.geojson' % argv[1],
+            'merged/extra-addresses-%s.geojson' % argv[1])
     else:
         buildingFiles = glob("chunks/buildings-*.shp")
 
