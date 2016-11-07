@@ -17782,4 +17782,389 @@
     <tag k="addr:postcode" v="98225-4724"/>
     <tag k="addr:street" v="High Street"/>
   </node>
+  <node id="-5708" visible="true" lon="-122.4707259387994" lat="48.74879565225147">
+    <tag k="addr:housenumber" v="1473"/>
+    <tag k="addr:postcode" v="98225-4908"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5709" visible="true" lon="-122.4723510723845" lat="48.74900465762095">
+    <tag k="addr:housenumber" v="1431"/>
+    <tag k="addr:postcode" v="98225-4506"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-5710" visible="true" lon="-122.4723182512879" lat="48.74909042576359">
+    <tag k="addr:housenumber" v="1433"/>
+    <tag k="addr:postcode" v="98225-4506"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-5711" visible="true" lon="-122.4726727284088" lat="48.74919399568519">
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="98225-4503"/>
+    <tag k="addr:street" v="East Champion Street"/>
+  </node>
+  <node id="-5712" visible="true" lon="-122.4741130255985" lat="48.75004494593898">
+    <tag k="addr:housenumber" v="1426"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5713" visible="true" lon="-122.4738980433648" lat="48.75014063959496">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Champion Street"/>
+  </node>
+  <node id="-5714" visible="true" lon="-122.4741248607810" lat="48.75020625327156">
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5715" visible="true" lon="-122.4741591081404" lat="48.74925571151354">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-5716" visible="true" lon="-122.4686512291198" lat="48.74880180137556">
+    <tag k="addr:housenumber" v="1470"/>
+    <tag k="addr:postcode" v="98225-4921"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5717" visible="true" lon="-122.4673282321287" lat="48.74877241172561">
+    <tag k="addr:housenumber" v="1470"/>
+    <tag k="addr:postcode" v="98225-4934"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5718" visible="true" lon="-122.4667564134853" lat="48.74876576966717">
+    <tag k="addr:housenumber" v="1467"/>
+    <tag k="addr:postcode" v="98225-4939"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5719" visible="true" lon="-122.4750287846047" lat="48.74951099263592">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98225-4558"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5720" visible="true" lon="-122.4756053604849" lat="48.74842202937977">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-5721" visible="true" lon="-122.4747844886750" lat="48.74751400635008">
+    <tag k="addr:housenumber" v="1305"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-5722" visible="true" lon="-122.4699817165574" lat="48.74847111125749">
+    <tag k="addr:housenumber" v="1456"/>
+    <tag k="addr:postcode" v="98225-4909"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5723" visible="true" lon="-122.4699748814572" lat="48.74879991387864">
+    <tag k="addr:housenumber" v="1468"/>
+    <tag k="addr:postcode" v="98225-4909"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5724" visible="true" lon="-122.4699794323110" lat="48.74858052903215">
+    <tag k="addr:housenumber" v="1462"/>
+    <tag k="addr:postcode" v="98225-4909"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5725" visible="true" lon="-122.4698504640038" lat="48.74481767199279">
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="98225-5217"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5726" visible="true" lon="-122.4686856501911" lat="48.74703496656431">
+    <tag k="addr:housenumber" v="1404"/>
+    <tag k="addr:postcode" v="98225-4921"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5727" visible="true" lon="-122.4686837853129" lat="48.74714465276843">
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:postcode" v="98225-4921"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5728" visible="true" lon="-122.4686714997840" lat="48.74778140287169">
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:postcode" v="98225-4921"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5729" visible="true" lon="-122.4686667657697" lat="48.74802107713925">
+    <tag k="addr:housenumber" v="1440"/>
+    <tag k="addr:postcode" v="98225-4921"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5730" visible="true" lon="-122.4682496090865" lat="48.74472753677910">
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5731" visible="true" lon="-122.4679325590424" lat="48.74647934933711">
+    <tag k="addr:housenumber" v="1351"/>
+    <tag k="addr:postcode" v="98225-4931"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5732" visible="true" lon="-122.4687085698453" lat="48.74662826829826">
+    <tag k="addr:housenumber" v="506"/>
+    <tag k="addr:postcode" v="98225-4952"/>
+    <tag k="addr:street" v="Potter Street"/>
+  </node>
+  <node id="-5733" visible="true" lon="-122.4681561262273" lat="48.74703061899140">
+    <tag k="addr:housenumber" v="1407"/>
+    <tag k="addr:postcode" v="98225-4933"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5734" visible="true" lon="-122.4673572272625" lat="48.74722250686718">
+    <tag k="addr:housenumber" v="1412"/>
+    <tag k="addr:postcode" v="98225-4934"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5735" visible="true" lon="-122.4670483228104" lat="48.74523212498546">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5736" visible="true" lon="-122.4668461485512" lat="48.74610644313715">
+    <tag k="addr:housenumber" v="1329"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5737" visible="true" lon="-122.4668402864094" lat="48.74658997370774">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225-4949"/>
+    <tag k="addr:street" v="Potter Street"/>
+  </node>
+  <node id="-5738" visible="true" lon="-122.4668082083134" lat="48.74822510705516">
+    <tag k="addr:housenumber" v="1449"/>
+    <tag k="addr:postcode" v="98225-4939"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5739" visible="true" lon="-122.4662319770385" lat="48.74495524992994">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5740" visible="true" lon="-122.4719926346398" lat="48.74611115614307">
+    <tag k="addr:housenumber" v="1316"/>
+    <tag k="addr:postcode" v="98225-4727"/>
+    <tag k="addr:street" v="Billy Frank Jr. Street"/>
+  </node>
+  <node id="-5741" visible="true" lon="-122.4732276924130" lat="48.74657388431223">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-5742" visible="true" lon="-122.4723464215222" lat="48.74695329824688">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98225-4532"/>
+    <tag k="addr:street" v="East Magnolia Street"/>
+  </node>
+  <node id="-5743" visible="true" lon="-122.4741583613623" lat="48.74724687147549">
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:postcode" v="98225-4704"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-5744" visible="true" lon="-122.4728112405538" lat="48.74735421436591">
+    <tag k="addr:housenumber" v="518"/>
+    <tag k="addr:postcode" v="98225-4530"/>
+    <tag k="addr:street" v="East Magnolia Street"/>
+  </node>
+  <node id="-5745" visible="true" lon="-122.4707932379761" lat="48.74760187641463">
+    <tag k="addr:housenumber" v="1425"/>
+    <tag k="addr:postcode" v="98225-4908"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5746" visible="true" lon="-122.4722691110246" lat="48.74795092601605">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98225-4557"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-5747" visible="true" lon="-122.4741527987620" lat="48.74826895050843">
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="98225-4511"/>
+    <tag k="addr:street" v="East Magnolia Street"/>
+  </node>
+  <node id="-5748" visible="true" lon="-122.4723774577998" lat="48.74844451605968">
+    <tag k="addr:housenumber" v="1418"/>
+    <tag k="addr:postcode" v="98225-4507"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-5749" visible="true" lon="-122.4735433462120" lat="48.74846153254295">
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="98225-4510"/>
+    <tag k="addr:street" v="East Magnolia Street"/>
+  </node>
+  <node id="-5750" visible="true" lon="-122.4732329619413" lat="48.74717904370544">
+    <tag k="addr:housenumber" v="1323"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-5751" visible="true" lon="-122.4737621237449" lat="48.74715924753918">
+    <tag k="addr:housenumber" v="1313"/>
+    <tag k="addr:postcode" v="98225-4724"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-5752" visible="true" lon="-122.4707909629780" lat="48.74771156846506">
+    <tag k="addr:housenumber" v="1429"/>
+    <tag k="addr:postcode" v="98225-4908"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5753" visible="true" lon="-122.4713333363969" lat="48.74705885751333">
+    <tag k="addr:housenumber" v="1406"/>
+    <tag k="addr:postcode" v="98225-4904"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5754" visible="true" lon="-122.4713045661511" lat="48.74848320073841">
+    <tag k="addr:housenumber" v="1458"/>
+    <tag k="addr:postcode" v="98225-4904"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5755" visible="true" lon="-122.4728568113405" lat="48.74601646241960">
+    <tag k="addr:housenumber" v="619"/>
+    <tag k="addr:postcode" v="98225-4710"/>
+    <tag k="addr:street" v="East Holly Street"/>
+  </node>
+  <node id="-5756" visible="true" lon="-122.4708532284142" lat="48.74604659705979">
+    <tag k="addr:housenumber" v="1335"/>
+    <tag k="addr:postcode" v="98225-4961"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5757" visible="true" lon="-122.4730127088513" lat="48.74606239112317">
+    <tag k="addr:housenumber" v="611"/>
+    <tag k="addr:postcode" v="98225-4710"/>
+    <tag k="addr:street" v="East Holly Street"/>
+  </node>
+  <node id="-5758" visible="true" lon="-122.4687854065405" lat="48.74193545537418">
+    <tag k="addr:housenumber" v="1132"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5759" visible="true" lon="-122.4682521926137" lat="48.74205973813321">
+    <tag k="addr:housenumber" v="1137"/>
+    <tag k="addr:postcode" v="98225-5230"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5760" visible="true" lon="-122.4687744210051" lat="48.74248363822894">
+    <tag k="addr:housenumber" v="1152"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5761" visible="true" lon="-122.4701080472132" lat="48.74314528750489">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5762" visible="true" lon="-122.4688130030255" lat="48.74423875822259">
+    <tag k="addr:housenumber" v="1244"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5763" visible="true" lon="-122.4682546844164" lat="48.74193085239954">
+    <tag k="addr:housenumber" v="1135"/>
+    <tag k="addr:postcode" v="98225-5230"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5764" visible="true" lon="-122.4709108646336" lat="48.74059100163247">
+    <tag k="addr:housenumber" v="1115"/>
+    <tag k="addr:postcode" v="98225-5710"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-5765" visible="true" lon="-122.4709066464702" lat="48.74195414151395">
+    <tag k="addr:housenumber" v="1135"/>
+    <tag k="addr:postcode" v="98225-5206"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5766" visible="true" lon="-122.4708155607765" lat="48.74266602325856">
+    <tag k="addr:housenumber" v="314"/>
+    <tag k="addr:postcode" v="98225-5219"/>
+    <tag k="addr:street" v="Whatcom Street"/>
+  </node>
+  <node id="-5767" visible="true" lon="-122.4692069347987" lat="48.73824658110436">
+    <tag k="addr:housenumber" v="1018"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Pasco Street"/>
+  </node>
+  <node id="-5768" visible="true" lon="-122.4702523648128" lat="48.74032474745673">
+    <tag k="addr:housenumber" v="1205"/>
+    <tag k="addr:postcode" v="98225-5712"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-5769" visible="true" lon="-122.4703632855927" lat="48.74039693305583">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98225-5712"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-5770" visible="true" lon="-122.4699909952379" lat="48.74047207962001">
+    <tag k="addr:housenumber" v="1108"/>
+    <tag k="addr:postcode" v="98225-5729"/>
+    <tag k="addr:street" v="Newell Street"/>
+  </node>
+  <node id="-5771" visible="true" lon="-122.4695980588102" lat="48.74106538761937">
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="98225-5210"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5772" visible="true" lon="-122.4682702418260" lat="48.74116355921358">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:postcode" v="98225-5230"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5773" visible="true" lon="-122.4701260826641" lat="48.74117968258155">
+    <tag k="addr:housenumber" v="1106"/>
+    <tag k="addr:postcode" v="98225-5207"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5774" visible="true" lon="-122.4682679616783" lat="48.74127325147303">
+    <tag k="addr:housenumber" v="1109"/>
+    <tag k="addr:postcode" v="98225-5230"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5775" visible="true" lon="-122.4687982623863" lat="48.74127786111547">
+    <tag k="addr:housenumber" v="1108"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5776" visible="true" lon="-122.4687959847307" lat="48.74138755336159">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5777" visible="true" lon="-122.4687895561556" lat="48.74171635095663">
+    <tag k="addr:housenumber" v="1124"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5778" visible="true" lon="-122.4688005501746" lat="48.74116844215340">
+    <tag k="addr:housenumber" v="1104"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5779" visible="true" lon="-122.4687941216566" lat="48.74149723977498">
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5780" visible="true" lon="-122.4682569720720" lat="48.74182143439237">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98225-5230"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5781" visible="true" lon="-122.4695852221966" lat="48.74172325712291">
+    <tag k="addr:housenumber" v="1125"/>
+    <tag k="addr:postcode" v="98225-5210"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5782" visible="true" lon="-122.4697501014261" lat="48.74062460706499">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98225-5729"/>
+    <tag k="addr:street" v="Newell Street"/>
+  </node>
+  <node id="-5783" visible="true" lon="-122.4687872784617" lat="48.74182604318498">
+    <tag k="addr:housenumber" v="1128"/>
+    <tag k="addr:postcode" v="98225-5211"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5784" visible="true" lon="-122.4686985379917" lat="48.74068983740907">
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="98225-5202"/>
+    <tag k="addr:street" v="Edwards Street"/>
+  </node>
 </osm>

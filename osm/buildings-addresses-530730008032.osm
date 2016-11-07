@@ -7725,4 +7725,139 @@
     <tag k="addr:postcode" v="98229-4558"/>
     <tag k="addr:street" v="East Birch Street"/>
   </node>
+  <node id="-2548" visible="true" lon="-122.4268175102855" lat="48.76161546899039">
+    <tag k="addr:housenumber" v="2319"/>
+    <tag k="addr:postcode" v="98229-4527"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-2549" visible="true" lon="-122.4247751575042" lat="48.76166527240976">
+    <tag k="addr:housenumber" v="2323"/>
+    <tag k="addr:postcode" v="98229-4348"/>
+    <tag k="addr:street" v="Fir Street"/>
+  </node>
+  <node id="-2550" visible="true" lon="-122.4273277754410" lat="48.76241666456768">
+    <tag k="addr:housenumber" v="2420"/>
+    <tag k="addr:postcode" v="98229-4512"/>
+    <tag k="addr:street" v="Vista Drive"/>
+  </node>
+  <node id="-2551" visible="true" lon="-122.4257373388423" lat="48.76247763796505">
+    <tag k="addr:housenumber" v="2416"/>
+    <tag k="addr:postcode" v="98229-4526"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-2552" visible="true" lon="-122.4266127299540" lat="48.76250458669882">
+    <tag k="addr:housenumber" v="2413"/>
+    <tag k="addr:postcode" v="98229-4516"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-2553" visible="true" lon="-122.4274551899190" lat="48.76260545050048">
+    <tag k="addr:housenumber" v="2422"/>
+    <tag k="addr:postcode" v="98229-4512"/>
+    <tag k="addr:street" v="Vista Drive"/>
+  </node>
+  <node id="-2554" visible="true" lon="-122.4266134218587" lat="48.76276501522842">
+    <tag k="addr:housenumber" v="3530"/>
+    <tag k="addr:postcode" v="98229-4591"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-2555" visible="true" lon="-122.4207860376661" lat="48.76150275856169">
+    <tag k="addr:housenumber" v="2390"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-2556" visible="true" lon="-122.4269980265951" lat="48.75824456408454">
+    <tag k="addr:housenumber" v="2123"/>
+    <tag k="addr:postcode" v="98229-4532"/>
+    <tag k="addr:street" v="West Birch Street"/>
+  </node>
+  <node id="-2557" visible="true" lon="-122.4263033141042" lat="48.75870107662966">
+    <tag k="addr:housenumber" v="2207"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="West Birch Street"/>
+  </node>
+  <node id="-2558" visible="true" lon="-122.4264901920307" lat="48.75540094363971">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98229-4559"/>
+    <tag k="addr:street" v="Rhododendron Way"/>
+  </node>
+  <node id="-2559" visible="true" lon="-122.4270246956505" lat="48.75595891433786">
+    <tag k="addr:housenumber" v="1901"/>
+    <tag k="addr:postcode" v="98229-4510"/>
+    <tag k="addr:street" v="Lake Crest Drive"/>
+  </node>
+  <node id="-2560" visible="true" lon="-122.4255436482309" lat="48.75704452088129">
+    <tag k="addr:housenumber" v="2150"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Birch Circle"/>
+  </node>
+  <node id="-2561" visible="true" lon="-122.4297293660172" lat="48.75431040831571">
+    <tag k="addr:housenumber" v="3312"/>
+    <tag k="addr:postcode" v="98229-5947"/>
+    <tag k="addr:street" v="Iowa Drive"/>
+  </node>
+  <node id="-2562" visible="true" lon="-122.4290652221412" lat="48.75441793664125">
+    <tag k="addr:housenumber" v="3319"/>
+    <tag k="addr:postcode" v="98229-5953"/>
+    <tag k="addr:street" v="Iowa Drive"/>
+  </node>
+  <node id="-2563" visible="true" lon="-122.4290478107251" lat="48.75630841692325">
+    <tag k="addr:housenumber" v="1929"/>
+    <tag k="addr:postcode" v="98229-4510"/>
+    <tag k="addr:street" v="Lake Crest Drive"/>
+  </node>
+  <node id="-2564" visible="true" lon="-122.4289493185321" lat="48.75726626452619">
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="98229-4514"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2565" visible="true" lon="-122.4288463089659" lat="48.75744559828329">
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="98229-4514"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2566" visible="true" lon="-122.4285074785576" lat="48.75614722487115">
+    <tag k="addr:housenumber" v="1921"/>
+    <tag k="addr:postcode" v="98229-4510"/>
+    <tag k="addr:street" v="Lake Crest Drive"/>
+  </node>
+  <node id="-2567" visible="true" lon="-122.4284204726390" lat="48.75679732235996">
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="98229-4513"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2568" visible="true" lon="-122.4279591628105" lat="48.75603548513208">
+    <tag k="addr:housenumber" v="1913"/>
+    <tag k="addr:postcode" v="98229-4510"/>
+    <tag k="addr:street" v="Lake Crest Drive"/>
+  </node>
+  <node id="-2569" visible="true" lon="-122.4277054393244" lat="48.75800760804758">
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:postcode" v="98229-4513"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2570" visible="true" lon="-122.4290527421230" lat="48.75708692587851">
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="98229-4514"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2571" visible="true" lon="-122.4292789675502" lat="48.76176075983520">
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:postcode" v="98229-5902"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2572" visible="true" lon="-122.4285049005708" lat="48.76216120775424">
+    <tag k="addr:housenumber" v="2412"/>
+    <tag k="addr:postcode" v="98229-5901"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2573" visible="true" lon="-122.4280168615474" lat="48.76168594652987">
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:postcode" v="98229-5901"/>
+    <tag k="addr:street" v="Crestline Drive"/>
+  </node>
+  <node id="-2574" visible="true" lon="-122.4300767155204" lat="48.75902079060749">
+    <tag k="addr:housenumber" v="2205"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="View Ridge Drive"/>
+  </node>
 </osm>

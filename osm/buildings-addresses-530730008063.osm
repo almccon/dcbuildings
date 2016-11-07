@@ -728,4 +728,19 @@
     <nd ref="-260"/>
     <tag k="building" v="yes"/>
   </way>
+  <node id="-266" visible="true" lon="-122.3491114064912" lat="48.73175433252636">
+    <tag k="addr:housenumber" v="2515"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-267" visible="true" lon="-122.3270114260079" lat="48.71296231308405">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Clubhouse Circle"/>
+  </node>
+  <node id="-268" visible="true" lon="-122.3856164108880" lat="48.74154860663354">
+    <tag k="addr:housenumber" v="2749"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
 </osm>

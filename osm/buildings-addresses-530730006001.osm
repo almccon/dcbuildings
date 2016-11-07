@@ -9687,4 +9687,320 @@
     <tag k="addr:postcode" v="98225-4721"/>
     <tag k="addr:street" v="East Holly Street"/>
   </node>
+  <node id="-2949" visible="true" lon="-122.4807503395516" lat="48.74654037734408">
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:postcode" v="98225-5036"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-2950" visible="true" lon="-122.4795744157644" lat="48.74714103293105">
+    <tag k="addr:housenumber" v="1133"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2951" visible="true" lon="-122.4800612721613" lat="48.74894011600414">
+    <tag k="addr:housenumber" v="1204"/>
+    <tag k="addr:postcode" v="98225-5021"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2952" visible="true" lon="-122.4799827767556" lat="48.74898212102777">
+    <tag k="addr:housenumber" v="1206"/>
+    <tag k="addr:postcode" v="98225-5021"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2953" visible="true" lon="-122.4799217433695" lat="48.74902011381224">
+    <tag k="addr:housenumber" v="1208"/>
+    <tag k="addr:postcode" v="98225-5021"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2954" visible="true" lon="-122.4798878821381" lat="48.74949202591254">
+    <tag k="addr:housenumber" v="1223"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2955" visible="true" lon="-122.4798182215061" lat="48.74954290741942">
+    <tag k="addr:housenumber" v="1225"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2956" visible="true" lon="-122.4798127488064" lat="48.74908946438847">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="98225-5021"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2957" visible="true" lon="-122.4797417410587" lat="48.74841961404784">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Railroad Avenue"/>
+  </node>
+  <node id="-2958" visible="true" lon="-122.4798626416790" lat="48.75041975935736">
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:postcode" v="98225-4344"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-2959" visible="true" lon="-122.4842518568800" lat="48.75084708289975">
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Chestnut Street"/>
+  </node>
+  <node id="-2960" visible="true" lon="-122.4839314114448" lat="48.75100131544588">
+    <tag k="addr:housenumber" v="435"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Chestnut Street"/>
+  </node>
+  <node id="-2961" visible="true" lon="-122.4827521529763" lat="48.75018327385074">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Chestnut Street"/>
+  </node>
+  <node id="-2962" visible="true" lon="-122.4824415372142" lat="48.75029520242351">
+    <tag k="addr:housenumber" v="1202"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bay Street"/>
+  </node>
+  <node id="-2963" visible="true" lon="-122.4814544214429" lat="48.74861292930024">
+    <tag k="addr:housenumber" v="1121"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2964" visible="true" lon="-122.4813104795194" lat="48.74868591900234">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2965" visible="true" lon="-122.4811790581396" lat="48.74880215549385">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:unit" v="PARKING LOT"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2966" visible="true" lon="-122.4810865208027" lat="48.75011873898382">
+    <tag k="addr:housenumber" v="1219"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Commercial Street"/>
+  </node>
+  <node id="-2967" visible="true" lon="-122.4857180760060" lat="48.74858793846246">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98225-5540"/>
+    <tag k="addr:street" v="West Laurel Street"/>
+  </node>
+  <node id="-2968" visible="true" lon="-122.4755651238845" lat="48.74970580600224">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:postcode" v="98225-4512"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2969" visible="true" lon="-122.4772649838141" lat="48.74931544542747">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Railroad Avenue"/>
+  </node>
+  <node id="-2970" visible="true" lon="-122.4782651066737" lat="48.74797140465690">
+    <tag k="addr:housenumber" v="1217"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2971" visible="true" lon="-122.4779538141942" lat="48.74816095209281">
+    <tag k="addr:housenumber" v="1221"/>
+    <tag k="addr:postcode" v="98225-5015"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2972" visible="true" lon="-122.4777170831843" lat="48.74840700664731">
+    <tag k="addr:housenumber" v="1235"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2973" visible="true" lon="-122.4776372683974" lat="48.74845792332906">
+    <tag k="addr:housenumber" v="1259"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2974" visible="true" lon="-122.4863107211455" lat="48.74556483194414">
+    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2975" visible="true" lon="-122.4842693751678" lat="48.74584164853531">
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2976" visible="true" lon="-122.4830020095360" lat="48.74537046391723">
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:postcode" v="98225-4762"/>
+    <tag k="addr:street" v="East Laurel Street"/>
+  </node>
+  <node id="-2977" visible="true" lon="-122.4827566220150" lat="48.74558336643776">
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:postcode" v="98225-4761"/>
+    <tag k="addr:street" v="East Laurel Street"/>
+  </node>
+  <node id="-2978" visible="true" lon="-122.4817391467605" lat="48.74614766263805">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Railroad Avenue"/>
+  </node>
+  <node id="-2979" visible="true" lon="-122.4817289567973" lat="48.74767657205306">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2980" visible="true" lon="-122.4814083212393" lat="48.74784239454709">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2981" visible="true" lon="-122.4812979980126" lat="48.74642974488369">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Railroad Avenue"/>
+  </node>
+  <node id="-2982" visible="true" lon="-122.4809244820708" lat="48.74642492496193">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="98225-5036"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-2983" visible="true" lon="-122.4847472373008" lat="48.74361677933420">
+    <tag k="addr:housenumber" v="801"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2984" visible="true" lon="-122.4848137755803" lat="48.74330157871162">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="98225-5018"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-2985" visible="true" lon="-122.4891723780532" lat="48.74277343870119">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2986" visible="true" lon="-122.4751333052585" lat="48.75253766107353">
+    <tag k="addr:housenumber" v="1526"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2987" visible="true" lon="-122.4797347144048" lat="48.75299901459206">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:postcode" v="98225-4416"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-2988" visible="true" lon="-122.4797338086817" lat="48.75307451675710">
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:postcode" v="98225-4416"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-2989" visible="true" lon="-122.4797328492248" lat="48.75314852660494">
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:postcode" v="98225-4416"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-2990" visible="true" lon="-122.4801943381253" lat="48.75318974862244">
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Flora Street"/>
+  </node>
+  <node id="-2991" visible="true" lon="-122.4800322254142" lat="48.75349924575341">
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-2992" visible="true" lon="-122.4808655368449" lat="48.75361301101616">
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Prospect Street"/>
+  </node>
+  <node id="-2993" visible="true" lon="-122.4806210531085" lat="48.75373243828234">
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-2994" visible="true" lon="-122.4800865943877" lat="48.75508868108720">
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:postcode" v="98225-4006"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-2995" visible="true" lon="-122.4825790672675" lat="48.75297381354725">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-2996" visible="true" lon="-122.4748626211221" lat="48.75331019772326">
+    <tag k="addr:housenumber" v="1618"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-2997" visible="true" lon="-122.4725794726595" lat="48.75314336261605">
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="98225-4617"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-2998" visible="true" lon="-122.4725776209339" lat="48.75325949396103">
+    <tag k="addr:housenumber" v="1715"/>
+    <tag k="addr:postcode" v="98225-4617"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-2999" visible="true" lon="-122.4728425682597" lat="48.75418196255287">
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-3000" visible="true" lon="-122.4733887132248" lat="48.75444238547836">
+    <tag k="addr:housenumber" v="1810"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Dean Avenue"/>
+  </node>
+  <node id="-3001" visible="true" lon="-122.4748252235840" lat="48.75408498883359">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-3002" visible="true" lon="-122.4725334753292" lat="48.75386665747767">
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:postcode" v="98225-4618"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-3003" visible="true" lon="-122.4811453334312" lat="48.75226090598598">
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="98225-4401"/>
+    <tag k="addr:street" v="Prospect Street"/>
+  </node>
+  <node id="-3004" visible="true" lon="-122.4826794024025" lat="48.75180159067036">
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:postcode" v="98225-4315"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3005" visible="true" lon="-122.4796880360684" lat="48.75169060828908">
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Champion Street"/>
+  </node>
+  <node id="-3006" visible="true" lon="-122.4826764183016" lat="48.75238136782163">
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3007" visible="true" lon="-122.4828591759455" lat="48.75193685700677">
+    <tag k="addr:housenumber" v="413"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3008" visible="true" lon="-122.4828557211811" lat="48.75251535373029">
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3009" visible="true" lon="-122.4827744014856" lat="48.75189966684616">
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3010" visible="true" lon="-122.4823187362858" lat="48.75005637192849">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98225-4304"/>
+    <tag k="addr:street" v="Bay Street"/>
+  </node>
+  <node id="-3011" visible="true" lon="-122.4768119175837" lat="48.75258606711218">
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Unity Street"/>
+  </node>
 </osm>

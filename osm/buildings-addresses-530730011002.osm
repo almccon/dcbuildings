@@ -190,7 +190,7 @@
     <nd ref="-67"/>
     <nd ref="-50"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Lowell Es"/>
+    <tag k="name" v="Lowell Elementary School"/>
     <tag k="addr:housenumber" v="935"/>
     <tag k="addr:postcode" v="98225-6305"/>
     <tag k="addr:street" v="14th Street"/>
@@ -12604,5 +12604,300 @@
     <tag k="addr:housenumber" v="1206"/>
     <tag k="addr:postcode" v="98225-7015"/>
     <tag k="addr:street" v="11th Street"/>
+  </node>
+  <node id="-4461" visible="true" lon="-122.4904629370693" lat="48.72905554120014">
+    <tag k="addr:housenumber" v="1970"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-4462" visible="true" lon="-122.4896383851022" lat="48.72997107565980">
+    <tag k="addr:housenumber" v="1930"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-4463" visible="true" lon="-122.4946899735859" lat="48.72428712065212">
+    <tag k="addr:housenumber" v="928"/>
+    <tag k="addr:postcode" v="98225-6708"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-4464" visible="true" lon="-122.4942753248246" lat="48.72526496748064">
+    <tag k="addr:housenumber" v="901"/>
+    <tag k="addr:postcode" v="98225-6707"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-4465" visible="true" lon="-122.4926953905428" lat="48.72467446528328">
+    <tag k="addr:housenumber" v="923"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="19th Street"/>
+  </node>
+  <node id="-4466" visible="true" lon="-122.4926862458541" lat="48.72490241794212">
+    <tag k="addr:housenumber" v="919"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="19th Street"/>
+  </node>
+  <node id="-4467" visible="true" lon="-122.4935973351585" lat="48.72619466519484">
+    <tag k="addr:housenumber" v="803"/>
+    <tag k="addr:postcode" v="98225-6413"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-4468" visible="true" lon="-122.4954169773375" lat="48.72377283578184">
+    <tag k="addr:housenumber" v="1003"/>
+    <tag k="addr:postcode" v="98225-6609"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-4469" visible="true" lon="-122.4926845956217" lat="48.72508064249578">
+    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:postcode" v="98225-6730"/>
+    <tag k="addr:street" v="19th Street"/>
+  </node>
+  <node id="-4470" visible="true" lon="-122.4948086539787" lat="48.72499980829019">
+    <tag k="addr:housenumber" v="912"/>
+    <tag k="addr:postcode" v="98225-6708"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-4471" visible="true" lon="-122.4921203039316" lat="48.72414231058963">
+    <tag k="addr:housenumber" v="936"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-4472" visible="true" lon="-122.4921043290198" lat="48.72526712029867">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-4473" visible="true" lon="-122.5018466127224" lat="48.72531254015963">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98225-6221"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-4474" visible="true" lon="-122.4989067341439" lat="48.72377170863387">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98225-6604"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-4475" visible="true" lon="-122.5003912655457" lat="48.72457505087588">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fillmore Avenue"/>
+  </node>
+  <node id="-4476" visible="true" lon="-122.4975714013898" lat="48.72429664123609">
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:postcode" v="98225-6323"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-4477" visible="true" lon="-122.4981310089179" lat="48.72463242226289">
+    <tag k="addr:housenumber" v="925"/>
+    <tag k="addr:postcode" v="98225-6311"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-4478" visible="true" lon="-122.4961841288733" lat="48.72485602218353">
+    <tag k="addr:housenumber" v="914"/>
+    <tag k="addr:postcode" v="98225-6341"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-4479" visible="true" lon="-122.4967641905307" lat="48.72504429599458">
+    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:postcode" v="98225-6322"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-4480" visible="true" lon="-122.4921975505152" lat="48.72119601548030">
+    <tag k="addr:housenumber" v="1132"/>
+    <tag k="addr:postcode" v="98225-6768"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-4481" visible="true" lon="-122.4933436691779" lat="48.72226392326525">
+    <tag k="addr:housenumber" v="1816"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-4482" visible="true" lon="-122.4912935885179" lat="48.72300840707231">
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-4483" visible="true" lon="-122.4912939427866" lat="48.72324828775017">
+    <tag k="addr:housenumber" v="1019"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-4484" visible="true" lon="-122.4940286250778" lat="48.72348643884507">
+    <tag k="addr:housenumber" v="1011"/>
+    <tag k="addr:postcode" v="98225-6779"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-4485" visible="true" lon="-122.4912941692413" lat="48.72352243858677">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-4486" visible="true" lon="-122.4934695893679" lat="48.72372608168804">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="19th Street"/>
+  </node>
+  <node id="-4487" visible="true" lon="-122.4912925982729" lat="48.72213825431475">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98225-6766"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-4488" visible="true" lon="-122.4912930164101" lat="48.72115869292972">
+    <tag k="addr:housenumber" v="2005"/>
+    <tag k="addr:postcode" v="98225-6737"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-4489" visible="true" lon="-122.4906398627175" lat="48.72218418691687">
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:postcode" v="98225-9304"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-4490" visible="true" lon="-122.5007408988815" lat="48.72154423190808">
+    <tag k="addr:housenumber" v="1117"/>
+    <tag k="addr:postcode" v="98225-6651"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-4491" visible="true" lon="-122.5002986522110" lat="48.72173617533678">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:postcode" v="98225-6630"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-4492" visible="true" lon="-122.5041577028131" lat="48.72200758766107">
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="10th Street"/>
+  </node>
+  <node id="-4493" visible="true" lon="-122.5042729909971" lat="48.72070838977520">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="10th Street"/>
+  </node>
+  <node id="-4494" visible="true" lon="-122.5019109414917" lat="48.72108891130210">
+    <tag k="addr:housenumber" v="1125"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-4495" visible="true" lon="-122.5032426003514" lat="48.72218623761530">
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="11th Street"/>
+  </node>
+  <node id="-4496" visible="true" lon="-122.5002784879496" lat="48.72361333209675">
+    <tag k="addr:housenumber" v="1008"/>
+    <tag k="addr:postcode" v="98225-6602"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-4497" visible="true" lon="-122.5029335362594" lat="48.72179443925359">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98225-6622"/>
+    <tag k="addr:street" v="Finnegan Way"/>
+  </node>
+  <node id="-4498" visible="true" lon="-122.5029496106315" lat="48.72167860099825">
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:postcode" v="98225-6622"/>
+    <tag k="addr:street" v="Finnegan Way"/>
+  </node>
+  <node id="-4499" visible="true" lon="-122.5029561159433" lat="48.72160085369787">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:postcode" v="98225-6622"/>
+    <tag k="addr:street" v="Finnegan Way"/>
+  </node>
+  <node id="-4500" visible="true" lon="-122.5032163413101" lat="48.72192425237299">
+    <tag k="addr:housenumber" v="1103"/>
+    <tag k="addr:postcode" v="98225-6627"/>
+    <tag k="addr:street" v="11th Street"/>
+  </node>
+  <node id="-4501" visible="true" lon="-122.5030956787994" lat="48.72207900721549">
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:postcode" v="98225-6622"/>
+    <tag k="addr:street" v="Finnegan Way"/>
+  </node>
+  <node id="-4502" visible="true" lon="-122.5029569302431" lat="48.72173333323116">
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:postcode" v="98225-6627"/>
+    <tag k="addr:street" v="11th Street"/>
+  </node>
+  <node id="-4503" visible="true" lon="-122.5014215014374" lat="48.72147455654956">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98225-6621"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-4504" visible="true" lon="-122.4968614613593" lat="48.72287297142389">
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:postcode" v="98225-6605"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-4505" visible="true" lon="-122.4962039459467" lat="48.72184307020018">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-4506" visible="true" lon="-122.4960209122263" lat="48.72106400481571">
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-4507" visible="true" lon="-122.4954153789686" lat="48.72159168203518">
+    <tag k="addr:housenumber" v="1123"/>
+    <tag k="addr:postcode" v="98225-6600"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-4508" visible="true" lon="-122.4948152685684" lat="48.72331427402838">
+    <tag k="addr:housenumber" v="1012"/>
+    <tag k="addr:postcode" v="98225-6780"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-4509" visible="true" lon="-122.4955681995349" lat="48.72111366145202">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98225-6731"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-4510" visible="true" lon="-122.4966068969046" lat="48.72362762764552">
+    <tag k="addr:housenumber" v="1007"/>
+    <tag k="addr:postcode" v="98225-6605"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-4511" visible="true" lon="-122.4969144270664" lat="48.72148954986030">
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:postcode" v="98225-6633"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-4512" visible="true" lon="-122.5001458973557" lat="48.72253026499558">
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:postcode" v="98225-6607"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-4513" visible="true" lon="-122.4994551255420" lat="48.72292905054303">
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-4514" visible="true" lon="-122.4989060025205" lat="48.72314143596716">
+    <tag k="addr:housenumber" v="1018"/>
+    <tag k="addr:postcode" v="98225-6604"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-4515" visible="true" lon="-122.4990157460106" lat="48.72282766781160">
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:postcode" v="98225-6604"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-4516" visible="true" lon="-122.4989062221838" lat="48.72331278038708">
+    <tag k="addr:housenumber" v="1016"/>
+    <tag k="addr:postcode" v="98225-6604"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-4517" visible="true" lon="-122.5087785349027" lat="48.72062159281179">
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-4518" visible="true" lon="-122.5028809347603" lat="48.72030998389914">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:postcode" v="98225-7036"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-4519" visible="true" lon="-122.5041807538776" lat="48.72058251258240">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="10th Street"/>
   </node>
 </osm>

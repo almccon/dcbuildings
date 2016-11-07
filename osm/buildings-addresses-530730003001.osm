@@ -22366,7 +22366,7 @@
     <nd ref="-7182"/>
     <nd ref="-7151"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Birchwood Es"/>
+    <tag k="name" v="Birchwood Elementary School"/>
     <tag k="addr:housenumber" v="3200"/>
     <tag k="addr:postcode" v="98225-1436"/>
     <tag k="addr:street" v="Pinewood Avenue"/>
@@ -28879,5 +28879,605 @@
     <tag k="addr:housenumber" v="3200"/>
     <tag k="addr:postcode" v="98225"/>
     <tag k="addr:street" v="Partridge Lane"/>
+  </node>
+  <node id="-9258" visible="true" lon="-122.5056541389915" lat="48.77003531023389">
+    <tag k="addr:housenumber" v="3002"/>
+    <tag k="addr:postcode" v="98225-1559"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9259" visible="true" lon="-122.5056647351101" lat="48.77029450542917">
+    <tag k="addr:housenumber" v="3004"/>
+    <tag k="addr:postcode" v="98225-1559"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9260" visible="true" lon="-122.5040271593255" lat="48.77034037045559">
+    <tag k="addr:housenumber" v="3003"/>
+    <tag k="addr:postcode" v="98225-1556"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9261" visible="true" lon="-122.5045819201998" lat="48.77062532959507">
+    <tag k="addr:housenumber" v="2819"/>
+    <tag k="addr:postcode" v="98225-1410"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9262" visible="true" lon="-122.5052741953041" lat="48.77063367953323">
+    <tag k="addr:housenumber" v="3014"/>
+    <tag k="addr:postcode" v="98225-1559"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9263" visible="true" lon="-122.5059042272753" lat="48.77084238214184">
+    <tag k="addr:housenumber" v="3018"/>
+    <tag k="addr:postcode" v="98225-1559"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9264" visible="true" lon="-122.5052498925562" lat="48.77113689843449">
+    <tag k="addr:housenumber" v="2823"/>
+    <tag k="addr:postcode" v="98225-1410"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9265" visible="true" lon="-122.5055747106169" lat="48.77124614272206">
+    <tag k="addr:housenumber" v="2825"/>
+    <tag k="addr:postcode" v="98225-1410"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9266" visible="true" lon="-122.5191517959992" lat="48.77049172438636">
+    <tag k="addr:housenumber" v="3233"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9267" visible="true" lon="-122.5194360821181" lat="48.77221119993850">
+    <tag k="addr:housenumber" v="3130"/>
+    <tag k="addr:postcode" v="98225-1442"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9268" visible="true" lon="-122.5182379033415" lat="48.77317738781306">
+    <tag k="addr:housenumber" v="3135"/>
+    <tag k="addr:postcode" v="98225-1425"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9269" visible="true" lon="-122.5184184787070" lat="48.77344481384328">
+    <tag k="addr:housenumber" v="3139"/>
+    <tag k="addr:postcode" v="98225-1425"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9270" visible="true" lon="-122.5194298533000" lat="48.77371227097478">
+    <tag k="addr:housenumber" v="3210"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9271" visible="true" lon="-122.5194285190970" lat="48.77398479727492">
+    <tag k="addr:housenumber" v="3216"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9272" visible="true" lon="-122.5194289474057" lat="48.77417285893301">
+    <tag k="addr:housenumber" v="3220"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9273" visible="true" lon="-122.5184279385307" lat="48.77450646545110">
+    <tag k="addr:housenumber" v="3219"/>
+    <tag k="addr:postcode" v="98225-1427"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9274" visible="true" lon="-122.5184240210367" lat="48.77473872841791">
+    <tag k="addr:housenumber" v="3221"/>
+    <tag k="addr:postcode" v="98225-1427"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9275" visible="true" lon="-122.5182074163505" lat="48.77499901768822">
+    <tag k="addr:housenumber" v="3223"/>
+    <tag k="addr:postcode" v="98225-1454"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9276" visible="true" lon="-122.5186781734761" lat="48.77507335236020">
+    <tag k="addr:housenumber" v="3225"/>
+    <tag k="addr:postcode" v="98225-1427"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9277" visible="true" lon="-122.5184290322176" lat="48.77559099370300">
+    <tag k="addr:housenumber" v="3235"/>
+    <tag k="addr:postcode" v="98225-1427"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9278" visible="true" lon="-122.5194267956216" lat="48.77445828248888">
+    <tag k="addr:housenumber" v="3222"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9279" visible="true" lon="-122.5194266679395" lat="48.77492982508855">
+    <tag k="addr:housenumber" v="3232"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9280" visible="true" lon="-122.5194257787264" lat="48.77706739681807">
+    <tag k="addr:housenumber" v="3232"/>
+    <tag k="addr:postcode" v="98225-1221"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9281" visible="true" lon="-122.5185804131922" lat="48.77701740534102">
+    <tag k="addr:housenumber" v="3224"/>
+    <tag k="addr:postcode" v="98225-1221"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9282" visible="true" lon="-122.5184326102846" lat="48.77581163338196">
+    <tag k="addr:housenumber" v="3241"/>
+    <tag k="addr:postcode" v="98225-1427"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9283" visible="true" lon="-122.5183116031240" lat="48.77607794133536">
+    <tag k="addr:housenumber" v="3249"/>
+    <tag k="addr:postcode" v="98225-1427"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9284" visible="true" lon="-122.5181427266787" lat="48.77732832191122">
+    <tag k="addr:housenumber" v="3222"/>
+    <tag k="addr:postcode" v="98225-1221"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9285" visible="true" lon="-122.5175672824900" lat="48.77607253628974">
+    <tag k="addr:housenumber" v="3246"/>
+    <tag k="addr:postcode" v="98225-1428"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9286" visible="true" lon="-122.5175221498483" lat="48.77705191004431">
+    <tag k="addr:housenumber" v="3214"/>
+    <tag k="addr:postcode" v="98225-1221"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9287" visible="true" lon="-122.5168308696191" lat="48.77582987264133">
+    <tag k="addr:housenumber" v="3245"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9288" visible="true" lon="-122.5167106178794" lat="48.77608163735527">
+    <tag k="addr:housenumber" v="3251"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9289" visible="true" lon="-122.5167102359975" lat="48.77628314364981">
+    <tag k="addr:housenumber" v="3257"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9290" visible="true" lon="-122.5158773669337" lat="48.77654767752115">
+    <tag k="addr:housenumber" v="3137"/>
+    <tag k="addr:postcode" v="98225-1218"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9291" visible="true" lon="-122.5158726360336" lat="48.77734497718253">
+    <tag k="addr:housenumber" v="3136"/>
+    <tag k="addr:postcode" v="98225-1219"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9292" visible="true" lon="-122.5153938624792" lat="48.77577470407155">
+    <tag k="addr:housenumber" v="3242"/>
+    <tag k="addr:postcode" v="98225-1432"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9293" visible="true" lon="-122.5189445775062" lat="48.77615294201981">
+    <tag k="addr:housenumber" v="3258"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9294" visible="true" lon="-122.5196243917783" lat="48.77615187022401">
+    <tag k="addr:housenumber" v="3256"/>
+    <tag k="addr:postcode" v="98225-1114"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9295" visible="true" lon="-122.5173180944972" lat="48.78624713581048">
+    <tag k="addr:housenumber" v="3301"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9296" visible="true" lon="-122.5167114596973" lat="48.78297405320582">
+    <tag k="addr:housenumber" v="3206"/>
+    <tag k="addr:postcode" v="98225-1040"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-9297" visible="true" lon="-122.5163301669241" lat="48.78297271148205">
+    <tag k="addr:housenumber" v="3202"/>
+    <tag k="addr:postcode" v="98225-1040"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-9298" visible="true" lon="-122.5154627612961" lat="48.78489278470811">
+    <tag k="addr:housenumber" v="3207"/>
+    <tag k="addr:postcode" v="98225-1007"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9299" visible="true" lon="-122.5197572150452" lat="48.78000106724867">
+    <tag k="addr:housenumber" v="3424"/>
+    <tag k="addr:postcode" v="98225-1118"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9300" visible="true" lon="-122.5194489652656" lat="48.77954319504162">
+    <tag k="addr:housenumber" v="3416"/>
+    <tag k="addr:postcode" v="98225-1118"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9301" visible="true" lon="-122.5166426622009" lat="48.77937956090371">
+    <tag k="addr:housenumber" v="3405"/>
+    <tag k="addr:postcode" v="98225-9217"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9302" visible="true" lon="-122.5194452989922" lat="48.77975790857109">
+    <tag k="addr:housenumber" v="3420"/>
+    <tag k="addr:postcode" v="98225-1118"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-9303" visible="true" lon="-122.5179671014729" lat="48.77343428516350">
+    <tag k="addr:housenumber" v="3299"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9304" visible="true" lon="-122.5178918275460" lat="48.77510256151923">
+    <tag k="addr:housenumber" v="3200"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9305" visible="true" lon="-122.5178722553573" lat="48.77240588826012">
+    <tag k="addr:housenumber" v="3100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9306" visible="true" lon="-122.5178642764974" lat="48.77112396523756">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9307" visible="true" lon="-122.5176984970331" lat="48.77561335380356">
+    <tag k="addr:housenumber" v="3238"/>
+    <tag k="addr:postcode" v="98225-1428"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9308" visible="true" lon="-122.5175762321386" lat="48.77301123175861">
+    <tag k="addr:housenumber" v="3128"/>
+    <tag k="addr:postcode" v="98225-1426"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9309" visible="true" lon="-122.5175616465482" lat="48.77191949637624">
+    <tag k="addr:housenumber" v="3110"/>
+    <tag k="addr:postcode" v="98225-1426"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9310" visible="true" lon="-122.5175565234390" lat="48.77170216803659">
+    <tag k="addr:housenumber" v="3106"/>
+    <tag k="addr:postcode" v="98225-1426"/>
+    <tag k="addr:street" v="Greenwood Avenue"/>
+  </node>
+  <node id="-9311" visible="true" lon="-122.5173125104050" lat="48.77451657513521">
+    <tag k="addr:housenumber" v="3227"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9312" visible="true" lon="-122.5169827608602" lat="48.77505539107398">
+    <tag k="addr:housenumber" v="3233"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9313" visible="true" lon="-122.5169361286235" lat="48.77535077852047">
+    <tag k="addr:housenumber" v="3237"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9314" visible="true" lon="-122.5167430763743" lat="48.77558358349799">
+    <tag k="addr:housenumber" v="3241"/>
+    <tag k="addr:postcode" v="98225-1431"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9315" visible="true" lon="-122.5163983669831" lat="48.77273794061744">
+    <tag k="addr:housenumber" v="3124"/>
+    <tag k="addr:postcode" v="98225-1430"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9316" visible="true" lon="-122.5157567598381" lat="48.77558523054093">
+    <tag k="addr:housenumber" v="3236"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9317" visible="true" lon="-122.5150284766844" lat="48.78479488001310">
+    <tag k="addr:housenumber" v="3121"/>
+    <tag k="addr:postcode" v="98225-1005"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9318" visible="true" lon="-122.5158470002435" lat="48.77803703079475">
+    <tag k="addr:housenumber" v="3322"/>
+    <tag k="addr:postcode" v="98225-1201"/>
+    <tag k="addr:street" v="Laurelwood Avenue"/>
+  </node>
+  <node id="-9319" visible="true" lon="-122.5132044338709" lat="48.78219923723802">
+    <tag k="addr:housenumber" v="3057"/>
+    <tag k="addr:postcode" v="98225-1035"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-9320" visible="true" lon="-122.4964537703851" lat="48.77336453717674">
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9321" visible="true" lon="-122.5089560362604" lat="48.77784302538721">
+    <tag k="addr:housenumber" v="2918"/>
+    <tag k="addr:postcode" v="98225-1211"/>
+    <tag k="addr:street" v="Cherrywood Avenue"/>
+  </node>
+  <node id="-9322" visible="true" lon="-122.5087674364301" lat="48.77767197557839">
+    <tag k="addr:housenumber" v="2908"/>
+    <tag k="addr:postcode" v="98225-1211"/>
+    <tag k="addr:street" v="Cherrywood Avenue"/>
+  </node>
+  <node id="-9323" visible="true" lon="-122.5078832194615" lat="48.77993981172530">
+    <tag k="addr:housenumber" v="2901"/>
+    <tag k="addr:postcode" v="98225-1079"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9324" visible="true" lon="-122.5068852181634" lat="48.77905115606902">
+    <tag k="addr:housenumber" v="2849"/>
+    <tag k="addr:postcode" v="98225-1280"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9325" visible="true" lon="-122.5105675402487" lat="48.78110339143259">
+    <tag k="addr:housenumber" v="2927"/>
+    <tag k="addr:postcode" v="98225-1001"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9326" visible="true" lon="-122.5098327388723" lat="48.77713328579301">
+    <tag k="addr:housenumber" v="3006"/>
+    <tag k="addr:postcode" v="98225-1217"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9327" visible="true" lon="-122.5098988419291" lat="48.78052816437877">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9328" visible="true" lon="-122.4993821392479" lat="48.77576342252878">
+    <tag k="addr:housenumber" v="2625"/>
+    <tag k="addr:postcode" v="98225-8879"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-9329" visible="true" lon="-122.5030650843768" lat="48.77607993766701">
+    <tag k="addr:housenumber" v="3245"/>
+    <tag k="addr:postcode" v="98225-1423"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9330" visible="true" lon="-122.5024786750082" lat="48.77656344856565">
+    <tag k="addr:housenumber" v="2801"/>
+    <tag k="addr:postcode" v="98225-8885"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9331" visible="true" lon="-122.5089364727831" lat="48.77435478631607">
+    <tag k="addr:housenumber" v="2922"/>
+    <tag k="addr:postcode" v="98225-1448"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9332" visible="true" lon="-122.5107327989752" lat="48.77571036417531">
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="98225-1443"/>
+    <tag k="addr:street" v="Carter Drive"/>
+  </node>
+  <node id="-9333" visible="true" lon="-122.5081434273739" lat="48.77652157140328">
+    <tag k="addr:housenumber" v="2917"/>
+    <tag k="addr:postcode" v="98225-1214"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9334" visible="true" lon="-122.5104431230709" lat="48.77498885958957">
+    <tag k="addr:housenumber" v="3004"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9335" visible="true" lon="-122.5098138347704" lat="48.77575458007636">
+    <tag k="addr:housenumber" v="3005"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-9336" visible="true" lon="-122.5098050921769" lat="48.77498107697284">
+    <tag k="addr:housenumber" v="2930"/>
+    <tag k="addr:postcode" v="98225-1448"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9337" visible="true" lon="-122.5016857088535" lat="48.77286051195356">
+    <tag k="addr:housenumber" v="2725"/>
+    <tag k="addr:postcode" v="98225-1452"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9338" visible="true" lon="-122.5034318499523" lat="48.77450379494983">
+    <tag k="addr:housenumber" v="3215"/>
+    <tag k="addr:postcode" v="98225-1423"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9339" visible="true" lon="-122.5034435187465" lat="48.77473281789448">
+    <tag k="addr:housenumber" v="3217"/>
+    <tag k="addr:postcode" v="98225-1423"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9340" visible="true" lon="-122.5024806534170" lat="48.77560005682702">
+    <tag k="addr:housenumber" v="3242"/>
+    <tag k="addr:postcode" v="98225-1424"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9341" visible="true" lon="-122.5032356092576" lat="48.77561390356205">
+    <tag k="addr:housenumber" v="3241"/>
+    <tag k="addr:postcode" v="98225-1423"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9342" visible="true" lon="-122.4991201732403" lat="48.77367951830281">
+    <tag k="addr:housenumber" v="2629"/>
+    <tag k="addr:postcode" v="98225-1401"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9343" visible="true" lon="-122.4973886737721" lat="48.77307647874354">
+    <tag k="addr:housenumber" v="2506"/>
+    <tag k="addr:postcode" v="98225-1405"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9344" visible="true" lon="-122.5002365545779" lat="48.77411670822774">
+    <tag k="addr:housenumber" v="2706"/>
+    <tag k="addr:postcode" v="98225-1451"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9345" visible="true" lon="-122.5150829113445" lat="48.77295680886621">
+    <tag k="addr:housenumber" v="3121"/>
+    <tag k="addr:postcode" v="98225-1455"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9346" visible="true" lon="-122.5147945530631" lat="48.77418341540460">
+    <tag k="addr:housenumber" v="3114"/>
+    <tag k="addr:postcode" v="98225-1456"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9347" visible="true" lon="-122.5144266167417" lat="48.77301563545922">
+    <tag k="addr:housenumber" v="3113"/>
+    <tag k="addr:postcode" v="98225-1455"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9348" visible="true" lon="-122.5141454970659" lat="48.77497631254104">
+    <tag k="addr:housenumber" v="3042"/>
+    <tag k="addr:postcode" v="98225-1403"/>
+    <tag k="addr:street" v="Birchwood Court"/>
+  </node>
+  <node id="-9349" visible="true" lon="-122.5140939213204" lat="48.77306430358443">
+    <tag k="addr:housenumber" v="3111"/>
+    <tag k="addr:postcode" v="98225-1455"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9350" visible="true" lon="-122.5139820029642" lat="48.77467299410239">
+    <tag k="addr:housenumber" v="3044"/>
+    <tag k="addr:postcode" v="98225-1403"/>
+    <tag k="addr:street" v="Birchwood Court"/>
+  </node>
+  <node id="-9351" visible="true" lon="-122.5138075554189" lat="48.77410089154264">
+    <tag k="addr:housenumber" v="3102"/>
+    <tag k="addr:postcode" v="98225-1456"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9352" visible="true" lon="-122.5137591161941" lat="48.77311190477975">
+    <tag k="addr:housenumber" v="3109"/>
+    <tag k="addr:postcode" v="98225-1455"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9353" visible="true" lon="-122.5136700607151" lat="48.77062992623887">
+    <tag k="addr:housenumber" v="3105"/>
+    <tag k="addr:postcode" v="98225-1416"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9354" visible="true" lon="-122.5134369694151" lat="48.77314095385034">
+    <tag k="addr:housenumber" v="3101"/>
+    <tag k="addr:postcode" v="98225-1455"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9355" visible="true" lon="-122.5131099163066" lat="48.77314704433835">
+    <tag k="addr:housenumber" v="3033"/>
+    <tag k="addr:postcode" v="98225-1446"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9356" visible="true" lon="-122.5127741220050" lat="48.77315216359141">
+    <tag k="addr:housenumber" v="3031"/>
+    <tag k="addr:postcode" v="98225-1446"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9357" visible="true" lon="-122.5141254580233" lat="48.77415661521334">
+    <tag k="addr:housenumber" v="3106"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-9358" visible="true" lon="-122.5078832447895" lat="48.77164332793226">
+    <tag k="addr:housenumber" v="2910"/>
+    <tag k="addr:postcode" v="98225-1413"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9359" visible="true" lon="-122.5072591256502" lat="48.77192334809202">
+    <tag k="addr:housenumber" v="3107"/>
+    <tag k="addr:postcode" v="98225-1433"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9360" visible="true" lon="-122.5071764517804" lat="48.77207038526624">
+    <tag k="addr:housenumber" v="3109"/>
+    <tag k="addr:postcode" v="98225-1433"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9361" visible="true" lon="-122.5072625528910" lat="48.77239291986716">
+    <tag k="addr:housenumber" v="3115"/>
+    <tag k="addr:postcode" v="98225-1433"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9362" visible="true" lon="-122.5004703588179" lat="48.77121290644201">
+    <tag k="addr:housenumber" v="2709"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9363" visible="true" lon="-122.4994921176713" lat="48.77189112220210">
+    <tag k="addr:housenumber" v="2620"/>
+    <tag k="addr:postcode" v="98225-1407"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9364" visible="true" lon="-122.4992145916828" lat="48.77183889340061">
+    <tag k="addr:housenumber" v="2618"/>
+    <tag k="addr:postcode" v="98225-1407"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9365" visible="true" lon="-122.4990819135657" lat="48.77184024337723">
+    <tag k="addr:housenumber" v="2616"/>
+    <tag k="addr:postcode" v="98225-1407"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9366" visible="true" lon="-122.4981821720610" lat="48.77181089589016">
+    <tag k="addr:housenumber" v="2606"/>
+    <tag k="addr:postcode" v="98225-1407"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9367" visible="true" lon="-122.4980962296672" lat="48.77122227849494">
+    <tag k="addr:housenumber" v="2609"/>
+    <tag k="addr:postcode" v="98225-1406"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9368" visible="true" lon="-122.4978413216966" lat="48.77196540300738">
+    <tag k="addr:housenumber" v="2522"/>
+    <tag k="addr:postcode" v="98225-1405"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9369" visible="true" lon="-122.5014346729549" lat="48.77009009539500">
+    <tag k="addr:housenumber" v="2990"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Firwood Avenue"/>
+  </node>
+  <node id="-9370" visible="true" lon="-122.5019636636445" lat="48.77039621770350">
+    <tag k="addr:housenumber" v="2731"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9371" visible="true" lon="-122.5001442534556" lat="48.77079908301717">
+    <tag k="addr:housenumber" v="2705"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9372" visible="true" lon="-122.5077149071532" lat="48.77013316686452">
+    <tag k="addr:housenumber" v="3007"/>
+    <tag k="addr:postcode" v="98225-1558"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9373" visible="true" lon="-122.5079550408012" lat="48.77063689204478">
+    <tag k="addr:housenumber" v="3015"/>
+    <tag k="addr:postcode" v="98225-1558"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9374" visible="true" lon="-122.5113994085910" lat="48.77106047451490">
+    <tag k="addr:housenumber" v="3013"/>
+    <tag k="addr:postcode" v="98225-1414"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9375" visible="true" lon="-122.5102177384348" lat="48.77123541488341">
+    <tag k="addr:housenumber" v="2931"/>
+    <tag k="addr:postcode" v="98225-1412"/>
+    <tag k="addr:street" v="Cedarwood Avenue"/>
+  </node>
+  <node id="-9376" visible="true" lon="-122.5071707908105" lat="48.77120524590790">
+    <tag k="addr:housenumber" v="3027"/>
+    <tag k="addr:postcode" v="98225-1558"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
+  </node>
+  <node id="-9377" visible="true" lon="-122.5071730293181" lat="48.77095820394487">
+    <tag k="addr:housenumber" v="3021"/>
+    <tag k="addr:postcode" v="98225-1558"/>
+    <tag k="addr:street" v="Pinewood Avenue"/>
   </node>
 </osm>

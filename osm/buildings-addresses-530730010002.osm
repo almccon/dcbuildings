@@ -12243,9 +12243,6 @@
     <tag k="building" v="yes"/>
     <tag k="start_date" v="2015"/>
     <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:postcode" v="98225-6033"/>
-    <tag k="addr:street" v="Samish Way"/>
   </way>
   <node id="-4041" visible="true" lon="-122.4732781279973" lat="48.74534676394645"/>
   <node id="-4042" visible="true" lon="-122.4729570860566" lat="48.74556290441411"/>
@@ -12446,5 +12443,250 @@
     <tag k="addr:housenumber" v="137"/>
     <tag k="addr:postcode" v="98225-6033"/>
     <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-4092" visible="true" lon="-122.4732319359459" lat="48.74476078775590">
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:postcode" v="98225-5115"/>
+    <tag k="addr:street" v="Jersey Street"/>
+  </node>
+  <node id="-4093" visible="true" lon="-122.4732628166795" lat="48.74436523655726">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98225-5115"/>
+    <tag k="addr:street" v="Jersey Street"/>
+  </node>
+  <node id="-4094" visible="true" lon="-122.4731665820221" lat="48.74454133879863">
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:postcode" v="98225-5115"/>
+    <tag k="addr:street" v="Jersey Street"/>
+  </node>
+  <node id="-4095" visible="true" lon="-122.4730813825195" lat="48.74486189083217">
+    <tag k="addr:housenumber" v="1217"/>
+    <tag k="addr:postcode" v="98225-5115"/>
+    <tag k="addr:street" v="Jersey Street"/>
+  </node>
+  <node id="-4096" visible="true" lon="-122.4742994623538" lat="48.74422867150467">
+    <tag k="addr:housenumber" v="706"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Chestnut Street"/>
+  </node>
+  <node id="-4097" visible="true" lon="-122.4741013089813" lat="48.74409987383287">
+    <tag k="addr:housenumber" v="712"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Chestnut Street"/>
+  </node>
+  <node id="-4098" visible="true" lon="-122.4738363637077" lat="48.74403370155031">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jersey Street"/>
+  </node>
+  <node id="-4099" visible="true" lon="-122.4736827077306" lat="48.74350558165102">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jersey Street"/>
+  </node>
+  <node id="-4100" visible="true" lon="-122.4754261618031" lat="48.74305454673365">
+    <tag k="addr:housenumber" v="714"/>
+    <tag k="addr:postcode" v="98225-5118"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-4101" visible="true" lon="-122.4746772745938" lat="48.74415699725517">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Chestnut Street"/>
+  </node>
+  <node id="-4102" visible="true" lon="-122.4744988945847" lat="48.74435854812989">
+    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Billy Frank Jr. Street"/>
+  </node>
+  <node id="-4103" visible="true" lon="-122.4781749795700" lat="48.74179622756547">
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:postcode" v="98225-5669"/>
+    <tag k="addr:street" v="Billy Frank Jr. Street"/>
+  </node>
+  <node id="-4104" visible="true" lon="-122.4748109920199" lat="48.74213598619012">
+    <tag k="addr:housenumber" v="1017"/>
+    <tag k="addr:postcode" v="98225-5648"/>
+    <tag k="addr:street" v="Key Street"/>
+  </node>
+  <node id="-4105" visible="true" lon="-122.4774624292205" lat="48.74228359792043">
+    <tag k="addr:housenumber" v="926"/>
+    <tag k="addr:postcode" v="98225-5606"/>
+    <tag k="addr:street" v="Billy Frank Jr. Street"/>
+  </node>
+  <node id="-4106" visible="true" lon="-122.4765249642752" lat="48.74240431006524">
+    <tag k="addr:housenumber" v="715"/>
+    <tag k="addr:postcode" v="98225-5619"/>
+    <tag k="addr:street" v="East Laurel Street"/>
+  </node>
+  <node id="-4107" visible="true" lon="-122.4766210785304" lat="48.74246683024145">
+    <tag k="addr:housenumber" v="711"/>
+    <tag k="addr:postcode" v="98225-5619"/>
+    <tag k="addr:street" v="East Laurel Street"/>
+  </node>
+  <node id="-4108" visible="true" lon="-122.4734441669132" lat="48.74240062815574">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98225-5226"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-4109" visible="true" lon="-122.4730938799784" lat="48.74249000478625">
+    <tag k="addr:housenumber" v="1110"/>
+    <tag k="addr:postcode" v="98225-5224"/>
+    <tag k="addr:street" v="Key Street"/>
+  </node>
+  <node id="-4110" visible="true" lon="-122.4721987159864" lat="48.74236718704226">
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Liberty Street"/>
+  </node>
+  <node id="-4111" visible="true" lon="-122.4726654177249" lat="48.74221147392411">
+    <tag k="addr:housenumber" v="1111"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Liberty Street"/>
+  </node>
+  <node id="-4112" visible="true" lon="-122.4713731629074" lat="48.74032459774082">
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-4113" visible="true" lon="-122.4733350607465" lat="48.74247267371573">
+    <tag k="addr:housenumber" v="1106"/>
+    <tag k="addr:postcode" v="98225-5224"/>
+    <tag k="addr:street" v="Key Street"/>
+  </node>
+  <node id="-4114" visible="true" lon="-122.4692928256257" lat="48.73735511928523">
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Samish Way"/>
+  </node>
+  <node id="-4115" visible="true" lon="-122.4703324192480" lat="48.73849667615286">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Samish Way"/>
+  </node>
+  <node id="-4116" visible="true" lon="-122.4758696240457" lat="48.74067610387724">
+    <tag k="addr:housenumber" v="916"/>
+    <tag k="addr:postcode" v="98225-5615"/>
+    <tag k="addr:street" v="Key Street"/>
+  </node>
+  <node id="-4117" visible="true" lon="-122.4758151284776" lat="48.74004659356086">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98225-5632"/>
+    <tag k="addr:street" v="Liberty Street"/>
+  </node>
+  <node id="-4118" visible="true" lon="-122.4765151280287" lat="48.73815842703842">
+    <tag k="addr:housenumber" v="801"/>
+    <tag k="addr:postcode" v="98225-5715"/>
+    <tag k="addr:street" v="Mason Street"/>
+  </node>
+  <node id="-4119" visible="true" lon="-122.4774555736547" lat="48.74041962838631">
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:postcode" v="98225-5623"/>
+    <tag k="addr:street" v="East Myrtle Street"/>
+  </node>
+  <node id="-4120" visible="true" lon="-122.4728705037576" lat="48.73814166815962">
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:postcode" v="98225-5730"/>
+    <tag k="addr:street" v="Otis Street"/>
+  </node>
+  <node id="-4121" visible="true" lon="-122.4732429090701" lat="48.73965400027206">
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:postcode" v="98225-5718"/>
+    <tag k="addr:street" v="Mason Street"/>
+  </node>
+  <node id="-4122" visible="true" lon="-122.4728671605719" lat="48.73776874640287">
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:postcode" v="98225-6009"/>
+    <tag k="addr:street" v="North 34th Street"/>
+  </node>
+  <node id="-4123" visible="true" lon="-122.4743802683496" lat="48.73511610006770">
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="33rd Street"/>
+  </node>
+  <node id="-4124" visible="true" lon="-122.4743801214106" lat="48.73527867458118">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="33rd Street"/>
+  </node>
+  <node id="-4125" visible="true" lon="-122.4738568106375" lat="48.73579762298542">
+    <tag k="addr:housenumber" v="3301"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Consolidation Avenue"/>
+  </node>
+  <node id="-4126" visible="true" lon="-122.4736334038275" lat="48.73581009533211">
+    <tag k="addr:housenumber" v="3305"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Consolidation Avenue"/>
+  </node>
+  <node id="-4127" visible="true" lon="-122.4734127298883" lat="48.73655617251823">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North 34th Street"/>
+  </node>
+  <node id="-4128" visible="true" lon="-122.4729990411386" lat="48.73415603185994">
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="98225-6058"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-4129" visible="true" lon="-122.4721538942202" lat="48.73640898958389">
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:postcode" v="98225-6051"/>
+    <tag k="addr:street" v="North Samish Way"/>
+  </node>
+  <node id="-4130" visible="true" lon="-122.4720472779644" lat="48.73476949582724">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-4131" visible="true" lon="-122.4719213327398" lat="48.73589459821234">
+    <tag k="addr:housenumber" v="3407"/>
+    <tag k="addr:postcode" v="98225-6023"/>
+    <tag k="addr:street" v="Consolidation Avenue"/>
+  </node>
+  <node id="-4132" visible="true" lon="-122.4702545059704" lat="48.73394795021757">
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="98225-6032"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-4133" visible="true" lon="-122.4689064421080" lat="48.73413250020460">
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="37th Street"/>
+  </node>
+  <node id="-4134" visible="true" lon="-122.4688951412703" lat="48.73526402855121">
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="98225-6052"/>
+    <tag k="addr:street" v="37th Street"/>
+  </node>
+  <node id="-4135" visible="true" lon="-122.4688705171812" lat="48.73485022477413">
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="98225-6033"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-4136" visible="true" lon="-122.4683926832733" lat="48.73577586038594">
+    <tag k="addr:housenumber" v="3701"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Consolidation Avenue"/>
+  </node>
+  <node id="-4137" visible="true" lon="-122.4689006233333" lat="48.73203839004185">
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-4138" visible="true" lon="-122.4774396131649" lat="48.73148385481986">
+    <tag k="addr:housenumber" v="2931"/>
+    <tag k="addr:postcode" v="98225-5921"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-4139" visible="true" lon="-122.4689536619351" lat="48.73342233115558">
+    <tag k="addr:housenumber" v="3600"/>
+    <tag k="addr:postcode" v="98225-6019"/>
+    <tag k="addr:street" v="Byron Avenue"/>
+  </node>
+  <node id="-4140" visible="true" lon="-122.4682878341653" lat="48.73834366676704">
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:postcode" v="98225-5705"/>
+    <tag k="addr:street" v="East Maple Street"/>
   </node>
 </osm>

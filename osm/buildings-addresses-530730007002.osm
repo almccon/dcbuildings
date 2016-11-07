@@ -17769,4 +17769,294 @@
     <tag k="addr:postcode" v="98229"/>
     <tag k="addr:street" v="Valencia Street"/>
   </node>
+  <node id="-6112" visible="true" lon="-122.4515642857566" lat="48.76219361843336">
+    <tag k="addr:housenumber" v="2406"/>
+    <tag k="addr:postcode" v="98229-5428"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6113" visible="true" lon="-122.4515582729465" lat="48.76209073584768">
+    <tag k="addr:housenumber" v="2402"/>
+    <tag k="addr:postcode" v="98229-5428"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6114" visible="true" lon="-122.4512705929646" lat="48.76219237869033">
+    <tag k="addr:housenumber" v="2408"/>
+    <tag k="addr:postcode" v="98229-5428"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6115" visible="true" lon="-122.4522237390598" lat="48.76237745604568">
+    <tag k="addr:housenumber" v="2419"/>
+    <tag k="addr:postcode" v="98229-5412"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6116" visible="true" lon="-122.4572413245420" lat="48.76143427767503">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98229-4666"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-6117" visible="true" lon="-122.4559065561722" lat="48.76264488958358">
+    <tag k="addr:housenumber" v="2436"/>
+    <tag k="addr:postcode" v="98229-4655"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6118" visible="true" lon="-122.4551857124761" lat="48.76266672556792">
+    <tag k="addr:housenumber" v="2429"/>
+    <tag k="addr:postcode" v="98229-5431"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6119" visible="true" lon="-122.4551861392877" lat="48.76241998606052">
+    <tag k="addr:housenumber" v="2421"/>
+    <tag k="addr:postcode" v="98229-5431"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6120" visible="true" lon="-122.4551859258968" lat="48.76254335626655">
+    <tag k="addr:housenumber" v="2425"/>
+    <tag k="addr:postcode" v="98229-5431"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6121" visible="true" lon="-122.4494435543232" lat="48.76141013069278">
+    <tag k="addr:housenumber" v="1808"/>
+    <tag k="addr:postcode" v="98229-5417"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-6122" visible="true" lon="-122.4493836040354" lat="48.76219886335364">
+    <tag k="addr:housenumber" v="2411"/>
+    <tag k="addr:postcode" v="98229-3732"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6123" visible="true" lon="-122.4493719512309" lat="48.76293394678171">
+    <tag k="addr:housenumber" v="2445"/>
+    <tag k="addr:postcode" v="98229-3732"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6124" visible="true" lon="-122.4497347836239" lat="48.76141431076653">
+    <tag k="addr:housenumber" v="1804"/>
+    <tag k="addr:postcode" v="98229-5417"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-6125" visible="true" lon="-122.4443483325304" lat="48.76247729557122">
+    <tag k="addr:housenumber" v="2427"/>
+    <tag k="addr:postcode" v="98229-3842"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-6126" visible="true" lon="-122.4429788756225" lat="48.76054459024343">
+    <tag k="addr:housenumber" v="2301"/>
+    <tag k="addr:postcode" v="98229-3941"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-6127" visible="true" lon="-122.4602256398955" lat="48.75973400157316">
+    <tag k="addr:housenumber" v="2211"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6128" visible="true" lon="-122.4585537499503" lat="48.75880312177215">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98229-4149"/>
+    <tag k="addr:street" v="Virginia Street"/>
+  </node>
+  <node id="-6129" visible="true" lon="-122.4594642586436" lat="48.76099725389578">
+    <tag k="addr:housenumber" v="2317"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6130" visible="true" lon="-122.4588371786484" lat="48.76060914615098">
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:postcode" v="98229-4628"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6131" visible="true" lon="-122.4543363121757" lat="48.75857620718087">
+    <tag k="addr:housenumber" v="2126"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6132" visible="true" lon="-122.4551847531735" lat="48.75857864153396">
+    <tag k="addr:housenumber" v="2127"/>
+    <tag k="addr:postcode" v="98229-4754"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6133" visible="true" lon="-122.4577380816638" lat="48.75880627531079">
+    <tag k="addr:housenumber" v="1220"/>
+    <tag k="addr:postcode" v="98229-4149"/>
+    <tag k="addr:street" v="Virginia Street"/>
+  </node>
+  <node id="-6134" visible="true" lon="-122.4581307481053" lat="48.75881726251826">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="98229-4149"/>
+    <tag k="addr:street" v="Virginia Street"/>
+  </node>
+  <node id="-6135" visible="true" lon="-122.4550286331817" lat="48.75910526323263">
+    <tag k="addr:housenumber" v="2203"/>
+    <tag k="addr:postcode" v="98229-4752"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6136" visible="true" lon="-122.4550305025185" lat="48.75916390461979">
+    <tag k="addr:housenumber" v="2205"/>
+    <tag k="addr:postcode" v="98229-4752"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6137" visible="true" lon="-122.4557850136996" lat="48.76001722994530">
+    <tag k="addr:housenumber" v="2230"/>
+    <tag k="addr:postcode" v="98229-5824"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6138" visible="true" lon="-122.4537228798415" lat="48.75994652154836">
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="98229-5487"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-6139" visible="true" lon="-122.4470671590811" lat="48.75800035889302">
+    <tag k="addr:housenumber" v="2109"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-6140" visible="true" lon="-122.4484876970823" lat="48.75916222913860">
+    <tag k="addr:housenumber" v="2207"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Verona Street"/>
+  </node>
+  <node id="-6141" visible="true" lon="-122.4526213191141" lat="48.75947434039736">
+    <tag k="addr:housenumber" v="1604"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-6142" visible="true" lon="-122.4518488755284" lat="48.75998430896351">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-6143" visible="true" lon="-122.4512015038666" lat="48.76034506329366">
+    <tag k="addr:housenumber" v="1709"/>
+    <tag k="addr:postcode" v="98229-1300"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-6144" visible="true" lon="-122.4486338044122" lat="48.76036838365286">
+    <tag k="addr:housenumber" v="2235"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Verona Street"/>
+  </node>
+  <node id="-6145" visible="true" lon="-122.4510615893479" lat="48.75812907456566">
+    <tag k="addr:housenumber" v="1619"/>
+    <tag k="addr:postcode" v="98229-4716"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6146" visible="true" lon="-122.4526184565424" lat="48.75981432312965">
+    <tag k="addr:housenumber" v="1606"/>
+    <tag k="addr:postcode" v="98229-5440"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-6147" visible="true" lon="-122.4525953166454" lat="48.75865412673190">
+    <tag k="addr:housenumber" v="1613"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6148" visible="true" lon="-122.4491754542162" lat="48.75806102530618">
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:postcode" v="98229-4724"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6149" visible="true" lon="-122.4525965880113" lat="48.75886554267353">
+    <tag k="addr:housenumber" v="1605"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6150" visible="true" lon="-122.4457168672614" lat="48.75921595165065">
+    <tag k="addr:housenumber" v="2205"/>
+    <tag k="addr:postcode" v="98229-3829"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-6151" visible="true" lon="-122.4610028089758" lat="48.75752117142302">
+    <tag k="addr:housenumber" v="2039"/>
+    <tag k="addr:postcode" v="98229-5821"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6152" visible="true" lon="-122.4602160378812" lat="48.75824084782136">
+    <tag k="addr:housenumber" v="2131"/>
+    <tag k="addr:postcode" v="98229-5830"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6153" visible="true" lon="-122.4593955035585" lat="48.75608582823621">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:postcode" v="98229-5817"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6154" visible="true" lon="-122.4445769507123" lat="48.75705242731296">
+    <tag k="addr:housenumber" v="2029"/>
+    <tag k="addr:postcode" v="98229-3936"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-6155" visible="true" lon="-122.4436631051172" lat="48.75803078790334">
+    <tag k="addr:housenumber" v="2098"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-6156" visible="true" lon="-122.4466958622736" lat="48.75490999884189">
+    <tag k="addr:housenumber" v="1920"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-6157" visible="true" lon="-122.4504882302208" lat="48.75580519382590">
+    <tag k="addr:housenumber" v="1802"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6158" visible="true" lon="-122.4495937783086" lat="48.75608875280870">
+    <tag k="addr:housenumber" v="1820"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6159" visible="true" lon="-122.4464055196854" lat="48.75658581676721">
+    <tag k="addr:housenumber" v="2101"/>
+    <tag k="addr:postcode" v="98229-4723"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6160" visible="true" lon="-122.4505072927786" lat="48.75673100124883">
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:postcode" v="98229-4704"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6161" visible="true" lon="-122.4502358026003" lat="48.75713832017210">
+    <tag k="addr:housenumber" v="2020"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-6162" visible="true" lon="-122.4458005699850" lat="48.75723275583548">
+    <tag k="addr:housenumber" v="2110"/>
+    <tag k="addr:postcode" v="98229-4728"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6163" visible="true" lon="-122.4502377337455" lat="48.75731648926119">
+    <tag k="addr:housenumber" v="2030"/>
+    <tag k="addr:postcode" v="98229-4705"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-6164" visible="true" lon="-122.4472982984989" lat="48.75732658820235">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98229-4730"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6165" visible="true" lon="-122.4454673076796" lat="48.75766778493767">
+    <tag k="addr:housenumber" v="2111"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-6166" visible="true" lon="-122.4548047800895" lat="48.75620597306499">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98229-4709"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6167" visible="true" lon="-122.4554916721852" lat="48.75681268561419">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-6168" visible="true" lon="-122.4558852609438" lat="48.75737496115885">
+    <tag k="addr:housenumber" v="2016"/>
+    <tag k="addr:postcode" v="98229-5826"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6169" visible="true" lon="-122.4571210309825" lat="48.75760158098853">
+    <tag k="addr:housenumber" v="2121"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
 </osm>

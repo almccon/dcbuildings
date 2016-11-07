@@ -15916,4 +15916,234 @@
     <tag k="addr:postcode" v="98229-2850"/>
     <tag k="addr:street" v="East Maple Street"/>
   </node>
+  <node id="-6221" visible="true" lon="-122.4645231087164" lat="48.74032244852947">
+    <tag k="addr:housenumber" v="1221"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-6222" visible="true" lon="-122.4638380077850" lat="48.74190371492979">
+    <tag k="addr:housenumber" v="1251"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-6223" visible="true" lon="-122.4661913853922" lat="48.73890426631429">
+    <tag k="addr:housenumber" v="1611"/>
+    <tag k="addr:postcode" v="98229-2886"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-6224" visible="true" lon="-122.4567764183339" lat="48.74303329566915">
+    <tag k="addr:housenumber" v="1203"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Puget Street"/>
+  </node>
+  <node id="-6225" visible="true" lon="-122.4588120028695" lat="48.74318134446640">
+    <tag k="addr:housenumber" v="1213"/>
+    <tag k="addr:postcode" v="98229-5760"/>
+    <tag k="addr:street" v="Whatcom Street"/>
+  </node>
+  <node id="-6226" visible="true" lon="-122.4602654273896" lat="48.74381139508181">
+    <tag k="addr:housenumber" v="1231"/>
+    <tag k="addr:postcode" v="98229-5720"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6227" visible="true" lon="-122.4594745316219" lat="48.74394170721201">
+    <tag k="addr:housenumber" v="1232"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6228" visible="true" lon="-122.4571194830139" lat="48.74425527467187">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98229-2029"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-6229" visible="true" lon="-122.4594581160700" lat="48.74427119138134">
+    <tag k="addr:housenumber" v="1250"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6230" visible="true" lon="-122.4594601629787" lat="48.74438712767743">
+    <tag k="addr:housenumber" v="1254"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6231" visible="true" lon="-122.4590283039792" lat="48.74227876584469">
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whatcom Place"/>
+  </node>
+  <node id="-6232" visible="true" lon="-122.4577439812579" lat="48.74116571286317">
+    <tag k="addr:housenumber" v="1321"/>
+    <tag k="addr:postcode" v="98229-5716"/>
+    <tag k="addr:street" v="Edwards Street"/>
+  </node>
+  <node id="-6233" visible="true" lon="-122.4595266285193" lat="48.74117452838815">
+    <tag k="addr:housenumber" v="1106"/>
+    <tag k="addr:postcode" v="98229-5721"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6234" visible="true" lon="-122.4595232278726" lat="48.74136648173410">
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:postcode" v="98229-5721"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6235" visible="true" lon="-122.4626772293873" lat="48.74025398661070">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98229-5746"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-6236" visible="true" lon="-122.4611756364622" lat="48.74395599271208">
+    <tag k="addr:housenumber" v="1054"/>
+    <tag k="addr:postcode" v="98229-2020"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-6237" visible="true" lon="-122.4610108179292" lat="48.74443064473994">
+    <tag k="addr:housenumber" v="1070"/>
+    <tag k="addr:postcode" v="98229-2013"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-6238" visible="true" lon="-122.4608679215389" lat="48.74118620261456">
+    <tag k="addr:housenumber" v="1108"/>
+    <tag k="addr:postcode" v="98229-2878"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6239" visible="true" lon="-122.4606819928061" lat="48.74465296775376">
+    <tag k="addr:housenumber" v="1110"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-6240" visible="true" lon="-122.4605576013860" lat="48.74465196607399">
+    <tag k="addr:housenumber" v="1108"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-6241" visible="true" lon="-122.4611197050314" lat="48.74447178994355">
+    <tag k="addr:housenumber" v="1072"/>
+    <tag k="addr:postcode" v="98229-2013"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-6242" visible="true" lon="-122.4665447218007" lat="48.74093154430708">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6243" visible="true" lon="-122.4665465794138" lat="48.74133537921049">
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6244" visible="true" lon="-122.4665611834204" lat="48.74179043560813">
+    <tag k="addr:housenumber" v="830"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6245" visible="true" lon="-122.4658400920185" lat="48.74180789947730">
+    <tag k="addr:housenumber" v="840"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6246" visible="true" lon="-122.4654913850605" lat="48.74120306404119">
+    <tag k="addr:housenumber" v="860"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6247" visible="true" lon="-122.4656656775493" lat="48.74075270033192">
+    <tag k="addr:housenumber" v="870"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6248" visible="true" lon="-122.4647599394857" lat="48.74170032429694">
+    <tag k="addr:housenumber" v="855"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6249" visible="true" lon="-122.4648760562361" lat="48.74121277089000">
+    <tag k="addr:housenumber" v="865"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viking Circle"/>
+  </node>
+  <node id="-6250" visible="true" lon="-122.4607469835521" lat="48.73706799018053">
+    <tag k="addr:housenumber" v="4212"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Marionberry Lane"/>
+  </node>
+  <node id="-6251" visible="true" lon="-122.4594784160767" lat="48.73719622511560">
+    <tag k="addr:housenumber" v="4312"/>
+    <tag k="addr:postcode" v="98229-2808"/>
+    <tag k="addr:street" v="Marionberry Lane"/>
+  </node>
+  <node id="-6252" visible="true" lon="-122.4608406286229" lat="48.73726361591856">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98229-2805"/>
+    <tag k="addr:street" v="Marionberry Lane"/>
+  </node>
+  <node id="-6253" visible="true" lon="-122.4610845110105" lat="48.73819516781161">
+    <tag k="addr:housenumber" v="929"/>
+    <tag k="addr:postcode" v="98229-2806"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6254" visible="true" lon="-122.4606311368670" lat="48.73837447274136">
+    <tag k="addr:housenumber" v="937"/>
+    <tag k="addr:postcode" v="98229-2806"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6255" visible="true" lon="-122.4604165079503" lat="48.73855381696892">
+    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:postcode" v="98229-2806"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6256" visible="true" lon="-122.4609805992294" lat="48.73839391550423">
+    <tag k="addr:housenumber" v="935"/>
+    <tag k="addr:postcode" v="98229-2806"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6257" visible="true" lon="-122.4608571164475" lat="48.73718813959879">
+    <tag k="addr:housenumber" v="4204"/>
+    <tag k="addr:postcode" v="98229-2805"/>
+    <tag k="addr:street" v="Marionberry Lane"/>
+  </node>
+  <node id="-6258" visible="true" lon="-122.4608118217156" lat="48.73712547675946">
+    <tag k="addr:housenumber" v="4208"/>
+    <tag k="addr:postcode" v="98229-2805"/>
+    <tag k="addr:street" v="Marionberry Lane"/>
+  </node>
+  <node id="-6259" visible="true" lon="-122.4605743488498" lat="48.73820142724425">
+    <tag k="addr:housenumber" v="925"/>
+    <tag k="addr:postcode" v="98229-2806"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6260" visible="true" lon="-122.4608803153443" lat="48.73815367777930">
+    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:postcode" v="98229-2806"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6261" visible="true" lon="-122.4611424498559" lat="48.73649904365455">
+    <tag k="addr:housenumber" v="821"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Blueberry Lane"/>
+  </node>
+  <node id="-6262" visible="true" lon="-122.4583300671796" lat="48.73548738116668">
+    <tag k="addr:housenumber" v="4413"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Consolidation Avenue"/>
+  </node>
+  <node id="-6263" visible="true" lon="-122.4658471342152" lat="48.73927677433086">
+    <tag k="addr:housenumber" v="1613"/>
+    <tag k="addr:postcode" v="98229-2886"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-6264" visible="true" lon="-122.4664854444721" lat="48.73937847463985">
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:postcode" v="98229-2886"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-6265" visible="true" lon="-122.4655554307223" lat="48.73982940681634">
+    <tag k="addr:housenumber" v="1617"/>
+    <tag k="addr:postcode" v="98229-2886"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-6266" visible="true" lon="-122.4648958101252" lat="48.73988291142368">
+    <tag k="addr:housenumber" v="1155"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
 </osm>

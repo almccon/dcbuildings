@@ -1752,7 +1752,7 @@
     <nd ref="-622"/>
     <nd ref="-561"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Kulshan Ms"/>
+    <tag k="name" v="Kulshan Middle School"/>
     <tag k="addr:housenumber" v="1250"/>
     <tag k="addr:postcode" v="98229-2346"/>
     <tag k="addr:street" v="Kenoyer Drive"/>
@@ -32937,5 +32937,560 @@
     <tag k="addr:housenumber" v="3030"/>
     <tag k="addr:postcode" v="98229-2340"/>
     <tag k="addr:street" v="East Cascade Avenue"/>
+  </node>
+  <node id="-11490" visible="true" lon="-122.4301790202260" lat="48.74224339251673">
+    <tag k="addr:housenumber" v="1122"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Roland Street"/>
+  </node>
+  <node id="-11491" visible="true" lon="-122.4298862064613" lat="48.74464264226868">
+    <tag k="addr:housenumber" v="1224"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Roland Street"/>
+  </node>
+  <node id="-11492" visible="true" lon="-122.4298757902239" lat="48.74218340377583">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Roland Street"/>
+  </node>
+  <node id="-11493" visible="true" lon="-122.4298059520620" lat="48.74364365248219">
+    <tag k="addr:housenumber" v="1212"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Roland Street"/>
+  </node>
+  <node id="-11494" visible="true" lon="-122.4290160440752" lat="48.74653686714441">
+    <tag k="addr:housenumber" v="1305"/>
+    <tag k="addr:postcode" v="98229-2415"/>
+    <tag k="addr:street" v="Raymond Street"/>
+  </node>
+  <node id="-11495" visible="true" lon="-122.4303609826319" lat="48.74756621758770">
+    <tag k="addr:housenumber" v="1326"/>
+    <tag k="addr:postcode" v="98229-2404"/>
+    <tag k="addr:street" v="Roland Street"/>
+  </node>
+  <node id="-11496" visible="true" lon="-122.4338057257211" lat="48.74675620590759">
+    <tag k="addr:housenumber" v="3008"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-11497" visible="true" lon="-122.4332615708368" lat="48.74234640587646">
+    <tag k="addr:housenumber" v="3105"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Maple Ridge Court"/>
+  </node>
+  <node id="-11498" visible="true" lon="-122.4321085443274" lat="48.74248034971872">
+    <tag k="addr:housenumber" v="3119"/>
+    <tag k="addr:postcode" v="98229-2391"/>
+    <tag k="addr:street" v="Maple Ridge Court"/>
+  </node>
+  <node id="-11499" visible="true" lon="-122.4341845431425" lat="48.74716221647829">
+    <tag k="addr:housenumber" v="3002"/>
+    <tag k="addr:postcode" v="98229-2344"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-11500" visible="true" lon="-122.4340372586521" lat="48.74399563874116">
+    <tag k="addr:housenumber" v="2923"/>
+    <tag k="addr:postcode" v="98229-2343"/>
+    <tag k="addr:street" v="East Cascade Avenue"/>
+  </node>
+  <node id="-11501" visible="true" lon="-122.4427813108997" lat="48.73838845990783">
+    <tag k="addr:housenumber" v="939"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-11502" visible="true" lon="-122.4439874043376" lat="48.73872540695046">
+    <tag k="addr:housenumber" v="2332"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11503" visible="true" lon="-122.4436483850305" lat="48.73872626236500">
+    <tag k="addr:housenumber" v="2342"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11504" visible="true" lon="-122.4454094003552" lat="48.73518908064914">
+    <tag k="addr:housenumber" v="842"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="San Juan Boulevard"/>
+  </node>
+  <node id="-11505" visible="true" lon="-122.4478496831910" lat="48.73521633724988">
+    <tag k="addr:housenumber" v="830"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="San Juan Boulevard"/>
+  </node>
+  <node id="-11506" visible="true" lon="-122.4463274002443" lat="48.73801196856784">
+    <tag k="addr:housenumber" v="972"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11507" visible="true" lon="-122.4468285325839" lat="48.73866523919932">
+    <tag k="addr:housenumber" v="985"/>
+    <tag k="addr:postcode" v="98229-2210"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11508" visible="true" lon="-122.4450677192937" lat="48.73871784616205">
+    <tag k="addr:housenumber" v="2302"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11509" visible="true" lon="-122.4447143817796" lat="48.73872466036449">
+    <tag k="addr:housenumber" v="2312"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11510" visible="true" lon="-122.4443468367938" lat="48.73872783143818">
+    <tag k="addr:housenumber" v="2322"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11511" visible="true" lon="-122.4463500916531" lat="48.73872900824757">
+    <tag k="addr:housenumber" v="2200"/>
+    <tag k="addr:postcode" v="98229-6815"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11512" visible="true" lon="-122.4473524003296" lat="48.73873279740890">
+    <tag k="addr:housenumber" v="2109"/>
+    <tag k="addr:postcode" v="98229-6819"/>
+    <tag k="addr:street" v="Sentinel Court"/>
+  </node>
+  <node id="-11513" visible="true" lon="-122.4460595838734" lat="48.73874387059158">
+    <tag k="addr:housenumber" v="2204"/>
+    <tag k="addr:postcode" v="98229-6815"/>
+    <tag k="addr:street" v="Lopez Street"/>
+  </node>
+  <node id="-11514" visible="true" lon="-122.4468278127316" lat="48.73884563178401">
+    <tag k="addr:housenumber" v="989"/>
+    <tag k="addr:postcode" v="98229-2210"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11515" visible="true" lon="-122.4468691293664" lat="48.73778363623669">
+    <tag k="addr:housenumber" v="969"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11516" visible="true" lon="-122.4465563125770" lat="48.73744697904596">
+    <tag k="addr:housenumber" v="2117"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11517" visible="true" lon="-122.4473932763436" lat="48.73741941139171">
+    <tag k="addr:housenumber" v="2105"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11518" visible="true" lon="-122.4468189777241" lat="48.73743027991326">
+    <tag k="addr:housenumber" v="2113"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11519" visible="true" lon="-122.4476316265226" lat="48.73794997571902">
+    <tag k="addr:housenumber" v="2104"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11520" visible="true" lon="-122.4471215199406" lat="48.73742608326574">
+    <tag k="addr:housenumber" v="2109"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11521" visible="true" lon="-122.4476182420197" lat="48.73773545252367">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11522" visible="true" lon="-122.4477510642801" lat="48.73749419992464">
+    <tag k="addr:housenumber" v="2101"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11523" visible="true" lon="-122.4469850064225" lat="48.73773589485634">
+    <tag k="addr:housenumber" v="2110"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Westcott Street"/>
+  </node>
+  <node id="-11524" visible="true" lon="-122.4341754719063" lat="48.74290756149327">
+    <tag k="addr:housenumber" v="3012"/>
+    <tag k="addr:postcode" v="98229-2340"/>
+    <tag k="addr:street" v="Cascade Place"/>
+  </node>
+  <node id="-11525" visible="true" lon="-122.4341130173514" lat="48.74313596440924">
+    <tag k="addr:housenumber" v="3008"/>
+    <tag k="addr:postcode" v="98229-2340"/>
+    <tag k="addr:street" v="Cascade Place"/>
+  </node>
+  <node id="-11526" visible="true" lon="-122.4439923647140" lat="48.73947377923446">
+    <tag k="addr:housenumber" v="1011"/>
+    <tag k="addr:postcode" v="98229-6813"/>
+    <tag k="addr:street" v="Brookings Place"/>
+  </node>
+  <node id="-11527" visible="true" lon="-122.4429020135571" lat="48.73979554082987">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-11528" visible="true" lon="-122.4428056558447" lat="48.74155055936222">
+    <tag k="addr:housenumber" v="1115"/>
+    <tag k="addr:postcode" v="98229-8870"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-11529" visible="true" lon="-122.4437982003537" lat="48.74210072017063">
+    <tag k="addr:housenumber" v="1130"/>
+    <tag k="addr:postcode" v="98229-2205"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-11530" visible="true" lon="-122.4368388956323" lat="48.74466244324321">
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Modoc Drive"/>
+  </node>
+  <node id="-11531" visible="true" lon="-122.4359849243405" lat="48.74539823583378">
+    <tag k="addr:housenumber" v="1224"/>
+    <tag k="addr:postcode" v="98229-2356"/>
+    <tag k="addr:street" v="Modoc Drive"/>
+  </node>
+  <node id="-11532" visible="true" lon="-122.4359612526074" lat="48.74558114444184">
+    <tag k="addr:housenumber" v="1228"/>
+    <tag k="addr:postcode" v="98229-2356"/>
+    <tag k="addr:street" v="Modoc Drive"/>
+  </node>
+  <node id="-11533" visible="true" lon="-122.4356895785656" lat="48.74714287020828">
+    <tag k="addr:housenumber" v="2900"/>
+    <tag k="addr:postcode" v="98229-2320"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-11534" visible="true" lon="-122.4353060279415" lat="48.74542814646627">
+    <tag k="addr:housenumber" v="1239"/>
+    <tag k="addr:postcode" v="98229-2357"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11535" visible="true" lon="-122.4511211767796" lat="48.74470323565048">
+    <tag k="addr:housenumber" v="1247"/>
+    <tag k="addr:postcode" v="98229-2118"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-11536" visible="true" lon="-122.4408714320024" lat="48.74436033720916">
+    <tag k="addr:housenumber" v="2602"/>
+    <tag k="addr:postcode" v="98229-2304"/>
+    <tag k="addr:street" v="Likely Court"/>
+  </node>
+  <node id="-11537" visible="true" lon="-122.4434646381569" lat="48.74359798310459">
+    <tag k="addr:housenumber" v="1214"/>
+    <tag k="addr:postcode" v="98229-2204"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-11538" visible="true" lon="-122.4414268824195" lat="48.74321355992750">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="98229-8813"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-11539" visible="true" lon="-122.4396715209603" lat="48.74335378711783">
+    <tag k="addr:housenumber" v="2618"/>
+    <tag k="addr:postcode" v="98229-2301"/>
+    <tag k="addr:street" v="Likely Drive"/>
+  </node>
+  <node id="-11540" visible="true" lon="-122.4392115615570" lat="48.74568382017820">
+    <tag k="addr:housenumber" v="2619"/>
+    <tag k="addr:postcode" v="98229-2309"/>
+    <tag k="addr:street" v="Blackberry Lane"/>
+  </node>
+  <node id="-11541" visible="true" lon="-122.4390732923514" lat="48.74432348474716">
+    <tag k="addr:housenumber" v="1204"/>
+    <tag k="addr:postcode" v="98229-2374"/>
+    <tag k="addr:street" v="Clearbrook Place"/>
+  </node>
+  <node id="-11542" visible="true" lon="-122.4388302557701" lat="48.74456918541397">
+    <tag k="addr:housenumber" v="1206"/>
+    <tag k="addr:postcode" v="98229-2374"/>
+    <tag k="addr:street" v="Clearbrook Place"/>
+  </node>
+  <node id="-11543" visible="true" lon="-122.4386505936250" lat="48.74402501263964">
+    <tag k="addr:housenumber" v="1205"/>
+    <tag k="addr:postcode" v="98229-2339"/>
+    <tag k="addr:street" v="West Clearbrook Drive"/>
+  </node>
+  <node id="-11544" visible="true" lon="-122.4385990776696" lat="48.74424476843000">
+    <tag k="addr:housenumber" v="1209"/>
+    <tag k="addr:postcode" v="98229-2339"/>
+    <tag k="addr:street" v="West Clearbrook Drive"/>
+  </node>
+  <node id="-11545" visible="true" lon="-122.4380227820662" lat="48.74316352596285">
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:postcode" v="98229-2355"/>
+    <tag k="addr:street" v="East Clearbrook Drive"/>
+  </node>
+  <node id="-11546" visible="true" lon="-122.4377856898548" lat="48.74638502415437">
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:postcode" v="98229-2307"/>
+    <tag k="addr:street" v="Clearbrook Drive"/>
+  </node>
+  <node id="-11547" visible="true" lon="-122.4387217888473" lat="48.74488896900615">
+    <tag k="addr:housenumber" v="1227"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Clearbrook Place"/>
+  </node>
+  <node id="-11548" visible="true" lon="-122.4469751775856" lat="48.74298213180270">
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:postcode" v="98229-2232"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11549" visible="true" lon="-122.4448737712475" lat="48.74345949268015">
+    <tag k="addr:housenumber" v="1218"/>
+    <tag k="addr:postcode" v="98229-2207"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-11550" visible="true" lon="-122.4465598280469" lat="48.74379299407347">
+    <tag k="addr:housenumber" v="1231"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11551" visible="true" lon="-122.4448439814967" lat="48.74407646606021">
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Old Lakeway Drive"/>
+  </node>
+  <node id="-11552" visible="true" lon="-122.4483727211514" lat="48.74509150850808">
+    <tag k="addr:housenumber" v="2012"/>
+    <tag k="addr:postcode" v="98229-5317"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-11553" visible="true" lon="-122.4463736049567" lat="48.74517571624251">
+    <tag k="addr:housenumber" v="2223"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Old Lakeway Drive"/>
+  </node>
+  <node id="-11554" visible="true" lon="-122.4466546877498" lat="48.74434850353772">
+    <tag k="addr:housenumber" v="2200"/>
+    <tag k="addr:postcode" v="98229-5313"/>
+    <tag k="addr:street" v="Old Lakeway Drive"/>
+  </node>
+  <node id="-11555" visible="true" lon="-122.4469775709377" lat="48.74320141760784">
+    <tag k="addr:housenumber" v="1217"/>
+    <tag k="addr:postcode" v="98229-2232"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11556" visible="true" lon="-122.4477078462362" lat="48.74414451113468">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98229-2230"/>
+    <tag k="addr:street" v="Powell Street"/>
+  </node>
+  <node id="-11557" visible="true" lon="-122.4483751418722" lat="48.74424355223373">
+    <tag k="addr:housenumber" v="1239"/>
+    <tag k="addr:postcode" v="98229-2220"/>
+    <tag k="addr:street" v="Verona Street"/>
+  </node>
+  <node id="-11558" visible="true" lon="-122.4541701431865" lat="48.74077554814230">
+    <tag k="addr:housenumber" v="1040"/>
+    <tag k="addr:postcode" v="98229-2138"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-11559" visible="true" lon="-122.4542310066843" lat="48.74154122320611">
+    <tag k="addr:housenumber" v="1109"/>
+    <tag k="addr:postcode" v="98229-2128"/>
+    <tag k="addr:street" v="West Racine Street"/>
+  </node>
+  <node id="-11560" visible="true" lon="-122.4532556096999" lat="48.74202547961983">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:postcode" v="98229-2100"/>
+    <tag k="addr:street" v="West Racine Place"/>
+  </node>
+  <node id="-11561" visible="true" lon="-122.4510306252511" lat="48.74312286023706">
+    <tag k="addr:housenumber" v="1205"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-11562" visible="true" lon="-122.4516777682875" lat="48.74326553081188">
+    <tag k="addr:housenumber" v="1212"/>
+    <tag k="addr:postcode" v="98229-2123"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-11563" visible="true" lon="-122.4516513867143" lat="48.74170598635634">
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-11564" visible="true" lon="-122.4516510870904" lat="48.74151408515078">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-11565" visible="true" lon="-122.4542459656718" lat="48.74176362449226">
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:postcode" v="98229-2128"/>
+    <tag k="addr:street" v="West Racine Street"/>
+  </node>
+  <node id="-11566" visible="true" lon="-122.4510523050795" lat="48.74047653165682">
+    <tag k="addr:housenumber" v="1017"/>
+    <tag k="addr:postcode" v="98229-2122"/>
+    <tag k="addr:street" v="West Toledo Street"/>
+  </node>
+  <node id="-11567" visible="true" lon="-122.4551450149572" lat="48.74087094624703">
+    <tag k="addr:housenumber" v="1507"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Edwards Street"/>
+  </node>
+  <node id="-11568" visible="true" lon="-122.4483197416481" lat="48.74056165039509">
+    <tag k="addr:housenumber" v="1024"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kelley Ridge Court"/>
+  </node>
+  <node id="-11569" visible="true" lon="-122.4497046421654" lat="48.74094212789691">
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="98229-2226"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-11570" visible="true" lon="-122.4461959967859" lat="48.74103688007261">
+    <tag k="addr:housenumber" v="1106"/>
+    <tag k="addr:postcode" v="98229-2236"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11571" visible="true" lon="-122.4497049344188" lat="48.74113402824841">
+    <tag k="addr:housenumber" v="1109"/>
+    <tag k="addr:postcode" v="98229-2226"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-11572" visible="true" lon="-122.4457732175270" lat="48.74154983136242">
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11573" visible="true" lon="-122.4497073603872" lat="48.74218919693862">
+    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:postcode" v="98229-2226"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-11574" visible="true" lon="-122.4484894964746" lat="48.74125448201862">
+    <tag k="addr:housenumber" v="2011"/>
+    <tag k="addr:postcode" v="98229-5307"/>
+    <tag k="addr:street" v="Edwards Street"/>
+  </node>
+  <node id="-11575" visible="true" lon="-122.4455760108467" lat="48.74237482364212">
+    <tag k="addr:housenumber" v="2212"/>
+    <tag k="addr:postcode" v="98229-2209"/>
+    <tag k="addr:street" v="Whatcom Street"/>
+  </node>
+  <node id="-11576" visible="true" lon="-122.4463145935514" lat="48.74211089141631">
+    <tag k="addr:housenumber" v="1130"/>
+    <tag k="addr:postcode" v="98229-2236"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11577" visible="true" lon="-122.4461395421554" lat="48.74178728985197">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98229-2236"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11578" visible="true" lon="-122.4457903596582" lat="48.74203201110087">
+    <tag k="addr:housenumber" v="1124"/>
+    <tag k="addr:postcode" v="98229-2236"/>
+    <tag k="addr:street" v="Newton Street"/>
+  </node>
+  <node id="-11579" visible="true" lon="-122.4367161782976" lat="48.73959677161735">
+    <tag k="addr:housenumber" v="1008"/>
+    <tag k="addr:postcode" v="98229-2371"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11580" visible="true" lon="-122.4366346575702" lat="48.74008779942984">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98229-2371"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11581" visible="true" lon="-122.4366007972494" lat="48.74024973922806">
+    <tag k="addr:housenumber" v="1024"/>
+    <tag k="addr:postcode" v="98229-2371"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11582" visible="true" lon="-122.4365826801362" lat="48.74041146294512">
+    <tag k="addr:housenumber" v="1028"/>
+    <tag k="addr:postcode" v="98229-2371"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11583" visible="true" lon="-122.4361546656338" lat="48.74085079005203">
+    <tag k="addr:housenumber" v="1044"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11584" visible="true" lon="-122.4343365391080" lat="48.74088596770991">
+    <tag k="addr:housenumber" v="3012"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Alvarado Drive"/>
+  </node>
+  <node id="-11585" visible="true" lon="-122.4367971052073" lat="48.74141545554281">
+    <tag k="addr:housenumber" v="1057"/>
+    <tag k="addr:postcode" v="98229-2372"/>
+    <tag k="addr:street" v="Kenoyer Drive"/>
+  </node>
+  <node id="-11586" visible="true" lon="-122.4348970276954" lat="48.74237455609894">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98229-2303"/>
+    <tag k="addr:street" v="Alvarado Drive"/>
+  </node>
+  <node id="-11587" visible="true" lon="-122.4386511573898" lat="48.74293910229378">
+    <tag k="addr:housenumber" v="1108"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Inverness Lane"/>
+  </node>
+  <node id="-11588" visible="true" lon="-122.4405575780273" lat="48.74121901399617">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98229-8870"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-11589" visible="true" lon="-122.4406409754154" lat="48.74161017922327">
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="98229-8870"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-11590" visible="true" lon="-122.4531342374332" lat="48.73970543864655">
+    <tag k="addr:housenumber" v="1017"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-11591" visible="true" lon="-122.4542115708386" lat="48.73965561588035">
+    <tag k="addr:housenumber" v="1014"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-11592" visible="true" lon="-122.4501025308420" lat="48.73619188536555">
+    <tag k="addr:housenumber" v="813"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="East Pacificview Drive"/>
+  </node>
+  <node id="-11593" visible="true" lon="-122.4493115790163" lat="48.73627826690602">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="East Pacificview Drive"/>
+  </node>
+  <node id="-11594" visible="true" lon="-122.4491346286633" lat="48.73926868581704">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98229-2200"/>
+    <tag k="addr:street" v="Kelley Ridge Court"/>
+  </node>
+  <node id="-11595" visible="true" lon="-122.4490373880686" lat="48.73736770951038">
+    <tag k="addr:housenumber" v="2012"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Vendovi Lane"/>
+  </node>
+  <node id="-11596" visible="true" lon="-122.4489240667075" lat="48.73909889525092">
+    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:postcode" v="98229-2200"/>
+    <tag k="addr:street" v="Kelley Ridge Court"/>
+  </node>
+  <node id="-11597" visible="true" lon="-122.4488468841831" lat="48.73754224734340">
+    <tag k="addr:housenumber" v="2016"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Vendovi Lane"/>
+  </node>
+  <node id="-11598" visible="true" lon="-122.4484586071588" lat="48.73823712633938">
+    <tag k="addr:housenumber" v="2008"/>
+    <tag k="addr:postcode" v="98229-2201"/>
+    <tag k="addr:street" v="East Lopez Court"/>
+  </node>
+  <node id="-11599" visible="true" lon="-122.4483037283868" lat="48.73777857790854">
+    <tag k="addr:housenumber" v="2018"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Vendovi Lane"/>
+  </node>
+  <node id="-11600" visible="true" lon="-122.4482710802534" lat="48.73854485851366">
+    <tag k="addr:housenumber" v="2012"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="East Lopez Court"/>
   </node>
 </osm>

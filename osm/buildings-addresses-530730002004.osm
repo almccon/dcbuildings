@@ -19305,7 +19305,7 @@
     <nd ref="-7173"/>
     <nd ref="-7140"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="North Bellingham Es"/>
+    <tag k="name" v="North Bellingham Elementary School"/>
     <tag k="addr:housenumber" v="5275"/>
     <tag k="addr:postcode" v="98226"/>
     <tag k="addr:street" v="Northwest Drive"/>
@@ -29271,5 +29271,1640 @@
     <tag k="addr:housenumber" v="4605"/>
     <tag k="addr:postcode" v="98226-7381"/>
     <tag k="addr:street" v="Quinn Court"/>
+  </node>
+  <node id="-10629" visible="true" lon="-122.4865251031373" lat="48.81762414613917">
+    <tag k="addr:housenumber" v="4873"/>
+    <tag k="addr:postcode" v="98226-8082"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-10630" visible="true" lon="-122.4866165829379" lat="48.81851617981395">
+    <tag k="addr:housenumber" v="4889"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-10631" visible="true" lon="-122.4864778908198" lat="48.81903750376006">
+    <tag k="addr:housenumber" v="4905"/>
+    <tag k="addr:postcode" v="98226-9109"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-10632" visible="true" lon="-122.4864608816065" lat="48.81952193638143">
+    <tag k="addr:housenumber" v="4923"/>
+    <tag k="addr:postcode" v="98226-9109"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-10633" visible="true" lon="-122.4864749629112" lat="48.82687936789158">
+    <tag k="addr:housenumber" v="5119"/>
+    <tag k="addr:postcode" v="98226-9173"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-10634" visible="true" lon="-122.4873146920770" lat="48.80837507254813">
+    <tag k="addr:housenumber" v="4623"/>
+    <tag k="addr:postcode" v="98226-8086"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-10635" visible="true" lon="-122.4863956417727" lat="48.81028547829218">
+    <tag k="addr:housenumber" v="4665"/>
+    <tag k="addr:postcode" v="98226-8086"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-10636" visible="true" lon="-122.4864090057603" lat="48.81086265663522">
+    <tag k="addr:housenumber" v="4687"/>
+    <tag k="addr:postcode" v="98226-8086"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-10637" visible="true" lon="-122.4866515686937" lat="48.81363573919600">
+    <tag k="addr:housenumber" v="4759"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-10638" visible="true" lon="-122.4870961529877" lat="48.80929982857754">
+    <tag k="addr:housenumber" v="4633"/>
+    <tag k="addr:postcode" v="98226-8086"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-10639" visible="true" lon="-122.4951876029777" lat="48.81304206536257">
+    <tag k="addr:housenumber" v="4701"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Wade Street"/>
+  </node>
+  <node id="-10640" visible="true" lon="-122.4950622684161" lat="48.81241680528444">
+    <tag k="addr:housenumber" v="422"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10641" visible="true" lon="-122.4946667977924" lat="48.81276734933881">
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Holland Avenue"/>
+  </node>
+  <node id="-10642" visible="true" lon="-122.4946488852640" lat="48.81248394903811">
+    <tag k="addr:housenumber" v="364"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10643" visible="true" lon="-122.4917948006358" lat="48.81470318211785">
+    <tag k="addr:housenumber" v="4750"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10644" visible="true" lon="-122.4917931931539" lat="48.81397228353470">
+    <tag k="addr:housenumber" v="4738"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10645" visible="true" lon="-122.4917836200011" lat="48.81384937482535">
+    <tag k="addr:housenumber" v="4736"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10646" visible="true" lon="-122.4917788050822" lat="48.81421306751276">
+    <tag k="addr:housenumber" v="4742"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10647" visible="true" lon="-122.4917775709549" lat="48.81409004100975">
+    <tag k="addr:housenumber" v="4740"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10648" visible="true" lon="-122.4917766468377" lat="48.81372092011922">
+    <tag k="addr:housenumber" v="4734"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10649" visible="true" lon="-122.4917686792347" lat="48.81347678107063">
+    <tag k="addr:housenumber" v="4730"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10650" visible="true" lon="-122.4917686703530" lat="48.81458418237667">
+    <tag k="addr:housenumber" v="4748"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10651" visible="true" lon="-122.4917675754906" lat="48.81310215366864">
+    <tag k="addr:housenumber" v="4724"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10652" visible="true" lon="-122.4917673852389" lat="48.81335191875836">
+    <tag k="addr:housenumber" v="4728"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10653" visible="true" lon="-122.4917660313093" lat="48.81322521976695">
+    <tag k="addr:housenumber" v="4726"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10654" visible="true" lon="-122.4917647164348" lat="48.81446303033300">
+    <tag k="addr:housenumber" v="4746"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10655" visible="true" lon="-122.4917551446196" lat="48.81434012162524">
+    <tag k="addr:housenumber" v="4744"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10656" visible="true" lon="-122.4917509742628" lat="48.81163883614968">
+    <tag k="addr:housenumber" v="4700"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10657" visible="true" lon="-122.4917086292964" lat="48.81485499943356">
+    <tag k="addr:housenumber" v="4752"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10658" visible="true" lon="-122.4899925402407" lat="48.81060064318424">
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10659" visible="true" lon="-122.4893762671056" lat="48.81213255724536">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10660" visible="true" lon="-122.4890376078415" lat="48.81131982357254">
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="98226-8401"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10661" visible="true" lon="-122.4987260289700" lat="48.81486567380215">
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Kline Road"/>
+  </node>
+  <node id="-10662" visible="true" lon="-122.4937509705031" lat="48.81382061940462">
+    <tag k="addr:housenumber" v="4746"/>
+    <tag k="addr:postcode" v="98226-2226"/>
+    <tag k="addr:street" v="Leland Street"/>
+  </node>
+  <node id="-10663" visible="true" lon="-122.4937223051087" lat="48.81370422669099">
+    <tag k="addr:housenumber" v="4742"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Leland Street"/>
+  </node>
+  <node id="-10664" visible="true" lon="-122.4935727640206" lat="48.81417431731041">
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10665" visible="true" lon="-122.4935700530458" lat="48.81387820742839">
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10666" visible="true" lon="-122.4933871589453" lat="48.81417404341363">
+    <tag k="addr:housenumber" v="356"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10667" visible="true" lon="-122.4933331719877" lat="48.81283009543206">
+    <tag k="addr:housenumber" v="4705"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10668" visible="true" lon="-122.4933293808381" lat="48.81373553677308">
+    <tag k="addr:housenumber" v="4749"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10669" visible="true" lon="-122.4933267424642" lat="48.81365476905307">
+    <tag k="addr:housenumber" v="4745"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10670" visible="true" lon="-122.4933239455399" lat="48.81348401513479">
+    <tag k="addr:housenumber" v="4737"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10671" visible="true" lon="-122.4933224522413" lat="48.81389794046494">
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10672" visible="true" lon="-122.4933182773383" lat="48.81271460818053">
+    <tag k="addr:housenumber" v="4701"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10673" visible="true" lon="-122.4933130895920" lat="48.81340703774723">
+    <tag k="addr:housenumber" v="4733"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10674" visible="true" lon="-122.4933072477516" lat="48.81356873251730">
+    <tag k="addr:housenumber" v="4741"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10675" visible="true" lon="-122.4932845369230" lat="48.81206503041252">
+    <tag k="addr:housenumber" v="328"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10676" visible="true" lon="-122.4932027815765" lat="48.81423453670948">
+    <tag k="addr:housenumber" v="352"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10677" visible="true" lon="-122.4931503634080" lat="48.81201346847477">
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10678" visible="true" lon="-122.4931363618974" lat="48.81384425170919">
+    <tag k="addr:housenumber" v="4753"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10679" visible="true" lon="-122.4930783123158" lat="48.81434720820887">
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10680" visible="true" lon="-122.4930049962691" lat="48.81195720354987">
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10681" visible="true" lon="-122.4929845702519" lat="48.81445360638696">
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10682" visible="true" lon="-122.4929669341012" lat="48.81225671505535">
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Holland Avenue"/>
+  </node>
+  <node id="-10683" visible="true" lon="-122.4928992812819" lat="48.81454820953120">
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10684" visible="true" lon="-122.4928743439366" lat="48.81190072973882">
+    <tag k="addr:housenumber" v="316"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10685" visible="true" lon="-122.4973985105248" lat="48.81399705634990">
+    <tag k="addr:housenumber" v="4770"/>
+    <tag k="addr:postcode" v="98226-2201"/>
+    <tag k="addr:street" v="Cordata Parkway"/>
+  </node>
+  <node id="-10686" visible="true" lon="-122.4928290824472" lat="48.81220520514550">
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Holland Avenue"/>
+  </node>
+  <node id="-10687" visible="true" lon="-122.4927929547228" lat="48.81467521453881">
+    <tag k="addr:housenumber" v="336"/>
+    <tag k="addr:postcode" v="98226-2206"/>
+    <tag k="addr:street" v="Grady Way"/>
+  </node>
+  <node id="-10688" visible="true" lon="-122.4927548589552" lat="48.81404306892824">
+    <tag k="addr:housenumber" v="4776"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10689" visible="true" lon="-122.4927413719221" lat="48.81363005141845">
+    <tag k="addr:housenumber" v="4756"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10690" visible="true" lon="-122.4927357693255" lat="48.81379908742147">
+    <tag k="addr:housenumber" v="4764"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10691" visible="true" lon="-122.4927343409236" lat="48.81256315279020">
+    <tag k="addr:housenumber" v="4704"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10692" visible="true" lon="-122.4927287380796" lat="48.81183717622741">
+    <tag k="addr:housenumber" v="312"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10693" visible="true" lon="-122.4927282646144" lat="48.81246223199331">
+    <tag k="addr:housenumber" v="4700"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10694" visible="true" lon="-122.4927279074717" lat="48.81313255585234">
+    <tag k="addr:housenumber" v="4732"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10695" visible="true" lon="-122.4926859471823" lat="48.80799949835416">
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Horton Road"/>
+  </node>
+  <node id="-10696" visible="true" lon="-122.4925796939868" lat="48.81178096315463">
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10697" visible="true" lon="-122.4924072993382" lat="48.81202405169113">
+    <tag k="addr:housenumber" v="309"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Holland Avenue"/>
+  </node>
+  <node id="-10698" visible="true" lon="-122.4923957388287" lat="48.81174882371681">
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tremont Avenue"/>
+  </node>
+  <node id="-10699" visible="true" lon="-122.4923783423863" lat="48.81262952232967">
+    <tag k="addr:housenumber" v="4709"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10700" visible="true" lon="-122.4923750225462" lat="48.81298902784525">
+    <tag k="addr:housenumber" v="4721"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10701" visible="true" lon="-122.4923674247772" lat="48.81360803174828">
+    <tag k="addr:housenumber" v="4741"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10702" visible="true" lon="-122.4923602628024" lat="48.81372934122032">
+    <tag k="addr:housenumber" v="4745"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10703" visible="true" lon="-122.4923555794825" lat="48.81384143405499">
+    <tag k="addr:housenumber" v="4749"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10704" visible="true" lon="-122.4923353278696" lat="48.81275410362883">
+    <tag k="addr:housenumber" v="4713"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10705" visible="true" lon="-122.4923307644167" lat="48.81286986715409">
+    <tag k="addr:housenumber" v="4717"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10706" visible="true" lon="-122.4923174751638" lat="48.81237577328690">
+    <tag k="addr:housenumber" v="4701"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10707" visible="true" lon="-122.4922084703372" lat="48.81198726326404">
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Holland Avenue"/>
+  </node>
+  <node id="-10708" visible="true" lon="-122.4919545605782" lat="48.81480724060897">
+    <tag k="addr:housenumber" v="4754"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10709" visible="true" lon="-122.4927279616631" lat="48.81338966223685">
+    <tag k="addr:housenumber" v="4744"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10710" visible="true" lon="-122.4923526595684" lat="48.81324094445617">
+    <tag k="addr:housenumber" v="4729"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10711" visible="true" lon="-122.4927362016493" lat="48.81330139395445">
+    <tag k="addr:housenumber" v="4740"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10712" visible="true" lon="-122.4927245545548" lat="48.81371109624764">
+    <tag k="addr:housenumber" v="4760"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10713" visible="true" lon="-122.4927336241863" lat="48.81322246198108">
+    <tag k="addr:housenumber" v="4736"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10714" visible="true" lon="-122.4927382645868" lat="48.81396066336637">
+    <tag k="addr:housenumber" v="4772"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10715" visible="true" lon="-122.4927411265072" lat="48.81387798068548">
+    <tag k="addr:housenumber" v="4768"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10716" visible="true" lon="-122.4927442338189" lat="48.81354736872688">
+    <tag k="addr:housenumber" v="4752"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10717" visible="true" lon="-122.4923565548608" lat="48.81336026076347">
+    <tag k="addr:housenumber" v="4733"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10718" visible="true" lon="-122.4927304192635" lat="48.81346492355726">
+    <tag k="addr:housenumber" v="4748"/>
+    <tag k="addr:postcode" v="98226-2227"/>
+    <tag k="addr:street" v="Parker Street"/>
+  </node>
+  <node id="-10719" visible="true" lon="-122.4923577304688" lat="48.81348145242040">
+    <tag k="addr:housenumber" v="4737"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10720" visible="true" lon="-122.4923679805416" lat="48.81311400889466">
+    <tag k="addr:housenumber" v="4725"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10721" visible="true" lon="-122.4923485806229" lat="48.81447879368426">
+    <tag k="addr:housenumber" v="4769"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10722" visible="true" lon="-122.4923510173393" lat="48.81395719751294">
+    <tag k="addr:housenumber" v="4753"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10723" visible="true" lon="-122.4923552722515" lat="48.81408752752770">
+    <tag k="addr:housenumber" v="4757"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10724" visible="true" lon="-122.4923565677103" lat="48.81421238979783">
+    <tag k="addr:housenumber" v="4761"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10725" visible="true" lon="-122.4923407070409" lat="48.81432280514415">
+    <tag k="addr:housenumber" v="4765"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10726" visible="true" lon="-122.4921554036612" lat="48.81482641984546">
+    <tag k="addr:housenumber" v="4756"/>
+    <tag k="addr:postcode" v="98226-2228"/>
+    <tag k="addr:street" v="Hadley Street"/>
+  </node>
+  <node id="-10727" visible="true" lon="-122.4971843135540" lat="48.80803330144118">
+    <tag k="addr:housenumber" v="465"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sequoia Drive"/>
+  </node>
+  <node id="-10728" visible="true" lon="-122.4944598789779" lat="48.80872466412704">
+    <tag k="addr:housenumber" v="385"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sequoia Drive"/>
+  </node>
+  <node id="-10729" visible="true" lon="-122.4931536723943" lat="48.80908622500701">
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sequoia Drive"/>
+  </node>
+  <node id="-10730" visible="true" lon="-122.4956307930889" lat="48.81041971688809">
+    <tag k="addr:housenumber" v="4656"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Cordata Parkway"/>
+  </node>
+  <node id="-10731" visible="true" lon="-122.4936373624676" lat="48.81063537294654">
+    <tag k="addr:housenumber" v="4638"/>
+    <tag k="addr:postcode" v="98226-2207"/>
+    <tag k="addr:street" v="Wade Street"/>
+  </node>
+  <node id="-10732" visible="true" lon="-122.4968581042151" lat="48.81100120709519">
+    <tag k="addr:housenumber" v="4670"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Cordata Parkway"/>
+  </node>
+  <node id="-10733" visible="true" lon="-122.5328836217476" lat="48.81642311402967">
+    <tag k="addr:housenumber" v="953"/>
+    <tag k="addr:postcode" v="98226-8310"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10734" visible="true" lon="-122.5325295813396" lat="48.81788619834929">
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:postcode" v="98226-8310"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10735" visible="true" lon="-122.5315897915824" lat="48.81581801863308">
+    <tag k="addr:housenumber" v="883"/>
+    <tag k="addr:postcode" v="98226-8321"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10736" visible="true" lon="-122.5290688231351" lat="48.81865598083539">
+    <tag k="addr:housenumber" v="4890"/>
+    <tag k="addr:postcode" v="98226-9052"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10737" visible="true" lon="-122.5280100063240" lat="48.81831389693205">
+    <tag k="addr:housenumber" v="4878"/>
+    <tag k="addr:postcode" v="98226-9052"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10738" visible="true" lon="-122.5275542956570" lat="48.81740843427473">
+    <tag k="addr:housenumber" v="4860"/>
+    <tag k="addr:postcode" v="98226-9052"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10739" visible="true" lon="-122.5274939277918" lat="48.81248506533414">
+    <tag k="addr:housenumber" v="4721"/>
+    <tag k="addr:postcode" v="98226-9019"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10740" visible="true" lon="-122.5255232548130" lat="48.81736475298680">
+    <tag k="addr:housenumber" v="838"/>
+    <tag k="addr:postcode" v="98226-8321"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10741" visible="true" lon="-122.5238160497804" lat="48.81199375793126">
+    <tag k="addr:housenumber" v="4712"/>
+    <tag k="addr:postcode" v="98226-9019"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10742" visible="true" lon="-122.5227756500093" lat="48.81175087694429">
+    <tag k="addr:housenumber" v="4702"/>
+    <tag k="addr:postcode" v="98226-9019"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10743" visible="true" lon="-122.5197820414577" lat="48.81579077328434">
+    <tag k="addr:housenumber" v="751"/>
+    <tag k="addr:postcode" v="98226-8315"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10744" visible="true" lon="-122.5155066913812" lat="48.81686801886558">
+    <tag k="addr:housenumber" v="4921"/>
+    <tag k="addr:postcode" v="98226-9685"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10745" visible="true" lon="-122.5144869491045" lat="48.81688739789995">
+    <tag k="addr:housenumber" v="4895"/>
+    <tag k="addr:postcode" v="98226-9684"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10746" visible="true" lon="-122.5101887414963" lat="48.81802015257982">
+    <tag k="addr:housenumber" v="4871"/>
+    <tag k="addr:postcode" v="98226-9684"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10747" visible="true" lon="-122.5088829752792" lat="48.81777603088839">
+    <tag k="addr:housenumber" v="4855"/>
+    <tag k="addr:postcode" v="98226-9684"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10748" visible="true" lon="-122.5065829057951" lat="48.81210875794535">
+    <tag k="addr:housenumber" v="4720"/>
+    <tag k="addr:postcode" v="98226-9683"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10749" visible="true" lon="-122.5090012476479" lat="48.81539423287970">
+    <tag k="addr:housenumber" v="4815"/>
+    <tag k="addr:postcode" v="98226-9684"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10750" visible="true" lon="-122.5168586426054" lat="48.81771644159555">
+    <tag k="addr:housenumber" v="4927"/>
+    <tag k="addr:postcode" v="98226-9685"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10751" visible="true" lon="-122.5117583637551" lat="48.81781880904901">
+    <tag k="addr:housenumber" v="4875"/>
+    <tag k="addr:postcode" v="98226-9684"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10752" visible="true" lon="-122.5306261585785" lat="48.81792298871115">
+    <tag k="addr:housenumber" v="4897"/>
+    <tag k="addr:postcode" v="98226-9052"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10753" visible="true" lon="-122.5281502073787" lat="48.81579627714317">
+    <tag k="addr:housenumber" v="4821"/>
+    <tag k="addr:postcode" v="98226-9094"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10754" visible="true" lon="-122.5294393469521" lat="48.81753069332434">
+    <tag k="addr:housenumber" v="880"/>
+    <tag k="addr:postcode" v="98226-8321"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10755" visible="true" lon="-122.5333805677249" lat="48.81571706047674">
+    <tag k="addr:housenumber" v="961"/>
+    <tag k="addr:postcode" v="98226-8310"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10756" visible="true" lon="-122.5290879185581" lat="48.81656614793974">
+    <tag k="addr:housenumber" v="4841"/>
+    <tag k="addr:postcode" v="98226-9094"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10757" visible="true" lon="-122.5229035708878" lat="48.82553467261317">
+    <tag k="addr:housenumber" v="775"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Larson Road"/>
+  </node>
+  <node id="-10758" visible="true" lon="-122.5277132857299" lat="48.82675667991618">
+    <tag k="addr:housenumber" v="868"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Larson Road"/>
+  </node>
+  <node id="-10759" visible="true" lon="-122.5136549231947" lat="48.81666303714065">
+    <tag k="addr:housenumber" v="4840"/>
+    <tag k="addr:postcode" v="98226-6328"/>
+    <tag k="addr:street" v="Bristol Place"/>
+  </node>
+  <node id="-10760" visible="true" lon="-122.5039308212630" lat="48.80817909271301">
+    <tag k="addr:housenumber" v="391"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meadowbrook Court"/>
+  </node>
+  <node id="-10761" visible="true" lon="-122.5039047471818" lat="48.80843387499824">
+    <tag k="addr:housenumber" v="395"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meadowbrook Court"/>
+  </node>
+  <node id="-10762" visible="true" lon="-122.5270420205602" lat="48.80949985423032">
+    <tag k="addr:housenumber" v="4719"/>
+    <tag k="addr:postcode" v="98226-9019"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10763" visible="true" lon="-122.5094702272818" lat="48.80918816049866">
+    <tag k="addr:housenumber" v="4649"/>
+    <tag k="addr:postcode" v="98226-9682"/>
+    <tag k="addr:street" v="Aldrich Road"/>
+  </node>
+  <node id="-10764" visible="true" lon="-122.5124569310050" lat="48.80804198030917">
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:postcode" v="98226-1742"/>
+    <tag k="addr:street" v="Wiltse Lane"/>
+  </node>
+  <node id="-10765" visible="true" lon="-122.5131405158691" lat="48.80802910931781">
+    <tag k="addr:housenumber" v="594"/>
+    <tag k="addr:postcode" v="98226-1742"/>
+    <tag k="addr:street" v="Wiltse Lane"/>
+  </node>
+  <node id="-10766" visible="true" lon="-122.5455898674683" lat="48.81854349310431">
+    <tag k="addr:housenumber" v="4886"/>
+    <tag k="addr:postcode" v="98226-9027"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10767" visible="true" lon="-122.5464217309123" lat="48.81872563763639">
+    <tag k="addr:housenumber" v="4878"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10768" visible="true" lon="-122.5478792238094" lat="48.81873292598006">
+    <tag k="addr:housenumber" v="4882"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10769" visible="true" lon="-122.5468949654329" lat="48.81882312975078">
+    <tag k="addr:housenumber" v="4882"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10770" visible="true" lon="-122.5478898847665" lat="48.81941722694725">
+    <tag k="addr:housenumber" v="4909"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10771" visible="true" lon="-122.5478883192123" lat="48.82032471327778">
+    <tag k="addr:housenumber" v="4945"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10772" visible="true" lon="-122.5486844161502" lat="48.82168898444817">
+    <tag k="addr:housenumber" v="1235"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10773" visible="true" lon="-122.5473606687193" lat="48.82169384172609">
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10774" visible="true" lon="-122.5478821569128" lat="48.82307148028830">
+    <tag k="addr:housenumber" v="1206"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10775" visible="true" lon="-122.5460279170258" lat="48.82312958910848">
+    <tag k="addr:housenumber" v="1194"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10776" visible="true" lon="-122.5452826333777" lat="48.82332895816504">
+    <tag k="addr:housenumber" v="1178"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10777" visible="true" lon="-122.5443908293975" lat="48.82459853884599">
+    <tag k="addr:housenumber" v="1170"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10778" visible="true" lon="-122.5455536986486" lat="48.82501047628131">
+    <tag k="addr:housenumber" v="5050"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10779" visible="true" lon="-122.5478629511890" lat="48.82544872145598">
+    <tag k="addr:housenumber" v="5097"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10780" visible="true" lon="-122.5478977109238" lat="48.82562431233512">
+    <tag k="addr:housenumber" v="5099"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10781" visible="true" lon="-122.5449479928757" lat="48.82672364948878">
+    <tag k="addr:housenumber" v="5104"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10782" visible="true" lon="-122.5468431146939" lat="48.82757707109460">
+    <tag k="addr:housenumber" v="5139"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10783" visible="true" lon="-122.5474035086555" lat="48.82757956204819">
+    <tag k="addr:housenumber" v="5141"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10784" visible="true" lon="-122.5479514491451" lat="48.82758201857209">
+    <tag k="addr:housenumber" v="5143"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10785" visible="true" lon="-122.5487215643421" lat="48.82758597210897">
+    <tag k="addr:housenumber" v="5145"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10786" visible="true" lon="-122.5449644764307" lat="48.82758953113070">
+    <tag k="addr:housenumber" v="5148"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10787" visible="true" lon="-122.5457284768888" lat="48.82821372627001">
+    <tag k="addr:housenumber" v="5156"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10788" visible="true" lon="-122.5478600052240" lat="48.82823610805823">
+    <tag k="addr:housenumber" v="5155"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10789" visible="true" lon="-122.5457263462701" lat="48.82864677030959">
+    <tag k="addr:housenumber" v="5168"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10790" visible="true" lon="-122.5478577763698" lat="48.82940546411157">
+    <tag k="addr:housenumber" v="5193"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10791" visible="true" lon="-122.5458384858436" lat="48.82947953719808">
+    <tag k="addr:housenumber" v="5198"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10792" visible="true" lon="-122.5456916513605" lat="48.83003847919323">
+    <tag k="addr:housenumber" v="5208"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10793" visible="true" lon="-122.5471468759401" lat="48.83011288374286">
+    <tag k="addr:housenumber" v="5207"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10794" visible="true" lon="-122.5446492831416" lat="48.83029126996440">
+    <tag k="addr:housenumber" v="1167"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10795" visible="true" lon="-122.5485393800213" lat="48.83040635731924">
+    <tag k="addr:housenumber" v="1237"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Ginger Place"/>
+  </node>
+  <node id="-10796" visible="true" lon="-122.5456905042472" lat="48.83051380611644">
+    <tag k="addr:housenumber" v="5218"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10797" visible="true" lon="-122.5472388174269" lat="48.83055214089096">
+    <tag k="addr:housenumber" v="5223"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10798" visible="true" lon="-122.5471461842335" lat="48.83083955538862">
+    <tag k="addr:housenumber" v="5231"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10799" visible="true" lon="-122.5456895171238" lat="48.83093786381036">
+    <tag k="addr:housenumber" v="5230"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10800" visible="true" lon="-122.5471460381824" lat="48.83105784825398">
+    <tag k="addr:housenumber" v="5237"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10801" visible="true" lon="-122.5446459397360" lat="48.83120173498022">
+    <tag k="addr:housenumber" v="1163"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10802" visible="true" lon="-122.5485096965564" lat="48.83129135235156">
+    <tag k="addr:housenumber" v="1226"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Ginger Place"/>
+  </node>
+  <node id="-10803" visible="true" lon="-122.5474028111340" lat="48.83130441952934">
+    <tag k="addr:housenumber" v="1212"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Ginger Place"/>
+  </node>
+  <node id="-10804" visible="true" lon="-122.5456886098847" lat="48.83130787153137">
+    <tag k="addr:housenumber" v="5240"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10805" visible="true" lon="-122.5467488011790" lat="48.83132791100972">
+    <tag k="addr:housenumber" v="5243"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10806" visible="true" lon="-122.5471448666358" lat="48.83153031176460">
+    <tag k="addr:housenumber" v="5247"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10807" visible="true" lon="-122.5456876644441" lat="48.83167787796084">
+    <tag k="addr:housenumber" v="5250"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10808" visible="true" lon="-122.5471572145641" lat="48.83174100232233">
+    <tag k="addr:housenumber" v="5253"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10809" visible="true" lon="-122.5483051656254" lat="48.83191367259317">
+    <tag k="addr:housenumber" v="1243"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10810" visible="true" lon="-122.5456867585399" lat="48.83204788555434">
+    <tag k="addr:housenumber" v="5262"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10811" visible="true" lon="-122.5446964959127" lat="48.83210895548154">
+    <tag k="addr:housenumber" v="1169"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10812" visible="true" lon="-122.5471560298585" lat="48.83221860526173">
+    <tag k="addr:housenumber" v="5265"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10813" visible="true" lon="-122.5458391587915" lat="48.83252478854801">
+    <tag k="addr:housenumber" v="5290"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10814" visible="true" lon="-122.5451161730133" lat="48.83283652051470">
+    <tag k="addr:housenumber" v="1177"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10815" visible="true" lon="-122.5452905392788" lat="48.83283697614075">
+    <tag k="addr:housenumber" v="1181"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10816" visible="true" lon="-122.5446874226711" lat="48.83296720471112">
+    <tag k="addr:housenumber" v="1171"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10817" visible="true" lon="-122.5468219966217" lat="48.83296938756841">
+    <tag k="addr:housenumber" v="5295"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10818" visible="true" lon="-122.5474863080251" lat="48.83297087555005">
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10819" visible="true" lon="-122.5458377525406" lat="48.83308505404027">
+    <tag k="addr:housenumber" v="5298"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10820" visible="true" lon="-122.5422264970008" lat="48.82716015710990">
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10821" visible="true" lon="-122.5429845282803" lat="48.82868004740427">
+    <tag k="addr:housenumber" v="5178"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10822" visible="true" lon="-122.5430956404544" lat="48.82954413699782">
+    <tag k="addr:housenumber" v="5196"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10823" visible="true" lon="-122.5439170322371" lat="48.83028892959295">
+    <tag k="addr:housenumber" v="1165"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10824" visible="true" lon="-122.5432286694470" lat="48.83176882785053">
+    <tag k="addr:housenumber" v="1145"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10825" visible="true" lon="-122.5439965369884" lat="48.83193855432685">
+    <tag k="addr:housenumber" v="1159"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10826" visible="true" lon="-122.5439922853465" lat="48.83254151606153">
+    <tag k="addr:housenumber" v="1157"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10827" visible="true" lon="-122.5439883597946" lat="48.83309829423109">
+    <tag k="addr:housenumber" v="1153"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10828" visible="true" lon="-122.5425833260471" lat="48.83313552585373">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10829" visible="true" lon="-122.5580140780292" lat="48.82891058187496">
+    <tag k="addr:housenumber" v="1435"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10830" visible="true" lon="-122.5565148786562" lat="48.82915498088029">
+    <tag k="addr:housenumber" v="1373"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10831" visible="true" lon="-122.5571518501301" lat="48.82915820422618">
+    <tag k="addr:housenumber" v="1385"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10832" visible="true" lon="-122.5583517250218" lat="48.82966927315267">
+    <tag k="addr:housenumber" v="1440"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10833" visible="true" lon="-122.5578207588730" lat="48.82978584424677">
+    <tag k="addr:housenumber" v="1434"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10834" visible="true" lon="-122.5565050055332" lat="48.82994800618842">
+    <tag k="addr:housenumber" v="1374"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10835" visible="true" lon="-122.5571715311347" lat="48.82994936248546">
+    <tag k="addr:housenumber" v="1386"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Admiral Place"/>
+  </node>
+  <node id="-10836" visible="true" lon="-122.5402551399687" lat="48.81068021628773">
+    <tag k="addr:housenumber" v="4672"/>
+    <tag k="addr:postcode" v="98226-9016"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10837" visible="true" lon="-122.5411723358436" lat="48.81166440374145">
+    <tag k="addr:housenumber" v="4694"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10838" visible="true" lon="-122.5413564535326" lat="48.81210363383315">
+    <tag k="addr:housenumber" v="4704"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10839" visible="true" lon="-122.5414775075671" lat="48.81240780933886">
+    <tag k="addr:housenumber" v="4712"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10840" visible="true" lon="-122.5427946031649" lat="48.81408602461358">
+    <tag k="addr:housenumber" v="4748"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10841" visible="true" lon="-122.5427348251312" lat="48.81454253731511">
+    <tag k="addr:housenumber" v="4760"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10842" visible="true" lon="-122.5434669706888" lat="48.81471190903468">
+    <tag k="addr:housenumber" v="4770"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10843" visible="true" lon="-122.5441025112642" lat="48.81485994078307">
+    <tag k="addr:housenumber" v="4778"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10844" visible="true" lon="-122.5440592206489" lat="48.81531264851633">
+    <tag k="addr:housenumber" v="4792"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10845" visible="true" lon="-122.5411136904850" lat="48.81568758171334">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:postcode" v="98226-8320"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10846" visible="true" lon="-122.5424153989092" lat="48.81590645574082">
+    <tag k="addr:housenumber" v="1141"/>
+    <tag k="addr:postcode" v="98226-8320"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10847" visible="true" lon="-122.5439492263418" lat="48.81617618870144">
+    <tag k="addr:housenumber" v="1197"/>
+    <tag k="addr:postcode" v="98226-8320"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10848" visible="true" lon="-122.5411254120889" lat="48.81653041817896">
+    <tag k="addr:housenumber" v="1107"/>
+    <tag k="addr:postcode" v="98226-8320"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10849" visible="true" lon="-122.5436532979958" lat="48.81996167963982">
+    <tag k="addr:housenumber" v="1151"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10850" visible="true" lon="-122.5402364530182" lat="48.82086939847092">
+    <tag k="addr:housenumber" v="1091"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10851" visible="true" lon="-122.5416093738010" lat="48.82140509217071">
+    <tag k="addr:housenumber" v="1121"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10852" visible="true" lon="-122.5429948468136" lat="48.82141077323893">
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10853" visible="true" lon="-122.5416064074813" lat="48.82185831346699">
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10854" visible="true" lon="-122.5429923355587" lat="48.82186415716780">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10855" visible="true" lon="-122.5416037447402" lat="48.82226534693618">
+    <tag k="addr:housenumber" v="1117"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10856" visible="true" lon="-122.5429900816722" lat="48.82227135302630">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10857" visible="true" lon="-122.5434521316917" lat="48.82317161490200">
+    <tag k="addr:housenumber" v="1150"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10858" visible="true" lon="-122.5413093364342" lat="48.82458058547519">
+    <tag k="addr:housenumber" v="1098"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10859" visible="true" lon="-122.5405488692645" lat="48.82458083602420">
+    <tag k="addr:housenumber" v="1090"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10860" visible="true" lon="-122.5423507850699" lat="48.82458705935702">
+    <tag k="addr:housenumber" v="1136"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10861" visible="true" lon="-122.5416701680910" lat="48.81290338847325">
+    <tag k="addr:housenumber" v="4726"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10862" visible="true" lon="-122.5424888482455" lat="48.81335085553923">
+    <tag k="addr:housenumber" v="4744"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10863" visible="true" lon="-122.5491604065046" lat="48.83302381255803">
+    <tag k="addr:housenumber" v="1247"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10864" visible="true" lon="-122.5582360927435" lat="48.83047304385890">
+    <tag k="addr:housenumber" v="5231"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10865" visible="true" lon="-122.5568227638382" lat="48.83054161339162">
+    <tag k="addr:housenumber" v="5221"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10866" visible="true" lon="-122.5596047060210" lat="48.83089584864386">
+    <tag k="addr:housenumber" v="5216"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10867" visible="true" lon="-122.5568229762784" lat="48.83124258934992">
+    <tag k="addr:housenumber" v="5251"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10868" visible="true" lon="-122.5582363279527" lat="48.83124866220702">
+    <tag k="addr:housenumber" v="5271"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10869" visible="true" lon="-122.5608795692728" lat="48.83216404264491">
+    <tag k="addr:housenumber" v="5240"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10870" visible="true" lon="-122.5582962656762" lat="48.83261172046339">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="West Smith Road"/>
+  </node>
+  <node id="-10871" visible="true" lon="-122.5566894845052" lat="48.83274282887058">
+    <tag k="addr:housenumber" v="1385"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="West Smith Road"/>
+  </node>
+  <node id="-10872" visible="true" lon="-122.5604463507906" lat="48.83301358418066">
+    <tag k="addr:housenumber" v="1455"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10873" visible="true" lon="-122.5609154800596" lat="48.83301545124559">
+    <tag k="addr:housenumber" v="1465"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10874" visible="true" lon="-122.5616033099276" lat="48.83301732327299">
+    <tag k="addr:housenumber" v="1479"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10875" visible="true" lon="-122.5368116038855" lat="48.81937426310908">
+    <tag k="addr:housenumber" v="1029"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10876" visible="true" lon="-122.5368056216103" lat="48.82017443737028">
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10877" visible="true" lon="-122.5388685691032" lat="48.82086353621091">
+    <tag k="addr:housenumber" v="1053"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10878" visible="true" lon="-122.5376550996888" lat="48.82129894568811">
+    <tag k="addr:housenumber" v="1033"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10879" visible="true" lon="-122.5375898669570" lat="48.82205548577264">
+    <tag k="addr:housenumber" v="1049"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10880" visible="true" lon="-122.5357424156416" lat="48.82211884828330">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10881" visible="true" lon="-122.5364296060290" lat="48.82224121128436">
+    <tag k="addr:housenumber" v="1019"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10882" visible="true" lon="-122.5361513481833" lat="48.82353877209413">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10883" visible="true" lon="-122.5375312975259" lat="48.82354239155771">
+    <tag k="addr:housenumber" v="1024"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10884" visible="true" lon="-122.5384767932895" lat="48.82456644180847">
+    <tag k="addr:housenumber" v="1052"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10885" visible="true" lon="-122.5391674935841" lat="48.82456981824763">
+    <tag k="addr:housenumber" v="1074"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10886" visible="true" lon="-122.5398581940007" lat="48.82457319149260">
+    <tag k="addr:housenumber" v="1080"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10887" visible="true" lon="-122.5367412472818" lat="48.82531817043648">
+    <tag k="addr:housenumber" v="5097"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10888" visible="true" lon="-122.5389284583929" lat="48.82807273667537">
+    <tag k="addr:housenumber" v="5280"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10889" visible="true" lon="-122.5325618917540" lat="48.82813679811571">
+    <tag k="addr:housenumber" v="5280"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10890" visible="true" lon="-122.5360754699318" lat="48.82825993227595">
+    <tag k="addr:housenumber" v="5280"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10891" visible="true" lon="-122.5395431308360" lat="48.82970255324555">
+    <tag k="addr:housenumber" v="5205"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10892" visible="true" lon="-122.5396509006076" lat="48.82998835652869">
+    <tag k="addr:housenumber" v="5205"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10893" visible="true" lon="-122.5399147857831" lat="48.83018596902658">
+    <tag k="addr:housenumber" v="5217"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10894" visible="true" lon="-122.5374812217285" lat="48.83181096252586">
+    <tag k="addr:housenumber" v="5280"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Drive"/>
+  </node>
+  <node id="-10895" visible="true" lon="-122.5309846996973" lat="48.81653084947039">
+    <tag k="addr:housenumber" v="911"/>
+    <tag k="addr:postcode" v="98226-8310"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10896" visible="true" lon="-122.5345651818750" lat="48.81653126136457">
+    <tag k="addr:housenumber" v="985"/>
+    <tag k="addr:postcode" v="98226-8310"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10897" visible="true" lon="-122.5347412126563" lat="48.81573832098758">
+    <tag k="addr:housenumber" v="999"/>
+    <tag k="addr:postcode" v="98226-8310"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10898" visible="true" lon="-122.5382875685505" lat="48.81165484333478">
+    <tag k="addr:housenumber" v="1056"/>
+    <tag k="addr:postcode" v="98226-9004"/>
+    <tag k="addr:street" v="Waldron Road"/>
+  </node>
+  <node id="-10899" visible="true" lon="-122.5395099945167" lat="48.81591997875669">
+    <tag k="addr:housenumber" v="1069"/>
+    <tag k="addr:postcode" v="98226-8322"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10900" visible="true" lon="-122.5367415249449" lat="48.81589469170628">
+    <tag k="addr:housenumber" v="1029"/>
+    <tag k="addr:postcode" v="98226-8322"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-10901" visible="true" lon="-122.5366974136245" lat="48.81179242428582">
+    <tag k="addr:housenumber" v="1046"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Waldron Road"/>
+  </node>
+  <node id="-10902" visible="true" lon="-122.5398566510149" lat="48.81021013057839">
+    <tag k="addr:housenumber" v="4662"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10903" visible="true" lon="-122.5443729505837" lat="48.81492752243845">
+    <tag k="addr:housenumber" v="4784"/>
+    <tag k="addr:postcode" v="98226-9049"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10904" visible="true" lon="-122.5452027908242" lat="48.81635763225553">
+    <tag k="addr:housenumber" v="4840"/>
+    <tag k="addr:postcode" v="98226-9007"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10905" visible="true" lon="-122.5496264935281" lat="48.82010012039134">
+    <tag k="addr:housenumber" v="4942"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10906" visible="true" lon="-122.5506616890102" lat="48.82100738724828">
+    <tag k="addr:housenumber" v="4950"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10907" visible="true" lon="-122.5501888389039" lat="48.82126747773288">
+    <tag k="addr:housenumber" v="4958"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10908" visible="true" lon="-122.5505887899466" lat="48.82209827884090">
+    <tag k="addr:housenumber" v="1273"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10909" visible="true" lon="-122.5520989102402" lat="48.82251734476274">
+    <tag k="addr:housenumber" v="1273"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-10910" visible="true" lon="-122.5528003488209" lat="48.82379311047544">
+    <tag k="addr:housenumber" v="5016"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10911" visible="true" lon="-122.5511227350732" lat="48.82398041710323">
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10912" visible="true" lon="-122.5532716188844" lat="48.82484723363591">
+    <tag k="addr:housenumber" v="5048"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10913" visible="true" lon="-122.5539223491537" lat="48.82522407063853">
+    <tag k="addr:housenumber" v="5060"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10914" visible="true" lon="-122.5522270702348" lat="48.82546605298058">
+    <tag k="addr:housenumber" v="5096"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10915" visible="true" lon="-122.5529112903605" lat="48.82576665547810">
+    <tag k="addr:housenumber" v="5072"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10916" visible="true" lon="-122.5549402107347" lat="48.82578572622854">
+    <tag k="addr:housenumber" v="5080"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10917" visible="true" lon="-122.5505698004813" lat="48.82669104213320">
+    <tag k="addr:housenumber" v="5136"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10918" visible="true" lon="-122.5549078875781" lat="48.82679978132042">
+    <tag k="addr:housenumber" v="1351"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
+  </node>
+  <node id="-10919" visible="true" lon="-122.5529933150473" lat="48.82700456658646">
+    <tag k="addr:housenumber" v="5120"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
+  </node>
+  <node id="-10920" visible="true" lon="-122.5556962035009" lat="48.82682583370362">
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Highway"/>
+  </node>
+  <node id="-10921" visible="true" lon="-122.5542184793886" lat="48.82702687295397">
+    <tag k="addr:housenumber" v="1353"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
+  </node>
+  <node id="-10922" visible="true" lon="-122.5542041913376" lat="48.82742550920864">
+    <tag k="addr:housenumber" v="1357"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
+  </node>
+  <node id="-10923" visible="true" lon="-122.5512688991592" lat="48.82759765836664">
+    <tag k="addr:housenumber" v="5142"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10924" visible="true" lon="-122.5540436116563" lat="48.82811257003276">
+    <tag k="addr:housenumber" v="1354"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
+  </node>
+  <node id="-10925" visible="true" lon="-122.5505721375430" lat="48.82824711950439">
+    <tag k="addr:housenumber" v="5155"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Graveline Road"/>
+  </node>
+  <node id="-10926" visible="true" lon="-122.5554511193450" lat="48.82841972665450">
+    <tag k="addr:housenumber" v="5160"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10927" visible="true" lon="-122.5505522328136" lat="48.82915775366175">
+    <tag k="addr:housenumber" v="5188"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10928" visible="true" lon="-122.5543039863290" lat="48.82921962161682">
+    <tag k="addr:housenumber" v="1350"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
+  </node>
+  <node id="-10929" visible="true" lon="-122.5554521264376" lat="48.82915732162011">
+    <tag k="addr:housenumber" v="5180"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10930" visible="true" lon="-122.5520317456417" lat="48.82936445438664">
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10931" visible="true" lon="-122.5509545497957" lat="48.82968933356319">
+    <tag k="addr:housenumber" v="5196"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10932" visible="true" lon="-122.5554519448867" lat="48.82984116564869">
+    <tag k="addr:housenumber" v="5200"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10933" visible="true" lon="-122.5525484134214" lat="48.83007042051460">
+    <tag k="addr:housenumber" v="5197"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10934" visible="true" lon="-122.5505737485238" lat="48.83031118308043">
+    <tag k="addr:housenumber" v="5216"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10935" visible="true" lon="-122.5554517766663" lat="48.83045495583590">
+    <tag k="addr:housenumber" v="5220"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10936" visible="true" lon="-122.5525494787220" lat="48.83078272053631">
+    <tag k="addr:housenumber" v="5233"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10937" visible="true" lon="-122.5538561086836" lat="48.83082293155810">
+    <tag k="addr:housenumber" v="5249"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10938" visible="true" lon="-122.5515967468759" lat="48.83121698587174">
+    <tag k="addr:housenumber" v="5256"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10939" visible="true" lon="-122.5502636654514" lat="48.83121468866857">
+    <tag k="addr:housenumber" v="5252"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10940" visible="true" lon="-122.5554515527428" lat="48.83123705178991">
+    <tag k="addr:housenumber" v="5220"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Industrial Place"/>
+  </node>
+  <node id="-10941" visible="true" lon="-122.5543311903738" lat="48.83136456994730">
+    <tag k="addr:housenumber" v="5251"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10942" visible="true" lon="-122.5527565223773" lat="48.83206483617631">
+    <tag k="addr:housenumber" v="5255"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Road"/>
+  </node>
+  <node id="-10943" visible="true" lon="-122.5515879875244" lat="48.83208251484885">
+    <tag k="addr:housenumber" v="1291"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10944" visible="true" lon="-122.5509895223333" lat="48.83208133651335">
+    <tag k="addr:housenumber" v="1279"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10945" visible="true" lon="-122.5503910558084" lat="48.83208015512534">
+    <tag k="addr:housenumber" v="1267"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10946" visible="true" lon="-122.5540621666718" lat="48.83215343600533">
+    <tag k="addr:housenumber" v="1321"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="West Smith Road"/>
+  </node>
+  <node id="-10947" visible="true" lon="-122.5497925907034" lat="48.83207897154368">
+    <tag k="addr:housenumber" v="1255"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10948" visible="true" lon="-122.5523864655379" lat="48.83293436989209">
+    <tag k="addr:housenumber" v="1307"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10949" visible="true" lon="-122.5530065813162" lat="48.83293707009297">
+    <tag k="addr:housenumber" v="1313"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10950" visible="true" lon="-122.5545194016684" lat="48.83290660258753">
+    <tag k="addr:housenumber" v="1325"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-10951" visible="true" lon="-122.5515887419899" lat="48.83294978758234">
+    <tag k="addr:housenumber" v="1292"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10952" visible="true" lon="-122.5509898258324" lat="48.83294879023681">
+    <tag k="addr:housenumber" v="1280"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10953" visible="true" lon="-122.5503909110602" lat="48.83294778979406">
+    <tag k="addr:housenumber" v="1268"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10954" visible="true" lon="-122.5497920344705" lat="48.83294678661164">
+    <tag k="addr:housenumber" v="1256"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Byers Lane"/>
+  </node>
+  <node id="-10955" visible="true" lon="-122.5557215311174" lat="48.82776948960541">
+    <tag k="addr:housenumber" v="1355"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Pacific Place"/>
   </node>
 </osm>

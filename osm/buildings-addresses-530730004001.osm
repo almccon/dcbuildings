@@ -12926,7 +12926,7 @@
     <nd ref="-4341"/>
     <nd ref="-4314"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Parkview Es"/>
+    <tag k="name" v="Parkview Elementary School"/>
     <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3033"/>
     <tag k="addr:postcode" v="98225-1803"/>
@@ -16680,9 +16680,6 @@
     <nd ref="-5455"/>
     <nd ref="-5450"/>
     <tag k="building" v="yes"/>
-    <tag k="addr:housenumber" v="3116"/>
-    <tag k="addr:postcode" v="98225-1726"/>
-    <tag k="addr:street" v="Meridian Street"/>
   </way>
   <node id="-5456" visible="true" lon="-122.4851461705221" lat="48.77171014433306"/>
   <node id="-5457" visible="true" lon="-122.4852570934722" lat="48.77170857030492"/>
@@ -17420,9 +17417,6 @@
     <tag k="building" v="house"/>
     <tag k="start_date" v="1948"/>
     <tag k="building:levels" v="1"/>
-    <tag k="addr:housenumber" v="3207"/>
-    <tag k="addr:postcode" v="98225-1847"/>
-    <tag k="addr:street" v="Vallette Street"/>
   </way>
   <node id="-5676" visible="true" lon="-122.4844809039138" lat="48.77304078807497"/>
   <node id="-5677" visible="true" lon="-122.4844800098578" lat="48.77307712723699"/>
@@ -27802,5 +27796,380 @@
     <tag k="addr:housenumber" v="3008"/>
     <tag k="addr:postcode" v="98225-2246"/>
     <tag k="addr:street" v="Tulip Road"/>
+  </node>
+  <node id="-8827" visible="true" lon="-122.4685585358040" lat="48.77179489958501">
+    <tag k="addr:housenumber" v="3200"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Parkway"/>
+  </node>
+  <node id="-8828" visible="true" lon="-122.4947656635711" lat="48.77208560689147">
+    <tag k="addr:housenumber" v="3109"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-8829" visible="true" lon="-122.4754447920468" lat="48.78036570334586">
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="98225-1701"/>
+    <tag k="addr:street" v="Baker Street"/>
+  </node>
+  <node id="-8830" visible="true" lon="-122.4746604643635" lat="48.77664859072235">
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Parkway"/>
+  </node>
+  <node id="-8831" visible="true" lon="-122.4764372976224" lat="48.77659020996626">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Parkway"/>
+  </node>
+  <node id="-8832" visible="true" lon="-122.4804126825040" lat="48.78044082833317">
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:postcode" v="98225-1711"/>
+    <tag k="addr:street" v="Baker Street"/>
+  </node>
+  <node id="-8833" visible="true" lon="-122.4775205854920" lat="48.78093048615731">
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:postcode" v="98225-1706"/>
+    <tag k="addr:street" v="Baker Street"/>
+  </node>
+  <node id="-8834" visible="true" lon="-122.4834585543038" lat="48.78177611622527">
+    <tag k="addr:housenumber" v="3713"/>
+    <tag k="addr:postcode" v="98225-1719"/>
+    <tag k="addr:street" v="Beal Street"/>
+  </node>
+  <node id="-8835" visible="true" lon="-122.4835762621621" lat="48.78199102543375">
+    <tag k="addr:housenumber" v="3717"/>
+    <tag k="addr:postcode" v="98225-1719"/>
+    <tag k="addr:street" v="Beal Street"/>
+  </node>
+  <node id="-8836" visible="true" lon="-122.4789777890965" lat="48.78042767209104">
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Baker Street"/>
+  </node>
+  <node id="-8837" visible="true" lon="-122.4800241232026" lat="48.78039368783008">
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:postcode" v="98225-1711"/>
+    <tag k="addr:street" v="Baker Street"/>
+  </node>
+  <node id="-8838" visible="true" lon="-122.4859986216411" lat="48.78274566658003">
+    <tag k="addr:housenumber" v="3820"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-8839" visible="true" lon="-122.4845506591402" lat="48.77382595010329">
+    <tag k="addr:housenumber" v="3228"/>
+    <tag k="addr:postcode" v="98225-1745"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8840" visible="true" lon="-122.4863558040887" lat="48.77460605602825">
+    <tag k="addr:housenumber" v="3307"/>
+    <tag k="addr:postcode" v="98225-1729"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-8841" visible="true" lon="-122.4856784468254" lat="48.77507020628474">
+    <tag k="addr:housenumber" v="3400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-8842" visible="true" lon="-122.4869992756535" lat="48.77511982423567">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98225-1322"/>
+    <tag k="addr:street" v="East Maplewood Avenue"/>
+  </node>
+  <node id="-8843" visible="true" lon="-122.4864485518847" lat="48.77512658989193">
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:postcode" v="98225-1322"/>
+    <tag k="addr:street" v="East Maplewood Avenue"/>
+  </node>
+  <node id="-8844" visible="true" lon="-122.4769270864294" lat="48.77554390695965">
+    <tag k="addr:housenumber" v="3300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-8845" visible="true" lon="-122.4899856597884" lat="48.77276343967213">
+    <tag k="addr:housenumber" v="1421"/>
+    <tag k="addr:postcode" v="98225-1327"/>
+    <tag k="addr:street" v="East Maplewood Avenue"/>
+  </node>
+  <node id="-8846" visible="true" lon="-122.4931648462999" lat="48.77017129983015">
+    <tag k="addr:housenumber" v="3005"/>
+    <tag k="addr:postcode" v="98225-1649"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-8847" visible="true" lon="-122.4698862864513" lat="48.77187603030067">
+    <tag k="addr:housenumber" v="3110"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Parkway"/>
+  </node>
+  <node id="-8848" visible="true" lon="-122.4845746690067" lat="48.77057968335446">
+    <tag k="addr:housenumber" v="3040"/>
+    <tag k="addr:postcode" v="98225-1741"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8849" visible="true" lon="-122.4836809480227" lat="48.77072203043622">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98225-1837"/>
+    <tag k="addr:street" v="West Oregon Street"/>
+  </node>
+  <node id="-8850" visible="true" lon="-122.4835265910522" lat="48.77161465503387">
+    <tag k="addr:housenumber" v="3107"/>
+    <tag k="addr:postcode" v="98225-1845"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8851" visible="true" lon="-122.4835260158130" lat="48.77226165565163">
+    <tag k="addr:housenumber" v="3115"/>
+    <tag k="addr:postcode" v="98225-1845"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8852" visible="true" lon="-122.4827668081112" lat="48.76994077613838">
+    <tag k="addr:housenumber" v="3004"/>
+    <tag k="addr:postcode" v="98225-1844"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8853" visible="true" lon="-122.4827650740030" lat="48.77053954309587">
+    <tag k="addr:housenumber" v="3010"/>
+    <tag k="addr:postcode" v="98225-1844"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8854" visible="true" lon="-122.4799591562531" lat="48.76972621935649">
+    <tag k="addr:housenumber" v="3001"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-8855" visible="true" lon="-122.4827665499002" lat="48.77011184932090">
+    <tag k="addr:housenumber" v="3006"/>
+    <tag k="addr:postcode" v="98225-1844"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8856" visible="true" lon="-122.4835264465783" lat="48.77177640566217">
+    <tag k="addr:housenumber" v="3109"/>
+    <tag k="addr:postcode" v="98225-1845"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8857" visible="true" lon="-122.4835287463193" lat="48.76998096893740">
+    <tag k="addr:housenumber" v="3005"/>
+    <tag k="addr:postcode" v="98225-1843"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8858" visible="true" lon="-122.4790750051051" lat="48.77063222203044">
+    <tag k="addr:housenumber" v="3050"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-8859" visible="true" lon="-122.4790052013067" lat="48.77006338045924">
+    <tag k="addr:housenumber" v="3014"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-8860" visible="true" lon="-122.4771951030342" lat="48.77040809384240">
+    <tag k="addr:housenumber" v="3014"/>
+    <tag k="addr:postcode" v="98225-1804"/>
+    <tag k="addr:street" v="Coolidge Drive"/>
+  </node>
+  <node id="-8861" visible="true" lon="-122.4857415425706" lat="48.76958989458613">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98225-1724"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-8862" visible="true" lon="-122.4852597575355" lat="48.76986238382814">
+    <tag k="addr:housenumber" v="3011"/>
+    <tag k="addr:postcode" v="98225-1740"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8863" visible="true" lon="-122.4852568697461" lat="48.77212306062225">
+    <tag k="addr:housenumber" v="3125"/>
+    <tag k="addr:postcode" v="98225-1742"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8864" visible="true" lon="-122.4852588849252" lat="48.77041014626109">
+    <tag k="addr:housenumber" v="3025"/>
+    <tag k="addr:postcode" v="98225-1740"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8865" visible="true" lon="-122.4852586439986" lat="48.77058149362141">
+    <tag k="addr:housenumber" v="3031"/>
+    <tag k="addr:postcode" v="98225-1740"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8866" visible="true" lon="-122.4857043980936" lat="48.77228914841601">
+    <tag k="addr:housenumber" v="3128"/>
+    <tag k="addr:postcode" v="98225-1726"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-8867" visible="true" lon="-122.4852595293387" lat="48.77013626255508">
+    <tag k="addr:housenumber" v="3017"/>
+    <tag k="addr:postcode" v="98225-1740"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-8868" visible="true" lon="-122.4921398034996" lat="48.76979825722221">
+    <tag k="addr:housenumber" v="2930"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-8869" visible="true" lon="-122.4921305531251" lat="48.77192223525968">
+    <tag k="addr:housenumber" v="3025"/>
+    <tag k="addr:postcode" v="98225-1611"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-8870" visible="true" lon="-122.4921292380456" lat="48.77175474772460">
+    <tag k="addr:housenumber" v="3023"/>
+    <tag k="addr:postcode" v="98225-1611"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-8871" visible="true" lon="-122.4897224242807" lat="48.77034808862889">
+    <tag k="addr:housenumber" v="3021"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-8872" visible="true" lon="-122.4897032606963" lat="48.77016714849385">
+    <tag k="addr:housenumber" v="3015"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-8873" visible="true" lon="-122.4933456099619" lat="48.76842097701512">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-8874" visible="true" lon="-122.4930767230169" lat="48.76951281478877">
+    <tag k="addr:housenumber" v="3012"/>
+    <tag k="addr:postcode" v="98225-2254"/>
+    <tag k="addr:street" v="Victor Street"/>
+  </node>
+  <node id="-8875" visible="true" lon="-122.4940535742447" lat="48.76908532632415">
+    <tag k="addr:housenumber" v="2922"/>
+    <tag k="addr:postcode" v="98225-2252"/>
+    <tag k="addr:street" v="Victor Street"/>
+  </node>
+  <node id="-8876" visible="true" lon="-122.4728507184909" lat="48.76834330948956">
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:postcode" v="98225-2514"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-8877" visible="true" lon="-122.4741506120149" lat="48.76841189844488">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:postcode" v="98225-2517"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-8878" visible="true" lon="-122.4738420715079" lat="48.76842529383178">
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:postcode" v="98225-2513"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-8879" visible="true" lon="-122.4731577729639" lat="48.76842534086167">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:postcode" v="98225-2514"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-8880" visible="true" lon="-122.4734688193077" lat="48.76842534506366">
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="98225-2513"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-8881" visible="true" lon="-122.4742909339797" lat="48.76882772295797">
+    <tag k="addr:housenumber" v="2920"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-8882" visible="true" lon="-122.4740594999045" lat="48.76889157226073">
+    <tag k="addr:housenumber" v="2924"/>
+    <tag k="addr:postcode" v="98225-1840"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-8883" visible="true" lon="-122.4738281878216" lat="48.76893348752203">
+    <tag k="addr:housenumber" v="2926"/>
+    <tag k="addr:postcode" v="98225-1840"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-8884" visible="true" lon="-122.4783478287391" lat="48.76880198785630">
+    <tag k="addr:housenumber" v="2914"/>
+    <tag k="addr:postcode" v="98225-1816"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-8885" visible="true" lon="-122.4777807349152" lat="48.76837382943476">
+    <tag k="addr:housenumber" v="318"/>
+    <tag k="addr:postcode" v="98225-1820"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-8886" visible="true" lon="-122.4776798126666" lat="48.76903650343905">
+    <tag k="addr:housenumber" v="2810"/>
+    <tag k="addr:postcode" v="98225-1808"/>
+    <tag k="addr:street" v="Plymouth Drive"/>
+  </node>
+  <node id="-8887" visible="true" lon="-122.4774421016473" lat="48.76882904033555">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98225-1801"/>
+    <tag k="addr:street" v="Coolidge Drive"/>
+  </node>
+  <node id="-8888" visible="true" lon="-122.4772751386824" lat="48.76870611227641">
+    <tag k="addr:housenumber" v="2917"/>
+    <tag k="addr:postcode" v="98225-1801"/>
+    <tag k="addr:street" v="Coolidge Drive"/>
+  </node>
+  <node id="-8889" visible="true" lon="-122.4771946774830" lat="48.76830607713117">
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="98225-1820"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-8890" visible="true" lon="-122.4771372916756" lat="48.76858578862820">
+    <tag k="addr:housenumber" v="2915"/>
+    <tag k="addr:postcode" v="98225-1801"/>
+    <tag k="addr:street" v="Coolidge Drive"/>
+  </node>
+  <node id="-8891" visible="true" lon="-122.4761069516363" lat="48.76863241011079">
+    <tag k="addr:housenumber" v="2906"/>
+    <tag k="addr:postcode" v="98225-1802"/>
+    <tag k="addr:street" v="Coolidge Drive"/>
+  </node>
+  <node id="-8892" visible="true" lon="-122.4757522760405" lat="48.76883535055602">
+    <tag k="addr:housenumber" v="2907"/>
+    <tag k="addr:postcode" v="98225-1839"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-8893" visible="true" lon="-122.4752454717998" lat="48.76832134341100">
+    <tag k="addr:housenumber" v="2906"/>
+    <tag k="addr:postcode" v="98225-1840"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-8894" visible="true" lon="-122.4780461440089" lat="48.76854005256097">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98225-1816"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-8895" visible="true" lon="-122.4744382376875" lat="48.76838015449112">
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:postcode" v="98225-2517"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-8896" visible="true" lon="-122.4789707510033" lat="48.76835842715783">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225-1823"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-8897" visible="true" lon="-122.4892913670515" lat="48.76877489060941">
+    <tag k="addr:housenumber" v="2906"/>
+    <tag k="addr:postcode" v="98225-1614"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-8898" visible="true" lon="-122.4887114075898" lat="48.76896469986897">
+    <tag k="addr:housenumber" v="2917"/>
+    <tag k="addr:postcode" v="98225-1617"/>
+    <tag k="addr:street" v="Elm Street"/>
+  </node>
+  <node id="-8899" visible="true" lon="-122.4886428859513" lat="48.76927890873593">
+    <tag k="addr:housenumber" v="2925"/>
+    <tag k="addr:postcode" v="98225-1617"/>
+    <tag k="addr:street" v="Elm Street"/>
+  </node>
+  <node id="-8900" visible="true" lon="-122.4838809983017" lat="48.76874975034205">
+    <tag k="addr:housenumber" v="2905"/>
+    <tag k="addr:postcode" v="98225-1841"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-8901" visible="true" lon="-122.4992939687978" lat="48.76521994020019">
+    <tag k="addr:housenumber" v="2622"/>
+    <tag k="addr:postcode" v="98225-2121"/>
+    <tag k="addr:street" v="West Street"/>
   </node>
 </osm>

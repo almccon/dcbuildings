@@ -53026,4 +53026,2049 @@
     <tag k="addr:postcode" v="98226-9110"/>
     <tag k="addr:street" v="Guide Meridian"/>
   </node>
+  <node id="-18829" visible="true" lon="-122.4659638873963" lat="48.79462688466340">
+    <tag k="addr:housenumber" v="4251"/>
+    <tag k="addr:postcode" v="98226-8100"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18830" visible="true" lon="-122.4648640193554" lat="48.79553828280100">
+    <tag k="addr:housenumber" v="4268"/>
+    <tag k="addr:postcode" v="98226-8100"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18831" visible="true" lon="-122.4640723992448" lat="48.79562989077953">
+    <tag k="addr:housenumber" v="4265"/>
+    <tag k="addr:postcode" v="98226-7710"/>
+    <tag k="addr:street" v="King Avenue"/>
+  </node>
+  <node id="-18832" visible="true" lon="-122.4687335876239" lat="48.79756689017783">
+    <tag k="addr:housenumber" v="4400"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-18833" visible="true" lon="-122.4659802586720" lat="48.80972352760696">
+    <tag k="addr:housenumber" v="406"/>
+    <tag k="addr:postcode" v="98226-9162"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-18834" visible="true" lon="-122.4659090337346" lat="48.81208024319018">
+    <tag k="addr:housenumber" v="4660"/>
+    <tag k="addr:postcode" v="98226-7707"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18835" visible="true" lon="-122.4651565905714" lat="48.81385434943368">
+    <tag k="addr:housenumber" v="4775"/>
+    <tag k="addr:postcode" v="98226-9117"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18836" visible="true" lon="-122.4638482433746" lat="48.81578317034019">
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18837" visible="true" lon="-122.4638283307033" lat="48.81372655279321">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18838" visible="true" lon="-122.4654368400652" lat="48.81777231658766">
+    <tag k="addr:housenumber" v="4855"/>
+    <tag k="addr:postcode" v="98226-9117"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18839" visible="true" lon="-122.4691680158352" lat="48.81390364061173">
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="98226-7700"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18840" visible="true" lon="-122.4666403740225" lat="48.81767128975029">
+    <tag k="addr:housenumber" v="469"/>
+    <tag k="addr:postcode" v="98226-9733"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-18841" visible="true" lon="-122.4661549453180" lat="48.81455340864376">
+    <tag k="addr:housenumber" v="481"/>
+    <tag k="addr:postcode" v="98226-7700"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18842" visible="true" lon="-122.4692311201873" lat="48.81748855126436">
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-18843" visible="true" lon="-122.4642173399515" lat="48.81450461024944">
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18844" visible="true" lon="-122.4693048478106" lat="48.81512385142208">
+    <tag k="addr:housenumber" v="402"/>
+    <tag k="addr:postcode" v="98226-7700"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18845" visible="true" lon="-122.4683658947126" lat="48.80841584819513">
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:postcode" v="98226-9162"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-18846" visible="true" lon="-122.4687198714997" lat="48.80997459698510">
+    <tag k="addr:housenumber" v="402"/>
+    <tag k="addr:postcode" v="98226-9162"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-18847" visible="true" lon="-122.4659671883428" lat="48.81059576249478">
+    <tag k="addr:housenumber" v="4685"/>
+    <tag k="addr:postcode" v="98226-7707"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18848" visible="true" lon="-122.4679374974439" lat="48.81748587172235">
+    <tag k="addr:housenumber" v="441"/>
+    <tag k="addr:postcode" v="98226-9733"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-18849" visible="true" lon="-122.4337893232413" lat="48.79946935662592">
+    <tag k="addr:housenumber" v="1051"/>
+    <tag k="addr:postcode" v="98226-9479"/>
+    <tag k="addr:street" v="Lake Street"/>
+  </node>
+  <node id="-18850" visible="true" lon="-122.4339291207168" lat="48.78969989182767">
+    <tag k="addr:housenumber" v="3057"/>
+    <tag k="addr:postcode" v="98226-7709"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18851" visible="true" lon="-122.4349636620860" lat="48.78935863153664">
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18852" visible="true" lon="-122.4354938999942" lat="48.79210491900992">
+    <tag k="addr:housenumber" v="1097"/>
+    <tag k="addr:postcode" v="98226-8715"/>
+    <tag k="addr:street" v="Ross Road"/>
+  </node>
+  <node id="-18853" visible="true" lon="-122.4361809063021" lat="48.78908494529786">
+    <tag k="addr:housenumber" v="2799"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18854" visible="true" lon="-122.4365628989678" lat="48.78908789673334">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18855" visible="true" lon="-122.4370391006528" lat="48.78936417223242">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18856" visible="true" lon="-122.4371218108343" lat="48.78739635472063">
+    <tag k="addr:housenumber" v="4056"/>
+    <tag k="addr:postcode" v="98226-7729"/>
+    <tag k="addr:street" v="Bakerview Valley Road"/>
+  </node>
+  <node id="-18857" visible="true" lon="-122.4386630585834" lat="48.78935721524809">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18858" visible="true" lon="-122.4398962453186" lat="48.80441976840173">
+    <tag k="addr:housenumber" v="954"/>
+    <tag k="addr:postcode" v="98226-7705"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18859" visible="true" lon="-122.4385666503452" lat="48.78601690769261">
+    <tag k="addr:housenumber" v="4011"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bakerview Valley Road"/>
+  </node>
+  <node id="-18860" visible="true" lon="-122.4398364040441" lat="48.79210458532629">
+    <tag k="addr:housenumber" v="4160"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18861" visible="true" lon="-122.4413004816541" lat="48.79770103303301">
+    <tag k="addr:housenumber" v="4328"/>
+    <tag k="addr:postcode" v="98226-9198"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18862" visible="true" lon="-122.4419750010975" lat="48.79265899031908">
+    <tag k="addr:housenumber" v="4198"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18863" visible="true" lon="-122.4419750042066" lat="48.79238375056081">
+    <tag k="addr:housenumber" v="4192"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18864" visible="true" lon="-122.4419583362686" lat="48.79213231666245">
+    <tag k="addr:housenumber" v="4190"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18865" visible="true" lon="-122.4419501860389" lat="48.79187473357055">
+    <tag k="addr:housenumber" v="4186"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18866" visible="true" lon="-122.4419416717565" lat="48.79160564199886">
+    <tag k="addr:housenumber" v="4180"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18867" visible="true" lon="-122.4609022389457" lat="48.79815753636986">
+    <tag k="addr:housenumber" v="4343"/>
+    <tag k="addr:postcode" v="98226-8727"/>
+    <tag k="addr:street" v="King Avenue"/>
+  </node>
+  <node id="-18868" visible="true" lon="-122.4602535120843" lat="48.80025761251942">
+    <tag k="addr:housenumber" v="4396"/>
+    <tag k="addr:postcode" v="98226-8733"/>
+    <tag k="addr:street" v="Gooding Avenue"/>
+  </node>
+  <node id="-18869" visible="true" lon="-122.4582056371436" lat="48.79155491372600">
+    <tag k="addr:housenumber" v="4160"/>
+    <tag k="addr:postcode" v="98226-9143"/>
+    <tag k="addr:street" v="Cougar Road"/>
+  </node>
+  <node id="-18870" visible="true" lon="-122.4611625713181" lat="48.80159963448794">
+    <tag k="addr:housenumber" v="4433"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Gooding Avenue"/>
+  </node>
+  <node id="-18871" visible="true" lon="-122.4617711912745" lat="48.80118787849232">
+    <tag k="addr:housenumber" v="4435"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Gooding Avenue"/>
+  </node>
+  <node id="-18872" visible="true" lon="-122.4599105566836" lat="48.81377528485481">
+    <tag k="addr:housenumber" v="591"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18873" visible="true" lon="-122.4595016193138" lat="48.81248895760645">
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18874" visible="true" lon="-122.4578417598670" lat="48.81056926221488">
+    <tag k="addr:housenumber" v="616"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18875" visible="true" lon="-122.4578481821334" lat="48.80973139072148">
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18876" visible="true" lon="-122.4612531662113" lat="48.81378120552991">
+    <tag k="addr:housenumber" v="567"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18877" visible="true" lon="-122.4574970688971" lat="48.81566764230683">
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18878" visible="true" lon="-122.4631131554583" lat="48.81204509580299">
+    <tag k="addr:housenumber" v="4718"/>
+    <tag k="addr:postcode" v="98226-9117"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18879" visible="true" lon="-122.4605723506230" lat="48.81574974154424">
+    <tag k="addr:housenumber" v="564"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18880" visible="true" lon="-122.4599563570116" lat="48.81765705517114">
+    <tag k="addr:housenumber" v="597"/>
+    <tag k="addr:postcode" v="98226-9733"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-18881" visible="true" lon="-122.4613289629722" lat="48.81766310627165">
+    <tag k="addr:housenumber" v="559"/>
+    <tag k="addr:postcode" v="98226-9733"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-18882" visible="true" lon="-122.4630702753407" lat="48.80928424731638">
+    <tag k="addr:housenumber" v="4680"/>
+    <tag k="addr:postcode" v="98226-7707"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18883" visible="true" lon="-122.4588147565194" lat="48.81573644412112">
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18884" visible="true" lon="-122.4578620888680" lat="48.80711504662940">
+    <tag k="addr:housenumber" v="624"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18885" visible="true" lon="-122.4626005423806" lat="48.81379334900246">
+    <tag k="addr:housenumber" v="535"/>
+    <tag k="addr:postcode" v="98226-7732"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18886" visible="true" lon="-122.4575837426855" lat="48.79820325034769">
+    <tag k="addr:housenumber" v="4352"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="King Mountain Road"/>
+  </node>
+  <node id="-18887" visible="true" lon="-122.4578880296220" lat="48.79863476307947">
+    <tag k="addr:housenumber" v="4360"/>
+    <tag k="addr:postcode" v="98226-8726"/>
+    <tag k="addr:street" v="King Mountain Road"/>
+  </node>
+  <node id="-18888" visible="true" lon="-122.4586578309908" lat="48.79771017855930">
+    <tag k="addr:housenumber" v="4332"/>
+    <tag k="addr:postcode" v="98226-8726"/>
+    <tag k="addr:street" v="King Mountain Road"/>
+  </node>
+  <node id="-18889" visible="true" lon="-122.4578588810869" lat="48.80887152789247">
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18890" visible="true" lon="-122.4625869599935" lat="48.81576490250329">
+    <tag k="addr:housenumber" v="536"/>
+    <tag k="addr:postcode" v="98226-7713"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18891" visible="true" lon="-122.4579772870698" lat="48.81753525980328">
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:postcode" v="98226-9780"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-18892" visible="true" lon="-122.4572056024601" lat="48.81287298231376">
+    <tag k="addr:housenumber" v="633"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18893" visible="true" lon="-122.4634720810377" lat="48.81817973774116">
+    <tag k="addr:housenumber" v="4880"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="North King Mountain Road"/>
+  </node>
+  <node id="-18894" visible="true" lon="-122.4565336833005" lat="48.79514824484733">
+    <tag k="addr:housenumber" v="632"/>
+    <tag k="addr:postcode" v="98226-8706"/>
+    <tag k="addr:street" v="Montgomery Road"/>
+  </node>
+  <node id="-18895" visible="true" lon="-122.4546114194543" lat="48.79042344049940">
+    <tag k="addr:housenumber" v="4127"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18896" visible="true" lon="-122.4546051773683" lat="48.79571491267843">
+    <tag k="addr:housenumber" v="660"/>
+    <tag k="addr:postcode" v="98226-8706"/>
+    <tag k="addr:street" v="Montgomery Road"/>
+  </node>
+  <node id="-18897" visible="true" lon="-122.4545897545477" lat="48.79398226013217">
+    <tag k="addr:housenumber" v="667"/>
+    <tag k="addr:postcode" v="98226-8706"/>
+    <tag k="addr:street" v="Montgomery Road"/>
+  </node>
+  <node id="-18898" visible="true" lon="-122.4545301090926" lat="48.79243718794441">
+    <tag k="addr:housenumber" v="4247"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18899" visible="true" lon="-122.4545251131186" lat="48.79255376880468">
+    <tag k="addr:housenumber" v="4251"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18900" visible="true" lon="-122.4542037024570" lat="48.79290997024101">
+    <tag k="addr:housenumber" v="4263"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18901" visible="true" lon="-122.4539424518689" lat="48.79301887811524">
+    <tag k="addr:housenumber" v="4268"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18902" visible="true" lon="-122.4538761134131" lat="48.79290328997397">
+    <tag k="addr:housenumber" v="4264"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18903" visible="true" lon="-122.4538273213547" lat="48.79280445404007">
+    <tag k="addr:housenumber" v="4260"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18904" visible="true" lon="-122.4552307794961" lat="48.81058919271678">
+    <tag k="addr:housenumber" v="636"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18905" visible="true" lon="-122.4553161109461" lat="48.81569473421212">
+    <tag k="addr:housenumber" v="656"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18906" visible="true" lon="-122.4567009672688" lat="48.80501511905814">
+    <tag k="addr:housenumber" v="626"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18907" visible="true" lon="-122.4552400608040" lat="48.81205051918163">
+    <tag k="addr:housenumber" v="691"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18908" visible="true" lon="-122.4559583254411" lat="48.81374595925818">
+    <tag k="addr:housenumber" v="653"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18909" visible="true" lon="-122.4552181960131" lat="48.80954460807688">
+    <tag k="addr:housenumber" v="638"/>
+    <tag k="addr:postcode" v="98226-8790"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18910" visible="true" lon="-122.4546385637532" lat="48.81374048261603">
+    <tag k="addr:housenumber" v="671"/>
+    <tag k="addr:postcode" v="98226-7701"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18911" visible="true" lon="-122.4564086293378" lat="48.80246280175798">
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:postcode" v="98226-8789"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18912" visible="true" lon="-122.4536646554873" lat="48.79269462768055">
+    <tag k="addr:housenumber" v="4256"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18913" visible="true" lon="-122.4536643263583" lat="48.79259319801279">
+    <tag k="addr:housenumber" v="4252"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18914" visible="true" lon="-122.4497099940142" lat="48.79032364283623">
+    <tag k="addr:housenumber" v="2062"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18915" visible="true" lon="-122.4482604674200" lat="48.79098737387962">
+    <tag k="addr:housenumber" v="4115"/>
+    <tag k="addr:postcode" v="98226-8056"/>
+    <tag k="addr:street" v="Bakerview Spur"/>
+  </node>
+  <node id="-18916" visible="true" lon="-122.4476766671374" lat="48.79102860657353">
+    <tag k="addr:housenumber" v="4108"/>
+    <tag k="addr:postcode" v="98226-8056"/>
+    <tag k="addr:street" v="Bakerview Spur"/>
+  </node>
+  <node id="-18917" visible="true" lon="-122.4476562163701" lat="48.79064780933245">
+    <tag k="addr:housenumber" v="4104"/>
+    <tag k="addr:postcode" v="98226-8056"/>
+    <tag k="addr:street" v="Bakerview Spur"/>
+  </node>
+  <node id="-18918" visible="true" lon="-122.4473684050726" lat="48.79145538027243">
+    <tag k="addr:housenumber" v="4112"/>
+    <tag k="addr:postcode" v="98226-8056"/>
+    <tag k="addr:street" v="Bakerview Spur"/>
+  </node>
+  <node id="-18919" visible="true" lon="-122.4462680277894" lat="48.79839501310457">
+    <tag k="addr:housenumber" v="4335"/>
+    <tag k="addr:postcode" v="98226-9198"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18920" visible="true" lon="-122.4445900866485" lat="48.79591366226271">
+    <tag k="addr:housenumber" v="4293"/>
+    <tag k="addr:postcode" v="98226-9198"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18921" visible="true" lon="-122.4440621720049" lat="48.79169728987293">
+    <tag k="addr:housenumber" v="4130"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Strider Loop"/>
+  </node>
+  <node id="-18922" visible="true" lon="-122.4462631533330" lat="48.80496355276858">
+    <tag k="addr:housenumber" v="834"/>
+    <tag k="addr:postcode" v="98226-7704"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18923" visible="true" lon="-122.4537107254836" lat="48.80373949327744">
+    <tag k="addr:housenumber" v="721"/>
+    <tag k="addr:postcode" v="98226-8789"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18924" visible="true" lon="-122.4507628083821" lat="48.80222415149325">
+    <tag k="addr:housenumber" v="733"/>
+    <tag k="addr:postcode" v="98226-8789"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18925" visible="true" lon="-122.4476092048810" lat="48.80498081978534">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="98226-7704"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18926" visible="true" lon="-122.4523585279294" lat="48.80669436991378">
+    <tag k="addr:housenumber" v="728"/>
+    <tag k="addr:postcode" v="98226-8789"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18927" visible="true" lon="-122.4443229449784" lat="48.80664019201144">
+    <tag k="addr:housenumber" v="4585"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18928" visible="true" lon="-122.4510512628683" lat="48.80934457783617">
+    <tag k="addr:housenumber" v="4695"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18929" visible="true" lon="-122.4436709226152" lat="48.80495034584160">
+    <tag k="addr:housenumber" v="4545"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18930" visible="true" lon="-122.4531213074411" lat="48.80454380373678">
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18931" visible="true" lon="-122.4524731662785" lat="48.81285934573021">
+    <tag k="addr:housenumber" v="681"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-18932" visible="true" lon="-122.4497961929935" lat="48.80222166893374">
+    <tag k="addr:housenumber" v="777"/>
+    <tag k="addr:postcode" v="98226-8789"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18933" visible="true" lon="-122.4528203133129" lat="48.80210482153828">
+    <tag k="addr:housenumber" v="723"/>
+    <tag k="addr:postcode" v="98226-8789"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18934" visible="true" lon="-122.4469665333800" lat="48.80666035074232">
+    <tag k="addr:housenumber" v="4551"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18935" visible="true" lon="-122.4449567744494" lat="48.80495394560565">
+    <tag k="addr:housenumber" v="870"/>
+    <tag k="addr:postcode" v="98226-7704"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-18936" visible="true" lon="-122.4442401009964" lat="48.80855997034595">
+    <tag k="addr:housenumber" v="4643"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18937" visible="true" lon="-122.4648821950090" lat="48.78851324278978">
+    <tag k="addr:housenumber" v="4081"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-18938" visible="true" lon="-122.4650396026887" lat="48.78911306171295">
+    <tag k="addr:housenumber" v="1295"/>
+    <tag k="addr:postcode" v="98226-9145"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18939" visible="true" lon="-122.4695792151376" lat="48.79396874527672">
+    <tag k="addr:housenumber" v="4212"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18940" visible="true" lon="-122.4693578502333" lat="48.79399421493746">
+    <tag k="addr:housenumber" v="4208"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18941" visible="true" lon="-122.4691474709396" lat="48.79399522646587">
+    <tag k="addr:housenumber" v="4204"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18942" visible="true" lon="-122.4689269200882" lat="48.79400026778687">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18943" visible="true" lon="-122.4647451034337" lat="48.79446040554080">
+    <tag k="addr:housenumber" v="4284"/>
+    <tag k="addr:postcode" v="98226-8100"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18944" visible="true" lon="-122.4693562625972" lat="48.79397406939786">
+    <tag k="addr:housenumber" v="4210"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Springcreek Lane"/>
+  </node>
+  <node id="-18945" visible="true" lon="-122.4581243229223" lat="48.78361416614995">
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Jills Court"/>
+  </node>
+  <node id="-18946" visible="true" lon="-122.4580108504225" lat="48.78716484058704">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Baker Creek Place"/>
+  </node>
+  <node id="-18947" visible="true" lon="-122.4540137329545" lat="48.79002257878032">
+    <tag k="addr:housenumber" v="4121"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Stonecrest Court"/>
+  </node>
+  <node id="-18948" visible="true" lon="-122.4555484089133" lat="48.78424772015558">
+    <tag k="addr:housenumber" v="3950"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hammer Drive"/>
+  </node>
+  <node id="-18949" visible="true" lon="-122.4562317019033" lat="48.78735360022281">
+    <tag k="addr:housenumber" v="4051"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hammer Drive"/>
+  </node>
+  <node id="-18950" visible="true" lon="-122.4585352076810" lat="48.78896743282953">
+    <tag k="addr:housenumber" v="1655"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18951" visible="true" lon="-122.4602259387589" lat="48.78559760095534">
+    <tag k="addr:housenumber" v="1487"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-18952" visible="true" lon="-122.4550174198745" lat="48.78733130416030">
+    <tag k="addr:housenumber" v="4059"/>
+    <tag k="addr:postcode" v="98226-7665"/>
+    <tag k="addr:street" v="Hammer Drive"/>
+  </node>
+  <node id="-18953" visible="true" lon="-122.4564541645002" lat="48.78890434508190">
+    <tag k="addr:housenumber" v="4030"/>
+    <tag k="addr:postcode" v="98226-7761"/>
+    <tag k="addr:street" v="Kramer Lane"/>
+  </node>
+  <node id="-18954" visible="true" lon="-122.4557250118997" lat="48.78743673425194">
+    <tag k="addr:housenumber" v="4055"/>
+    <tag k="addr:postcode" v="98226-7665"/>
+    <tag k="addr:street" v="Hammer Drive"/>
+  </node>
+  <node id="-18955" visible="true" lon="-122.4576750403840" lat="48.78982160946514">
+    <tag k="addr:housenumber" v="1660"/>
+    <tag k="addr:postcode" v="98226-9149"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18956" visible="true" lon="-122.4572351743633" lat="48.78896199260138">
+    <tag k="addr:housenumber" v="4015"/>
+    <tag k="addr:postcode" v="98226-7761"/>
+    <tag k="addr:street" v="Kramer Lane"/>
+  </node>
+  <node id="-18957" visible="true" lon="-122.4682215617771" lat="48.78203303403847">
+    <tag k="addr:housenumber" v="1011"/>
+    <tag k="addr:postcode" v="98226-8705"/>
+    <tag k="addr:street" v="East Mcleod Road"/>
+  </node>
+  <node id="-18958" visible="true" lon="-122.4688730582697" lat="48.78681682480282">
+    <tag k="addr:housenumber" v="4057"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18959" visible="true" lon="-122.4689920884001" lat="48.78687076097206">
+    <tag k="addr:housenumber" v="4053"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18960" visible="true" lon="-122.4691682624479" lat="48.78656754768285">
+    <tag k="addr:housenumber" v="4033"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18961" visible="true" lon="-122.4691635525071" lat="48.78665130212645">
+    <tag k="addr:housenumber" v="4037"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18962" visible="true" lon="-122.4691469936625" lat="48.78672151302551">
+    <tag k="addr:housenumber" v="4041"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18963" visible="true" lon="-122.4692243155652" lat="48.78686737098999">
+    <tag k="addr:housenumber" v="4045"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18964" visible="true" lon="-122.4691071991970" lat="48.78682753100451">
+    <tag k="addr:housenumber" v="4049"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Belltown Court"/>
+  </node>
+  <node id="-18965" visible="true" lon="-122.4674958872229" lat="48.78539875133350">
+    <tag k="addr:housenumber" v="1093"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-18966" visible="true" lon="-122.4618267525394" lat="48.78114118135656">
+    <tag k="addr:housenumber" v="1632"/>
+    <tag k="addr:postcode" v="98226-1228"/>
+    <tag k="addr:street" v="Fruitland Drive"/>
+  </node>
+  <node id="-18967" visible="true" lon="-122.4637628672541" lat="48.78292012935476">
+    <tag k="addr:housenumber" v="3802"/>
+    <tag k="addr:postcode" v="98226-8755"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-18968" visible="true" lon="-122.4554023751824" lat="48.78308250026477">
+    <tag k="addr:housenumber" v="3820"/>
+    <tag k="addr:postcode" v="98226-7629"/>
+    <tag k="addr:street" v="Hammer Drive"/>
+  </node>
+  <node id="-18969" visible="true" lon="-122.4475869525329" lat="48.78991422372093">
+    <tag k="addr:housenumber" v="4100"/>
+    <tag k="addr:postcode" v="98226-8056"/>
+    <tag k="addr:street" v="Bakerview Spur"/>
+  </node>
+  <node id="-18970" visible="true" lon="-122.4475407889132" lat="48.78350510898135">
+    <tag k="addr:housenumber" v="3830"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Bakerview Spur"/>
+  </node>
+  <node id="-18971" visible="true" lon="-122.4454653042236" lat="48.78493851760830">
+    <tag k="addr:housenumber" v="3911"/>
+    <tag k="addr:postcode" v="98226-1227"/>
+    <tag k="addr:street" v="Spur Ridge Lane"/>
+  </node>
+  <node id="-18972" visible="true" lon="-122.4454214396135" lat="48.78016598384800">
+    <tag k="addr:housenumber" v="3700"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18973" visible="true" lon="-122.4443470643912" lat="48.78362591075081">
+    <tag k="addr:housenumber" v="3861"/>
+    <tag k="addr:postcode" v="98226-9103"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18974" visible="true" lon="-122.4430356750332" lat="48.78172692366319">
+    <tag k="addr:housenumber" v="3755"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18975" visible="true" lon="-122.4551591505014" lat="48.77961349694296">
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:postcode" v="98226-7132"/>
+    <tag k="addr:street" v="Fruitland Drive"/>
+  </node>
+  <node id="-18976" visible="true" lon="-122.4530209817820" lat="48.77971124953815">
+    <tag k="addr:housenumber" v="3680"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Iron Gate Road"/>
+  </node>
+  <node id="-18977" visible="true" lon="-122.4530129042376" lat="48.78764952280643">
+    <tag k="addr:housenumber" v="4064"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Iron Gate Road"/>
+  </node>
+  <node id="-18978" visible="true" lon="-122.4524164166877" lat="48.77970567679265">
+    <tag k="addr:housenumber" v="2005"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Masonry Way"/>
+  </node>
+  <node id="-18979" visible="true" lon="-122.4520545512919" lat="48.77970111336107">
+    <tag k="addr:housenumber" v="2009"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Masonry Way"/>
+  </node>
+  <node id="-18980" visible="true" lon="-122.4510224696530" lat="48.78116102919984">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Division Street"/>
+  </node>
+  <node id="-18981" visible="true" lon="-122.4482376353812" lat="48.78913099418524">
+    <tag k="addr:housenumber" v="2173"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-18982" visible="true" lon="-122.4538000608037" lat="48.78884756729432">
+    <tag k="addr:housenumber" v="4163"/>
+    <tag k="addr:postcode" v="98226-8064"/>
+    <tag k="addr:street" v="Iron Gate Road"/>
+  </node>
+  <node id="-18983" visible="true" lon="-122.4488964377689" lat="48.77949385859701">
+    <tag k="addr:housenumber" v="3600"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Iron Gate Road"/>
+  </node>
+  <node id="-18984" visible="true" lon="-122.4595301962406" lat="48.77974703343044">
+    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:postcode" v="98226-7175"/>
+    <tag k="addr:street" v="Fruitland Drive"/>
+  </node>
+  <node id="-18985" visible="true" lon="-122.4627381135797" lat="48.77885832323151">
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:postcode" v="98226-7730"/>
+    <tag k="addr:street" v="East Orchard Drive"/>
+  </node>
+  <node id="-18986" visible="true" lon="-122.4411889538843" lat="48.77807740544469">
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:postcode" v="98226-5617"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-18987" visible="true" lon="-122.4366438303037" lat="48.78048073442260">
+    <tag k="addr:housenumber" v="2808"/>
+    <tag k="addr:postcode" v="98226-5613"/>
+    <tag k="addr:street" v="Lindshier Avenue"/>
+  </node>
+  <node id="-18988" visible="true" lon="-122.4352640837044" lat="48.78050548339601">
+    <tag k="addr:housenumber" v="2841"/>
+    <tag k="addr:postcode" v="98226-5611"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-18989" visible="true" lon="-122.4364380901465" lat="48.78057321290642">
+    <tag k="addr:housenumber" v="2812"/>
+    <tag k="addr:postcode" v="98226-5613"/>
+    <tag k="addr:street" v="Lindshier Avenue"/>
+  </node>
+  <node id="-18990" visible="true" lon="-122.4362327727986" lat="48.78066595951638">
+    <tag k="addr:housenumber" v="2816"/>
+    <tag k="addr:postcode" v="98226-5613"/>
+    <tag k="addr:street" v="Lindshier Avenue"/>
+  </node>
+  <node id="-18991" visible="true" lon="-122.4356159791207" lat="48.78094393345182">
+    <tag k="addr:housenumber" v="2828"/>
+    <tag k="addr:postcode" v="98226-5613"/>
+    <tag k="addr:street" v="Lindshier Avenue"/>
+  </node>
+  <node id="-18992" visible="true" lon="-122.4354102351923" lat="48.78103640920438">
+    <tag k="addr:housenumber" v="2832"/>
+    <tag k="addr:postcode" v="98226-5613"/>
+    <tag k="addr:street" v="Lindshier Avenue"/>
+  </node>
+  <node id="-18993" visible="true" lon="-122.4352049141000" lat="48.78112915398587">
+    <tag k="addr:housenumber" v="2836"/>
+    <tag k="addr:postcode" v="98226-5613"/>
+    <tag k="addr:street" v="Lindshier Avenue"/>
+  </node>
+  <node id="-18994" visible="true" lon="-122.4496860517760" lat="48.77640259751180">
+    <tag k="addr:housenumber" v="1809"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-18995" visible="true" lon="-122.4493237018943" lat="48.77647342266724">
+    <tag k="addr:housenumber" v="1811"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-18996" visible="true" lon="-122.4473265052947" lat="48.77659159680428">
+    <tag k="addr:housenumber" v="2011"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-18997" visible="true" lon="-122.4444956500983" lat="48.77808706866545">
+    <tag k="addr:housenumber" v="3500"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-18998" visible="true" lon="-122.4520791948722" lat="48.77885941672447">
+    <tag k="addr:housenumber" v="3610"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Iron Gate Road"/>
+  </node>
+  <node id="-18999" visible="true" lon="-122.4530263412969" lat="48.77560775456531">
+    <tag k="addr:housenumber" v="1601"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-19000" visible="true" lon="-122.4638467332346" lat="48.77614353593103">
+    <tag k="addr:housenumber" v="3400"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-19001" visible="true" lon="-122.4582835541191" lat="48.77331691988481">
+    <tag k="addr:housenumber" v="1297"/>
+    <tag k="addr:postcode" v="98226-3506"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-19002" visible="true" lon="-122.4742410395791" lat="48.80363576751651">
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:postcode" v="98226-8796"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19003" visible="true" lon="-122.4740435010490" lat="48.80597591031034">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:postcode" v="98226-9666"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19004" visible="true" lon="-122.4739591493569" lat="48.80142135548635">
+    <tag k="addr:housenumber" v="347"/>
+    <tag k="addr:postcode" v="98226-8796"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19005" visible="true" lon="-122.4737432676367" lat="48.80284611335551">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:postcode" v="98226-8796"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19006" visible="true" lon="-122.4727791752814" lat="48.80412847380405">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19007" visible="true" lon="-122.4726530320094" lat="48.79680797293332">
+    <tag k="addr:housenumber" v="561"/>
+    <tag k="addr:postcode" v="98226-8181"/>
+    <tag k="addr:street" v="East Kellogg Road"/>
+  </node>
+  <node id="-19008" visible="true" lon="-122.4720005350746" lat="48.80504378972071">
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:postcode" v="98226-8796"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19009" visible="true" lon="-122.4719266843964" lat="48.80137567221207">
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19010" visible="true" lon="-122.4706461065062" lat="48.80501184419334">
+    <tag k="addr:housenumber" v="390"/>
+    <tag k="addr:postcode" v="98226-8796"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19011" visible="true" lon="-122.4668125458993" lat="48.79824082453016">
+    <tag k="addr:housenumber" v="4356"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19012" visible="true" lon="-122.4661856715955" lat="48.79802558960534">
+    <tag k="addr:housenumber" v="4340"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19013" visible="true" lon="-122.4656936407417" lat="48.79735955882557">
+    <tag k="addr:housenumber" v="4315"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19014" visible="true" lon="-122.4652407790256" lat="48.79740499398710">
+    <tag k="addr:housenumber" v="4316"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19015" visible="true" lon="-122.4648828853137" lat="48.79796524603080">
+    <tag k="addr:housenumber" v="4318"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Blackstone Way"/>
+  </node>
+  <node id="-19016" visible="true" lon="-122.4646555717120" lat="48.79773718815243">
+    <tag k="addr:housenumber" v="4310"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Blackstone Way"/>
+  </node>
+  <node id="-19017" visible="true" lon="-122.4663302824273" lat="48.79808508997392">
+    <tag k="addr:housenumber" v="4344"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19018" visible="true" lon="-122.4653589130630" lat="48.79750928638553">
+    <tag k="addr:housenumber" v="4320"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19019" visible="true" lon="-122.4665083964388" lat="48.79783212800742">
+    <tag k="addr:housenumber" v="4341"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19020" visible="true" lon="-122.4658315362303" lat="48.79746862675837">
+    <tag k="addr:housenumber" v="4321"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19021" visible="true" lon="-122.4658892645061" lat="48.79788880220512">
+    <tag k="addr:housenumber" v="4332"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19022" visible="true" lon="-122.4659701095737" lat="48.79758411501555">
+    <tag k="addr:housenumber" v="4325"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19023" visible="true" lon="-122.4649070361521" lat="48.79686733573127">
+    <tag k="addr:housenumber" v="4300"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19024" visible="true" lon="-122.4655866912151" lat="48.79770476557585">
+    <tag k="addr:housenumber" v="4328"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19025" visible="true" lon="-122.4655994757040" lat="48.79723475135187">
+    <tag k="addr:housenumber" v="4311"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19026" visible="true" lon="-122.4654574143459" lat="48.79761569670951">
+    <tag k="addr:housenumber" v="4324"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19027" visible="true" lon="-122.4666894105704" lat="48.79789370421385">
+    <tag k="addr:housenumber" v="4347"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19028" visible="true" lon="-122.4649864761213" lat="48.79807248036423">
+    <tag k="addr:housenumber" v="4322"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Blackstone Way"/>
+  </node>
+  <node id="-19029" visible="true" lon="-122.4660304079511" lat="48.79795820833298">
+    <tag k="addr:housenumber" v="4336"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19030" visible="true" lon="-122.4661450831927" lat="48.79768075444697">
+    <tag k="addr:housenumber" v="4331"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19031" visible="true" lon="-122.4655705667209" lat="48.79690019908615">
+    <tag k="addr:housenumber" v="4312"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19032" visible="true" lon="-122.4653241410843" lat="48.79689160636766">
+    <tag k="addr:housenumber" v="4308"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19033" visible="true" lon="-122.4651036347148" lat="48.79730507368688">
+    <tag k="addr:housenumber" v="4312"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19034" visible="true" lon="-122.4647678135288" lat="48.79785040499885">
+    <tag k="addr:housenumber" v="4314"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Blackstone Way"/>
+  </node>
+  <node id="-19035" visible="true" lon="-122.4666614855758" lat="48.79823867435538">
+    <tag k="addr:housenumber" v="4352"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19036" visible="true" lon="-122.4663165516854" lat="48.79776285409962">
+    <tag k="addr:housenumber" v="4335"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19037" visible="true" lon="-122.4651414398669" lat="48.79688011279855">
+    <tag k="addr:housenumber" v="4304"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19038" visible="true" lon="-122.4664897815357" lat="48.79816236269659">
+    <tag k="addr:housenumber" v="4348"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Winslow Court"/>
+  </node>
+  <node id="-19039" visible="true" lon="-122.4858489470953" lat="48.78822428484751">
+    <tag k="addr:housenumber" v="4038"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19040" visible="true" lon="-122.4853498732504" lat="48.78862450455126">
+    <tag k="addr:housenumber" v="4060"/>
+    <tag k="addr:postcode" v="98226-5517"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19041" visible="true" lon="-122.4773002007102" lat="48.81545597264923">
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19042" visible="true" lon="-122.4720839534065" lat="48.81588200623311">
+    <tag k="addr:housenumber" v="374"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19043" visible="true" lon="-122.4707565072560" lat="48.81588476849500">
+    <tag k="addr:housenumber" v="378"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19044" visible="true" lon="-122.4734251285931" lat="48.81589301617494">
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19045" visible="true" lon="-122.4747320688831" lat="48.81589791372943">
+    <tag k="addr:housenumber" v="312"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19046" visible="true" lon="-122.4763120231172" lat="48.81592444205209">
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19047" visible="true" lon="-122.4802067121451" lat="48.81597801748190">
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19048" visible="true" lon="-122.4859331623038" lat="48.81633521332757">
+    <tag k="addr:housenumber" v="4800"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19049" visible="true" lon="-122.4789647169923" lat="48.81768290445898">
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:postcode" v="98226-9734"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19050" visible="true" lon="-122.4747502837428" lat="48.81770837674546">
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:postcode" v="98226-9779"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19051" visible="true" lon="-122.4721196801947" lat="48.81771058908100">
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:postcode" v="98226-9779"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19052" visible="true" lon="-122.4708024434763" lat="48.81772252917364">
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:postcode" v="98226-9779"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19053" visible="true" lon="-122.4823506478827" lat="48.81777733366289">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19054" visible="true" lon="-122.4770220707817" lat="48.81835444349990">
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:postcode" v="98226-9734"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19055" visible="true" lon="-122.4852010302601" lat="48.83091691431537">
+    <tag k="addr:housenumber" v="5236"/>
+    <tag k="addr:postcode" v="98226-8091"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19056" visible="true" lon="-122.4762680676880" lat="48.81762064207916">
+    <tag k="addr:housenumber" v="295"/>
+    <tag k="addr:postcode" v="98226-9734"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19057" visible="true" lon="-122.4734402697753" lat="48.81771256836917">
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:postcode" v="98226-9779"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-19058" visible="true" lon="-122.4788921339260" lat="48.81596808061771">
+    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19059" visible="true" lon="-122.4850509756151" lat="48.82541984078699">
+    <tag k="addr:housenumber" v="5080"/>
+    <tag k="addr:postcode" v="98226-8077"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19060" visible="true" lon="-122.4850894202539" lat="48.82715777265881">
+    <tag k="addr:housenumber" v="5136"/>
+    <tag k="addr:postcode" v="98226-9169"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19061" visible="true" lon="-122.4692387342418" lat="48.82097071944717">
+    <tag k="addr:housenumber" v="4944"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hackett Road"/>
+  </node>
+  <node id="-19062" visible="true" lon="-122.4689939861648" lat="48.82075641176184">
+    <tag k="addr:housenumber" v="4940"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Hackett Road"/>
+  </node>
+  <node id="-19063" visible="true" lon="-122.4853240418300" lat="48.80677038768970">
+    <tag k="addr:housenumber" v="4570"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19064" visible="true" lon="-122.4788266243618" lat="48.80747134526996">
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:postcode" v="98226-9665"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19065" visible="true" lon="-122.4824275228299" lat="48.80763617785330">
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:postcode" v="98226-9664"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19066" visible="true" lon="-122.4835707433760" lat="48.80793653949298">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19067" visible="true" lon="-122.4824229087417" lat="48.80813354248371">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19068" visible="true" lon="-122.4758934059379" lat="48.80814930536545">
+    <tag k="addr:housenumber" v="286"/>
+    <tag k="addr:postcode" v="98226-9665"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19069" visible="true" lon="-122.4790863846637" lat="48.80823857138422">
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:postcode" v="98226-9665"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19070" visible="true" lon="-122.4837340144584" lat="48.80836225398969">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:postcode" v="98226-9664"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19071" visible="true" lon="-122.4803726837437" lat="48.80900855954270">
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19072" visible="true" lon="-122.4852918855569" lat="48.80920882982809">
+    <tag k="addr:housenumber" v="4634"/>
+    <tag k="addr:postcode" v="98226-9110"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19073" visible="true" lon="-122.4725975152035" lat="48.80951436564403">
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Horton Road"/>
+  </node>
+  <node id="-19074" visible="true" lon="-122.4834308490649" lat="48.80986530078249">
+    <tag k="addr:housenumber" v="4654"/>
+    <tag k="addr:postcode" v="98226-9110"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19075" visible="true" lon="-122.4858407912920" lat="48.80987145579997">
+    <tag k="addr:housenumber" v="4600"/>
+    <tag k="addr:postcode" v="98226-9165"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19076" visible="true" lon="-122.4834432770629" lat="48.81031198135260">
+    <tag k="addr:housenumber" v="4666"/>
+    <tag k="addr:postcode" v="98226-9110"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19077" visible="true" lon="-122.4834669171834" lat="48.81100166958701">
+    <tag k="addr:housenumber" v="4682"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19078" visible="true" lon="-122.4781857190249" lat="48.81186780987077">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19079" visible="true" lon="-122.4711172343379" lat="48.81218807803834">
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Waldron Road"/>
+  </node>
+  <node id="-19080" visible="true" lon="-122.4838654990774" lat="48.81248650572600">
+    <tag k="addr:housenumber" v="4730"/>
+    <tag k="addr:postcode" v="98226-9177"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19081" visible="true" lon="-122.4855074003254" lat="48.81301498831967">
+    <tag k="addr:housenumber" v="4740"/>
+    <tag k="addr:postcode" v="98226-9177"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19082" visible="true" lon="-122.4717705788639" lat="48.81347559268911">
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19083" visible="true" lon="-122.4859481777108" lat="48.81354241901755">
+    <tag k="addr:housenumber" v="4700"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19084" visible="true" lon="-122.4788918558187" lat="48.81392132359233">
+    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19085" visible="true" lon="-122.4762865807292" lat="48.81399482669043">
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19086" visible="true" lon="-122.4801175667197" lat="48.81417513413702">
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19087" visible="true" lon="-122.4714688095111" lat="48.81442864798755">
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19088" visible="true" lon="-122.4853952281686" lat="48.81453643606097">
+    <tag k="addr:housenumber" v="4780"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Guide Meridian"/>
+  </node>
+  <node id="-19089" visible="true" lon="-122.4815572530747" lat="48.81454981760079">
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:postcode" v="98226-7706"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19090" visible="true" lon="-122.4800385568913" lat="48.81459349823737">
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19091" visible="true" lon="-122.4840474964185" lat="48.81461462458698">
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:postcode" v="98226-7706"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19092" visible="true" lon="-122.4772495132697" lat="48.81468469747267">
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19093" visible="true" lon="-122.4705338314776" lat="48.81471977210819">
+    <tag k="addr:housenumber" v="387"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19094" visible="true" lon="-122.4736748798250" lat="48.81464104909967">
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:postcode" v="98226-7712"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19095" visible="true" lon="-122.4778675543670" lat="48.81463183898749">
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:postcode" v="98226-7708"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-19096" visible="true" lon="-122.4801934551461" lat="48.78999001988483">
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:postcode" v="98226-9189"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19097" visible="true" lon="-122.4799624794658" lat="48.78693215863606">
+    <tag k="addr:housenumber" v="4049"/>
+    <tag k="addr:postcode" v="98226-8742"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19098" visible="true" lon="-122.4795618614456" lat="48.78648849580849">
+    <tag k="addr:housenumber" v="4039"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19099" visible="true" lon="-122.4788726528429" lat="48.79019100038690">
+    <tag k="addr:housenumber" v="4101"/>
+    <tag k="addr:postcode" v="98226-6485"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19100" visible="true" lon="-122.4787896405349" lat="48.78877894412786">
+    <tag k="addr:housenumber" v="4065"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19101" visible="true" lon="-122.4780776404451" lat="48.79018665089714">
+    <tag k="addr:housenumber" v="4100"/>
+    <tag k="addr:postcode" v="98226-6496"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19102" visible="true" lon="-122.4753967726595" lat="48.79215785277449">
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:postcode" v="98226-8101"/>
+    <tag k="addr:street" v="Prince Avenue"/>
+  </node>
+  <node id="-19103" visible="true" lon="-122.4753121970132" lat="48.78979914478143">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19104" visible="true" lon="-122.4730077323535" lat="48.78898798236887">
+    <tag k="addr:housenumber" v="945"/>
+    <tag k="addr:postcode" v="98226-9182"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19105" visible="true" lon="-122.4710271625828" lat="48.79052338070310">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98226-9182"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19106" visible="true" lon="-122.4767024940590" lat="48.78978212967596">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98226-9101"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19107" visible="true" lon="-122.4772177811521" lat="48.78986005073981">
+    <tag k="addr:housenumber" v="560"/>
+    <tag k="addr:postcode" v="98226-9185"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19108" visible="true" lon="-122.4745186630570" lat="48.79018526892899">
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:postcode" v="98226-9182"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19109" visible="true" lon="-122.4781789358617" lat="48.78673181559581">
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19110" visible="true" lon="-122.4779234216908" lat="48.78673293770053">
+    <tag k="addr:housenumber" v="503"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19111" visible="true" lon="-122.4777756613786" lat="48.78672472780984">
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19112" visible="true" lon="-122.4778255203750" lat="48.78652260954920">
+    <tag k="addr:housenumber" v="507"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19113" visible="true" lon="-122.4776178858007" lat="48.78652105446406">
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19114" visible="true" lon="-122.4775927153341" lat="48.78671895105840">
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19115" visible="true" lon="-122.4773544133651" lat="48.78670207049958">
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19116" visible="true" lon="-122.4773360320426" lat="48.78651843143441">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19117" visible="true" lon="-122.4771389311821" lat="48.78651775482479">
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19118" visible="true" lon="-122.4771198928370" lat="48.78669104263781">
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19119" visible="true" lon="-122.4768552516544" lat="48.78651814611483">
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19120" visible="true" lon="-122.4763492166756" lat="48.78668520618771">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19121" visible="true" lon="-122.4759657728387" lat="48.78668399702983">
+    <tag k="addr:housenumber" v="605"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19122" visible="true" lon="-122.4761789635641" lat="48.78668633563650">
+    <tag k="addr:housenumber" v="603"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19123" visible="true" lon="-122.4764002783363" lat="48.78646929146302">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19124" visible="true" lon="-122.4761259555738" lat="48.78647170488731">
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19125" visible="true" lon="-122.4762699443002" lat="48.78646967338770">
+    <tag k="addr:housenumber" v="602"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19126" visible="true" lon="-122.4759559875384" lat="48.78647219859797">
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Harman Way"/>
+  </node>
+  <node id="-19127" visible="true" lon="-122.4758943933360" lat="48.78915861803193">
+    <tag k="addr:housenumber" v="4067"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19128" visible="true" lon="-122.4758947604041" lat="48.78874624491228">
+    <tag k="addr:housenumber" v="4055"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19129" visible="true" lon="-122.4753621400764" lat="48.78902257905317">
+    <tag k="addr:housenumber" v="4064"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19130" visible="true" lon="-122.4761526533069" lat="48.78833211959193">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woodbury Way"/>
+  </node>
+  <node id="-19131" visible="true" lon="-122.4758895660729" lat="48.78887323494788">
+    <tag k="addr:housenumber" v="4059"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19132" visible="true" lon="-122.4758976234645" lat="48.78861084300502">
+    <tag k="addr:housenumber" v="4051"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19133" visible="true" lon="-122.4754192957582" lat="48.78831635020877">
+    <tag k="addr:housenumber" v="704"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woodbury Way"/>
+  </node>
+  <node id="-19134" visible="true" lon="-122.4753573329640" lat="48.78945203638062">
+    <tag k="addr:housenumber" v="4076"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19135" visible="true" lon="-122.4758843525647" lat="48.78945475931562">
+    <tag k="addr:housenumber" v="4075"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19136" visible="true" lon="-122.4758955985416" lat="48.78902085874000">
+    <tag k="addr:housenumber" v="4063"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19137" visible="true" lon="-122.4753736660736" lat="48.78887470766504">
+    <tag k="addr:housenumber" v="4060"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19138" visible="true" lon="-122.4751733706700" lat="48.78831546642667">
+    <tag k="addr:housenumber" v="708"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woodbury Way"/>
+  </node>
+  <node id="-19139" visible="true" lon="-122.4757365224743" lat="48.78832903392324">
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woodbury Way"/>
+  </node>
+  <node id="-19140" visible="true" lon="-122.4753726057033" lat="48.78875796133129">
+    <tag k="addr:housenumber" v="4056"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19141" visible="true" lon="-122.4758878171789" lat="48.78932141675011">
+    <tag k="addr:housenumber" v="4071"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19142" visible="true" lon="-122.4759507631461" lat="48.78832974195865">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woodbury Way"/>
+  </node>
+  <node id="-19143" visible="true" lon="-122.4753882617428" lat="48.78861077281788">
+    <tag k="addr:housenumber" v="4052"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19144" visible="true" lon="-122.4753584109612" lat="48.78915021844701">
+    <tag k="addr:housenumber" v="4068"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19145" visible="true" lon="-122.4753587448283" lat="48.78932307513563">
+    <tag k="addr:housenumber" v="4072"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kingston Street"/>
+  </node>
+  <node id="-19146" visible="true" lon="-122.4794434000131" lat="48.80470390717706">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="98226-8788"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19147" visible="true" lon="-122.4790458942553" lat="48.79349119619756">
+    <tag k="addr:housenumber" v="4216"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19148" visible="true" lon="-122.4787256069824" lat="48.79338990127223">
+    <tag k="addr:housenumber" v="4212"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19149" visible="true" lon="-122.4785469418392" lat="48.79599791277534">
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Kellogg Road"/>
+  </node>
+  <node id="-19150" visible="true" lon="-122.4784682440811" lat="48.79337379916712">
+    <tag k="addr:housenumber" v="4208"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19151" visible="true" lon="-122.4783067401632" lat="48.80320640763969">
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:postcode" v="98226-8788"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19152" visible="true" lon="-122.4782189738984" lat="48.79336416061687">
+    <tag k="addr:housenumber" v="4204"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19153" visible="true" lon="-122.4779652907400" lat="48.79335924469530">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19154" visible="true" lon="-122.4778078498184" lat="48.80420992710462">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19155" visible="true" lon="-122.4767455368438" lat="48.80467181942652">
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:postcode" v="98226-8788"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19156" visible="true" lon="-122.4855378808183" lat="48.80312688427343">
+    <tag k="addr:housenumber" v="4472"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19157" visible="true" lon="-122.4854875788577" lat="48.80481161056748">
+    <tag k="addr:housenumber" v="4506"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19158" visible="true" lon="-122.4854149666775" lat="48.80536630506740">
+    <tag k="addr:housenumber" v="4532"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19159" visible="true" lon="-122.4854557550463" lat="48.80581159753578">
+    <tag k="addr:housenumber" v="4548"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19160" visible="true" lon="-122.4843115166505" lat="48.79249318055847">
+    <tag k="addr:housenumber" v="4160"/>
+    <tag k="addr:postcode" v="98226-5515"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-19161" visible="true" lon="-122.4839666912432" lat="48.79582152871877">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98226-8112"/>
+    <tag k="addr:street" v="East Kellogg Road"/>
+  </node>
+  <node id="-19162" visible="true" lon="-122.4838845505751" lat="48.80088197310810">
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Stuart Road"/>
+  </node>
+  <node id="-19163" visible="true" lon="-122.4832166345545" lat="48.79577895726924">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tull Road"/>
+  </node>
+  <node id="-19164" visible="true" lon="-122.4829503020048" lat="48.79576401101149">
+    <tag k="addr:housenumber" v="4276"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tull Road"/>
+  </node>
+  <node id="-19165" visible="true" lon="-122.4829440363491" lat="48.79532793224077">
+    <tag k="addr:housenumber" v="4262"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tull Road"/>
+  </node>
+  <node id="-19166" visible="true" lon="-122.4829437308058" lat="48.79556150941106">
+    <tag k="addr:housenumber" v="4264"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tull Road"/>
+  </node>
+  <node id="-19167" visible="true" lon="-122.4829418953450" lat="48.79599084923635">
+    <tag k="addr:housenumber" v="4278"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tull Road"/>
+  </node>
+  <node id="-19168" visible="true" lon="-122.4829398483023" lat="48.79617071821249">
+    <tag k="addr:housenumber" v="4280"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Tull Road"/>
+  </node>
+  <node id="-19169" visible="true" lon="-122.4820216487179" lat="48.80328739506378">
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:postcode" v="98226-8787"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-19170" visible="true" lon="-122.4837099978811" lat="48.79026359828222">
+    <tag k="addr:housenumber" v="196"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19171" visible="true" lon="-122.4837039076953" lat="48.78999203379617">
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19172" visible="true" lon="-122.4835388617948" lat="48.78822704682138">
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Bellis Fair Parkway"/>
+  </node>
+  <node id="-19173" visible="true" lon="-122.4812998101716" lat="48.79181444344994">
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Prince Avenue"/>
+  </node>
+  <node id="-19174" visible="true" lon="-122.4810867431911" lat="48.78914507252522">
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:postcode" v="98226-9189"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19175" visible="true" lon="-122.4768032776499" lat="48.78201938413299">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Mcleod Road"/>
+  </node>
+  <node id="-19176" visible="true" lon="-122.4722040464796" lat="48.78274098508728">
+    <tag k="addr:housenumber" v="858"/>
+    <tag k="addr:postcode" v="98226-8092"/>
+    <tag k="addr:street" v="East Mcleod Road"/>
+  </node>
+  <node id="-19177" visible="true" lon="-122.4761387183392" lat="48.78426683630989">
+    <tag k="addr:housenumber" v="3924"/>
+    <tag k="addr:postcode" v="98226-7164"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19178" visible="true" lon="-122.4748529541001" lat="48.78506650357362">
+    <tag k="addr:housenumber" v="3963"/>
+    <tag k="addr:postcode" v="98226-7166"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19179" visible="true" lon="-122.4685895826879" lat="48.78624065371594">
+    <tag k="addr:housenumber" v="1050"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-19180" visible="true" lon="-122.4761242292792" lat="48.78494836277821">
+    <tag k="addr:housenumber" v="635"/>
+    <tag k="addr:postcode" v="98226-8096"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-19181" visible="true" lon="-122.4753987916041" lat="48.78485976048505">
+    <tag k="addr:housenumber" v="3966"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19182" visible="true" lon="-122.4743123777215" lat="48.78425940593833">
+    <tag k="addr:housenumber" v="3825"/>
+    <tag k="addr:postcode" v="98226-7166"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19183" visible="true" lon="-122.4737171489883" lat="48.78424031545687">
+    <tag k="addr:housenumber" v="3821"/>
+    <tag k="addr:postcode" v="98226-7166"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19184" visible="true" lon="-122.4732055268480" lat="48.78466158855773">
+    <tag k="addr:housenumber" v="3811"/>
+    <tag k="addr:postcode" v="98226-7166"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19185" visible="true" lon="-122.4732281469739" lat="48.78433153505612">
+    <tag k="addr:housenumber" v="3815"/>
+    <tag k="addr:postcode" v="98226-7166"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19186" visible="true" lon="-122.4748683785775" lat="48.78452000315186">
+    <tag k="addr:housenumber" v="3955"/>
+    <tag k="addr:postcode" v="98226-7166"/>
+    <tag k="addr:street" v="Primrose Lane"/>
+  </node>
+  <node id="-19187" visible="true" lon="-122.4799380652615" lat="48.78319340649023">
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:postcode" v="98226-5535"/>
+    <tag k="addr:street" v="East Mcleod Road"/>
+  </node>
+  <node id="-19188" visible="true" lon="-122.4812928942832" lat="48.78415006262784">
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:postcode" v="98226-8759"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-19189" visible="true" lon="-122.4788367371021" lat="48.78436286331038">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-19190" visible="true" lon="-122.4779957289984" lat="48.78607685430813">
+    <tag k="addr:housenumber" v="3940"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Deemer Road"/>
+  </node>
+  <node id="-19191" visible="true" lon="-122.4771736001078" lat="48.78379913107710">
+    <tag k="addr:housenumber" v="591"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Telegraph Road"/>
+  </node>
+  <node id="-19192" visible="true" lon="-122.4812481297438" lat="48.78368763389459">
+    <tag k="addr:housenumber" v="3920"/>
+    <tag k="addr:postcode" v="98226-8759"/>
+    <tag k="addr:street" v="Affinity Lane"/>
+  </node>
+  <node id="-19193" visible="true" lon="-122.4812266494408" lat="48.78350897769769">
+    <tag k="addr:housenumber" v="3930"/>
+    <tag k="addr:postcode" v="98226-8759"/>
+    <tag k="addr:street" v="Affinity Lane"/>
+  </node>
+  <node id="-19194" visible="true" lon="-122.4814782903769" lat="48.78268152158136">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Mcleod Road"/>
+  </node>
+  <node id="-19195" visible="true" lon="-122.4223338080222" lat="48.79176599964851">
+    <tag k="addr:housenumber" v="4153"/>
+    <tag k="addr:postcode" v="98226-8743"/>
+    <tag k="addr:street" v="Chance Road"/>
+  </node>
+  <node id="-19196" visible="true" lon="-122.4197676856862" lat="48.79248743749852">
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:postcode" v="98226-8723"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-19197" visible="true" lon="-122.4186182558899" lat="48.79346861753313">
+    <tag k="addr:housenumber" v="1360"/>
+    <tag k="addr:postcode" v="98226-8723"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-19198" visible="true" lon="-122.4223530506988" lat="48.79408086931948">
+    <tag k="addr:housenumber" v="4207"/>
+    <tag k="addr:postcode" v="98226-8743"/>
+    <tag k="addr:street" v="Chance Road"/>
+  </node>
+  <node id="-19199" visible="true" lon="-122.4223264609450" lat="48.79261950507559">
+    <tag k="addr:housenumber" v="4197"/>
+    <tag k="addr:postcode" v="98226-8743"/>
+    <tag k="addr:street" v="Chance Road"/>
+  </node>
+  <node id="-19200" visible="true" lon="-122.4298133152941" lat="48.78522188286711">
+    <tag k="addr:housenumber" v="3518"/>
+    <tag k="addr:postcode" v="98226-5603"/>
+    <tag k="addr:street" v="Redondo Way"/>
+  </node>
+  <node id="-19201" visible="true" lon="-122.4305110472971" lat="48.78531237671320">
+    <tag k="addr:housenumber" v="3990"/>
+    <tag k="addr:postcode" v="98226-5603"/>
+    <tag k="addr:street" v="Trickle Creek Boulevard"/>
+  </node>
+  <node id="-19202" visible="true" lon="-122.4299142059815" lat="48.78560759095979">
+    <tag k="addr:housenumber" v="3515"/>
+    <tag k="addr:postcode" v="98226-5603"/>
+    <tag k="addr:street" v="Redondo Way"/>
+  </node>
+  <node id="-19203" visible="true" lon="-122.4305401485482" lat="48.79031975730518">
+    <tag k="addr:housenumber" v="4127"/>
+    <tag k="addr:postcode" v="98226-8741"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19204" visible="true" lon="-122.4296065629575" lat="48.79184501284235">
+    <tag k="addr:housenumber" v="4159"/>
+    <tag k="addr:postcode" v="98226-8741"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19205" visible="true" lon="-122.4294852397681" lat="48.79245334720972">
+    <tag k="addr:housenumber" v="4187"/>
+    <tag k="addr:postcode" v="98226-8741"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19206" visible="true" lon="-122.4294039738122" lat="48.79355212944166">
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:postcode" v="98226-7720"/>
+    <tag k="addr:street" v="Ross Road"/>
+  </node>
+  <node id="-19207" visible="true" lon="-122.4318451362282" lat="48.79415054736172">
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:postcode" v="98226-7720"/>
+    <tag k="addr:street" v="Ross Road"/>
+  </node>
+  <node id="-19208" visible="true" lon="-122.4287033370435" lat="48.79428491797062">
+    <tag k="addr:housenumber" v="1169"/>
+    <tag k="addr:postcode" v="98226-1738"/>
+    <tag k="addr:street" v="Dewey Lane"/>
+  </node>
+  <node id="-19209" visible="true" lon="-122.4307506654033" lat="48.79596848583850">
+    <tag k="addr:housenumber" v="1176"/>
+    <tag k="addr:postcode" v="98226-1738"/>
+    <tag k="addr:street" v="Dewey Lane"/>
+  </node>
+  <node id="-19210" visible="true" lon="-122.4302610192266" lat="48.79812952849098">
+    <tag k="addr:housenumber" v="4340"/>
+    <tag k="addr:postcode" v="98226-8756"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-19211" visible="true" lon="-122.4296587668850" lat="48.79886508395463">
+    <tag k="addr:housenumber" v="4356"/>
+    <tag k="addr:postcode" v="98226-8756"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-19212" visible="true" lon="-122.4303853272142" lat="48.79958982459974">
+    <tag k="addr:housenumber" v="4350"/>
+    <tag k="addr:postcode" v="98226-8756"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-19213" visible="true" lon="-122.4324493586037" lat="48.79946911988038">
+    <tag k="addr:housenumber" v="4391"/>
+    <tag k="addr:postcode" v="98226-8756"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-19214" visible="true" lon="-122.4324429977574" lat="48.79207776846433">
+    <tag k="addr:housenumber" v="3075"/>
+    <tag k="addr:postcode" v="98226-7709"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19215" visible="true" lon="-122.4331095570644" lat="48.79814965242805">
+    <tag k="addr:housenumber" v="4345"/>
+    <tag k="addr:postcode" v="98226-8756"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-19216" visible="true" lon="-122.4327010018634" lat="48.79156102903404">
+    <tag k="addr:housenumber" v="3065"/>
+    <tag k="addr:postcode" v="98226-7709"/>
+    <tag k="addr:street" v="East Bakerview Road"/>
+  </node>
+  <node id="-19217" visible="true" lon="-122.4331264273439" lat="48.79349063640728">
+    <tag k="addr:housenumber" v="1078"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Ross Road"/>
+  </node>
+  <node id="-19218" visible="true" lon="-122.4312175662156" lat="48.78242170507880">
+    <tag k="addr:housenumber" v="3001"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-19219" visible="true" lon="-122.4241089692240" lat="48.78804522336138">
+    <tag k="addr:housenumber" v="1254"/>
+    <tag k="addr:postcode" v="98226-8724"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-19220" visible="true" lon="-122.4237259234296" lat="48.79046894378023">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98226-8723"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-19221" visible="true" lon="-122.4273861599339" lat="48.79367050694113">
+    <tag k="addr:housenumber" v="4228"/>
+    <tag k="addr:postcode" v="98226-7858"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19222" visible="true" lon="-122.4269212258424" lat="48.79623160294312">
+    <tag k="addr:housenumber" v="1192"/>
+    <tag k="addr:postcode" v="98226-1738"/>
+    <tag k="addr:street" v="Dewey Lane"/>
+  </node>
+  <node id="-19223" visible="true" lon="-122.4250568566508" lat="48.79543631578907">
+    <tag k="addr:housenumber" v="4280"/>
+    <tag k="addr:postcode" v="98226-7858"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19224" visible="true" lon="-122.4252601727997" lat="48.79795372609891">
+    <tag k="addr:housenumber" v="4348"/>
+    <tag k="addr:postcode" v="98226-7859"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19225" visible="true" lon="-122.4276189470121" lat="48.79040282700377">
+    <tag k="addr:housenumber" v="4102"/>
+    <tag k="addr:postcode" v="98226-8741"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19226" visible="true" lon="-122.4279473933766" lat="48.79502777972249">
+    <tag k="addr:housenumber" v="1184"/>
+    <tag k="addr:postcode" v="98226-1738"/>
+    <tag k="addr:street" v="Dewey Lane"/>
+  </node>
+  <node id="-19227" visible="true" lon="-122.4277193306092" lat="48.79861805495775">
+    <tag k="addr:housenumber" v="4269"/>
+    <tag k="addr:postcode" v="98226-7858"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19228" visible="true" lon="-122.4273608538802" lat="48.79556298459136">
+    <tag k="addr:housenumber" v="1188"/>
+    <tag k="addr:postcode" v="98226-1738"/>
+    <tag k="addr:street" v="Dewey Lane"/>
+  </node>
+  <node id="-19229" visible="true" lon="-122.4253171141933" lat="48.79451164021434">
+    <tag k="addr:housenumber" v="4250"/>
+    <tag k="addr:postcode" v="98226-7858"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19230" visible="true" lon="-122.4258943244447" lat="48.79640684513361">
+    <tag k="addr:housenumber" v="4293"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-19231" visible="true" lon="-122.4248991676445" lat="48.79172493663303">
+    <tag k="addr:housenumber" v="4185"/>
+    <tag k="addr:postcode" v="98226-8743"/>
+    <tag k="addr:street" v="Chance Road"/>
+  </node>
+  <node id="-19232" visible="true" lon="-122.4239169302543" lat="48.79258244126371">
+    <tag k="addr:housenumber" v="4187"/>
+    <tag k="addr:postcode" v="98226-8743"/>
+    <tag k="addr:street" v="Chance Road"/>
+  </node>
+  <node id="-19233" visible="true" lon="-122.4279718610001" lat="48.78567505411000">
+    <tag k="addr:housenumber" v="3569"/>
+    <tag k="addr:postcode" v="98226-7946"/>
+    <tag k="addr:street" v="Skylark Loop"/>
+  </node>
+  <node id="-19234" visible="true" lon="-122.4281735451243" lat="48.78567695272692">
+    <tag k="addr:housenumber" v="3565"/>
+    <tag k="addr:postcode" v="98226-7946"/>
+    <tag k="addr:street" v="Skylark Loop"/>
+  </node>
+  <node id="-19235" visible="true" lon="-122.4266731963206" lat="48.78574985391989">
+    <tag k="addr:housenumber" v="3608"/>
+    <tag k="addr:postcode" v="98226-7943"/>
+    <tag k="addr:street" v="Skylark Loop"/>
+  </node>
+  <node id="-19236" visible="true" lon="-122.4268140609320" lat="48.78565115332727">
+    <tag k="addr:housenumber" v="3604"/>
+    <tag k="addr:postcode" v="98226-7943"/>
+    <tag k="addr:street" v="Skylark Loop"/>
+  </node>
+  <node id="-19237" visible="true" lon="-122.4249068330927" lat="48.79359996794196">
+    <tag k="addr:housenumber" v="1214"/>
+    <tag k="addr:postcode" v="98226-8714"/>
+    <tag k="addr:street" v="Ross Road"/>
+  </node>
 </osm>

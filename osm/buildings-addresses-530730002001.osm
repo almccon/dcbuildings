@@ -16543,4 +16543,1352 @@
     <tag k="addr:postcode" v="98248"/>
     <tag k="addr:street" v="Whitehorn Street"/>
   </node>
+  <node id="-6012" visible="true" lon="-122.5586485560295" lat="48.81573985058646">
+    <tag k="addr:housenumber" v="1420"/>
+    <tag k="addr:postcode" v="98248-9246"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6013" visible="true" lon="-122.5592957569533" lat="48.81688937280346">
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:postcode" v="98248-9246"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6014" visible="true" lon="-122.5636587638806" lat="48.81701923758892">
+    <tag k="addr:housenumber" v="1507"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6015" visible="true" lon="-122.5578331212615" lat="48.81706921519773">
+    <tag k="addr:housenumber" v="1404"/>
+    <tag k="addr:postcode" v="98248-9246"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6016" visible="true" lon="-122.5564070148141" lat="48.81713911246646">
+    <tag k="addr:housenumber" v="1382"/>
+    <tag k="addr:postcode" v="98248-9246"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6017" visible="true" lon="-122.5641950240105" lat="48.81797931196671">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6018" visible="true" lon="-122.5607563397911" lat="48.81837019249237">
+    <tag k="addr:housenumber" v="1462"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6019" visible="true" lon="-122.5614256522553" lat="48.81844002735160">
+    <tag k="addr:housenumber" v="1474"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6020" visible="true" lon="-122.5595513789424" lat="48.81862568115707">
+    <tag k="addr:housenumber" v="1350"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6021" visible="true" lon="-122.5649852913676" lat="48.81875360511236">
+    <tag k="addr:housenumber" v="1546"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6022" visible="true" lon="-122.5583510394508" lat="48.81901089781547">
+    <tag k="addr:housenumber" v="1420"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6023" visible="true" lon="-122.5593976356488" lat="48.81927164281097">
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6024" visible="true" lon="-122.5580738181453" lat="48.81931777316565">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6025" visible="true" lon="-122.5608866613078" lat="48.81936526588012">
+    <tag k="addr:housenumber" v="4916"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Place"/>
+  </node>
+  <node id="-6026" visible="true" lon="-122.5571571258727" lat="48.81983025910483">
+    <tag k="addr:housenumber" v="1390"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6027" visible="true" lon="-122.5565264634101" lat="48.81994198346001">
+    <tag k="addr:housenumber" v="1380"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6028" visible="true" lon="-122.5616034708824" lat="48.82007992374058">
+    <tag k="addr:housenumber" v="4930"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Place"/>
+  </node>
+  <node id="-6029" visible="true" lon="-122.5607778510150" lat="48.82028173472163">
+    <tag k="addr:housenumber" v="4950"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Place"/>
+  </node>
+  <node id="-6030" visible="true" lon="-122.5597836008762" lat="48.82039074807832">
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Whitehorn Street"/>
+  </node>
+  <node id="-6031" visible="true" lon="-122.5600604989744" lat="48.82040458437114">
+    <tag k="addr:housenumber" v="1449"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6032" visible="true" lon="-122.5563705271963" lat="48.82050617125964">
+    <tag k="addr:housenumber" v="4949"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6033" visible="true" lon="-122.5590190718699" lat="48.82056291489141">
+    <tag k="addr:housenumber" v="1490"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Whitehorn Street"/>
+  </node>
+  <node id="-6034" visible="true" lon="-122.5573358890428" lat="48.82094376883118">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Stonegate Way"/>
+  </node>
+  <node id="-6035" visible="true" lon="-122.5615711224895" lat="48.82125941407153">
+    <tag k="addr:housenumber" v="5000"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Place"/>
+  </node>
+  <node id="-6036" visible="true" lon="-122.5592752965595" lat="48.82171659592476">
+    <tag k="addr:housenumber" v="1431"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6037" visible="true" lon="-122.5593665950528" lat="48.82227870308041">
+    <tag k="addr:housenumber" v="1427"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6038" visible="true" lon="-122.5616778977971" lat="48.82293966254519">
+    <tag k="addr:housenumber" v="1474"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6039" visible="true" lon="-122.5624840187448" lat="48.82294112373978">
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6040" visible="true" lon="-122.5604408984381" lat="48.82312666457100">
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6041" visible="true" lon="-122.5609443183593" lat="48.82313049179034">
+    <tag k="addr:housenumber" v="1460"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6042" visible="true" lon="-122.5595420219566" lat="48.82317703265324">
+    <tag k="addr:housenumber" v="1440"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6043" visible="true" lon="-122.5620406050401" lat="48.82334542262276">
+    <tag k="addr:housenumber" v="5030"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6044" visible="true" lon="-122.5581702200067" lat="48.82363698210813">
+    <tag k="addr:housenumber" v="1422"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6045" visible="true" lon="-122.5615369741603" lat="48.82397738758542">
+    <tag k="addr:housenumber" v="5044"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6046" visible="true" lon="-122.5590628002591" lat="48.82404202129328">
+    <tag k="addr:housenumber" v="1442"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6047" visible="true" lon="-122.5599560828508" lat="48.82404640166857">
+    <tag k="addr:housenumber" v="1446"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6048" visible="true" lon="-122.5623048964367" lat="48.82478810219438">
+    <tag k="addr:housenumber" v="5068"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6049" visible="true" lon="-122.5601641497846" lat="48.82544794291019">
+    <tag k="addr:housenumber" v="5094"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6050" visible="true" lon="-122.5560959183668" lat="48.81589770105729">
+    <tag k="addr:housenumber" v="4839"/>
+    <tag k="addr:postcode" v="98248-9227"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6051" visible="true" lon="-122.5579393567082" lat="48.82219905142474">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6052" visible="true" lon="-122.5579808725036" lat="48.82301259052623">
+    <tag k="addr:housenumber" v="4970"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Park Place"/>
+  </node>
+  <node id="-6053" visible="true" lon="-122.5579951696059" lat="48.82311535750686">
+    <tag k="addr:housenumber" v="4974"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Park Place"/>
+  </node>
+  <node id="-6054" visible="true" lon="-122.5681710912845" lat="48.82367546961195">
+    <tag k="addr:housenumber" v="1528"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6055" visible="true" lon="-122.5695029114211" lat="48.82688233069208">
+    <tag k="addr:housenumber" v="5185"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6056" visible="true" lon="-122.5697872587724" lat="48.82780198250486">
+    <tag k="addr:housenumber" v="5189"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6057" visible="true" lon="-122.5668497158428" lat="48.82832759707662">
+    <tag k="addr:housenumber" v="5198"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6058" visible="true" lon="-122.5700278584596" lat="48.82871495585059">
+    <tag k="addr:housenumber" v="5190"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6059" visible="true" lon="-122.5695463175318" lat="48.82946251303372">
+    <tag k="addr:housenumber" v="5195"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6060" visible="true" lon="-122.5668910280602" lat="48.83001286193365">
+    <tag k="addr:housenumber" v="5198"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6061" visible="true" lon="-122.5721508909923" lat="48.83125999583958">
+    <tag k="addr:housenumber" v="5206"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6062" visible="true" lon="-122.5690456703750" lat="48.83126176276052">
+    <tag k="addr:housenumber" v="5241"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6063" visible="true" lon="-122.5690925671640" lat="48.83273163523476">
+    <tag k="addr:housenumber" v="5271"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6064" visible="true" lon="-122.5724041795949" lat="48.83279171228138">
+    <tag k="addr:housenumber" v="1689"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Smith Road"/>
+  </node>
+  <node id="-6065" visible="true" lon="-122.5691200533707" lat="48.83301390324380">
+    <tag k="addr:housenumber" v="5273"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Creighton Road"/>
+  </node>
+  <node id="-6066" visible="true" lon="-122.5666139917553" lat="48.81616690913771">
+    <tag k="addr:housenumber" v="1597"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Slater Road"/>
+  </node>
+  <node id="-6067" visible="true" lon="-122.5615374004366" lat="48.82658256217675">
+    <tag k="addr:housenumber" v="5110"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6068" visible="true" lon="-122.5619977355435" lat="48.82698204344984">
+    <tag k="addr:housenumber" v="5114"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6069" visible="true" lon="-122.5642887120512" lat="48.82728835348159">
+    <tag k="addr:housenumber" v="5127"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6070" visible="true" lon="-122.5615367319651" lat="48.82770676064339">
+    <tag k="addr:housenumber" v="5142"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6071" visible="true" lon="-122.5637691193487" lat="48.82792557300832">
+    <tag k="addr:housenumber" v="5141"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6072" visible="true" lon="-122.5649236813648" lat="48.82816101576363">
+    <tag k="addr:housenumber" v="5158"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6073" visible="true" lon="-122.5645795592158" lat="48.82827888747932">
+    <tag k="addr:housenumber" v="5162"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6074" visible="true" lon="-122.5633327366847" lat="48.82841198791375">
+    <tag k="addr:housenumber" v="5165"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6075" visible="true" lon="-122.5645912593079" lat="48.82853970297845">
+    <tag k="addr:housenumber" v="5164"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6076" visible="true" lon="-122.5640063532731" lat="48.82857884921170">
+    <tag k="addr:housenumber" v="5169"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6077" visible="true" lon="-122.5646430223184" lat="48.82871725945727">
+    <tag k="addr:housenumber" v="5168"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6078" visible="true" lon="-122.5646451183971" lat="48.82889540535717">
+    <tag k="addr:housenumber" v="5174"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6079" visible="true" lon="-122.5634259546285" lat="48.82912202309342">
+    <tag k="addr:housenumber" v="5177"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6080" visible="true" lon="-122.5647940822812" lat="48.82912582582319">
+    <tag k="addr:housenumber" v="5180"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6081" visible="true" lon="-122.5645196918984" lat="48.82912893525621">
+    <tag k="addr:housenumber" v="5182"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6082" visible="true" lon="-122.5642498644349" lat="48.82913074134311">
+    <tag k="addr:housenumber" v="5186"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6083" visible="true" lon="-122.5639786774871" lat="48.82916470123519">
+    <tag k="addr:housenumber" v="5186"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6084" visible="true" lon="-122.5636759388154" lat="48.82933915983187">
+    <tag k="addr:housenumber" v="5188"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6085" visible="true" lon="-122.5624993881678" lat="48.82940146327083">
+    <tag k="addr:housenumber" v="5170"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6086" visible="true" lon="-122.5647282555098" lat="48.82951499075089">
+    <tag k="addr:housenumber" v="5090"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6087" visible="true" lon="-122.5643059671099" lat="48.82951631677842">
+    <tag k="addr:housenumber" v="5191"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6088" visible="true" lon="-122.5636354468043" lat="48.82951786871497">
+    <tag k="addr:housenumber" v="5190"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6089" visible="true" lon="-122.5647310699095" lat="48.82969029989086">
+    <tag k="addr:housenumber" v="5194"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6090" visible="true" lon="-122.5643088399495" lat="48.82969530284267">
+    <tag k="addr:housenumber" v="5197"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6091" visible="true" lon="-122.5636371294076" lat="48.82969601706623">
+    <tag k="addr:housenumber" v="5196"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6092" visible="true" lon="-122.5647339178522" lat="48.82986767183258">
+    <tag k="addr:housenumber" v="5200"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6093" visible="true" lon="-122.5643116990235" lat="48.82987344452637">
+    <tag k="addr:housenumber" v="5201"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6094" visible="true" lon="-122.5636383027988" lat="48.82987417386490">
+    <tag k="addr:housenumber" v="5200"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6095" visible="true" lon="-122.5647367658456" lat="48.83004504466085">
+    <tag k="addr:housenumber" v="5204"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6096" visible="true" lon="-122.5643145567559" lat="48.83005158621783">
+    <tag k="addr:housenumber" v="5207"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6097" visible="true" lon="-122.5636394993157" lat="48.83005232940845">
+    <tag k="addr:housenumber" v="5208"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6098" visible="true" lon="-122.5653678332238" lat="48.82831525320058">
+    <tag k="addr:housenumber" v="5161"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6099" visible="true" lon="-122.5653983529849" lat="48.82861009807738">
+    <tag k="addr:housenumber" v="5165"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6100" visible="true" lon="-122.5653845724520" lat="48.82879894494793">
+    <tag k="addr:housenumber" v="5173"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6101" visible="true" lon="-122.5653874352166" lat="48.82897708576884">
+    <tag k="addr:housenumber" v="5177"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6102" visible="true" lon="-122.5653902980318" lat="48.82915522747626">
+    <tag k="addr:housenumber" v="5181"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6103" visible="true" lon="-122.5653931608978" lat="48.82933337007015">
+    <tag k="addr:housenumber" v="5185"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6104" visible="true" lon="-122.5653960237532" lat="48.82951151175252">
+    <tag k="addr:housenumber" v="5191"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6105" visible="true" lon="-122.5653988866287" lat="48.82968965342242">
+    <tag k="addr:housenumber" v="5195"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6106" visible="true" lon="-122.5654017495549" lat="48.82986779597877">
+    <tag k="addr:housenumber" v="5201"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6107" visible="true" lon="-122.5654046124706" lat="48.83004593762360">
+    <tag k="addr:housenumber" v="5207"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6108" visible="true" lon="-122.5828325333535" lat="48.79049360641982">
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:postcode" v="98226-8429"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-6109" visible="true" lon="-122.5720875062767" lat="48.79001204655373">
+    <tag k="addr:housenumber" v="4104"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6110" visible="true" lon="-122.5674789140823" lat="48.79033655375443">
+    <tag k="addr:housenumber" v="4107"/>
+    <tag k="addr:postcode" v="98225-8547"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6111" visible="true" lon="-122.5720840234571" lat="48.79041976628552">
+    <tag k="addr:housenumber" v="4122"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6112" visible="true" lon="-122.5693997555134" lat="48.79065802834840">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98225-8520"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6113" visible="true" lon="-122.5720709654959" lat="48.79087505712960">
+    <tag k="addr:housenumber" v="4128"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6114" visible="true" lon="-122.5674757925654" lat="48.79146145316827">
+    <tag k="addr:housenumber" v="4131"/>
+    <tag k="addr:postcode" v="98225-8547"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6115" visible="true" lon="-122.5720654457153" lat="48.79147800390550">
+    <tag k="addr:housenumber" v="4144"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6116" visible="true" lon="-122.5720529531574" lat="48.79221676150076">
+    <tag k="addr:housenumber" v="4174"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6117" visible="true" lon="-122.5696737685888" lat="48.79288610302660">
+    <tag k="addr:housenumber" v="4199"/>
+    <tag k="addr:postcode" v="98225-8547"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6118" visible="true" lon="-122.5654947975943" lat="48.79296752650426">
+    <tag k="addr:housenumber" v="4176"/>
+    <tag k="addr:postcode" v="98225-8548"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6119" visible="true" lon="-122.5680430071984" lat="48.79296962323951">
+    <tag k="addr:housenumber" v="4179"/>
+    <tag k="addr:postcode" v="98225-8547"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6120" visible="true" lon="-122.5716799271450" lat="48.79316322683028">
+    <tag k="addr:housenumber" v="4192"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6121" visible="true" lon="-122.5719174925564" lat="48.79367920184615">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98225-8538"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6122" visible="true" lon="-122.5663656286894" lat="48.79385242295703">
+    <tag k="addr:housenumber" v="4218"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6123" visible="true" lon="-122.5697113951566" lat="48.79401203968717">
+    <tag k="addr:housenumber" v="4205"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6124" visible="true" lon="-122.5680801639664" lat="48.79413148106370">
+    <tag k="addr:housenumber" v="4219"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6125" visible="true" lon="-122.5663642427820" lat="48.79424996601787">
+    <tag k="addr:housenumber" v="4222"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6126" visible="true" lon="-122.5663623817981" lat="48.79463353411891">
+    <tag k="addr:housenumber" v="4238"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6127" visible="true" lon="-122.5721347809337" lat="48.79470622796084">
+    <tag k="addr:housenumber" v="4204"/>
+    <tag k="addr:postcode" v="98225-8538"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6128" visible="true" lon="-122.5663609437890" lat="48.79501737020181">
+    <tag k="addr:housenumber" v="4242"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6129" visible="true" lon="-122.5680755169637" lat="48.79529642827349">
+    <tag k="addr:housenumber" v="4251"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6130" visible="true" lon="-122.5663032640260" lat="48.79541904095056">
+    <tag k="addr:housenumber" v="4256"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6131" visible="true" lon="-122.5723024652612" lat="48.79545956574367">
+    <tag k="addr:housenumber" v="1699"/>
+    <tag k="addr:postcode" v="98226-8327"/>
+    <tag k="addr:street" v="Skagit Street"/>
+  </node>
+  <node id="-6132" visible="true" lon="-122.5680886922414" lat="48.79568251399780">
+    <tag k="addr:housenumber" v="4261"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6133" visible="true" lon="-122.5659720882569" lat="48.79580750861351">
+    <tag k="addr:housenumber" v="4260"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6134" visible="true" lon="-122.5710748558103" lat="48.79797981339889">
+    <tag k="addr:housenumber" v="1655"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6135" visible="true" lon="-122.5685866602594" lat="48.79815069854967">
+    <tag k="addr:housenumber" v="1617"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6136" visible="true" lon="-122.5721983133940" lat="48.79820128511463">
+    <tag k="addr:housenumber" v="1671"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6137" visible="true" lon="-122.5685758411780" lat="48.79942622007245">
+    <tag k="addr:housenumber" v="1618"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6138" visible="true" lon="-122.5702350102127" lat="48.79947578469102">
+    <tag k="addr:housenumber" v="1646"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6139" visible="true" lon="-122.5693333779311" lat="48.80146066029529">
+    <tag k="addr:housenumber" v="4408"/>
+    <tag k="addr:postcode" v="98226-7233"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6140" visible="true" lon="-122.5692458630386" lat="48.80338212961048">
+    <tag k="addr:housenumber" v="4518"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6141" visible="true" lon="-122.5721832945161" lat="48.80394912853664">
+    <tag k="addr:housenumber" v="4496"/>
+    <tag k="addr:postcode" v="98226-7233"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6142" visible="true" lon="-122.5669037960145" lat="48.80520475730155">
+    <tag k="addr:housenumber" v="4550"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6143" visible="true" lon="-122.5704524171817" lat="48.80560671004134">
+    <tag k="addr:housenumber" v="4534"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6144" visible="true" lon="-122.5659393834190" lat="48.80725413656483">
+    <tag k="addr:housenumber" v="4604"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6145" visible="true" lon="-122.5708472308927" lat="48.80830506008949">
+    <tag k="addr:housenumber" v="1611"/>
+    <tag k="addr:postcode" v="98226-9225"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+  </node>
+  <node id="-6146" visible="true" lon="-122.5707686320503" lat="48.80912622179486">
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:postcode" v="98226-9225"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+  </node>
+  <node id="-6147" visible="true" lon="-122.5703581754241" lat="48.81241860162439">
+    <tag k="addr:housenumber" v="1666"/>
+    <tag k="addr:postcode" v="98226-9225"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+  </node>
+  <node id="-6148" visible="true" lon="-122.5680773570519" lat="48.79491258602850">
+    <tag k="addr:housenumber" v="4241"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6149" visible="true" lon="-122.5710522324013" lat="48.79928457264312">
+    <tag k="addr:housenumber" v="1662"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6150" visible="true" lon="-122.5714208192470" lat="48.80622884656877">
+    <tag k="addr:housenumber" v="4545"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6151" visible="true" lon="-122.5723594928420" lat="48.81134285564791">
+    <tag k="addr:housenumber" v="1727"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+    <tag k="addr:housenumber" v="1424"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+  </node>
+  <node id="-6152" visible="true" lon="-122.5672508732614" lat="48.79817607573856">
+    <tag k="addr:housenumber" v="4264"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6153" visible="true" lon="-122.5720364748807" lat="48.80108888989297">
+    <tag k="addr:housenumber" v="4404"/>
+    <tag k="addr:postcode" v="98226-7233"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6154" visible="true" lon="-122.5658242827666" lat="48.79053307671929">
+    <tag k="addr:housenumber" v="4118"/>
+    <tag k="addr:postcode" v="98225-8548"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6155" visible="true" lon="-122.5716755901164" lat="48.79275726941501">
+    <tag k="addr:housenumber" v="4184"/>
+    <tag k="addr:postcode" v="98225-8536"/>
+    <tag k="addr:street" v="Hoff Road"/>
+  </node>
+  <node id="-6156" visible="true" lon="-122.5692098627650" lat="48.80530529776235">
+    <tag k="addr:housenumber" v="4520"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6157" visible="true" lon="-122.5702337360486" lat="48.79810256990439">
+    <tag k="addr:housenumber" v="1645"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6158" visible="true" lon="-122.5694053024481" lat="48.79947170576765">
+    <tag k="addr:housenumber" v="1632"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6159" visible="true" lon="-122.5680787914571" lat="48.79452902410253">
+    <tag k="addr:housenumber" v="4231"/>
+    <tag k="addr:postcode" v="98225-8573"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6160" visible="true" lon="-122.5703129773534" lat="48.79074255688276">
+    <tag k="addr:housenumber" v="1642"/>
+    <tag k="addr:postcode" v="98225-8520"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6161" visible="true" lon="-122.5714356330452" lat="48.80743873431541">
+    <tag k="addr:housenumber" v="4551"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6162" visible="true" lon="-122.5668434278632" lat="48.80959208743350">
+    <tag k="addr:housenumber" v="4581"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6163" visible="true" lon="-122.5720298587008" lat="48.80227853861209">
+    <tag k="addr:housenumber" v="4400"/>
+    <tag k="addr:postcode" v="98226-7233"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6164" visible="true" lon="-122.5718346057778" lat="48.80342549293359">
+    <tag k="addr:housenumber" v="4478"/>
+    <tag k="addr:postcode" v="98226-7233"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6165" visible="true" lon="-122.5692021179275" lat="48.79196649475757">
+    <tag k="addr:housenumber" v="4167"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jones Lane"/>
+  </node>
+  <node id="-6166" visible="true" lon="-122.5681489601310" lat="48.81100619232122">
+    <tag k="addr:housenumber" v="1650"/>
+    <tag k="addr:postcode" v="98226-9225"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+  </node>
+  <node id="-6167" visible="true" lon="-122.5673932689010" lat="48.81241040727390">
+    <tag k="addr:housenumber" v="1656"/>
+    <tag k="addr:postcode" v="98226-9225"/>
+    <tag k="addr:street" v="Shady Lane Road"/>
+  </node>
+  <node id="-6168" visible="true" lon="-122.5731762638418" lat="48.79830566333625">
+    <tag k="addr:housenumber" v="1693"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6169" visible="true" lon="-122.5727815932418" lat="48.79927520728381">
+    <tag k="addr:housenumber" v="1696"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6170" visible="true" lon="-122.5708776989846" lat="48.80468003768350">
+    <tag k="addr:housenumber" v="4510"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6171" visible="true" lon="-122.5722140060179" lat="48.80508941916954">
+    <tag k="addr:housenumber" v="4511"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6172" visible="true" lon="-122.5681455969107" lat="48.80699238412372">
+    <tag k="addr:housenumber" v="4558"/>
+    <tag k="addr:postcode" v="98226-9229"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6173" visible="true" lon="-122.5694129075754" lat="48.79811480810543">
+    <tag k="addr:housenumber" v="1631"/>
+    <tag k="addr:postcode" v="98226-7242"/>
+    <tag k="addr:street" v="Pence Avenue"/>
+  </node>
+  <node id="-6174" visible="true" lon="-122.5786732124234" lat="48.79374243218405">
+    <tag k="addr:housenumber" v="4213"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6175" visible="true" lon="-122.5647396138281" lat="48.83022241657775">
+    <tag k="addr:housenumber" v="5210"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6176" visible="true" lon="-122.5636205282469" lat="48.83023513944325">
+    <tag k="addr:housenumber" v="5214"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6177" visible="true" lon="-122.5643878039675" lat="48.83032871612727">
+    <tag k="addr:housenumber" v="5215"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6178" visible="true" lon="-122.5647424607103" lat="48.83039971564439">
+    <tag k="addr:housenumber" v="5216"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6179" visible="true" lon="-122.5636679403032" lat="48.83042807464141">
+    <tag k="addr:housenumber" v="5218"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sparrow Court"/>
+  </node>
+  <node id="-6180" visible="true" lon="-122.5648241725070" lat="48.83074100058362">
+    <tag k="addr:housenumber" v="1533"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6181" visible="true" lon="-122.5645543675522" lat="48.83074427839368">
+    <tag k="addr:housenumber" v="1527"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6182" visible="true" lon="-122.5640147881658" lat="48.83075269082379">
+    <tag k="addr:housenumber" v="1517"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6183" visible="true" lon="-122.5634752336649" lat="48.83076271667387">
+    <tag k="addr:housenumber" v="1509"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6184" visible="true" lon="-122.5631956850103" lat="48.83076787369771">
+    <tag k="addr:housenumber" v="1503"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6185" visible="true" lon="-122.5623923479237" lat="48.83076884234221">
+    <tag k="addr:housenumber" v="5210"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Labounty Drive"/>
+  </node>
+  <node id="-6186" visible="true" lon="-122.5654074754063" lat="48.83022407925595">
+    <tag k="addr:housenumber" v="5211"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6187" visible="true" lon="-122.5654100277136" lat="48.83038296131884">
+    <tag k="addr:housenumber" v="5217"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6188" visible="true" lon="-122.5654153836408" lat="48.83071620551231">
+    <tag k="addr:housenumber" v="5225"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6189" visible="true" lon="-122.5654189100946" lat="48.83093566013216">
+    <tag k="addr:housenumber" v="5229"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6190" visible="true" lon="-122.5654217731613" lat="48.83111380260095">
+    <tag k="addr:housenumber" v="5235"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Spoonbill Lane"/>
+  </node>
+  <node id="-6191" visible="true" lon="-122.5633069645850" lat="48.83115650325996">
+    <tag k="addr:housenumber" v="1504"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6192" visible="true" lon="-122.5633443065156" lat="48.83132158130381">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Seahawk Drive"/>
+  </node>
+  <node id="-6193" visible="true" lon="-122.5543171659014" lat="48.79196124340339">
+    <tag k="addr:housenumber" v="4157"/>
+    <tag k="addr:postcode" v="98225-8557"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6194" visible="true" lon="-122.5524294410466" lat="48.79064194005649">
+    <tag k="addr:housenumber" v="1340"/>
+    <tag k="addr:postcode" v="98225-8514"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6195" visible="true" lon="-122.5558942231803" lat="48.82119964230612">
+    <tag k="addr:housenumber" v="1365"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Stonegate Way"/>
+  </node>
+  <node id="-6196" visible="true" lon="-122.5555273316907" lat="48.79017901612781">
+    <tag k="addr:housenumber" v="1366"/>
+    <tag k="addr:postcode" v="98225-8514"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6197" visible="true" lon="-122.5558682806547" lat="48.82189610893474">
+    <tag k="addr:housenumber" v="1360"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Stonegate Way"/>
+  </node>
+  <node id="-6198" visible="true" lon="-122.5558461590252" lat="48.82340900584543">
+    <tag k="addr:housenumber" v="1360"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Sunset Avenue"/>
+  </node>
+  <node id="-6199" visible="true" lon="-122.5535077540164" lat="48.80636123483775">
+    <tag k="addr:housenumber" v="4562"/>
+    <tag k="addr:postcode" v="98226-8314"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6200" visible="true" lon="-122.5528725350146" lat="48.80492008026409">
+    <tag k="addr:housenumber" v="4546"/>
+    <tag k="addr:postcode" v="98226-8304"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6201" visible="true" lon="-122.5539011568503" lat="48.80813713257544">
+    <tag k="addr:housenumber" v="4600"/>
+    <tag k="addr:postcode" v="98226-8328"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6202" visible="true" lon="-122.5502690830222" lat="48.80678926277589">
+    <tag k="addr:housenumber" v="4550"/>
+    <tag k="addr:postcode" v="98226-8304"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6203" visible="true" lon="-122.5549829181347" lat="48.80744207732210">
+    <tag k="addr:housenumber" v="4595"/>
+    <tag k="addr:postcode" v="98226-8304"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6204" visible="true" lon="-122.5555451786734" lat="48.80558845458516">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6205" visible="true" lon="-122.5559191841811" lat="48.80861476178050">
+    <tag k="addr:housenumber" v="4625"/>
+    <tag k="addr:postcode" v="98226-8328"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6206" visible="true" lon="-122.5530768124953" lat="48.81088368337458">
+    <tag k="addr:housenumber" v="4682"/>
+    <tag k="addr:postcode" v="98226-8328"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6207" visible="true" lon="-122.5530915438082" lat="48.81225120218278">
+    <tag k="addr:housenumber" v="4738"/>
+    <tag k="addr:postcode" v="98226-8317"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6208" visible="true" lon="-122.5554019399299" lat="48.81222612052476">
+    <tag k="addr:housenumber" v="4725"/>
+    <tag k="addr:postcode" v="98226-8317"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6209" visible="true" lon="-122.5538940360798" lat="48.81363998712650">
+    <tag k="addr:housenumber" v="4810"/>
+    <tag k="addr:postcode" v="98226-9227"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6210" visible="true" lon="-122.5529937764630" lat="48.81415826368703">
+    <tag k="addr:housenumber" v="4818"/>
+    <tag k="addr:postcode" v="98226-9227"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6211" visible="true" lon="-122.5520189372860" lat="48.81585949317230">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="98248-9255"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6212" visible="true" lon="-122.5515933507101" lat="48.81585699815339">
+    <tag k="addr:housenumber" v="1293"/>
+    <tag k="addr:postcode" v="98248-9259"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6213" visible="true" lon="-122.5498004189418" lat="48.81641324802766">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Kope Road"/>
+  </node>
+  <node id="-6214" visible="true" lon="-122.5532171939975" lat="48.79496630243769">
+    <tag k="addr:housenumber" v="4251"/>
+    <tag k="addr:postcode" v="98225-8559"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6215" visible="true" lon="-122.5524795932647" lat="48.79367113193271">
+    <tag k="addr:housenumber" v="4213"/>
+    <tag k="addr:postcode" v="98225-8559"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6216" visible="true" lon="-122.5558969484847" lat="48.80735865657675">
+    <tag k="addr:housenumber" v="4585"/>
+    <tag k="addr:postcode" v="98226-8304"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6217" visible="true" lon="-122.5536580746217" lat="48.81995725661178">
+    <tag k="addr:housenumber" v="4940"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6218" visible="true" lon="-122.5554403975738" lat="48.79127473683614">
+    <tag k="addr:housenumber" v="1374"/>
+    <tag k="addr:postcode" v="98225-8514"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6219" visible="true" lon="-122.5554485131831" lat="48.79096074131499">
+    <tag k="addr:housenumber" v="1370"/>
+    <tag k="addr:postcode" v="98225-8514"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6220" visible="true" lon="-122.5623844506531" lat="48.78985739730766">
+    <tag k="addr:housenumber" v="1496"/>
+    <tag k="addr:postcode" v="98225-8516"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6221" visible="true" lon="-122.5635643040117" lat="48.79003561775681">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98225-8517"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6222" visible="true" lon="-122.5563141080718" lat="48.79084387653249">
+    <tag k="addr:housenumber" v="1392"/>
+    <tag k="addr:postcode" v="98225-8514"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6223" visible="true" lon="-122.5620709180976" lat="48.79127852370188">
+    <tag k="addr:housenumber" v="4140"/>
+    <tag k="addr:postcode" v="98225-8569"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6224" visible="true" lon="-122.5586109163069" lat="48.79137627107151">
+    <tag k="addr:housenumber" v="1442"/>
+    <tag k="addr:postcode" v="98225-8516"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6225" visible="true" lon="-122.5597404145118" lat="48.79253921220145">
+    <tag k="addr:housenumber" v="4180"/>
+    <tag k="addr:postcode" v="98225-8569"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6226" visible="true" lon="-122.5611175871976" lat="48.79345502048389">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98225-8566"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6227" visible="true" lon="-122.5613794669684" lat="48.79631301685031">
+    <tag k="addr:housenumber" v="4256"/>
+    <tag k="addr:postcode" v="98225-8566"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6228" visible="true" lon="-122.5643698907331" lat="48.80126586234050">
+    <tag k="addr:housenumber" v="4405"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6229" visible="true" lon="-122.5598327301402" lat="48.80148864848569">
+    <tag k="addr:housenumber" v="1479"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6230" visible="true" lon="-122.5644087476865" lat="48.80238245618630">
+    <tag k="addr:housenumber" v="4447"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6231" visible="true" lon="-122.5643184328383" lat="48.80352043326516">
+    <tag k="addr:housenumber" v="4481"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6232" visible="true" lon="-122.5622228421372" lat="48.80433398605372">
+    <tag k="addr:housenumber" v="4504"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6233" visible="true" lon="-122.5637659501892" lat="48.80454190824947">
+    <tag k="addr:housenumber" v="4491"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6234" visible="true" lon="-122.5638281955359" lat="48.80529736898272">
+    <tag k="addr:housenumber" v="4541"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6235" visible="true" lon="-122.5607709398268" lat="48.80536824292733">
+    <tag k="addr:housenumber" v="1461"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6236" visible="true" lon="-122.5621640059454" lat="48.80555702816554">
+    <tag k="addr:housenumber" v="4540"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6237" visible="true" lon="-122.5560703875519" lat="48.80566732014953">
+    <tag k="addr:housenumber" v="1403"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6238" visible="true" lon="-122.5567624380526" lat="48.80617440697727">
+    <tag k="addr:housenumber" v="1402"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6239" visible="true" lon="-122.5585425001076" lat="48.80650253496171">
+    <tag k="addr:housenumber" v="1420"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6240" visible="true" lon="-122.5632118758176" lat="48.80710249201223">
+    <tag k="addr:housenumber" v="4585"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6241" visible="true" lon="-122.5611399598606" lat="48.80710335856799">
+    <tag k="addr:housenumber" v="1448"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6242" visible="true" lon="-122.5585943967672" lat="48.80737110054535">
+    <tag k="addr:housenumber" v="1416"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6243" visible="true" lon="-122.5614308997908" lat="48.80809174551936">
+    <tag k="addr:housenumber" v="4602"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6244" visible="true" lon="-122.5613079474001" lat="48.80840637663579">
+    <tag k="addr:housenumber" v="4610"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6245" visible="true" lon="-122.5632839045468" lat="48.80897469984023">
+    <tag k="addr:housenumber" v="4609"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6246" visible="true" lon="-122.5649103241674" lat="48.80905306910101">
+    <tag k="addr:housenumber" v="4641"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6247" visible="true" lon="-122.5612590055881" lat="48.80916430844024">
+    <tag k="addr:housenumber" v="4630"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6248" visible="true" lon="-122.5579875998752" lat="48.81034077965490">
+    <tag k="addr:housenumber" v="4651"/>
+    <tag k="addr:postcode" v="98226-8328"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6249" visible="true" lon="-122.5593875767853" lat="48.81035643528394">
+    <tag k="addr:housenumber" v="4655"/>
+    <tag k="addr:postcode" v="98226-8328"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6250" visible="true" lon="-122.5619478341974" lat="48.81061092978484">
+    <tag k="addr:housenumber" v="4648"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6251" visible="true" lon="-122.5645784024251" lat="48.81064095262668">
+    <tag k="addr:housenumber" v="4671"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6252" visible="true" lon="-122.5561204345191" lat="48.81092726392488">
+    <tag k="addr:housenumber" v="4695"/>
+    <tag k="addr:postcode" v="98226-8328"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6253" visible="true" lon="-122.5639507680872" lat="48.81135923404209">
+    <tag k="addr:housenumber" v="4675"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6254" visible="true" lon="-122.5567376659451" lat="48.81180857678738">
+    <tag k="addr:housenumber" v="4705"/>
+    <tag k="addr:postcode" v="98226-8317"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-6255" visible="true" lon="-122.5611832070019" lat="48.81211118747308">
+    <tag k="addr:housenumber" v="4720"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6256" visible="true" lon="-122.5579978141622" lat="48.81227133731922">
+    <tag k="addr:housenumber" v="4760"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6257" visible="true" lon="-122.5645709297899" lat="48.81229803457659">
+    <tag k="addr:housenumber" v="4679"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6258" visible="true" lon="-122.5594806777922" lat="48.81234889206461">
+    <tag k="addr:housenumber" v="4732"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6259" visible="true" lon="-122.5618209818135" lat="48.81299545910409">
+    <tag k="addr:housenumber" v="4705"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6260" visible="true" lon="-122.5618293724222" lat="48.81347400229711">
+    <tag k="addr:housenumber" v="4709"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6261" visible="true" lon="-122.5613597756458" lat="48.81353342668178">
+    <tag k="addr:housenumber" v="4711"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6262" visible="true" lon="-122.5642236972655" lat="48.81370547711987">
+    <tag k="addr:housenumber" v="4681"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6263" visible="true" lon="-122.5619563460225" lat="48.81383865780450">
+    <tag k="addr:housenumber" v="4713"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6264" visible="true" lon="-122.5593933559600" lat="48.81416533811420">
+    <tag k="addr:housenumber" v="4739"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6265" visible="true" lon="-122.5560286924743" lat="48.81366985291272">
+    <tag k="addr:housenumber" v="4783"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6266" visible="true" lon="-122.5560443210908" lat="48.81454717655675">
+    <tag k="addr:housenumber" v="4793"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6267" visible="true" lon="-122.5579124778240" lat="48.80494974994172">
+    <tag k="addr:housenumber" v="1413"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6268" visible="true" lon="-122.5560194588574" lat="48.80623419634344">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6269" visible="true" lon="-122.5638357484046" lat="48.80737203789232">
+    <tag k="addr:housenumber" v="4565"/>
+    <tag k="addr:postcode" v="98226-9253"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6270" visible="true" lon="-122.5651131775843" lat="48.80739308044761">
+    <tag k="addr:housenumber" v="4616"/>
+    <tag k="addr:postcode" v="98226-9280"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6271" visible="true" lon="-122.5598158645699" lat="48.80330131706453">
+    <tag k="addr:housenumber" v="4420"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6272" visible="true" lon="-122.5600236238352" lat="48.79029792406593">
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:postcode" v="98225-8516"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6273" visible="true" lon="-122.5592198184894" lat="48.80504690131036">
+    <tag k="addr:housenumber" v="1449"/>
+    <tag k="addr:postcode" v="98226-9237"/>
+    <tag k="addr:street" v="Marietta Avenue"/>
+  </node>
+  <node id="-6274" visible="true" lon="-122.5580300100470" lat="48.81413727781700">
+    <tag k="addr:housenumber" v="4753"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6275" visible="true" lon="-122.5580844607581" lat="48.79038807126435">
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:postcode" v="98225-8516"/>
+    <tag k="addr:street" v="Country Lane"/>
+  </node>
+  <node id="-6276" visible="true" lon="-122.5567510025067" lat="48.81269141894764">
+    <tag k="addr:housenumber" v="4780"/>
+    <tag k="addr:postcode" v="98226-9228"/>
+    <tag k="addr:street" v="Rural Avenue"/>
+  </node>
+  <node id="-6277" visible="true" lon="-122.5615391251101" lat="48.79073311328331">
+    <tag k="addr:housenumber" v="4138"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Curtis Road"/>
+  </node>
+  <node id="-6278" visible="true" lon="-122.5951835349647" lat="48.80824886346248">
+    <tag k="addr:housenumber" v="4606"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Ferndale Road"/>
+  </node>
+  <node id="-6279" visible="true" lon="-122.5942581094641" lat="48.80324314668203">
+    <tag k="addr:housenumber" v="4407"/>
+    <tag k="addr:postcode" v="98248"/>
+    <tag k="addr:street" v="Ferndale Road"/>
+  </node>
+  <node id="-6280" visible="true" lon="-122.5906698535674" lat="48.78992756447598">
+    <tag k="addr:housenumber" v="541"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
 </osm>

@@ -10335,4 +10335,344 @@
     <tag k="addr:postcode" v="98225-3924"/>
     <tag k="addr:street" v="West Holly Street"/>
   </node>
+  <node id="-3400" visible="true" lon="-122.4888756669657" lat="48.75088337270228">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="C Street"/>
+  </node>
+  <node id="-3401" visible="true" lon="-122.4846482612670" lat="48.76091513092146">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98225-3236"/>
+    <tag k="addr:street" v="J Street"/>
+  </node>
+  <node id="-3402" visible="true" lon="-122.4838866064338" lat="48.76042257090764">
+    <tag k="addr:housenumber" v="2008"/>
+    <tag k="addr:postcode" v="98225-3233"/>
+    <tag k="addr:street" v="I Street"/>
+  </node>
+  <node id="-3403" visible="true" lon="-122.4846878293962" lat="48.75987307258232">
+    <tag k="addr:housenumber" v="1912"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="I Street"/>
+  </node>
+  <node id="-3404" visible="true" lon="-122.4845748994729" lat="48.75851676101735">
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ellsworth Street"/>
+  </node>
+  <node id="-3405" visible="true" lon="-122.4839878488264" lat="48.76033049019870">
+    <tag k="addr:housenumber" v="2006"/>
+    <tag k="addr:postcode" v="98225-3233"/>
+    <tag k="addr:street" v="I Street"/>
+  </node>
+  <node id="-3406" visible="true" lon="-122.4845165151943" lat="48.75592362156395">
+    <tag k="addr:housenumber" v="1512"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="E Street"/>
+  </node>
+  <node id="-3407" visible="true" lon="-122.4849892375452" lat="48.75623163830386">
+    <tag k="addr:housenumber" v="1513"/>
+    <tag k="addr:postcode" v="98225-3007"/>
+    <tag k="addr:street" v="E Street"/>
+  </node>
+  <node id="-3408" visible="true" lon="-122.4870279962277" lat="48.75627067447215">
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:postcode" v="98225-3000"/>
+    <tag k="addr:street" v="G Street"/>
+  </node>
+  <node id="-3409" visible="true" lon="-122.4856499831882" lat="48.75627736295772">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98225-3010"/>
+    <tag k="addr:street" v="F Street"/>
+  </node>
+  <node id="-3410" visible="true" lon="-122.4853579638987" lat="48.75637581726302">
+    <tag k="addr:housenumber" v="1508"/>
+    <tag k="addr:postcode" v="98225-3010"/>
+    <tag k="addr:street" v="F Street"/>
+  </node>
+  <node id="-3411" visible="true" lon="-122.4842422938295" lat="48.75685167452846">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Dupont Street"/>
+  </node>
+  <node id="-3412" visible="true" lon="-122.4876032863604" lat="48.75705423152980">
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:postcode" v="98225-3019"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3413" visible="true" lon="-122.4849161519798" lat="48.75728357403764">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Dupont Street"/>
+  </node>
+  <node id="-3414" visible="true" lon="-122.4853946873530" lat="48.75738611350337">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98225-3017"/>
+    <tag k="addr:street" v="G Street"/>
+  </node>
+  <node id="-3415" visible="true" lon="-122.4863164052893" lat="48.76082705568285">
+    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-3416" visible="true" lon="-122.4880740832398" lat="48.75924021112023">
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:postcode" v="98225-3117"/>
+    <tag k="addr:street" v="Dupont Street"/>
+  </node>
+  <node id="-3417" visible="true" lon="-122.4811230381491" lat="48.75781291645087">
+    <tag k="addr:housenumber" v="1915"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3418" visible="true" lon="-122.4802795236361" lat="48.75778318573587">
+    <tag k="addr:housenumber" v="710"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Girard Street"/>
+  </node>
+  <node id="-3419" visible="true" lon="-122.4877742429598" lat="48.75883870649602">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98225-3034"/>
+    <tag k="addr:street" v="J Street"/>
+  </node>
+  <node id="-3420" visible="true" lon="-122.4866161199137" lat="48.75829482525328">
+    <tag k="addr:housenumber" v="1205"/>
+    <tag k="addr:postcode" v="98225-3114"/>
+    <tag k="addr:street" v="Dupont Street"/>
+  </node>
+  <node id="-3421" visible="true" lon="-122.4862952387185" lat="48.75879422527801">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98225-3122"/>
+    <tag k="addr:street" v="I Street"/>
+  </node>
+  <node id="-3422" visible="true" lon="-122.4849530080181" lat="48.75930483411845">
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98225-3121"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3423" visible="true" lon="-122.4884270474564" lat="48.75404304551227">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-3424" visible="true" lon="-122.4882051187954" lat="48.75712156903371">
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:postcode" v="98225-3018"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3425" visible="true" lon="-122.4880598574547" lat="48.75721931291871">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98225-3018"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3426" visible="true" lon="-122.4878705323440" lat="48.75728807520311">
+    <tag k="addr:housenumber" v="1415"/>
+    <tag k="addr:postcode" v="98225-3018"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3427" visible="true" lon="-122.4879091807069" lat="48.75780353827676">
+    <tag k="addr:housenumber" v="1504"/>
+    <tag k="addr:postcode" v="98225-3026"/>
+    <tag k="addr:street" v="I Street"/>
+  </node>
+  <node id="-3428" visible="true" lon="-122.4888909561505" lat="48.75783045454740">
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:postcode" v="98225-3004"/>
+    <tag k="addr:street" v="Bancroft Street"/>
+  </node>
+  <node id="-3429" visible="true" lon="-122.4878245931656" lat="48.75784446119113">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98225-3026"/>
+    <tag k="addr:street" v="I Street"/>
+  </node>
+  <node id="-3430" visible="true" lon="-122.4887066972410" lat="48.75573884085115">
+    <tag k="addr:housenumber" v="1103"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3431" visible="true" lon="-122.4886178467253" lat="48.75568197902146">
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3432" visible="true" lon="-122.4884062438253" lat="48.75636046678543">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3433" visible="true" lon="-122.4882609864327" lat="48.75645821182866">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="H Street"/>
+  </node>
+  <node id="-3434" visible="true" lon="-122.4879657318992" lat="48.75626584396524">
+    <tag k="addr:housenumber" v="1107"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Astor Street"/>
+  </node>
+  <node id="-3435" visible="true" lon="-122.4898560587669" lat="48.75744041796583">
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Astor Street"/>
+  </node>
+  <node id="-3436" visible="true" lon="-122.4887088300301" lat="48.75717313333270">
+    <tag k="addr:housenumber" v="1208"/>
+    <tag k="addr:postcode" v="98225-2901"/>
+    <tag k="addr:street" v="Astor Street"/>
+  </node>
+  <node id="-3437" visible="true" lon="-122.4843664454563" lat="48.75311797013030">
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3438" visible="true" lon="-122.4855702060053" lat="48.75343605432636">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="C Street"/>
+  </node>
+  <node id="-3439" visible="true" lon="-122.4845762151303" lat="48.75355476064974">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225-3919"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3440" visible="true" lon="-122.4848622808975" lat="48.75364534321000">
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3441" visible="true" lon="-122.4849335123522" lat="48.75371117532158">
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3442" visible="true" lon="-122.4850320470372" lat="48.75376912478637">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3443" visible="true" lon="-122.4855205229787" lat="48.75412692935670">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225-3928"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3444" visible="true" lon="-122.4852495312411" lat="48.75504114418641">
+    <tag k="addr:housenumber" v="1407"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3445" visible="true" lon="-122.4850312031959" lat="48.75518707668881">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3446" visible="true" lon="-122.4856492449064" lat="48.75519698880591">
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="E Street"/>
+  </node>
+  <node id="-3447" visible="true" lon="-122.4849037769823" lat="48.75527222678502">
+    <tag k="addr:housenumber" v="1415"/>
+    <tag k="addr:postcode" v="98225-3904"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3448" visible="true" lon="-122.4852610377869" lat="48.75546788017969">
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="E Street"/>
+  </node>
+  <node id="-3449" visible="true" lon="-122.4845614776400" lat="48.75547644686188">
+    <tag k="addr:housenumber" v="1501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3450" visible="true" lon="-122.4876484938609" lat="48.75551594188961">
+    <tag k="addr:housenumber" v="1008"/>
+    <tag k="addr:postcode" v="98225-2931"/>
+    <tag k="addr:street" v="West Holly Street"/>
+  </node>
+  <node id="-3451" visible="true" lon="-122.4843962447448" lat="48.75558160936421">
+    <tag k="addr:housenumber" v="1507"/>
+    <tag k="addr:postcode" v="98225-3072"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3452" visible="true" lon="-122.4873389411645" lat="48.75560664820794">
+    <tag k="addr:housenumber" v="1309"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="F Street"/>
+  </node>
+  <node id="-3453" visible="true" lon="-122.4858170159737" lat="48.75567542305828">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="E Street"/>
+  </node>
+  <node id="-3454" visible="true" lon="-122.4842212868170" lat="48.75573151836794">
+    <tag k="addr:housenumber" v="1511"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="D Street"/>
+  </node>
+  <node id="-3455" visible="true" lon="-122.4872048094142" lat="48.75577455235901">
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="F Street"/>
+  </node>
+  <node id="-3456" visible="true" lon="-122.4812769534338" lat="48.75511395107747">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Dupont Street"/>
+  </node>
+  <node id="-3457" visible="true" lon="-122.4831731824114" lat="48.75537134441790">
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="C Street"/>
+  </node>
+  <node id="-3458" visible="true" lon="-122.4796100594469" lat="48.75586892762846">
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grand Avenue"/>
+  </node>
+  <node id="-3459" visible="true" lon="-122.4828559471346" lat="48.75693706909419">
+    <tag k="addr:housenumber" v="811"/>
+    <tag k="addr:postcode" v="98225-3106"/>
+    <tag k="addr:street" v="Ellsworth Street"/>
+  </node>
+  <node id="-3460" visible="true" lon="-122.4790641230223" lat="48.75728059071524">
+    <tag k="addr:housenumber" v="2009"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="B Street"/>
+  </node>
+  <node id="-3461" visible="true" lon="-122.4788450283622" lat="48.75737909350645">
+    <tag k="addr:housenumber" v="2015"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="B Street"/>
+  </node>
+  <node id="-3462" visible="true" lon="-122.4788834626300" lat="48.75687411362343">
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Girard Street"/>
+  </node>
+  <node id="-3463" visible="true" lon="-122.4783684166332" lat="48.75673088640726">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="A Street"/>
+  </node>
+  <node id="-3464" visible="true" lon="-122.4785276780358" lat="48.75711683211656">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="B Street"/>
+  </node>
+  <node id="-3465" visible="true" lon="-122.4750903486206" lat="48.75388607973773">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-3466" visible="true" lon="-122.4851654111764" lat="48.75258928621599">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-3467" visible="true" lon="-122.4876754107636" lat="48.75157101794869">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="C Street"/>
+  </node>
 </osm>

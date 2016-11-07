@@ -24471,4 +24471,154 @@
     <tag k="addr:postcode" v="98225-2339"/>
     <tag k="addr:street" v="Walnut Street"/>
   </node>
+  <node id="-7384" visible="true" lon="-122.4921567057861" lat="48.76693808812727">
+    <tag k="addr:housenumber" v="2803"/>
+    <tag k="addr:postcode" v="98225-2311"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-7385" visible="true" lon="-122.4737448416140" lat="48.76766946541179">
+    <tag k="addr:housenumber" v="2835"/>
+    <tag k="addr:postcode" v="98225-2518"/>
+    <tag k="addr:street" v="Lyle Street"/>
+  </node>
+  <node id="-7386" visible="true" lon="-122.4790286554953" lat="48.76727165869136">
+    <tag k="addr:housenumber" v="2721"/>
+    <tag k="addr:postcode" v="98225-2534"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-7387" visible="true" lon="-122.4880317060635" lat="48.76650415510180">
+    <tag k="addr:housenumber" v="2720"/>
+    <tag k="addr:postcode" v="98225-2327"/>
+    <tag k="addr:street" v="Elm Street"/>
+  </node>
+  <node id="-7388" visible="true" lon="-122.4833360117647" lat="48.76707032820490">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="98225-2425"/>
+    <tag k="addr:street" v="West Maryland Street"/>
+  </node>
+  <node id="-7389" visible="true" lon="-122.4834585551870" lat="48.76745951516514">
+    <tag k="addr:housenumber" v="2812"/>
+    <tag k="addr:postcode" v="98225-2457"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-7390" visible="true" lon="-122.4818252479538" lat="48.76786967324632">
+    <tag k="addr:housenumber" v="2827"/>
+    <tag k="addr:postcode" v="98225-2423"/>
+    <tag k="addr:street" v="Grove Street"/>
+  </node>
+  <node id="-7391" visible="true" lon="-122.4835194632731" lat="48.76788874635011">
+    <tag k="addr:housenumber" v="2826"/>
+    <tag k="addr:postcode" v="98225-2457"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-7392" visible="true" lon="-122.4912726560073" lat="48.76455505778417">
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:postcode" v="98225-2721"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-7393" visible="true" lon="-122.4912039146336" lat="48.76455465990419">
+    <tag k="addr:housenumber" v="1508"/>
+    <tag k="addr:postcode" v="98225-2721"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-7394" visible="true" lon="-122.4761886548850" lat="48.76458783088854">
+    <tag k="addr:housenumber" v="2650"/>
+    <tag k="addr:postcode" v="98225-2524"/>
+    <tag k="addr:street" v="South Park Drive"/>
+  </node>
+  <node id="-7395" visible="true" lon="-122.4775140055426" lat="48.76510041813369">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Park Drive"/>
+  </node>
+  <node id="-7396" visible="true" lon="-122.4750361076382" lat="48.76543777402727">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-7397" visible="true" lon="-122.4766836508423" lat="48.76612348105463">
+    <tag k="addr:housenumber" v="2762"/>
+    <tag k="addr:postcode" v="98225-2503"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-7398" visible="true" lon="-122.4744005050332" lat="48.76519260838882">
+    <tag k="addr:housenumber" v="2710"/>
+    <tag k="addr:postcode" v="98225-2520"/>
+    <tag k="addr:street" v="South Park Drive"/>
+  </node>
+  <node id="-7399" visible="true" lon="-122.4807858430479" lat="48.76668342456706">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98225-2528"/>
+    <tag k="addr:street" v="West Maryland Street"/>
+  </node>
+  <node id="-7400" visible="true" lon="-122.4803237024538" lat="48.76665322890735">
+    <tag k="addr:housenumber" v="2631"/>
+    <tag k="addr:postcode" v="98225-2532"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+  </node>
+  <node id="-7401" visible="true" lon="-122.4864233973037" lat="48.76484372662638">
+    <tag k="addr:housenumber" v="2613"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-7402" visible="true" lon="-122.4817451032108" lat="48.76549566704588">
+    <tag k="addr:housenumber" v="2627"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grove Street"/>
+  </node>
+  <node id="-7403" visible="true" lon="-122.4829855070772" lat="48.76600637383687">
+    <tag k="addr:housenumber" v="2711"/>
+    <tag k="addr:postcode" v="98225-2447"/>
+    <tag k="addr:street" v="Russell Street"/>
+  </node>
+  <node id="-7404" visible="true" lon="-122.4819309317681" lat="48.76550795862767">
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:postcode" v="98225-2415"/>
+    <tag k="addr:street" v="West Connecticut Street"/>
+  </node>
+  <node id="-7405" visible="true" lon="-122.4842623429648" lat="48.76546445370943">
+    <tag k="addr:housenumber" v="907"/>
+    <tag k="addr:postcode" v="98225-2418"/>
+    <tag k="addr:street" v="West Connecticut Street"/>
+  </node>
+  <node id="-7406" visible="true" lon="-122.4920401163242" lat="48.76497822094216">
+    <tag k="addr:housenumber" v="2619"/>
+    <tag k="addr:postcode" v="98225-2338"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-7407" visible="true" lon="-122.4898521917571" lat="48.76538028848389">
+    <tag k="addr:housenumber" v="2629"/>
+    <tag k="addr:postcode" v="98225-2322"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-7408" visible="true" lon="-122.4880333824230" lat="48.76609674402130">
+    <tag k="addr:housenumber" v="2708"/>
+    <tag k="addr:postcode" v="98225-2327"/>
+    <tag k="addr:street" v="Elm Street"/>
+  </node>
+  <node id="-7409" visible="true" lon="-122.4967133140607" lat="48.76511860198381">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Lynn Street"/>
+  </node>
+  <node id="-7410" visible="true" lon="-122.4961922624062" lat="48.76557253342673">
+    <tag k="addr:housenumber" v="2630"/>
+    <tag k="addr:postcode" v="98225-2215"/>
+    <tag k="addr:street" v="Henry Street"/>
+  </node>
+  <node id="-7411" visible="true" lon="-122.4946661645934" lat="48.76465086724752">
+    <tag k="addr:housenumber" v="1808"/>
+    <tag k="addr:postcode" v="98225-2232"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-7412" visible="true" lon="-122.4944277727715" lat="48.76546092678538">
+    <tag k="addr:housenumber" v="2631"/>
+    <tag k="addr:postcode" v="98225-2313"/>
+    <tag k="addr:street" v="Williams Street"/>
+  </node>
+  <node id="-7413" visible="true" lon="-122.4881991351288" lat="48.76455401743885">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:postcode" v="98225-2325"/>
+    <tag k="addr:street" v="Elm Street"/>
+  </node>
 </osm>

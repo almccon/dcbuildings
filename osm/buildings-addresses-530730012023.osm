@@ -7085,4 +7085,99 @@
     <tag k="addr:postcode" v="98225-8279"/>
     <tag k="addr:street" v="28th Street"/>
   </node>
+  <node id="-2635" visible="true" lon="-122.4745968515794" lat="48.71400070446727">
+    <tag k="addr:housenumber" v="3250"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-2636" visible="true" lon="-122.4807547487726" lat="48.70916533000325">
+    <tag k="addr:housenumber" v="2804"/>
+    <tag k="addr:postcode" v="98225-8354"/>
+    <tag k="addr:street" v="Willis Street"/>
+  </node>
+  <node id="-2637" visible="true" lon="-122.4848102171725" lat="48.70963801043646">
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Willis Street"/>
+  </node>
+  <node id="-2638" visible="true" lon="-122.4779654236627" lat="48.71027735706089">
+    <tag k="addr:housenumber" v="2301"/>
+    <tag k="addr:postcode" v="98225-8211"/>
+    <tag k="addr:street" v="30th Street"/>
+  </node>
+  <node id="-2639" visible="true" lon="-122.4796567821982" lat="48.71178635464199">
+    <tag k="addr:housenumber" v="2908"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cody Avenue"/>
+  </node>
+  <node id="-2640" visible="true" lon="-122.4791808933513" lat="48.71216028247758">
+    <tag k="addr:housenumber" v="2909"/>
+    <tag k="addr:postcode" v="98225-8219"/>
+    <tag k="addr:street" v="Cody Avenue"/>
+  </node>
+  <node id="-2641" visible="true" lon="-122.4786609613572" lat="48.71255012761954">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="30th Street"/>
+  </node>
+  <node id="-2642" visible="true" lon="-122.4797522830113" lat="48.71265143510162">
+    <tag k="addr:housenumber" v="2902"/>
+    <tag k="addr:postcode" v="98225-8226"/>
+    <tag k="addr:street" v="Connelly Avenue"/>
+  </node>
+  <node id="-2643" visible="true" lon="-122.4777452624493" lat="48.71343732030697">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98225-8202"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-2644" visible="true" lon="-122.4758047372601" lat="48.71343992609850">
+    <tag k="addr:housenumber" v="3120"/>
+    <tag k="addr:postcode" v="98225-8240"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-2645" visible="true" lon="-122.4800957388401" lat="48.71257446178889">
+    <tag k="addr:housenumber" v="2808"/>
+    <tag k="addr:postcode" v="98225-8224"/>
+    <tag k="addr:street" v="Connelly Avenue"/>
+  </node>
+  <node id="-2646" visible="true" lon="-122.4787728781303" lat="48.71101758127771">
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:postcode" v="98225-8204"/>
+    <tag k="addr:street" v="30th Street"/>
+  </node>
+  <node id="-2647" visible="true" lon="-122.4758951922910" lat="48.71310023914900">
+    <tag k="addr:housenumber" v="3118"/>
+    <tag k="addr:postcode" v="98225-8240"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-2648" visible="true" lon="-122.4762161276533" lat="48.71308285347774">
+    <tag k="addr:housenumber" v="3114"/>
+    <tag k="addr:postcode" v="98225-8240"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-2649" visible="true" lon="-122.4766711258491" lat="48.71308727105681">
+    <tag k="addr:housenumber" v="3112"/>
+    <tag k="addr:postcode" v="98225-8240"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-2650" visible="true" lon="-122.4816916169890" lat="48.71327934929818">
+    <tag k="addr:housenumber" v="2707"/>
+    <tag k="addr:postcode" v="98225-8225"/>
+    <tag k="addr:street" v="Connelly Avenue"/>
+  </node>
+  <node id="-2651" visible="true" lon="-122.4829951769211" lat="48.70451650762224">
+    <tag k="addr:housenumber" v="3007"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="26th Street"/>
+  </node>
+  <node id="-2652" visible="true" lon="-122.4785995981708" lat="48.70708004563839">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98225-8332"/>
+    <tag k="addr:street" v="30th Street"/>
+  </node>
+  <node id="-2653" visible="true" lon="-122.4779681620035" lat="48.70761536036678">
+    <tag k="addr:housenumber" v="2711"/>
+    <tag k="addr:postcode" v="98225-8331"/>
+    <tag k="addr:street" v="30th Street"/>
+  </node>
 </osm>

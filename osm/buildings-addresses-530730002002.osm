@@ -8645,7 +8645,7 @@
     <nd ref="-2853"/>
     <nd ref="-2827"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Alderwood Es"/>
+    <tag k="name" v="Alderwood Elementary School"/>
     <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="3400"/>
     <tag k="addr:postcode" v="98225-1134"/>
@@ -17686,5 +17686,705 @@
     <tag k="addr:housenumber" v="4121"/>
     <tag k="addr:postcode" v="98226-9104"/>
     <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5853" visible="true" lon="-122.5205711847528" lat="48.77003571544466">
+    <tag k="addr:housenumber" v="3007"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5854" visible="true" lon="-122.5205490243914" lat="48.77026476977444">
+    <tag k="addr:housenumber" v="3011"/>
+    <tag k="addr:postcode" v="98225-1439"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5855" visible="true" lon="-122.5205012895815" lat="48.77065119330829">
+    <tag k="addr:housenumber" v="3017"/>
+    <tag k="addr:postcode" v="98225-1439"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5856" visible="true" lon="-122.5233191745899" lat="48.77534372796774">
+    <tag k="addr:housenumber" v="3328"/>
+    <tag k="addr:postcode" v="98225-8464"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5857" visible="true" lon="-122.5216570958159" lat="48.77500378787771">
+    <tag k="addr:housenumber" v="3311"/>
+    <tag k="addr:postcode" v="98225-8437"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5858" visible="true" lon="-122.5213726310772" lat="48.77111202199188">
+    <tag k="addr:housenumber" v="3319"/>
+    <tag k="addr:postcode" v="98225-1459"/>
+    <tag k="addr:street" v="Marigold Lane"/>
+  </node>
+  <node id="-5859" visible="true" lon="-122.5213470773512" lat="48.77499320522102">
+    <tag k="addr:housenumber" v="3309"/>
+    <tag k="addr:postcode" v="98225-8437"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5860" visible="true" lon="-122.5212369016946" lat="48.77338342105793">
+    <tag k="addr:housenumber" v="752"/>
+    <tag k="addr:postcode" v="98225-1576"/>
+    <tag k="addr:street" v="West 32nd Terrace"/>
+  </node>
+  <node id="-5861" visible="true" lon="-122.5210355867164" lat="48.77490376975380">
+    <tag k="addr:housenumber" v="3307"/>
+    <tag k="addr:postcode" v="98225-8437"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5862" visible="true" lon="-122.5208811405485" lat="48.77374936215431">
+    <tag k="addr:housenumber" v="3215"/>
+    <tag k="addr:postcode" v="98225-1113"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5863" visible="true" lon="-122.5208763069281" lat="48.77296618062417">
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:postcode" v="98225-1580"/>
+    <tag k="addr:street" v="West 32nd Lane"/>
+  </node>
+  <node id="-5864" visible="true" lon="-122.5208729993771" lat="48.77420402440372">
+    <tag k="addr:housenumber" v="3221"/>
+    <tag k="addr:postcode" v="98225-1113"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5865" visible="true" lon="-122.5207970637174" lat="48.77490311517730">
+    <tag k="addr:housenumber" v="3305"/>
+    <tag k="addr:postcode" v="98225-8437"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5866" visible="true" lon="-122.5207189513826" lat="48.77466162272460">
+    <tag k="addr:housenumber" v="3229"/>
+    <tag k="addr:postcode" v="98225-1113"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5867" visible="true" lon="-122.5206733099340" lat="48.77449861565436">
+    <tag k="addr:housenumber" v="3225"/>
+    <tag k="addr:postcode" v="98225-1113"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5868" visible="true" lon="-122.5212804849555" lat="48.77295949777046">
+    <tag k="addr:housenumber" v="1629"/>
+    <tag k="addr:postcode" v="98225-1580"/>
+    <tag k="addr:street" v="West 32nd Lane"/>
+  </node>
+  <node id="-5869" visible="true" lon="-122.5253084663668" lat="48.77229245776707">
+    <tag k="addr:housenumber" v="3115"/>
+    <tag k="addr:postcode" v="98225-8446"/>
+    <tag k="addr:street" v="Mercer Avenue"/>
+  </node>
+  <node id="-5870" visible="true" lon="-122.5244472429475" lat="48.77302842956720">
+    <tag k="addr:housenumber" v="3145"/>
+    <tag k="addr:postcode" v="98225-8446"/>
+    <tag k="addr:street" v="Mercer Avenue"/>
+  </node>
+  <node id="-5871" visible="true" lon="-122.5247633728577" lat="48.77279061706432">
+    <tag k="addr:housenumber" v="3131"/>
+    <tag k="addr:postcode" v="98225-8446"/>
+    <tag k="addr:street" v="Mercer Avenue"/>
+  </node>
+  <node id="-5872" visible="true" lon="-122.5204160527360" lat="48.77712158836668">
+    <tag k="addr:housenumber" v="3305"/>
+    <tag k="addr:postcode" v="98225-1115"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5873" visible="true" lon="-122.5208166197256" lat="48.77731755909433">
+    <tag k="addr:housenumber" v="3303"/>
+    <tag k="addr:postcode" v="98225-1141"/>
+    <tag k="addr:street" v="Silver Lane"/>
+  </node>
+  <node id="-5874" visible="true" lon="-122.5204604985840" lat="48.77623570923445">
+    <tag k="addr:housenumber" v="3275"/>
+    <tag k="addr:postcode" v="98225-1113"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5875" visible="true" lon="-122.5235216485727" lat="48.79072405410779">
+    <tag k="addr:housenumber" v="1680"/>
+    <tag k="addr:postcode" v="98226-9181"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5876" visible="true" lon="-122.5224358657053" lat="48.79061315063978">
+    <tag k="addr:housenumber" v="4141"/>
+    <tag k="addr:postcode" v="98226-9112"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-5877" visible="true" lon="-122.5220991551468" lat="48.79019447193281">
+    <tag k="addr:housenumber" v="4133"/>
+    <tag k="addr:postcode" v="98226-9112"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-5878" visible="true" lon="-122.5204115684657" lat="48.78704694352950">
+    <tag k="addr:housenumber" v="3909"/>
+    <tag k="addr:postcode" v="98225-1027"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5879" visible="true" lon="-122.5201858502523" lat="48.78377473329003">
+    <tag k="addr:housenumber" v="3615"/>
+    <tag k="addr:postcode" v="98225-1075"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5880" visible="true" lon="-122.5196629647381" lat="48.78452032074694">
+    <tag k="addr:housenumber" v="3701"/>
+    <tag k="addr:postcode" v="98225-1023"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5881" visible="true" lon="-122.5192862623040" lat="48.78664677620946">
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:postcode" v="98225-1028"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5882" visible="true" lon="-122.5191334987287" lat="48.78455485488150">
+    <tag k="addr:housenumber" v="3703"/>
+    <tag k="addr:postcode" v="98225-1023"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5883" visible="true" lon="-122.5216783294329" lat="48.78992889058338">
+    <tag k="addr:housenumber" v="1650"/>
+    <tag k="addr:postcode" v="98226-9181"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5884" visible="true" lon="-122.5241773474740" lat="48.78024855145183">
+    <tag k="addr:housenumber" v="3475"/>
+    <tag k="addr:postcode" v="98225-1143"/>
+    <tag k="addr:street" v="Willowwood Avenue"/>
+  </node>
+  <node id="-5885" visible="true" lon="-122.5233310694258" lat="48.77795111168276">
+    <tag k="addr:housenumber" v="3337"/>
+    <tag k="addr:postcode" v="98225-1137"/>
+    <tag k="addr:street" v="Redwood Avenue"/>
+  </node>
+  <node id="-5886" visible="true" lon="-122.5222669333312" lat="48.78075686689585">
+    <tag k="addr:housenumber" v="3340"/>
+    <tag k="addr:postcode" v="98225-1149"/>
+    <tag k="addr:street" v="Cherrywood Avenue"/>
+  </node>
+  <node id="-5887" visible="true" lon="-122.5229325471321" lat="48.77920291476313">
+    <tag k="addr:housenumber" v="3328"/>
+    <tag k="addr:postcode" v="98225-1102"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5888" visible="true" lon="-122.5232660727200" lat="48.77914077668921">
+    <tag k="addr:housenumber" v="3334"/>
+    <tag k="addr:postcode" v="98225-1102"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5889" visible="true" lon="-122.5208190692818" lat="48.78004149125811">
+    <tag k="addr:housenumber" v="3425"/>
+    <tag k="addr:postcode" v="98225-1117"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5890" visible="true" lon="-122.5204380906603" lat="48.78068660633208">
+    <tag k="addr:housenumber" v="3501"/>
+    <tag k="addr:postcode" v="98225-1119"/>
+    <tag k="addr:street" v="Bennett Drive"/>
+  </node>
+  <node id="-5891" visible="true" lon="-122.5197576883722" lat="48.78201605361367">
+    <tag k="addr:housenumber" v="3241"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-5892" visible="true" lon="-122.5324099746334" lat="48.79709317565802">
+    <tag k="addr:housenumber" v="4279"/>
+    <tag k="addr:postcode" v="98226-9148"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5893" visible="true" lon="-122.5307079464667" lat="48.79802919888202">
+    <tag k="addr:housenumber" v="4330"/>
+    <tag k="addr:postcode" v="98226-9175"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5894" visible="true" lon="-122.5308043405152" lat="48.79565605760918">
+    <tag k="addr:housenumber" v="4275"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5895" visible="true" lon="-122.5346778774240" lat="48.79908788569011">
+    <tag k="addr:housenumber" v="4375"/>
+    <tag k="addr:postcode" v="98225-9175"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5896" visible="true" lon="-122.5336960637453" lat="48.79109188902168">
+    <tag k="addr:housenumber" v="2046"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5897" visible="true" lon="-122.5320758611121" lat="48.79468223590833">
+    <tag k="addr:housenumber" v="4241"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5898" visible="true" lon="-122.5320363600231" lat="48.79429488891306">
+    <tag k="addr:housenumber" v="4229"/>
+    <tag k="addr:postcode" v="98226-9148"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5899" visible="true" lon="-122.5304119880065" lat="48.79332942113179">
+    <tag k="addr:housenumber" v="4190"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mitchell Way"/>
+  </node>
+  <node id="-5900" visible="true" lon="-122.5275426267896" lat="48.78390204555786">
+    <tag k="addr:housenumber" v="3505"/>
+    <tag k="addr:postcode" v="98226-9119"/>
+    <tag k="addr:street" v="Airport Drive"/>
+  </node>
+  <node id="-5901" visible="true" lon="-122.5267686471677" lat="48.78276049819270">
+    <tag k="addr:housenumber" v="3444"/>
+    <tag k="addr:postcode" v="98225-8924"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-5902" visible="true" lon="-122.5267676135217" lat="48.78296612723127">
+    <tag k="addr:housenumber" v="3446"/>
+    <tag k="addr:postcode" v="98225-8924"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-5903" visible="true" lon="-122.5266788835832" lat="48.78746772140880">
+    <tag k="addr:housenumber" v="3920"/>
+    <tag k="addr:postcode" v="98226-9159"/>
+    <tag k="addr:street" v="Airport Way"/>
+  </node>
+  <node id="-5904" visible="true" lon="-122.5260234404641" lat="48.78336706525342">
+    <tag k="addr:housenumber" v="3428"/>
+    <tag k="addr:postcode" v="98225-8930"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-5905" visible="true" lon="-122.5249478846706" lat="48.78681369623013">
+    <tag k="addr:housenumber" v="3436"/>
+    <tag k="addr:postcode" v="98226-8068"/>
+    <tag k="addr:street" v="Airport Drive"/>
+  </node>
+  <node id="-5906" visible="true" lon="-122.5249367165653" lat="48.78334804113132">
+    <tag k="addr:housenumber" v="3420"/>
+    <tag k="addr:postcode" v="98225-8943"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-5907" visible="true" lon="-122.5249288220312" lat="48.78857264914836">
+    <tag k="addr:housenumber" v="1757"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5908" visible="true" lon="-122.5248001522116" lat="48.79166392046709">
+    <tag k="addr:housenumber" v="4179"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-5909" visible="true" lon="-122.5238793154408" lat="48.78846337965408">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5910" visible="true" lon="-122.5238746564261" lat="48.78865019038647">
+    <tag k="addr:housenumber" v="1695"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5911" visible="true" lon="-122.5238028453903" lat="48.79013411310589">
+    <tag k="addr:housenumber" v="1688"/>
+    <tag k="addr:postcode" v="98226-9181"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5912" visible="true" lon="-122.5337372297479" lat="48.78991600232067">
+    <tag k="addr:housenumber" v="2004"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5913" visible="true" lon="-122.5326159947209" lat="48.78880064986151">
+    <tag k="addr:housenumber" v="4063"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Williamson Way"/>
+  </node>
+  <node id="-5914" visible="true" lon="-122.5262236345665" lat="48.78473031177362">
+    <tag k="addr:housenumber" v="3465"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Airport Drive"/>
+  </node>
+  <node id="-5915" visible="true" lon="-122.5306326490966" lat="48.78586206463179">
+    <tag k="addr:housenumber" v="3910"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Williamson Way"/>
+  </node>
+  <node id="-5916" visible="true" lon="-122.5294841800508" lat="48.78919771480902">
+    <tag k="addr:housenumber" v="1881"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5917" visible="true" lon="-122.5327444462708" lat="48.78938964549325">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:postcode" v="98226-9133"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5918" visible="true" lon="-122.5341269249911" lat="48.77797511225730">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98225-8424"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5919" visible="true" lon="-122.5315441898554" lat="48.78030691887535">
+    <tag k="addr:housenumber" v="3621"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5920" visible="true" lon="-122.5292225963566" lat="48.78161940216763">
+    <tag k="addr:housenumber" v="3510"/>
+    <tag k="addr:postcode" v="98225-1106"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5921" visible="true" lon="-122.5288516087936" lat="48.78095642335643">
+    <tag k="addr:housenumber" v="3508"/>
+    <tag k="addr:postcode" v="98225-1167"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5922" visible="true" lon="-122.5282203781826" lat="48.78209347402854">
+    <tag k="addr:housenumber" v="3425"/>
+    <tag k="addr:postcode" v="98225-1133"/>
+    <tag k="addr:street" v="Hollywood Avenue"/>
+  </node>
+  <node id="-5923" visible="true" lon="-122.5282181605627" lat="48.78157892357251">
+    <tag k="addr:housenumber" v="3417"/>
+    <tag k="addr:postcode" v="98225-1133"/>
+    <tag k="addr:street" v="Hollywood Avenue"/>
+  </node>
+  <node id="-5924" visible="true" lon="-122.5272978211423" lat="48.77984131141417">
+    <tag k="addr:housenumber" v="3372"/>
+    <tag k="addr:postcode" v="98225-1132"/>
+    <tag k="addr:street" v="Hollywood Avenue"/>
+  </node>
+  <node id="-5925" visible="true" lon="-122.5259371238167" lat="48.77941560473328">
+    <tag k="addr:housenumber" v="3427"/>
+    <tag k="addr:postcode" v="98225-1172"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5926" visible="true" lon="-122.5253635148694" lat="48.78095178911189">
+    <tag k="addr:housenumber" v="3300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Redwood Avenue"/>
+  </node>
+  <node id="-5927" visible="true" lon="-122.5320593521317" lat="48.78030516093798">
+    <tag k="addr:housenumber" v="3619"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-5928" visible="true" lon="-122.5303888788861" lat="48.77936203994221">
+    <tag k="addr:housenumber" v="3607"/>
+    <tag k="addr:postcode" v="98225-8467"/>
+    <tag k="addr:street" v="Boxwood Avenue"/>
+  </node>
+  <node id="-5929" visible="true" lon="-122.5270087324492" lat="48.78210946046715">
+    <tag k="addr:housenumber" v="3449"/>
+    <tag k="addr:postcode" v="98225-8923"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-5930" visible="true" lon="-122.5282192112382" lat="48.78179713358723">
+    <tag k="addr:housenumber" v="3421"/>
+    <tag k="addr:postcode" v="98225-1133"/>
+    <tag k="addr:street" v="Hollywood Avenue"/>
+  </node>
+  <node id="-5931" visible="true" lon="-122.5291592526357" lat="48.77798066661568">
+    <tag k="addr:housenumber" v="3328"/>
+    <tag k="addr:postcode" v="98225-8401"/>
+    <tag k="addr:street" v="Boxwood Avenue"/>
+  </node>
+  <node id="-5932" visible="true" lon="-122.5343053760766" lat="48.77621655802138">
+    <tag k="addr:housenumber" v="983"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5933" visible="true" lon="-122.5339275244498" lat="48.77682521352238">
+    <tag k="addr:housenumber" v="986"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5934" visible="true" lon="-122.5335106772237" lat="48.77575909135962">
+    <tag k="addr:housenumber" v="963"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5935" visible="true" lon="-122.5328338353971" lat="48.77656895104541">
+    <tag k="addr:housenumber" v="968"/>
+    <tag k="addr:postcode" v="98225-8422"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5936" visible="true" lon="-122.5273824874683" lat="48.77625636547420">
+    <tag k="addr:housenumber" v="3455"/>
+    <tag k="addr:postcode" v="98225-1139"/>
+    <tag k="addr:street" v="Redwood Avenue"/>
+  </node>
+  <node id="-5937" visible="true" lon="-122.5267179130100" lat="48.77650344943698">
+    <tag k="addr:housenumber" v="3445"/>
+    <tag k="addr:postcode" v="98225-1139"/>
+    <tag k="addr:street" v="Redwood Avenue"/>
+  </node>
+  <node id="-5938" visible="true" lon="-122.5257757500255" lat="48.77585068680878">
+    <tag k="addr:housenumber" v="3436"/>
+    <tag k="addr:postcode" v="98225-8410"/>
+    <tag k="addr:street" v="Cottonwood Avenue"/>
+  </node>
+  <node id="-5939" visible="true" lon="-122.5249608425329" lat="48.77725220641085">
+    <tag k="addr:housenumber" v="3421"/>
+    <tag k="addr:postcode" v="98225-1139"/>
+    <tag k="addr:street" v="Redwood Avenue"/>
+  </node>
+  <node id="-5940" visible="true" lon="-122.5216283674911" lat="48.77731675626026">
+    <tag k="addr:housenumber" v="3309"/>
+    <tag k="addr:postcode" v="98225-1141"/>
+    <tag k="addr:street" v="Silver Lane"/>
+  </node>
+  <node id="-5941" visible="true" lon="-122.5224038153846" lat="48.77744697049437">
+    <tag k="addr:housenumber" v="3326"/>
+    <tag k="addr:postcode" v="98225-8414"/>
+    <tag k="addr:street" v="Granada Way"/>
+  </node>
+  <node id="-5942" visible="true" lon="-122.5325489253438" lat="48.77506856051240">
+    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:postcode" v="98225-8421"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5943" visible="true" lon="-122.5316598885786" lat="48.77466674110340">
+    <tag k="addr:housenumber" v="925"/>
+    <tag k="addr:postcode" v="98225-8421"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5944" visible="true" lon="-122.5312249679952" lat="48.77167824091910">
+    <tag k="addr:housenumber" v="3161"/>
+    <tag k="addr:postcode" v="98225-8417"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5945" visible="true" lon="-122.5305537263460" lat="48.77090285576880">
+    <tag k="addr:housenumber" v="3151"/>
+    <tag k="addr:postcode" v="98225-8417"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5946" visible="true" lon="-122.5305337923956" lat="48.77481722398809">
+    <tag k="addr:housenumber" v="3610"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5947" visible="true" lon="-122.5298152280425" lat="48.77257443812692">
+    <tag k="addr:housenumber" v="3195"/>
+    <tag k="addr:postcode" v="98225-8417"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5948" visible="true" lon="-122.5297095769331" lat="48.77431876605694">
+    <tag k="addr:housenumber" v="904"/>
+    <tag k="addr:postcode" v="98225-8422"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5949" visible="true" lon="-122.5294847845758" lat="48.77236678547263">
+    <tag k="addr:housenumber" v="3191"/>
+    <tag k="addr:postcode" v="98225-8417"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5950" visible="true" lon="-122.5291450773879" lat="48.77275800219721">
+    <tag k="addr:housenumber" v="3199"/>
+    <tag k="addr:postcode" v="98225-8417"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5951" visible="true" lon="-122.5290858004181" lat="48.77322576060454">
+    <tag k="addr:housenumber" v="877"/>
+    <tag k="addr:postcode" v="98225-8419"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5952" visible="true" lon="-122.5284040928957" lat="48.77385335466672">
+    <tag k="addr:housenumber" v="878"/>
+    <tag k="addr:postcode" v="98225-8420"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5953" visible="true" lon="-122.5282924307379" lat="48.77493349621831">
+    <tag k="addr:housenumber" v="3503"/>
+    <tag k="addr:postcode" v="98225-8441"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5954" visible="true" lon="-122.5282085281123" lat="48.77168162478807">
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5955" visible="true" lon="-122.5274730093638" lat="48.77457833396046">
+    <tag k="addr:housenumber" v="3229"/>
+    <tag k="addr:postcode" v="98225-8456"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5956" visible="true" lon="-122.5273840968969" lat="48.77495987659753">
+    <tag k="addr:housenumber" v="3495"/>
+    <tag k="addr:postcode" v="98225-8439"/>
+    <tag k="addr:street" v="Mcalpine Road"/>
+  </node>
+  <node id="-5957" visible="true" lon="-122.5272255184785" lat="48.77286382215454">
+    <tag k="addr:housenumber" v="856"/>
+    <tag k="addr:postcode" v="98225-8420"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5958" visible="true" lon="-122.5267987209968" lat="48.77479458055285">
+    <tag k="addr:housenumber" v="3243"/>
+    <tag k="addr:postcode" v="98225-8456"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5959" visible="true" lon="-122.5260488607386" lat="48.77498368565234">
+    <tag k="addr:housenumber" v="3250"/>
+    <tag k="addr:postcode" v="98225-8455"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5960" visible="true" lon="-122.5272081347481" lat="48.77544275195321">
+    <tag k="addr:housenumber" v="3242"/>
+    <tag k="addr:postcode" v="98225-1130"/>
+    <tag k="addr:street" v="Hollywood Avenue"/>
+  </node>
+  <node id="-5961" visible="true" lon="-122.5320697025239" lat="48.77230381923690">
+    <tag k="addr:housenumber" v="3100"/>
+    <tag k="addr:postcode" v="98225-8417"/>
+    <tag k="addr:street" v="Locust Road"/>
+  </node>
+  <node id="-5962" visible="true" lon="-122.5431315236045" lat="48.77864895272089">
+    <tag k="addr:housenumber" v="3897"/>
+    <tag k="addr:postcode" v="98225-8403"/>
+    <tag k="addr:street" v="Cliffside Drive"/>
+  </node>
+  <node id="-5963" visible="true" lon="-122.5417905278678" lat="48.77883751698475">
+    <tag k="addr:housenumber" v="3884"/>
+    <tag k="addr:postcode" v="98225-8404"/>
+    <tag k="addr:street" v="Cliffside Drive"/>
+  </node>
+  <node id="-5964" visible="true" lon="-122.5404819014964" lat="48.77965696508647">
+    <tag k="addr:housenumber" v="1095"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5965" visible="true" lon="-122.5420204863795" lat="48.78028633029550">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5966" visible="true" lon="-122.5430089279068" lat="48.78092485179816">
+    <tag k="addr:housenumber" v="1145"/>
+    <tag k="addr:postcode" v="98225-8425"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5967" visible="true" lon="-122.5440558386912" lat="48.78094538805139">
+    <tag k="addr:housenumber" v="1153"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Marine Drive"/>
+  </node>
+  <node id="-5968" visible="true" lon="-122.5434821159059" lat="48.78104401245704">
+    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:postcode" v="98225-8447"/>
+    <tag k="addr:street" v="Old Marine Drive"/>
+  </node>
+  <node id="-5969" visible="true" lon="-122.5423503980338" lat="48.78315351157256">
+    <tag k="addr:housenumber" v="1142"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5970" visible="true" lon="-122.5431342219841" lat="48.77918570423621">
+    <tag k="addr:housenumber" v="3898"/>
+    <tag k="addr:postcode" v="98225-8404"/>
+    <tag k="addr:street" v="Cliffside Drive"/>
+  </node>
+  <node id="-5971" visible="true" lon="-122.5426234848087" lat="48.77733428589109">
+    <tag k="addr:housenumber" v="3901"/>
+    <tag k="addr:postcode" v="98225-8405"/>
+    <tag k="addr:street" v="Cliffside Drive"/>
+  </node>
+  <node id="-5972" visible="true" lon="-122.5390562302428" lat="48.77712440180704">
+    <tag k="addr:housenumber" v="3851"/>
+    <tag k="addr:postcode" v="98225-8403"/>
+    <tag k="addr:street" v="Cliffside Drive"/>
+  </node>
+  <node id="-5973" visible="true" lon="-122.5360103426411" lat="48.77721203092823">
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:postcode" v="98225-8423"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5974" visible="true" lon="-122.5390016649127" lat="48.77851515607140">
+    <tag k="addr:housenumber" v="1055"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5975" visible="true" lon="-122.5343172935037" lat="48.79129502600442">
+    <tag k="addr:housenumber" v="2051"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-5976" visible="true" lon="-122.5452841509060" lat="48.77811068353131">
+    <tag k="addr:housenumber" v="3935"/>
+    <tag k="addr:postcode" v="98225-8405"/>
+    <tag k="addr:street" v="West Cliffside Drive"/>
+  </node>
+  <node id="-5977" visible="true" lon="-122.5477981976689" lat="48.77900650593887">
+    <tag k="addr:housenumber" v="3805"/>
+    <tag k="addr:postcode" v="98225-8427"/>
+    <tag k="addr:street" v="Marine Way"/>
+  </node>
+  <node id="-5978" visible="true" lon="-122.5477745947268" lat="48.77980170781405">
+    <tag k="addr:housenumber" v="3830"/>
+    <tag k="addr:postcode" v="98225-8427"/>
+    <tag k="addr:street" v="Marine Way"/>
+  </node>
+  <node id="-5979" visible="true" lon="-122.5455877890777" lat="48.77982296545564">
+    <tag k="addr:housenumber" v="3910"/>
+    <tag k="addr:postcode" v="98225-8406"/>
+    <tag k="addr:street" v="Cliffside Drive"/>
+  </node>
+  <node id="-5980" visible="true" lon="-122.5477225190958" lat="48.78060684848725">
+    <tag k="addr:housenumber" v="3848"/>
+    <tag k="addr:postcode" v="98225-8427"/>
+    <tag k="addr:street" v="Marine Way"/>
+  </node>
+  <node id="-5981" visible="true" lon="-122.5477131504294" lat="48.78139708035219">
+    <tag k="addr:housenumber" v="3866"/>
+    <tag k="addr:postcode" v="98225-8427"/>
+    <tag k="addr:street" v="Marine Way"/>
+  </node>
+  <node id="-5982" visible="true" lon="-122.5472734444100" lat="48.78220440501894">
+    <tag k="addr:housenumber" v="1209"/>
+    <tag k="addr:postcode" v="98225-8449"/>
+    <tag k="addr:street" v="Old Marine Drive"/>
+  </node>
+  <node id="-5983" visible="true" lon="-122.5456194367183" lat="48.78229042640229">
+    <tag k="addr:housenumber" v="1182"/>
+    <tag k="addr:postcode" v="98225-8448"/>
+    <tag k="addr:street" v="Old Marine Drive"/>
+  </node>
+  <node id="-5984" visible="true" lon="-122.5454138374538" lat="48.78291138984888">
+    <tag k="addr:housenumber" v="1188"/>
+    <tag k="addr:postcode" v="98225-8426"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5985" visible="true" lon="-122.5484309618427" lat="48.78435947501610">
+    <tag k="addr:housenumber" v="1238"/>
+    <tag k="addr:postcode" v="98225-8428"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-5986" visible="true" lon="-122.5503312174440" lat="48.78917711919490">
+    <tag k="addr:housenumber" v="4090"/>
+    <tag k="addr:postcode" v="98225-8556"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-5987" visible="true" lon="-122.5503363414904" lat="48.78832141399194">
+    <tag k="addr:housenumber" v="4072"/>
+    <tag k="addr:postcode" v="98225-8556"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-5988" visible="true" lon="-122.5503371964311" lat="48.78764643756562">
+    <tag k="addr:housenumber" v="4036"/>
+    <tag k="addr:postcode" v="98225-8556"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-5989" visible="true" lon="-122.5503375939315" lat="48.78673679230234">
+    <tag k="addr:housenumber" v="4016"/>
+    <tag k="addr:postcode" v="98225-8556"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-5990" visible="true" lon="-122.5503376102559" lat="48.78633186877317">
+    <tag k="addr:housenumber" v="4012"/>
+    <tag k="addr:postcode" v="98225-8556"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-5991" visible="true" lon="-122.5507758284920" lat="48.78390627950852">
+    <tag k="addr:housenumber" v="3932"/>
+    <tag k="addr:postcode" v="98225-8554"/>
+    <tag k="addr:street" v="Wynn Road"/>
+  </node>
+  <node id="-5992" visible="true" lon="-122.5493452055272" lat="48.77902085183226">
+    <tag k="addr:housenumber" v="1259"/>
+    <tag k="addr:postcode" v="98225-8427"/>
+    <tag k="addr:street" v="Marine Drive"/>
   </node>
 </osm>

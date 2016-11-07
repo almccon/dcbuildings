@@ -2629,4 +2629,1804 @@
     <tag k="addr:postcode" v="98229"/>
     <tag k="addr:street" v="Chuckanut Drive"/>
   </node>
+  <node id="-944" visible="true" lon="-122.4946393978177" lat="48.66543518717339">
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-945" visible="true" lon="-122.4955360877631" lat="48.66591258047746">
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-946" visible="true" lon="-122.4965944392638" lat="48.66626347270619">
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-947" visible="true" lon="-122.4954309195151" lat="48.66636692045412">
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-948" visible="true" lon="-122.4957164168910" lat="48.66647294791363">
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-949" visible="true" lon="-122.4949699075931" lat="48.66652495495402">
+    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-950" visible="true" lon="-122.4960956765175" lat="48.66660251208452">
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-951" visible="true" lon="-122.4977085626876" lat="48.66661240775311">
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:postcode" v="98229-8926"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-952" visible="true" lon="-122.4963154880160" lat="48.66672337339168">
+    <tag k="addr:housenumber" v="286"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-953" visible="true" lon="-122.4983970515023" lat="48.66673663583023">
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:postcode" v="98229-8926"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-954" visible="true" lon="-122.4966202250176" lat="48.66685500292868">
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-955" visible="true" lon="-122.4968906886238" lat="48.66696382520969">
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-956" visible="true" lon="-122.4979568815026" lat="48.66698248259019">
+    <tag k="addr:housenumber" v="316"/>
+    <tag k="addr:postcode" v="98229-8926"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-957" visible="true" lon="-122.4971702283011" lat="48.66704797110752">
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:postcode" v="98229-8926"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-958" visible="true" lon="-122.4975309217802" lat="48.66711460939094">
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="98229-8926"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-959" visible="true" lon="-122.4987074020061" lat="48.66712204650522">
+    <tag k="addr:housenumber" v="322"/>
+    <tag k="addr:postcode" v="98229-8926"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-960" visible="true" lon="-122.4948389255311" lat="48.69557492434667">
+    <tag k="addr:housenumber" v="1480"/>
+    <tag k="addr:postcode" v="98229-8929"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-961" visible="true" lon="-122.4948831242931" lat="48.69586220148398">
+    <tag k="addr:housenumber" v="1349"/>
+    <tag k="addr:postcode" v="98229-6924"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-962" visible="true" lon="-122.4958655205748" lat="48.69658882852431">
+    <tag k="addr:housenumber" v="1275"/>
+    <tag k="addr:postcode" v="98229-6923"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-963" visible="true" lon="-122.4959007330386" lat="48.69838975184710">
+    <tag k="addr:housenumber" v="1050"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-964" visible="true" lon="-122.4973117972511" lat="48.66509674730266">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98229-8992"/>
+    <tag k="addr:street" v="Heron Point Lane"/>
+  </node>
+  <node id="-965" visible="true" lon="-122.4951514536851" lat="48.69504579093898">
+    <tag k="addr:housenumber" v="1475"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-966" visible="true" lon="-122.4900387057515" lat="48.67036138218058">
+    <tag k="addr:housenumber" v="799"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-967" visible="true" lon="-122.4867369026704" lat="48.67052667749378">
+    <tag k="addr:housenumber" v="797"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-968" visible="true" lon="-122.4894047744019" lat="48.67099369084606">
+    <tag k="addr:housenumber" v="821"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-969" visible="true" lon="-122.4869950294771" lat="48.67104697150481">
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-970" visible="true" lon="-122.4877639750289" lat="48.67126634843711">
+    <tag k="addr:housenumber" v="819"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-971" visible="true" lon="-122.4855756192549" lat="48.67133203698787">
+    <tag k="addr:housenumber" v="824"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-972" visible="true" lon="-122.4870737545925" lat="48.67139215082130">
+    <tag k="addr:housenumber" v="821"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-973" visible="true" lon="-122.4894794805906" lat="48.67157835369434">
+    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-974" visible="true" lon="-122.4873555418441" lat="48.67173754866526">
+    <tag k="addr:housenumber" v="833"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-975" visible="true" lon="-122.4894793787665" lat="48.67185813574768">
+    <tag k="addr:housenumber" v="837"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-976" visible="true" lon="-122.4880643165406" lat="48.67191143423001">
+    <tag k="addr:housenumber" v="835"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-977" visible="true" lon="-122.4894657853899" lat="48.67213189025649">
+    <tag k="addr:housenumber" v="843"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-978" visible="true" lon="-122.4884065723884" lat="48.67227973234348">
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-979" visible="true" lon="-122.4857621543895" lat="48.67246300727118">
+    <tag k="addr:housenumber" v="832"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-980" visible="true" lon="-122.4884456392595" lat="48.67255538264087">
+    <tag k="addr:housenumber" v="859"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-981" visible="true" lon="-122.4878450183605" lat="48.67259735040315">
+    <tag k="addr:housenumber" v="857"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-982" visible="true" lon="-122.4895361085415" lat="48.67267150237672">
+    <tag k="addr:housenumber" v="859"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-983" visible="true" lon="-122.4895473161691" lat="48.67290248150608">
+    <tag k="addr:housenumber" v="867"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-984" visible="true" lon="-122.4877950096165" lat="48.67299795016721">
+    <tag k="addr:housenumber" v="869"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-985" visible="true" lon="-122.4867044471248" lat="48.67299820865661">
+    <tag k="addr:housenumber" v="868"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-986" visible="true" lon="-122.4884983233739" lat="48.67302264026998">
+    <tag k="addr:housenumber" v="873"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-987" visible="true" lon="-122.4895544655728" lat="48.67323846425401">
+    <tag k="addr:housenumber" v="873"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-988" visible="true" lon="-122.4869818278818" lat="48.67333212891239">
+    <tag k="addr:housenumber" v="880"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-989" visible="true" lon="-122.4880301554254" lat="48.67346402153481">
+    <tag k="addr:housenumber" v="881"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-990" visible="true" lon="-122.4886203135368" lat="48.67347936430566">
+    <tag k="addr:housenumber" v="879"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-991" visible="true" lon="-122.4896365755327" lat="48.67348929128268">
+    <tag k="addr:housenumber" v="881"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-992" visible="true" lon="-122.4896969008552" lat="48.67369086437979">
+    <tag k="addr:housenumber" v="889"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-993" visible="true" lon="-122.4881389351666" lat="48.67386066329197">
+    <tag k="addr:housenumber" v="887"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-994" visible="true" lon="-122.4866563043034" lat="48.67386529678927">
+    <tag k="addr:housenumber" v="892"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-995" visible="true" lon="-122.4898989164753" lat="48.67454418319532">
+    <tag k="addr:housenumber" v="911"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-996" visible="true" lon="-122.4899279073546" lat="48.67477378966728">
+    <tag k="addr:housenumber" v="919"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-997" visible="true" lon="-122.4876239152777" lat="48.67490586402910">
+    <tag k="addr:housenumber" v="924"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-998" visible="true" lon="-122.4884390537388" lat="48.67534031095273">
+    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-999" visible="true" lon="-122.4899224485425" lat="48.67535090394401">
+    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1000" visible="true" lon="-122.4874532600039" lat="48.67540013473752">
+    <tag k="addr:housenumber" v="938"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1001" visible="true" lon="-122.4900991314999" lat="48.67568566894075">
+    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1002" visible="true" lon="-122.4896751666429" lat="48.67568770485067">
+    <tag k="addr:housenumber" v="943"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1003" visible="true" lon="-122.4874300777588" lat="48.67589751445887">
+    <tag k="addr:housenumber" v="942"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1004" visible="true" lon="-122.4899333298875" lat="48.67594656516331">
+    <tag k="addr:housenumber" v="951"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1005" visible="true" lon="-122.4894884657629" lat="48.67044135454750">
+    <tag k="addr:housenumber" v="807"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1006" visible="true" lon="-122.4894723117357" lat="48.67240918787425">
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1007" visible="true" lon="-122.4897246288095" lat="48.67423823871012">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1008" visible="true" lon="-122.4899333040438" lat="48.67622593379102">
+    <tag k="addr:housenumber" v="959"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1009" visible="true" lon="-122.4886917815560" lat="48.67584363018310">
+    <tag k="addr:housenumber" v="945"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1010" visible="true" lon="-122.4865845494263" lat="48.67427117563388">
+    <tag k="addr:housenumber" v="914"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1011" visible="true" lon="-122.4899614286300" lat="48.67504089071267">
+    <tag k="addr:housenumber" v="921"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1012" visible="true" lon="-122.4886557486240" lat="48.67486183221809">
+    <tag k="addr:housenumber" v="919"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1013" visible="true" lon="-122.4871848272669" lat="48.67459107459776">
+    <tag k="addr:housenumber" v="912"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1014" visible="true" lon="-122.4884787811964" lat="48.67425654264529">
+    <tag k="addr:housenumber" v="907"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1015" visible="true" lon="-122.4871110692200" lat="48.67434647835247">
+    <tag k="addr:housenumber" v="904"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1016" visible="true" lon="-122.4897417396210" lat="48.67397507674809">
+    <tag k="addr:housenumber" v="897"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1017" visible="true" lon="-122.4873117159864" lat="48.67020585513666">
+    <tag k="addr:housenumber" v="783"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1018" visible="true" lon="-122.4898163243660" lat="48.66996422076949">
+    <tag k="addr:housenumber" v="797"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1019" visible="true" lon="-122.4894722260910" lat="48.67075986955770">
+    <tag k="addr:housenumber" v="813"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1020" visible="true" lon="-122.4857224844646" lat="48.67389495580203">
+    <tag k="addr:housenumber" v="894"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1021" visible="true" lon="-122.4863056182612" lat="48.67433318634451">
+    <tag k="addr:housenumber" v="908"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1022" visible="true" lon="-122.4854292808714" lat="48.67080817064621">
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:postcode" v="98229-8984"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1023" visible="true" lon="-122.4901031063230" lat="48.68748375165233">
+    <tag k="addr:housenumber" v="1280"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1024" visible="true" lon="-122.4913843861471" lat="48.68748823376019">
+    <tag k="addr:housenumber" v="1279"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1025" visible="true" lon="-122.4907207372635" lat="48.68826392287532">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1026" visible="true" lon="-122.4919869519223" lat="48.68844494586634">
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1027" visible="true" lon="-122.4907492021404" lat="48.68871168243555">
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1028" visible="true" lon="-122.4909906173815" lat="48.68910215697007">
+    <tag k="addr:housenumber" v="1318"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1029" visible="true" lon="-122.4866991707502" lat="48.68949108659972">
+    <tag k="addr:housenumber" v="1338"/>
+    <tag k="addr:postcode" v="98229-8966"/>
+    <tag k="addr:street" v="Chuckanut Crest Drive"/>
+  </node>
+  <node id="-1030" visible="true" lon="-122.4911760967210" lat="48.68980372773415">
+    <tag k="addr:housenumber" v="1330"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1031" visible="true" lon="-122.4926010060190" lat="48.69136829923184">
+    <tag k="addr:housenumber" v="1359"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1032" visible="true" lon="-122.4920691250933" lat="48.69179535300823">
+    <tag k="addr:housenumber" v="1386"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1033" visible="true" lon="-122.4856851860726" lat="48.69188190304035">
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Crest Drive"/>
+  </node>
+  <node id="-1034" visible="true" lon="-122.4887965504972" lat="48.69253755072611">
+    <tag k="addr:housenumber" v="1393"/>
+    <tag k="addr:postcode" v="98229-8966"/>
+    <tag k="addr:street" v="Chuckanut Crest Drive"/>
+  </node>
+  <node id="-1035" visible="true" lon="-122.4940281180862" lat="48.69845983841602">
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-1036" visible="true" lon="-122.4921611978790" lat="48.69253728005958">
+    <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1037" visible="true" lon="-122.4925806968602" lat="48.69307138329027">
+    <tag k="addr:housenumber" v="1420"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1038" visible="true" lon="-122.4929017128645" lat="48.69383636021960">
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1039" visible="true" lon="-122.4931970772633" lat="48.69247578320185">
+    <tag k="addr:housenumber" v="1419"/>
+    <tag k="addr:postcode" v="98229-8929"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1040" visible="true" lon="-122.4930533630378" lat="48.69224644707226">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1041" visible="true" lon="-122.4933931307342" lat="48.69270642867062">
+    <tag k="addr:housenumber" v="1427"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1042" visible="true" lon="-122.4938566324752" lat="48.69325055403864">
+    <tag k="addr:housenumber" v="1435"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1043" visible="true" lon="-122.4927025772441" lat="48.69510937510208">
+    <tag k="addr:housenumber" v="1464"/>
+    <tag k="addr:postcode" v="98229-8929"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1044" visible="true" lon="-122.4911133700225" lat="48.68949727487806">
+    <tag k="addr:housenumber" v="1326"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1045" visible="true" lon="-122.4939752185912" lat="48.69522217747120">
+    <tag k="addr:housenumber" v="1470"/>
+    <tag k="addr:postcode" v="98229-8929"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1046" visible="true" lon="-122.4882098448833" lat="48.69572399181226">
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:postcode" v="98229-3415"/>
+    <tag k="addr:street" v="Kathryn Lane"/>
+  </node>
+  <node id="-1047" visible="true" lon="-122.4877322491635" lat="48.69486525932140">
+    <tag k="addr:housenumber" v="1595"/>
+    <tag k="addr:postcode" v="98229-3402"/>
+    <tag k="addr:street" v="Kathryn Lane"/>
+  </node>
+  <node id="-1048" visible="true" lon="-122.4876187978976" lat="48.69441178139036">
+    <tag k="addr:housenumber" v="1585"/>
+    <tag k="addr:postcode" v="98229-3402"/>
+    <tag k="addr:street" v="Kathryn Lane"/>
+  </node>
+  <node id="-1049" visible="true" lon="-122.4917378934322" lat="48.68917666352944">
+    <tag k="addr:housenumber" v="1325"/>
+    <tag k="addr:postcode" v="98229-8979"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1050" visible="true" lon="-122.4904757959339" lat="48.68726815868175">
+    <tag k="addr:housenumber" v="1264"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1051" visible="true" lon="-122.4878761305812" lat="48.69531062071006">
+    <tag k="addr:housenumber" v="1605"/>
+    <tag k="addr:postcode" v="98229-3402"/>
+    <tag k="addr:street" v="Kathryn Lane"/>
+  </node>
+  <node id="-1052" visible="true" lon="-122.4887499843736" lat="48.67660304456832">
+    <tag k="addr:housenumber" v="961"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1053" visible="true" lon="-122.4880672352443" lat="48.67677863605601">
+    <tag k="addr:housenumber" v="972"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1054" visible="true" lon="-122.4897294677591" lat="48.67679415506803">
+    <tag k="addr:housenumber" v="973"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1055" visible="true" lon="-122.4877810582900" lat="48.67717037193853">
+    <tag k="addr:housenumber" v="986"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1056" visible="true" lon="-122.4890251016745" lat="48.67780789020632">
+    <tag k="addr:housenumber" v="1003"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1057" visible="true" lon="-122.4896960608916" lat="48.67787831521712">
+    <tag k="addr:housenumber" v="999"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1058" visible="true" lon="-122.4896792169431" lat="48.67811789429736">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1059" visible="true" lon="-122.4885713177262" lat="48.67815047477075">
+    <tag k="addr:housenumber" v="1002"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1060" visible="true" lon="-122.4890830037864" lat="48.67842423691592">
+    <tag k="addr:housenumber" v="1015"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1061" visible="true" lon="-122.4890978451890" lat="48.67860684974699">
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1062" visible="true" lon="-122.4887259981798" lat="48.67897403686965">
+    <tag k="addr:housenumber" v="1044"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1063" visible="true" lon="-122.4892304491979" lat="48.67926257992975">
+    <tag k="addr:housenumber" v="1047"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1064" visible="true" lon="-122.4888136871980" lat="48.67937936550813">
+    <tag k="addr:housenumber" v="1046"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1065" visible="true" lon="-122.4895523666820" lat="48.68035032668536">
+    <tag k="addr:housenumber" v="1077"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1066" visible="true" lon="-122.4897331099208" lat="48.68065042154173">
+    <tag k="addr:housenumber" v="1083"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1067" visible="true" lon="-122.4872681177305" lat="48.68083056357837">
+    <tag k="addr:housenumber" v="1008"/>
+    <tag k="addr:postcode" v="98229-6928"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1068" visible="true" lon="-122.4889689609732" lat="48.68116384424136">
+    <tag k="addr:housenumber" v="1096"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1069" visible="true" lon="-122.4898439915372" lat="48.68128488844784">
+    <tag k="addr:housenumber" v="1095"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1070" visible="true" lon="-122.4899799337983" lat="48.68156944641959">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1071" visible="true" lon="-122.4900865679572" lat="48.68176751365583">
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1072" visible="true" lon="-122.4875003855660" lat="48.68192745501992">
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:postcode" v="98229-6928"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1073" visible="true" lon="-122.4900429054005" lat="48.68218184129130">
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1074" visible="true" lon="-122.4882946686704" lat="48.68253217910441">
+    <tag k="addr:housenumber" v="1242"/>
+    <tag k="addr:postcode" v="98229-6941"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1075" visible="true" lon="-122.4869733329239" lat="48.68268011882009">
+    <tag k="addr:housenumber" v="1140"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1076" visible="true" lon="-122.4902545181015" lat="48.68302350572802">
+    <tag k="addr:housenumber" v="1151"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1077" visible="true" lon="-122.4882158715183" lat="48.68306352315197">
+    <tag k="addr:housenumber" v="1228"/>
+    <tag k="addr:postcode" v="98229-6941"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1078" visible="true" lon="-122.4873063433428" lat="48.68339833435576">
+    <tag k="addr:housenumber" v="1142"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1079" visible="true" lon="-122.4874915361353" lat="48.68382283728975">
+    <tag k="addr:housenumber" v="1148"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1080" visible="true" lon="-122.4904702673860" lat="48.68386483720497">
+    <tag k="addr:housenumber" v="1177"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1081" visible="true" lon="-122.4885573370742" lat="48.68405412833322">
+    <tag k="addr:housenumber" v="1220"/>
+    <tag k="addr:postcode" v="98229-6941"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1082" visible="true" lon="-122.4866120631205" lat="48.68425508856495">
+    <tag k="addr:housenumber" v="985"/>
+    <tag k="addr:postcode" v="98229-6942"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1083" visible="true" lon="-122.4890549773815" lat="48.68425677037830">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="98229-6941"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1084" visible="true" lon="-122.4907357112467" lat="48.68445655414745">
+    <tag k="addr:housenumber" v="1185"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1085" visible="true" lon="-122.4878839373667" lat="48.68472471424356">
+    <tag k="addr:housenumber" v="1164"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1086" visible="true" lon="-122.4891542161704" lat="48.68483876530171">
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1087" visible="true" lon="-122.4892668897768" lat="48.68545182239760">
+    <tag k="addr:housenumber" v="1185"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1088" visible="true" lon="-122.4868165046178" lat="48.68564270937240">
+    <tag k="addr:housenumber" v="981"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1089" visible="true" lon="-122.4881888672770" lat="48.68575038420593">
+    <tag k="addr:housenumber" v="1180"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1090" visible="true" lon="-122.4892840414192" lat="48.68590311586169">
+    <tag k="addr:housenumber" v="1230"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1091" visible="true" lon="-122.4903997993699" lat="48.68670118668626">
+    <tag k="addr:housenumber" v="1240"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1092" visible="true" lon="-122.4903641295958" lat="48.68355490726135">
+    <tag k="addr:housenumber" v="1165"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1093" visible="true" lon="-122.4902186285217" lat="48.68268378732795">
+    <tag k="addr:housenumber" v="1143"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1094" visible="true" lon="-122.4873620774341" lat="48.68150584913851">
+    <tag k="addr:housenumber" v="1095"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1095" visible="true" lon="-122.4894067503750" lat="48.67984438575239">
+    <tag k="addr:housenumber" v="1059"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1096" visible="true" lon="-122.4884522266584" lat="48.67861358005045">
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1097" visible="true" lon="-122.4888801832388" lat="48.67718441909964">
+    <tag k="addr:housenumber" v="971"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1098" visible="true" lon="-122.4904613201610" lat="48.68078918034531">
+    <tag k="addr:housenumber" v="1085"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1099" visible="true" lon="-122.4871970264833" lat="48.68302813232264">
+    <tag k="addr:housenumber" v="1134"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1100" visible="true" lon="-122.4879262436112" lat="48.68522417593012">
+    <tag k="addr:housenumber" v="1172"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1101" visible="true" lon="-122.4900115225357" lat="48.68201889039887">
+    <tag k="addr:housenumber" v="1125"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1102" visible="true" lon="-122.4873020327408" lat="48.68445171129959">
+    <tag k="addr:housenumber" v="1156"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1103" visible="true" lon="-122.4909044344243" lat="48.68487796601235">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1104" visible="true" lon="-122.4896589284634" lat="48.67713330468426">
+    <tag k="addr:housenumber" v="981"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1105" visible="true" lon="-122.4896080781379" lat="48.67759550432855">
+    <tag k="addr:housenumber" v="997"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1106" visible="true" lon="-122.4911435324785" lat="48.68656297456034">
+    <tag k="addr:housenumber" v="1247"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1107" visible="true" lon="-122.4909301264453" lat="48.68605498009126">
+    <tag k="addr:housenumber" v="1231"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1108" visible="true" lon="-122.4910427772989" lat="48.68563032125902">
+    <tag k="addr:housenumber" v="1223"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1109" visible="true" lon="-122.4895234384194" lat="48.68011646605996">
+    <tag k="addr:housenumber" v="1065"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1110" visible="true" lon="-122.4886835501721" lat="48.67980117347883">
+    <tag k="addr:housenumber" v="1048"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1111" visible="true" lon="-122.4893483659124" lat="48.67956304815693">
+    <tag k="addr:housenumber" v="1051"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1112" visible="true" lon="-122.4912048078085" lat="48.68685544906260">
+    <tag k="addr:housenumber" v="1261"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1113" visible="true" lon="-122.4888121488741" lat="48.68022253328679">
+    <tag k="addr:housenumber" v="1054"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1114" visible="true" lon="-122.4891876697675" lat="48.67905044535250">
+    <tag k="addr:housenumber" v="1035"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1115" visible="true" lon="-122.4910832921598" lat="48.68630228680887">
+    <tag k="addr:housenumber" v="1239"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1116" visible="true" lon="-122.4909992285400" lat="48.68537356252804">
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:postcode" v="98229-8980"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1117" visible="true" lon="-122.4908029133553" lat="48.68469756777561">
+    <tag k="addr:housenumber" v="1197"/>
+    <tag k="addr:postcode" v="98229-8981"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1118" visible="true" lon="-122.4880135293288" lat="48.67761743746492">
+    <tag k="addr:housenumber" v="988"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1119" visible="true" lon="-122.4897673493253" lat="48.67657792300534">
+    <tag k="addr:housenumber" v="967"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1120" visible="true" lon="-122.4875056460415" lat="48.67648109472700">
+    <tag k="addr:housenumber" v="964"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1121" visible="true" lon="-122.4871097673619" lat="48.67995715545108">
+    <tag k="addr:housenumber" v="1014"/>
+    <tag k="addr:postcode" v="98229-6928"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1122" visible="true" lon="-122.4873276150686" lat="48.68113293636141">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98229-6928"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1123" visible="true" lon="-122.4896234101000" lat="48.67736627448308">
+    <tag k="addr:housenumber" v="989"/>
+    <tag k="addr:postcode" v="98229-8928"/>
+    <tag k="addr:street" v="Chuckanut Lane"/>
+  </node>
+  <node id="-1124" visible="true" lon="-122.4868658798364" lat="48.68234169149012">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98229-6905"/>
+    <tag k="addr:street" v="Brighton Crest Drive"/>
+  </node>
+  <node id="-1125" visible="true" lon="-122.4888955334842" lat="48.68052226338016">
+    <tag k="addr:housenumber" v="1078"/>
+    <tag k="addr:postcode" v="98229-8982"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1126" visible="true" lon="-122.4903024037682" lat="48.67959447007026">
+    <tag k="addr:housenumber" v="1053"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1127" visible="true" lon="-122.4880916088122" lat="48.67788616446897">
+    <tag k="addr:housenumber" v="982"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1128" visible="true" lon="-122.4889246144050" lat="48.67743213675295">
+    <tag k="addr:housenumber" v="983"/>
+    <tag k="addr:postcode" v="98229-8930"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1129" visible="true" lon="-122.4821692482747" lat="48.66644197961919">
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1130" visible="true" lon="-122.4837814602654" lat="48.66500884126441">
+    <tag k="addr:housenumber" v="684"/>
+    <tag k="addr:postcode" v="98229-8988"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1131" visible="true" lon="-122.4850088328403" lat="48.67024261275012">
+    <tag k="addr:housenumber" v="776"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1132" visible="true" lon="-122.4827434439760" lat="48.66354061833218">
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:postcode" v="98229-8988"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1133" visible="true" lon="-122.4814952244649" lat="48.66353085996646">
+    <tag k="addr:housenumber" v="640"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1134" visible="true" lon="-122.4847549670542" lat="48.69210759663147">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:postcode" v="98229-8900"/>
+    <tag k="addr:street" v="Chuckanut Crest Drive"/>
+  </node>
+  <node id="-1135" visible="true" lon="-122.4843915859826" lat="48.66919838979695">
+    <tag k="addr:housenumber" v="748"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1136" visible="true" lon="-122.4838187373850" lat="48.66934546671082">
+    <tag k="addr:housenumber" v="750"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1137" visible="true" lon="-122.4842256830008" lat="48.66639659611761">
+    <tag k="addr:housenumber" v="694"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1138" visible="true" lon="-122.4846169341094" lat="48.66840105994351">
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1139" visible="true" lon="-122.4847903679974" lat="48.66604016267885">
+    <tag k="addr:housenumber" v="686"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1140" visible="true" lon="-122.4837901274991" lat="48.66871673468024">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1141" visible="true" lon="-122.4816335269810" lat="48.66837703780837">
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1142" visible="true" lon="-122.4847973555701" lat="48.66914533242451">
+    <tag k="addr:housenumber" v="754"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1143" visible="true" lon="-122.4851299603764" lat="48.66974313865006">
+    <tag k="addr:housenumber" v="768"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1144" visible="true" lon="-122.4829733507543" lat="48.66856735148557">
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1145" visible="true" lon="-122.4845986085829" lat="48.66871315990922">
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1146" visible="true" lon="-122.4833162520101" lat="48.66781038355941">
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1147" visible="true" lon="-122.4845498946226" lat="48.66785077185051">
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1148" visible="true" lon="-122.4839093416846" lat="48.66794932113320">
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1149" visible="true" lon="-122.4837717185218" lat="48.66752597319237">
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:postcode" v="98229-8933"/>
+    <tag k="addr:street" v="Hiline Road"/>
+  </node>
+  <node id="-1150" visible="true" lon="-122.4849041626397" lat="48.66572643969869">
+    <tag k="addr:housenumber" v="684"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1151" visible="true" lon="-122.4849412245653" lat="48.66949692764749">
+    <tag k="addr:housenumber" v="760"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1152" visible="true" lon="-122.4832113785795" lat="48.66541634219487">
+    <tag k="addr:housenumber" v="688"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1153" visible="true" lon="-122.4832857303170" lat="48.66570853013059">
+    <tag k="addr:housenumber" v="690"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1154" visible="true" lon="-122.4848280053751" lat="48.66361334568978">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98229-8988"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1155" visible="true" lon="-122.4836029396777" lat="48.66365374024852">
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:postcode" v="98229-8988"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1156" visible="true" lon="-122.4851470813943" lat="48.66484283036822">
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:postcode" v="98229-8988"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1157" visible="true" lon="-122.4951150285011" lat="48.65372049837505">
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1158" visible="true" lon="-122.4957765650540" lat="48.65385506844044">
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1159" visible="true" lon="-122.4947713191016" lat="48.65390576236472">
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1160" visible="true" lon="-122.4963840054367" lat="48.65407118983119">
+    <tag k="addr:housenumber" v="345"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1161" visible="true" lon="-122.4959604090280" lat="48.65444780051290">
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1162" visible="true" lon="-122.4957158814872" lat="48.65463934860891">
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1163" visible="true" lon="-122.4959400259763" lat="48.65516629695063">
+    <tag k="addr:housenumber" v="373"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1164" visible="true" lon="-122.4966613538526" lat="48.65547920749378">
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1165" visible="true" lon="-122.4993769905438" lat="48.65616391670623">
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1166" visible="true" lon="-122.4954877322805" lat="48.65632782118778">
+    <tag k="addr:housenumber" v="397"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1167" visible="true" lon="-122.4962723454168" lat="48.65678539637884">
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1168" visible="true" lon="-122.4950911421450" lat="48.65698873065542">
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1169" visible="true" lon="-122.4955669660309" lat="48.65712613030222">
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1170" visible="true" lon="-122.4969192919783" lat="48.65736333124223">
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:postcode" v="98229-8906"/>
+    <tag k="addr:street" v="Beacon Road"/>
+  </node>
+  <node id="-1171" visible="true" lon="-122.4946167814657" lat="48.65742386320451">
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1172" visible="true" lon="-122.4976805084323" lat="48.65795393675030">
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:postcode" v="98229-8927"/>
+    <tag k="addr:street" v="Beacon Road"/>
+  </node>
+  <node id="-1173" visible="true" lon="-122.4967783642719" lat="48.65813903452143">
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:postcode" v="98229-8959"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1174" visible="true" lon="-122.4980621269898" lat="48.65848749035855">
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:postcode" v="98229-8927"/>
+    <tag k="addr:street" v="Beacon Road"/>
+  </node>
+  <node id="-1175" visible="true" lon="-122.4947530612516" lat="48.65887926797524">
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1176" visible="true" lon="-122.4974438249207" lat="48.65905081405320">
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:postcode" v="98229-8959"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1177" visible="true" lon="-122.4951600726560" lat="48.65961913383164">
+    <tag k="addr:housenumber" v="249"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1178" visible="true" lon="-122.4977211033038" lat="48.65994519211843">
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:postcode" v="98229-8959"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1179" visible="true" lon="-122.4951512576874" lat="48.65997170545644">
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1180" visible="true" lon="-122.4969048574659" lat="48.66011743986417">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1181" visible="true" lon="-122.4950214991751" lat="48.66046244085000">
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1182" visible="true" lon="-122.4976832094598" lat="48.66057439673656">
+    <tag k="addr:housenumber" v="503"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1183" visible="true" lon="-122.4945515846881" lat="48.66075445586061">
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1184" visible="true" lon="-122.4959797049320" lat="48.66088669967184">
+    <tag k="addr:housenumber" v="516"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1185" visible="true" lon="-122.4978410092759" lat="48.66098877408224">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1186" visible="true" lon="-122.4963493459623" lat="48.66103595318172">
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1187" visible="true" lon="-122.4950306895705" lat="48.66103711696405">
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1188" visible="true" lon="-122.4968835393160" lat="48.66120421865494">
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1189" visible="true" lon="-122.4979175799388" lat="48.66133285099548">
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1190" visible="true" lon="-122.4963250214264" lat="48.66138705048657">
+    <tag k="addr:housenumber" v="528"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1191" visible="true" lon="-122.4980607427824" lat="48.66161165634993">
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1192" visible="true" lon="-122.4964072275466" lat="48.66179648532496">
+    <tag k="addr:housenumber" v="532"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1193" visible="true" lon="-122.4949311225807" lat="48.66181160501817">
+    <tag k="addr:housenumber" v="560"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1194" visible="true" lon="-122.4978936723463" lat="48.66188120609596">
+    <tag k="addr:housenumber" v="529"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1195" visible="true" lon="-122.4971441852743" lat="48.66264357380579">
+    <tag k="addr:housenumber" v="537"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1196" visible="true" lon="-122.4948665743547" lat="48.66264696573915">
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1197" visible="true" lon="-122.4966291763807" lat="48.66284274678220">
+    <tag k="addr:housenumber" v="545"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1198" visible="true" lon="-122.4948343175722" lat="48.66304481185347">
+    <tag k="addr:housenumber" v="557"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1199" visible="true" lon="-122.4956289397708" lat="48.66315816766998">
+    <tag k="addr:housenumber" v="547"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1200" visible="true" lon="-122.4995576957888" lat="48.66391904072923">
+    <tag k="addr:housenumber" v="599"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1201" visible="true" lon="-122.4945040190429" lat="48.66405794850844">
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:postcode" v="98229-8991"/>
+    <tag k="addr:street" v="Heron Point Lane"/>
+  </node>
+  <node id="-1202" visible="true" lon="-122.4993353259180" lat="48.66413021981727">
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:postcode" v="98229-8976"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1203" visible="true" lon="-122.4987679585500" lat="48.66428102363631">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="98229-8976"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1204" visible="true" lon="-122.4958115420764" lat="48.66187757086396">
+    <tag k="addr:housenumber" v="546"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1205" visible="true" lon="-122.4975621294363" lat="48.66025064872687">
+    <tag k="addr:housenumber" v="499"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1206" visible="true" lon="-122.4973350089210" lat="48.65759370920173">
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:postcode" v="98229-8906"/>
+    <tag k="addr:street" v="Beacon Road"/>
+  </node>
+  <node id="-1207" visible="true" lon="-122.4959507070972" lat="48.65730761552368">
+    <tag k="addr:housenumber" v="407"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1208" visible="true" lon="-122.4967356485476" lat="48.65955583366413">
+    <tag k="addr:housenumber" v="486"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1209" visible="true" lon="-122.4964863972130" lat="48.65918338386474">
+    <tag k="addr:housenumber" v="480"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1210" visible="true" lon="-122.4961503542175" lat="48.65879313690125">
+    <tag k="addr:housenumber" v="474"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1211" visible="true" lon="-122.4881691646867" lat="48.64904486845659">
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1212" visible="true" lon="-122.4884677512836" lat="48.65425096518066">
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:postcode" v="98229-8934"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1213" visible="true" lon="-122.4935117148350" lat="48.65692387216830">
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1214" visible="true" lon="-122.4918557550754" lat="48.65717042439741">
+    <tag k="addr:housenumber" v="440"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1215" visible="true" lon="-122.4930742196025" lat="48.65753136059853">
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1216" visible="true" lon="-122.4925669329420" lat="48.65787664925838">
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1217" visible="true" lon="-122.4918071640976" lat="48.65800456770705">
+    <tag k="addr:housenumber" v="466"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1218" visible="true" lon="-122.4932025882775" lat="48.65951099177438">
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1219" visible="true" lon="-122.4894413709685" lat="48.65998908555910">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98229-8993"/>
+    <tag k="addr:street" v="East Dolphin Place"/>
+  </node>
+  <node id="-1220" visible="true" lon="-122.4905970486673" lat="48.66005368474499">
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:postcode" v="98229-8993"/>
+    <tag k="addr:street" v="East Dolphin Place"/>
+  </node>
+  <node id="-1221" visible="true" lon="-122.4928964360048" lat="48.66013843542795">
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1222" visible="true" lon="-122.4923859790899" lat="48.66014928616456">
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1223" visible="true" lon="-122.4933022955452" lat="48.66030435915329">
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1224" visible="true" lon="-122.4926803749023" lat="48.66066402962797">
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:postcode" v="98229-8932"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1225" visible="true" lon="-122.4938468959456" lat="48.66106494296513">
+    <tag k="addr:housenumber" v="578"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1226" visible="true" lon="-122.4898688547426" lat="48.66117935868704">
+    <tag k="addr:housenumber" v="510"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="East Dolphin Place"/>
+  </node>
+  <node id="-1227" visible="true" lon="-122.4941300481164" lat="48.66151473596506">
+    <tag k="addr:housenumber" v="566"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1228" visible="true" lon="-122.4930055948027" lat="48.66167047544014">
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1229" visible="true" lon="-122.4928458006831" lat="48.66225412546812">
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1230" visible="true" lon="-122.4933854750422" lat="48.66239225201011">
+    <tag k="addr:housenumber" v="575"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1231" visible="true" lon="-122.4942257421777" lat="48.66251153107275">
+    <tag k="addr:housenumber" v="567"/>
+    <tag k="addr:postcode" v="98229-8911"/>
+    <tag k="addr:street" v="Whitecap Road"/>
+  </node>
+  <node id="-1232" visible="true" lon="-122.4928389216963" lat="48.66353767568252">
+    <tag k="addr:housenumber" v="597"/>
+    <tag k="addr:postcode" v="98229-8932"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1233" visible="true" lon="-122.4878238465235" lat="48.66394019947201">
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1234" visible="true" lon="-122.4937342927667" lat="48.66396059224666">
+    <tag k="addr:housenumber" v="560"/>
+    <tag k="addr:postcode" v="98229-8991"/>
+    <tag k="addr:street" v="Heron Point Lane"/>
+  </node>
+  <node id="-1235" visible="true" lon="-122.4928943314462" lat="48.66455189716365">
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:postcode" v="98229-8991"/>
+    <tag k="addr:street" v="Heron Point Lane"/>
+  </node>
+  <node id="-1236" visible="true" lon="-122.4916026767087" lat="48.66494868512122">
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:postcode" v="98229-8977"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1237" visible="true" lon="-122.4917342847277" lat="48.66498655940414">
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:postcode" v="98229-8977"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1238" visible="true" lon="-122.4932247062211" lat="48.66529460937628">
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1239" visible="true" lon="-122.4857470504646" lat="48.66539703777766">
+    <tag k="addr:housenumber" v="682"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1240" visible="true" lon="-122.4925085459079" lat="48.66540237079919">
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1241" visible="true" lon="-122.4913424834715" lat="48.66541106893255">
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1242" visible="true" lon="-122.4920551227407" lat="48.66576571265347">
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1243" visible="true" lon="-122.4881675666763" lat="48.66578204411798">
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1244" visible="true" lon="-122.4895354158174" lat="48.66583081622468">
+    <tag k="addr:housenumber" v="645"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1245" visible="true" lon="-122.4924676455550" lat="48.66590156226255">
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1246" visible="true" lon="-122.4860069137007" lat="48.66602061768388">
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1247" visible="true" lon="-122.4928438424729" lat="48.66607850466843">
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:postcode" v="98229-8978"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1248" visible="true" lon="-122.4933278378886" lat="48.66630574486103">
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1249" visible="true" lon="-122.4865771142508" lat="48.66632230470401">
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1250" visible="true" lon="-122.4877918584516" lat="48.66655038347943">
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1251" visible="true" lon="-122.4916818823320" lat="48.66674795560045">
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1252" visible="true" lon="-122.4858355752957" lat="48.66679974946939">
+    <tag k="addr:housenumber" v="693"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1253" visible="true" lon="-122.4910377152636" lat="48.66703050342822">
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1254" visible="true" lon="-122.4904692739575" lat="48.66714159003271">
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1255" visible="true" lon="-122.4866737877684" lat="48.66717164610482">
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1256" visible="true" lon="-122.4906201364597" lat="48.66731637768858">
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1257" visible="true" lon="-122.4884399021544" lat="48.66736225985775">
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1258" visible="true" lon="-122.4901354903116" lat="48.66738195455577">
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1259" visible="true" lon="-122.4856291340771" lat="48.66742081032798">
+    <tag k="addr:housenumber" v="709"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1260" visible="true" lon="-122.4922608754884" lat="48.66785222304053">
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1261" visible="true" lon="-122.4856232951226" lat="48.66809046822744">
+    <tag k="addr:housenumber" v="731"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1262" visible="true" lon="-122.4919465518896" lat="48.66820305980024">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="98229-8908"/>
+    <tag k="addr:street" v="Nelson Cove Road"/>
+  </node>
+  <node id="-1263" visible="true" lon="-122.4860867818495" lat="48.66862800675082">
+    <tag k="addr:housenumber" v="741"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1264" visible="true" lon="-122.4925494438646" lat="48.66867947145098">
+    <tag k="addr:housenumber" v="701"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1265" visible="true" lon="-122.4874130103760" lat="48.66899457595050">
+    <tag k="addr:housenumber" v="751"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1266" visible="true" lon="-122.4910808633567" lat="48.66919029228234">
+    <tag k="addr:housenumber" v="760"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1267" visible="true" lon="-122.4921353844102" lat="48.66934295246443">
+    <tag k="addr:housenumber" v="753"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1268" visible="true" lon="-122.4902045956488" lat="48.66943639621670">
+    <tag k="addr:housenumber" v="777"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1269" visible="true" lon="-122.4913582248294" lat="48.66968686983677">
+    <tag k="addr:housenumber" v="765"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1270" visible="true" lon="-122.4869949564798" lat="48.66979496882913">
+    <tag k="addr:housenumber" v="767"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1271" visible="true" lon="-122.4880884132098" lat="48.66980004784994">
+    <tag k="addr:housenumber" v="773"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1272" visible="true" lon="-122.4902899077048" lat="48.66982293385236">
+    <tag k="addr:housenumber" v="779"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1273" visible="true" lon="-122.4936004647682" lat="48.65818953015252">
+    <tag k="addr:housenumber" v="443"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1274" visible="true" lon="-122.4886279436299" lat="48.66672901328482">
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1275" visible="true" lon="-122.4914494816918" lat="48.66449564184038">
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:postcode" v="98229-8977"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1276" visible="true" lon="-122.4900416681326" lat="48.66836031349683">
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1277" visible="true" lon="-122.4892718097211" lat="48.66874533483583">
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1278" visible="true" lon="-122.4893906710628" lat="48.66760592192091">
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1279" visible="true" lon="-122.4897381245159" lat="48.66807047221038">
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1280" visible="true" lon="-122.4918656328579" lat="48.65900541999429">
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1281" visible="true" lon="-122.4902207659359" lat="48.66338246294832">
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1282" visible="true" lon="-122.4938369917527" lat="48.65954689935732">
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1283" visible="true" lon="-122.4938564832336" lat="48.66033654788715">
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:postcode" v="98229-8922"/>
+    <tag k="addr:street" v="Dolphin Place"/>
+  </node>
+  <node id="-1284" visible="true" lon="-122.4910738674750" lat="48.66117399568958">
+    <tag k="addr:housenumber" v="506"/>
+    <tag k="addr:postcode" v="98229-8993"/>
+    <tag k="addr:street" v="East Dolphin Place"/>
+  </node>
+  <node id="-1285" visible="true" lon="-122.4922964173735" lat="48.65885335740894">
+    <tag k="addr:housenumber" v="461"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1286" visible="true" lon="-122.4937282676033" lat="48.65866578577915">
+    <tag k="addr:housenumber" v="451"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1287" visible="true" lon="-122.4926595771026" lat="48.65870816079424">
+    <tag k="addr:housenumber" v="455"/>
+    <tag k="addr:postcode" v="98229-8924"/>
+    <tag k="addr:street" v="Cove Road"/>
+  </node>
+  <node id="-1288" visible="true" lon="-122.4863706035293" lat="48.66931418420280">
+    <tag k="addr:housenumber" v="761"/>
+    <tag k="addr:postcode" v="98229-8983"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1289" visible="true" lon="-122.4920635681796" lat="48.66899074320548">
+    <tag k="addr:housenumber" v="745"/>
+    <tag k="addr:postcode" v="98229-8925"/>
+    <tag k="addr:street" v="Chuckanut Shore Road"/>
+  </node>
+  <node id="-1290" visible="true" lon="-122.4908746533948" lat="48.66432521747181">
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:postcode" v="98229-8931"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1291" visible="true" lon="-122.4870372127825" lat="48.66613892293456">
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1292" visible="true" lon="-122.4922672408555" lat="48.66311328793954">
+    <tag k="addr:housenumber" v="591"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Drive"/>
+  </node>
+  <node id="-1293" visible="true" lon="-122.4916167341013" lat="48.66727930873043">
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1294" visible="true" lon="-122.4904712318584" lat="48.66513069837205">
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Point Road"/>
+  </node>
+  <node id="-1295" visible="true" lon="-122.4890519741834" lat="48.66649294982458">
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:postcode" v="98229-8916"/>
+    <tag k="addr:street" v="Soundview Road"/>
+  </node>
+  <node id="-1296" visible="true" lon="-122.4854478425912" lat="48.66412499422288">
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:postcode" v="98229-8988"/>
+    <tag k="addr:street" v="Chuckanut Heights Road"/>
+  </node>
+  <node id="-1297" visible="true" lon="-122.5003005626212" lat="48.66331232065317">
+    <tag k="addr:housenumber" v="585"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1298" visible="true" lon="-122.5004139368602" lat="48.66265297174066">
+    <tag k="addr:housenumber" v="573"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1299" visible="true" lon="-122.5001547670930" lat="48.66284740272065">
+    <tag k="addr:housenumber" v="579"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1300" visible="true" lon="-122.5001665259260" lat="48.66356913156638">
+    <tag k="addr:housenumber" v="591"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1301" visible="true" lon="-122.5010101078987" lat="48.65697046761458">
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1302" visible="true" lon="-122.5004959554878" lat="48.66187848705678">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
+  <node id="-1303" visible="true" lon="-122.5022221036126" lat="48.65622512756660">
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:postcode" v="98229-8918"/>
+    <tag k="addr:street" v="Pleasant Bay Road"/>
+  </node>
 </osm>

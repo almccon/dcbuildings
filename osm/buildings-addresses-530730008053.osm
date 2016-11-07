@@ -7791,4 +7791,254 @@
     <nd ref="-2820"/>
     <tag k="building" v="yes"/>
   </way>
+  <node id="-2824" visible="true" lon="-122.3922159752923" lat="48.74191827752571">
+    <tag k="addr:housenumber" v="4919"/>
+    <tag k="addr:postcode" v="98229-2749"/>
+    <tag k="addr:street" v="Lasalle Avenue"/>
+  </node>
+  <node id="-2825" visible="true" lon="-122.3914070179230" lat="48.73920191540793">
+    <tag k="addr:housenumber" v="4926"/>
+    <tag k="addr:postcode" v="98229-2784"/>
+    <tag k="addr:street" v="Coronado Lane"/>
+  </node>
+  <node id="-2826" visible="true" lon="-122.3897507346781" lat="48.73921476551849">
+    <tag k="addr:housenumber" v="4942"/>
+    <tag k="addr:postcode" v="98229-2536"/>
+    <tag k="addr:street" v="Pennington Way"/>
+  </node>
+  <node id="-2827" visible="true" lon="-122.3891782573325" lat="48.73922571236168">
+    <tag k="addr:housenumber" v="4950"/>
+    <tag k="addr:postcode" v="98229-2536"/>
+    <tag k="addr:street" v="Pennington Way"/>
+  </node>
+  <node id="-2828" visible="true" lon="-122.3884000428040" lat="48.74229722353775">
+    <tag k="addr:housenumber" v="2777"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2829" visible="true" lon="-122.3883997891238" lat="48.73922323661529">
+    <tag k="addr:housenumber" v="4954"/>
+    <tag k="addr:postcode" v="98229-2536"/>
+    <tag k="addr:street" v="Pennington Way"/>
+  </node>
+  <node id="-2830" visible="true" lon="-122.3883000887651" lat="48.74164417519440">
+    <tag k="addr:housenumber" v="2773"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2831" visible="true" lon="-122.3874574297204" lat="48.74148190080767">
+    <tag k="addr:housenumber" v="2761"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2832" visible="true" lon="-122.3849262762387" lat="48.74074033182060">
+    <tag k="addr:housenumber" v="2741"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2833" visible="true" lon="-122.3844322454926" lat="48.73984415960265">
+    <tag k="addr:housenumber" v="960"/>
+    <tag k="addr:postcode" v="98229-2776"/>
+    <tag k="addr:street" v="Grand Boulevard"/>
+  </node>
+  <node id="-2834" visible="true" lon="-122.3841417358144" lat="48.74087936604300">
+    <tag k="addr:housenumber" v="988"/>
+    <tag k="addr:postcode" v="98229-2776"/>
+    <tag k="addr:street" v="Grand Boulevard"/>
+  </node>
+  <node id="-2835" visible="true" lon="-122.3837018523943" lat="48.73922946586904">
+    <tag k="addr:housenumber" v="946"/>
+    <tag k="addr:postcode" v="98229-2776"/>
+    <tag k="addr:street" v="Grand Boulevard"/>
+  </node>
+  <node id="-2836" visible="true" lon="-122.3829497073609" lat="48.73927181240374">
+    <tag k="addr:housenumber" v="940"/>
+    <tag k="addr:postcode" v="98229-2776"/>
+    <tag k="addr:street" v="Grand Boulevard"/>
+  </node>
+  <node id="-2837" visible="true" lon="-122.3816656231269" lat="48.73978285607032">
+    <tag k="addr:housenumber" v="635"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2838" visible="true" lon="-122.3814532712945" lat="48.73932611171831">
+    <tag k="addr:housenumber" v="2017"/>
+    <tag k="addr:postcode" v="98229-2780"/>
+    <tag k="addr:street" v="Viewhaven Lane"/>
+  </node>
+  <node id="-2839" visible="true" lon="-122.3811775388451" lat="48.73929157766032">
+    <tag k="addr:housenumber" v="2027"/>
+    <tag k="addr:postcode" v="98229-2780"/>
+    <tag k="addr:street" v="Viewhaven Lane"/>
+  </node>
+  <node id="-2840" visible="true" lon="-122.3808790730661" lat="48.73927663260421">
+    <tag k="addr:housenumber" v="2033"/>
+    <tag k="addr:postcode" v="98229-2780"/>
+    <tag k="addr:street" v="Viewhaven Lane"/>
+  </node>
+  <node id="-2841" visible="true" lon="-122.3805813502781" lat="48.73928607556347">
+    <tag k="addr:housenumber" v="2045"/>
+    <tag k="addr:postcode" v="98229-2780"/>
+    <tag k="addr:street" v="Viewhaven Lane"/>
+  </node>
+  <node id="-2842" visible="true" lon="-122.3798135985316" lat="48.73913317995120">
+    <tag k="addr:housenumber" v="2707"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2843" visible="true" lon="-122.3794217771824" lat="48.73891029956914">
+    <tag k="addr:housenumber" v="2703"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2844" visible="true" lon="-122.3788714959961" lat="48.73971516233987">
+    <tag k="addr:housenumber" v="684"/>
+    <tag k="addr:postcode" v="98229-2713"/>
+    <tag k="addr:street" v="Cherry Lane"/>
+  </node>
+  <node id="-2845" visible="true" lon="-122.3824603415412" lat="48.73923832799314">
+    <tag k="addr:housenumber" v="936"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Grand Boulevard"/>
+  </node>
+  <node id="-2846" visible="true" lon="-122.3790931896893" lat="48.73989752681140">
+    <tag k="addr:housenumber" v="680"/>
+    <tag k="addr:postcode" v="98229-2713"/>
+    <tag k="addr:street" v="Cherry Lane"/>
+  </node>
+  <node id="-2847" visible="true" lon="-122.3782748246697" lat="48.73299495898542">
+    <tag k="addr:housenumber" v="2076"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-2848" visible="true" lon="-122.3882094659572" lat="48.74225319760972">
+    <tag k="addr:housenumber" v="2770"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2849" visible="true" lon="-122.3857923123277" lat="48.74043304765806">
+    <tag k="addr:housenumber" v="2743"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2850" visible="true" lon="-122.3920781298276" lat="48.74388656881290">
+    <tag k="addr:housenumber" v="1024"/>
+    <tag k="addr:postcode" v="98229-2615"/>
+    <tag k="addr:street" v="Coronado Avenue"/>
+  </node>
+  <node id="-2851" visible="true" lon="-122.3906164482943" lat="48.74263739904690">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:postcode" v="98229-2718"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2852" visible="true" lon="-122.3900238540768" lat="48.74260174078311">
+    <tag k="addr:housenumber" v="2790"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2853" visible="true" lon="-122.3911506169561" lat="48.74306641306300">
+    <tag k="addr:housenumber" v="2809"/>
+    <tag k="addr:postcode" v="98229-2719"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2854" visible="true" lon="-122.3914154556668" lat="48.74328190803160">
+    <tag k="addr:housenumber" v="2821"/>
+    <tag k="addr:postcode" v="98229-2719"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2855" visible="true" lon="-122.3917774234550" lat="48.74359643942236">
+    <tag k="addr:housenumber" v="2825"/>
+    <tag k="addr:postcode" v="98229-2719"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-2856" visible="true" lon="-122.3957459453098" lat="48.74046236469091">
+    <tag k="addr:housenumber" v="4812"/>
+    <tag k="addr:postcode" v="98229-2703"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2857" visible="true" lon="-122.3957347725477" lat="48.73955838123086">
+    <tag k="addr:housenumber" v="4814"/>
+    <tag k="addr:postcode" v="98229-2750"/>
+    <tag k="addr:street" v="Lewis Avenue"/>
+  </node>
+  <node id="-2858" visible="true" lon="-122.3950943701247" lat="48.74204279073480">
+    <tag k="addr:housenumber" v="4820"/>
+    <tag k="addr:postcode" v="98229-2624"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
+  <node id="-2859" visible="true" lon="-122.3949404754140" lat="48.74140417824128">
+    <tag k="addr:housenumber" v="919"/>
+    <tag k="addr:postcode" v="98229-2711"/>
+    <tag k="addr:street" v="Coronado Avenue"/>
+  </node>
+  <node id="-2860" visible="true" lon="-122.3949365100328" lat="48.74046445958472">
+    <tag k="addr:housenumber" v="4818"/>
+    <tag k="addr:postcode" v="98229-2703"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2861" visible="true" lon="-122.3949328731542" lat="48.74007576995871">
+    <tag k="addr:housenumber" v="4819"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lewis Avenue"/>
+  </node>
+  <node id="-2862" visible="true" lon="-122.3949220699906" lat="48.73956161739856">
+    <tag k="addr:housenumber" v="4820"/>
+    <tag k="addr:postcode" v="98229-2750"/>
+    <tag k="addr:street" v="Lewis Avenue"/>
+  </node>
+  <node id="-2863" visible="true" lon="-122.3929625976980" lat="48.73923014287404">
+    <tag k="addr:housenumber" v="4910"/>
+    <tag k="addr:postcode" v="98229-2784"/>
+    <tag k="addr:street" v="Coronado Lane"/>
+  </node>
+  <node id="-2864" visible="true" lon="-122.3943574272523" lat="48.73861187782778">
+    <tag k="addr:housenumber" v="4824"/>
+    <tag k="addr:postcode" v="98229-2565"/>
+    <tag k="addr:street" v="Lookout Avenue"/>
+  </node>
+  <node id="-2865" visible="true" lon="-122.3963494686199" lat="48.74096252384806">
+    <tag k="addr:housenumber" v="4748"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2866" visible="true" lon="-122.3965663425154" lat="48.74104651433746">
+    <tag k="addr:housenumber" v="4743"/>
+    <tag k="addr:postcode" v="98229-2737"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2867" visible="true" lon="-122.3973843106129" lat="48.74105196922385">
+    <tag k="addr:housenumber" v="4727"/>
+    <tag k="addr:postcode" v="98229-2737"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2868" visible="true" lon="-122.3967751943442" lat="48.74105823716814">
+    <tag k="addr:housenumber" v="4739"/>
+    <tag k="addr:postcode" v="98229-2737"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2869" visible="true" lon="-122.3969809161050" lat="48.74107603325061">
+    <tag k="addr:housenumber" v="4735"/>
+    <tag k="addr:postcode" v="98229-2737"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-2870" visible="true" lon="-122.3970830287162" lat="48.74137759218576">
+    <tag k="addr:housenumber" v="4732"/>
+    <tag k="addr:postcode" v="98229-2761"/>
+    <tag k="addr:street" v="Lasalle Avenue"/>
+  </node>
+  <node id="-2871" visible="true" lon="-122.3978183830303" lat="48.74137867158959">
+    <tag k="addr:housenumber" v="4718"/>
+    <tag k="addr:postcode" v="98229-2761"/>
+    <tag k="addr:street" v="Lasalle Avenue"/>
+  </node>
+  <node id="-2872" visible="true" lon="-122.3982103042497" lat="48.74183067635789">
+    <tag k="addr:housenumber" v="4711"/>
+    <tag k="addr:postcode" v="98229-2761"/>
+    <tag k="addr:street" v="Lasalle Avenue"/>
+  </node>
+  <node id="-2873" visible="true" lon="-122.3968137564197" lat="48.74234044685017">
+    <tag k="addr:housenumber" v="4750"/>
+    <tag k="addr:postcode" v="98229-2626"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
 </osm>

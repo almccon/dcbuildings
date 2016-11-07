@@ -13844,4 +13844,314 @@
     <tag k="addr:postcode" v="98226"/>
     <tag k="addr:street" v="Newmarket Street"/>
   </node>
+  <node id="-4645" visible="true" lon="-122.4410024468985" lat="48.77708510702244">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:postcode" v="98226-5616"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4646" visible="true" lon="-122.4374777703730" lat="48.77818424985898">
+    <tag k="addr:housenumber" v="2706"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4647" visible="true" lon="-122.4366900965196" lat="48.77906688097980">
+    <tag k="addr:housenumber" v="2804"/>
+    <tag k="addr:postcode" v="98226-5610"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4648" visible="true" lon="-122.4364847857122" lat="48.77915962808677">
+    <tag k="addr:housenumber" v="2806"/>
+    <tag k="addr:postcode" v="98226-5610"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4649" visible="true" lon="-122.4359195388167" lat="48.77941413976125">
+    <tag k="addr:housenumber" v="2818"/>
+    <tag k="addr:postcode" v="98226-5610"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4650" visible="true" lon="-122.4348846299125" lat="48.77979765375672">
+    <tag k="addr:housenumber" v="2838"/>
+    <tag k="addr:postcode" v="98226-5610"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4651" visible="true" lon="-122.4346348396673" lat="48.77999299038487">
+    <tag k="addr:housenumber" v="2842"/>
+    <tag k="addr:postcode" v="98226-5610"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4652" visible="true" lon="-122.4343264470214" lat="48.78013211067987">
+    <tag k="addr:housenumber" v="2850"/>
+    <tag k="addr:postcode" v="98226-5610"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4653" visible="true" lon="-122.4323646665625" lat="48.78041895911664">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Evergreen Avenue"/>
+  </node>
+  <node id="-4654" visible="true" lon="-122.4333807869145" lat="48.78055797227841">
+    <tag k="addr:housenumber" v="2910"/>
+    <tag k="addr:postcode" v="98226-5608"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4655" visible="true" lon="-122.4449222055918" lat="48.77657308972787">
+    <tag k="addr:housenumber" v="2200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4656" visible="true" lon="-122.4444339351552" lat="48.77570696779469">
+    <tag k="addr:housenumber" v="3420"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-4657" visible="true" lon="-122.4449388651310" lat="48.77614327319445">
+    <tag k="addr:housenumber" v="3430"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-4658" visible="true" lon="-122.4572102201249" lat="48.77176130730870">
+    <tag k="addr:housenumber" v="3110"/>
+    <tag k="addr:postcode" v="98226-3540"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-4659" visible="true" lon="-122.4568202012898" lat="48.77192547800109">
+    <tag k="addr:housenumber" v="3116"/>
+    <tag k="addr:postcode" v="98226-3551"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-4660" visible="true" lon="-122.4567626106399" lat="48.77153754077613">
+    <tag k="addr:housenumber" v="3106"/>
+    <tag k="addr:postcode" v="98226-3540"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-4661" visible="true" lon="-122.4573455477910" lat="48.77157017732068">
+    <tag k="addr:housenumber" v="3102"/>
+    <tag k="addr:postcode" v="98226-3540"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-4662" visible="true" lon="-122.4538192722090" lat="48.77393730988292">
+    <tag k="addr:housenumber" v="3233"/>
+    <tag k="addr:postcode" v="98226-3652"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-4663" visible="true" lon="-122.4526371094787" lat="48.77191602802946">
+    <tag k="addr:housenumber" v="3128"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-4664" visible="true" lon="-122.4549394434458" lat="48.77388141275851">
+    <tag k="addr:housenumber" v="1466"/>
+    <tag k="addr:postcode" v="98226-5635"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4665" visible="true" lon="-122.4552465833327" lat="48.77383601206957">
+    <tag k="addr:housenumber" v="1462"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-4666" visible="true" lon="-122.4491040432548" lat="48.77219938422305">
+    <tag k="addr:housenumber" v="1865"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4667" visible="true" lon="-122.4490529512421" lat="48.77140426049728">
+    <tag k="addr:housenumber" v="1845"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4668" visible="true" lon="-122.4487906271165" lat="48.77217624116081">
+    <tag k="addr:housenumber" v="1875"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4669" visible="true" lon="-122.4484884040005" lat="48.77213992002850">
+    <tag k="addr:housenumber" v="1885"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4670" visible="true" lon="-122.4480713493275" lat="48.77225474802747">
+    <tag k="addr:housenumber" v="3125"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Howe Place"/>
+  </node>
+  <node id="-4671" visible="true" lon="-122.4476072605929" lat="48.77184634551889">
+    <tag k="addr:housenumber" v="3120"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Howe Place"/>
+  </node>
+  <node id="-4672" visible="true" lon="-122.4449343853546" lat="48.77047838043034">
+    <tag k="addr:housenumber" v="2940"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-4673" visible="true" lon="-122.4449345488502" lat="48.77067987533868">
+    <tag k="addr:housenumber" v="2950"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-4674" visible="true" lon="-122.4449414213656" lat="48.77081822471754">
+    <tag k="addr:housenumber" v="2960"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-4675" visible="true" lon="-122.4483909865020" lat="48.77138177851547">
+    <tag k="addr:housenumber" v="1985"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4676" visible="true" lon="-122.4498379980585" lat="48.77313757688455">
+    <tag k="addr:housenumber" v="3245"/>
+    <tag k="addr:postcode" v="98226-5656"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-4677" visible="true" lon="-122.4437832831229" lat="48.77249146852400">
+    <tag k="addr:housenumber" v="3201"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Newmarket Street"/>
+  </node>
+  <node id="-4678" visible="true" lon="-122.4341287676917" lat="48.77405018346426">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4679" visible="true" lon="-122.4337598809858" lat="48.76947154340889">
+    <tag k="addr:housenumber" v="2925"/>
+    <tag k="addr:postcode" v="98226-4217"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4680" visible="true" lon="-122.4385651222092" lat="48.77266990650840">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4681" visible="true" lon="-122.4357844653601" lat="48.77390349075900">
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-4682" visible="true" lon="-122.4319967340142" lat="48.76813491285886">
+    <tag k="addr:housenumber" v="2907"/>
+    <tag k="addr:postcode" v="98226-4252"/>
+    <tag k="addr:street" v="Vining Street"/>
+  </node>
+  <node id="-4683" visible="true" lon="-122.4334934223337" lat="48.76834463046207">
+    <tag k="addr:housenumber" v="2905"/>
+    <tag k="addr:postcode" v="98226-4217"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4684" visible="true" lon="-122.4336308650063" lat="48.76904866567060">
+    <tag k="addr:housenumber" v="2917"/>
+    <tag k="addr:postcode" v="98226-4217"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4685" visible="true" lon="-122.4324119952612" lat="48.76875892144050">
+    <tag k="addr:housenumber" v="2925"/>
+    <tag k="addr:postcode" v="98226-4252"/>
+    <tag k="addr:street" v="Vining Street"/>
+  </node>
+  <node id="-4686" visible="true" lon="-122.4326786437614" lat="48.77948118466925">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98226-5639"/>
+    <tag k="addr:street" v="Evergreen Avenue"/>
+  </node>
+  <node id="-4687" visible="true" lon="-122.4305726543380" lat="48.77470357337537">
+    <tag k="addr:housenumber" v="3347"/>
+    <tag k="addr:postcode" v="98226-4107"/>
+    <tag k="addr:street" v="Stonecrop Way"/>
+  </node>
+  <node id="-4688" visible="true" lon="-122.4304958059323" lat="48.77483548035344">
+    <tag k="addr:housenumber" v="3344"/>
+    <tag k="addr:postcode" v="98226-4107"/>
+    <tag k="addr:street" v="Stonecrop Way"/>
+  </node>
+  <node id="-4689" visible="true" lon="-122.4304422286680" lat="48.77283262275284">
+    <tag k="addr:housenumber" v="3200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Cedarside Court"/>
+  </node>
+  <node id="-4690" visible="true" lon="-122.4291904288600" lat="48.76489984842573">
+    <tag k="addr:housenumber" v="2626"/>
+    <tag k="addr:postcode" v="98226-4254"/>
+    <tag k="addr:street" v="West Crestline Drive"/>
+  </node>
+  <node id="-4691" visible="true" lon="-122.4301098755612" lat="48.76524554662765">
+    <tag k="addr:housenumber" v="2633"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Crestline Drive"/>
+  </node>
+  <node id="-4692" visible="true" lon="-122.4303445932726" lat="48.76329068204451">
+    <tag k="addr:housenumber" v="3219"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-4693" visible="true" lon="-122.4324349142283" lat="48.76318247928611">
+    <tag k="addr:housenumber" v="3115"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-4694" visible="true" lon="-122.4313297601500" lat="48.76704957296404">
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Vining Street"/>
+  </node>
+  <node id="-4695" visible="true" lon="-122.4327054987160" lat="48.76820111503495">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4696" visible="true" lon="-122.4327195786922" lat="48.76839830607219">
+    <tag k="addr:housenumber" v="2908"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4697" visible="true" lon="-122.4326906938403" lat="48.76799406453735">
+    <tag k="addr:housenumber" v="2900"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4698" visible="true" lon="-122.4326261609510" lat="48.76720787835271">
+    <tag k="addr:housenumber" v="2808"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Niagara Street"/>
+  </node>
+  <node id="-4699" visible="true" lon="-122.4313970902572" lat="48.77187179854975">
+    <tag k="addr:housenumber" v="3102"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Cedarside Court"/>
+  </node>
+  <node id="-4700" visible="true" lon="-122.4309063379542" lat="48.77214582641947">
+    <tag k="addr:housenumber" v="3106"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Cedarside Court"/>
+  </node>
+  <node id="-4701" visible="true" lon="-122.4308191639654" lat="48.77385181845786">
+    <tag k="addr:housenumber" v="3308"/>
+    <tag k="addr:postcode" v="98226-3884"/>
+    <tag k="addr:street" v="Cedarside Court"/>
+  </node>
+  <node id="-4702" visible="true" lon="-122.4307182580604" lat="48.77320948348662">
+    <tag k="addr:housenumber" v="3210"/>
+    <tag k="addr:postcode" v="98226-3883"/>
+    <tag k="addr:street" v="Cedarside Court"/>
+  </node>
+  <node id="-4703" visible="true" lon="-122.4310177409782" lat="48.77581098645197">
+    <tag k="addr:housenumber" v="3315"/>
+    <tag k="addr:postcode" v="98226-8618"/>
+    <tag k="addr:street" v="Sussex Drive"/>
+  </node>
+  <node id="-4704" visible="true" lon="-122.4306264613184" lat="48.77601785153003">
+    <tag k="addr:housenumber" v="3323"/>
+    <tag k="addr:postcode" v="98226-8618"/>
+    <tag k="addr:street" v="Sussex Drive"/>
+  </node>
+  <node id="-4705" visible="true" lon="-122.4310649130407" lat="48.77644114598466">
+    <tag k="addr:housenumber" v="3404"/>
+    <tag k="addr:postcode" v="98226-8690"/>
+    <tag k="addr:street" v="Sitka Court"/>
+  </node>
+  <node id="-4706" visible="true" lon="-122.4304389485320" lat="48.77717655853672">
+    <tag k="addr:housenumber" v="3300"/>
+    <tag k="addr:postcode" v="98226-8698"/>
+    <tag k="addr:street" v="Sydney Court"/>
+  </node>
 </osm>

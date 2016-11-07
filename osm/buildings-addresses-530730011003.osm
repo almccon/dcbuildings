@@ -14223,7 +14223,7 @@
     <nd ref="-5249"/>
     <nd ref="-5197"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Fairhaven Ms"/>
+    <tag k="name" v="Fairhaven Middle School"/>
     <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:postcode" v="98225-7907"/>
@@ -36971,5 +36971,990 @@
     <tag k="addr:housenumber" v="340"/>
     <tag k="addr:postcode" v="98229"/>
     <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-13430" visible="true" lon="-122.4958114961964" lat="48.70085816981424">
+    <tag k="addr:housenumber" v="3511"/>
+    <tag k="addr:postcode" v="98229-9335"/>
+    <tag k="addr:street" v="Chuckanut Avenue"/>
+  </node>
+  <node id="-13431" visible="true" lon="-122.4957663772022" lat="48.70118890034002">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98229-9324"/>
+    <tag k="addr:street" v="Rainier Avenue"/>
+  </node>
+  <node id="-13432" visible="true" lon="-122.4955442852898" lat="48.70160495714147">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Rainier Avenue"/>
+  </node>
+  <node id="-13433" visible="true" lon="-122.4963647049512" lat="48.70176731232148">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13434" visible="true" lon="-122.4975862610955" lat="48.70426796326337">
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13435" visible="true" lon="-122.4923962166046" lat="48.70159701665273">
+    <tag k="addr:housenumber" v="1915"/>
+    <tag k="addr:postcode" v="98229-9377"/>
+    <tag k="addr:street" v="Rainier Avenue"/>
+  </node>
+  <node id="-13436" visible="true" lon="-122.4926646985415" lat="48.70159976410855">
+    <tag k="addr:housenumber" v="1901"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Rainier Avenue"/>
+  </node>
+  <node id="-13437" visible="true" lon="-122.4930465409391" lat="48.70167491557888">
+    <tag k="addr:housenumber" v="1903"/>
+    <tag k="addr:postcode" v="98229-9377"/>
+    <tag k="addr:street" v="Rainier Avenue"/>
+  </node>
+  <node id="-13438" visible="true" lon="-122.4934695938586" lat="48.70168011428126">
+    <tag k="addr:housenumber" v="1821"/>
+    <tag k="addr:postcode" v="98229-9376"/>
+    <tag k="addr:street" v="Rainier Avenue"/>
+  </node>
+  <node id="-13439" visible="true" lon="-122.4921898275273" lat="48.70174581356476">
+    <tag k="addr:housenumber" v="2002"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13440" visible="true" lon="-122.4897165257128" lat="48.70186716680302">
+    <tag k="addr:housenumber" v="2090"/>
+    <tag k="addr:postcode" v="98229-9333"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13441" visible="true" lon="-122.4919918523578" lat="48.70189860237468">
+    <tag k="addr:housenumber" v="2004"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13442" visible="true" lon="-122.4926091519378" lat="48.70190350057791">
+    <tag k="addr:housenumber" v="1910"/>
+    <tag k="addr:postcode" v="98229-9333"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13443" visible="true" lon="-122.4936411889189" lat="48.70192522727528">
+    <tag k="addr:housenumber" v="1820"/>
+    <tag k="addr:postcode" v="98229-9382"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13444" visible="true" lon="-122.4894889359317" lat="48.70223037778212">
+    <tag k="addr:housenumber" v="3211"/>
+    <tag k="addr:postcode" v="98229-7014"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-13445" visible="true" lon="-122.4932772405453" lat="48.70239923303781">
+    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13446" visible="true" lon="-122.4894980732198" lat="48.70263874000389">
+    <tag k="addr:housenumber" v="3201"/>
+    <tag k="addr:postcode" v="98229-7014"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-13447" visible="true" lon="-122.4909926387140" lat="48.70264348322010">
+    <tag k="addr:housenumber" v="2101"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fairhaven Avenue"/>
+  </node>
+  <node id="-13448" visible="true" lon="-122.4939130386906" lat="48.70271722234467">
+    <tag k="addr:housenumber" v="3201"/>
+    <tag k="addr:postcode" v="98229-9344"/>
+    <tag k="addr:street" v="18th Street"/>
+  </node>
+  <node id="-13449" visible="true" lon="-122.4924375534188" lat="48.70280410912329">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98229-9325"/>
+    <tag k="addr:street" v="Quinault Avenue"/>
+  </node>
+  <node id="-13450" visible="true" lon="-122.4896674800273" lat="48.70289348518683">
+    <tag k="addr:housenumber" v="702"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-13451" visible="true" lon="-122.4930774204775" lat="48.70496106469954">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98229-9309"/>
+    <tag k="addr:street" v="Briza Court"/>
+  </node>
+  <node id="-13452" visible="true" lon="-122.4988586666882" lat="48.70484932111981">
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:postcode" v="98229-9364"/>
+    <tag k="addr:street" v="Sea Pines Lane"/>
+  </node>
+  <node id="-13453" visible="true" lon="-122.4961071726450" lat="48.70505594482574">
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="98229-9365"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13454" visible="true" lon="-122.4960824895338" lat="48.70568944306940">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="98229-9363"/>
+    <tag k="addr:street" v="Sea Pines Lane"/>
+  </node>
+  <node id="-13455" visible="true" lon="-122.4954052082824" lat="48.70575905110045">
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sea Pines Lane"/>
+  </node>
+  <node id="-13456" visible="true" lon="-122.4983726054710" lat="48.70631315406589">
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viewcrest Road"/>
+  </node>
+  <node id="-13457" visible="true" lon="-122.4987188247800" lat="48.70724827836870">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98229-6919"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-13458" visible="true" lon="-122.5060259491954" lat="48.71944163643519">
+    <tag k="addr:housenumber" v="1318"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13459" visible="true" lon="-122.5066408653272" lat="48.71948807684199">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="98225-7030"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13460" visible="true" lon="-122.5065451327125" lat="48.71949366202861">
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-13461" visible="true" lon="-122.5064520062607" lat="48.71949474741445">
+    <tag k="addr:housenumber" v="825"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-13462" visible="true" lon="-122.5060280148370" lat="48.71950450959890">
+    <tag k="addr:housenumber" v="1316"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13463" visible="true" lon="-122.5060236194069" lat="48.71956311961137">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13464" visible="true" lon="-122.5060264436285" lat="48.71962529107515">
+    <tag k="addr:housenumber" v="1312"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13465" visible="true" lon="-122.5060310048620" lat="48.71968377225038">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13466" visible="true" lon="-122.5062569738861" lat="48.71973038683149">
+    <tag k="addr:housenumber" v="1326"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13467" visible="true" lon="-122.5059493852844" lat="48.71976492988158">
+    <tag k="addr:housenumber" v="1308"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13468" visible="true" lon="-122.5062618777525" lat="48.71978666928597">
+    <tag k="addr:housenumber" v="1324"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13469" visible="true" lon="-122.5059508295139" lat="48.71981683496091">
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13470" visible="true" lon="-122.5062667501153" lat="48.71984339922437">
+    <tag k="addr:housenumber" v="1322"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13471" visible="true" lon="-122.5059528119127" lat="48.71987250103781">
+    <tag k="addr:housenumber" v="1304"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13472" visible="true" lon="-122.5062686810066" lat="48.71990216198440">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13473" visible="true" lon="-122.5059610675223" lat="48.71992807598313">
+    <tag k="addr:housenumber" v="1302"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="9th Street"/>
+  </node>
+  <node id="-13474" visible="true" lon="-122.5076197065489" lat="48.71995645667142">
+    <tag k="addr:housenumber" v="720"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13475" visible="true" lon="-122.5065616257808" lat="48.71998347425260">
+    <tag k="addr:housenumber" v="816"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13476" visible="true" lon="-122.5066580329587" lat="48.71998366109256">
+    <tag k="addr:housenumber" v="818"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13477" visible="true" lon="-122.5063939251086" lat="48.71998386604220">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13478" visible="true" lon="-122.5063117337934" lat="48.71998432805469">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13479" visible="true" lon="-122.5064754781848" lat="48.71998454107808">
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13480" visible="true" lon="-122.5062277381581" lat="48.71998800365366">
+    <tag k="addr:housenumber" v="806"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13481" visible="true" lon="-122.5061464093037" lat="48.71998951900259">
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13482" visible="true" lon="-122.5060645749092" lat="48.71999062511631">
+    <tag k="addr:housenumber" v="802"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13483" visible="true" lon="-122.5105034043845" lat="48.72172402166161">
+    <tag k="addr:housenumber" v="551"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13484" visible="true" lon="-122.5104915694414" lat="48.71960719496322">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13485" visible="true" lon="-122.5100357923584" lat="48.71960691367936">
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13486" visible="true" lon="-122.5096619211465" lat="48.71740040847754">
+    <tag k="addr:housenumber" v="1608"/>
+    <tag k="addr:postcode" v="98225-7363"/>
+    <tag k="addr:street" v="6th Street"/>
+  </node>
+  <node id="-13487" visible="true" lon="-122.5095758842725" lat="48.71960696359323">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="6th Street"/>
+  </node>
+  <node id="-13488" visible="true" lon="-122.5095430478637" lat="48.71664206839946">
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-13489" visible="true" lon="-122.5093964484669" lat="48.71664955587342">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="6th Street"/>
+  </node>
+  <node id="-13490" visible="true" lon="-122.5085774551236" lat="48.71623579366079">
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:postcode" v="98225-7732"/>
+    <tag k="addr:street" v="Cowgill Avenue"/>
+  </node>
+  <node id="-13491" visible="true" lon="-122.5085152000848" lat="48.71784434396564">
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:postcode" v="98225-7314"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-13492" visible="true" lon="-122.5082022804728" lat="48.71878564426832">
+    <tag k="addr:housenumber" v="617"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Larrabee Avenue"/>
+  </node>
+  <node id="-13493" visible="true" lon="-122.5081152268642" lat="48.71954000526618">
+    <tag k="addr:housenumber" v="640"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13494" visible="true" lon="-122.5089455387735" lat="48.71707215103616">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98225-7346"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-13495" visible="true" lon="-122.5089561219179" lat="48.71574453157197">
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:postcode" v="98225-7749"/>
+    <tag k="addr:street" v="Bayside Place"/>
+  </node>
+  <node id="-13496" visible="true" lon="-122.5087090988683" lat="48.71967276323086">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="6th Street"/>
+  </node>
+  <node id="-13497" visible="true" lon="-122.5161886381705" lat="48.71653520543405">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13498" visible="true" lon="-122.5157998886877" lat="48.71618031407869">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13499" visible="true" lon="-122.5134390333024" lat="48.71951698306579">
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-13500" visible="true" lon="-122.5111934858755" lat="48.71718174878180">
+    <tag k="addr:housenumber" v="1609"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="4th Street"/>
+  </node>
+  <node id="-13501" visible="true" lon="-122.5110882967979" lat="48.71996184368074">
+    <tag k="addr:housenumber" v="402"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-13502" visible="true" lon="-122.5171486925182" lat="48.71668854265588">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13503" visible="true" lon="-122.5166911971208" lat="48.71669818253384">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13504" visible="true" lon="-122.5154063894851" lat="48.71595735970284">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13505" visible="true" lon="-122.5138682948802" lat="48.71884711715608">
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-13506" visible="true" lon="-122.5040383726003" lat="48.71878797051927">
+    <tag k="addr:housenumber" v="1007"/>
+    <tag k="addr:postcode" v="98225-7338"/>
+    <tag k="addr:street" v="Larrabee Avenue"/>
+  </node>
+  <node id="-13507" visible="true" lon="-122.5038515185473" lat="48.71878818774908">
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:postcode" v="98225-7338"/>
+    <tag k="addr:street" v="Larrabee Avenue"/>
+  </node>
+  <node id="-13508" visible="true" lon="-122.5040139997034" lat="48.71658861412406">
+    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:postcode" v="98225-7355"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-13509" visible="true" lon="-122.5022354466041" lat="48.71664800467313">
+    <tag k="addr:housenumber" v="1750"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-13510" visible="true" lon="-122.5041101987058" lat="48.71707538196635">
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="10th Street"/>
+  </node>
+  <node id="-13511" visible="true" lon="-122.5045191281689" lat="48.71769240469781">
+    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-13512" visible="true" lon="-122.5042137506535" lat="48.71830481769451">
+    <tag k="addr:housenumber" v="1002"/>
+    <tag k="addr:postcode" v="98225-7339"/>
+    <tag k="addr:street" v="Larrabee Avenue"/>
+  </node>
+  <node id="-13513" visible="true" lon="-122.5035039838011" lat="48.71656785423694">
+    <tag k="addr:housenumber" v="1012"/>
+    <tag k="addr:postcode" v="98225-7355"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-13514" visible="true" lon="-122.5041532916006" lat="48.71737852779172">
+    <tag k="addr:housenumber" v="1601"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="10th Street"/>
+  </node>
+  <node id="-13515" visible="true" lon="-122.5046319566529" lat="48.71574660238912">
+    <tag k="addr:housenumber" v="918"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cowgill Avenue"/>
+  </node>
+  <node id="-13516" visible="true" lon="-122.5063584865585" lat="48.71574574691588">
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="98225-7706"/>
+    <tag k="addr:street" v="Bayside Place"/>
+  </node>
+  <node id="-13517" visible="true" lon="-122.5048499579754" lat="48.71623624950178">
+    <tag k="addr:housenumber" v="1712"/>
+    <tag k="addr:postcode" v="98225-7307"/>
+    <tag k="addr:street" v="10th Street"/>
+  </node>
+  <node id="-13518" visible="true" lon="-122.5051458299337" lat="48.71623802773159">
+    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:postcode" v="98225-7738"/>
+    <tag k="addr:street" v="Cowgill Avenue"/>
+  </node>
+  <node id="-13519" visible="true" lon="-122.5054847613941" lat="48.71623891166249">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98225-7738"/>
+    <tag k="addr:street" v="Cowgill Avenue"/>
+  </node>
+  <node id="-13520" visible="true" lon="-122.5063740237103" lat="48.71706339389878">
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:postcode" v="98225-7350"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-13521" visible="true" lon="-122.5050655707515" lat="48.71736459288896">
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:postcode" v="98225-7321"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-13522" visible="true" lon="-122.5059303695388" lat="48.71736833271033">
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:postcode" v="98225-7319"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-13523" visible="true" lon="-122.5065223936933" lat="48.71790949878834">
+    <tag k="addr:housenumber" v="801"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-13524" visible="true" lon="-122.5064899535431" lat="48.71445120679180">
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="98225-7707"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13525" visible="true" lon="-122.5048457138630" lat="48.71253547174688">
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Underhill Road"/>
+  </node>
+  <node id="-13526" visible="true" lon="-122.5079757892077" lat="48.71506147406986">
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:postcode" v="98225-7750"/>
+    <tag k="addr:street" v="Bayside Place"/>
+  </node>
+  <node id="-13527" visible="true" lon="-122.5179622169489" lat="48.71267597876943">
+    <tag k="addr:housenumber" v="334"/>
+    <tag k="addr:postcode" v="98225-7802"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13528" visible="true" lon="-122.5160488686523" lat="48.71238127647871">
+    <tag k="addr:housenumber" v="343"/>
+    <tag k="addr:postcode" v="98225-7801"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13529" visible="true" lon="-122.5155928696462" lat="48.71516865338322">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="98225-7752"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13530" visible="true" lon="-122.5152293122256" lat="48.71181329074405">
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13531" visible="true" lon="-122.5151861247065" lat="48.71142132219295">
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13532" visible="true" lon="-122.5150594311186" lat="48.71128552758076">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13533" visible="true" lon="-122.5141596942435" lat="48.71491412544571">
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:postcode" v="98225-7709"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13534" visible="true" lon="-122.5169298117202" lat="48.71515615699839">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Shorewood Drive"/>
+  </node>
+  <node id="-13535" visible="true" lon="-122.5151743876656" lat="48.71253347486586">
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13536" visible="true" lon="-122.5109472339859" lat="48.71218522715535">
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:postcode" v="98225-7720"/>
+    <tag k="addr:street" v="Hawthorn Road"/>
+  </node>
+  <node id="-13537" visible="true" lon="-122.5107226697922" lat="48.71512715605890">
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:postcode" v="98225-7709"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13538" visible="true" lon="-122.5103282140382" lat="48.71462264059087">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="98225-7710"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13539" visible="true" lon="-122.5100826813425" lat="48.71111697057290">
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:postcode" v="98225-7824"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13540" visible="true" lon="-122.5092803435486" lat="48.71142188637566">
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13541" visible="true" lon="-122.5088807026727" lat="48.71476834140019">
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:postcode" v="98225-7700"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13542" visible="true" lon="-122.5098300645598" lat="48.71496356453741">
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13543" visible="true" lon="-122.5022837903816" lat="48.71253416647311">
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="98225-7916"/>
+    <tag k="addr:street" v="Underhill Road"/>
+  </node>
+  <node id="-13544" visible="true" lon="-122.5006771249225" lat="48.71422628109165">
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Parkridge Road"/>
+  </node>
+  <node id="-13545" visible="true" lon="-122.4992611842601" lat="48.70740715761708">
+    <tag k="addr:housenumber" v="506"/>
+    <tag k="addr:postcode" v="98229-6919"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-13546" visible="true" lon="-122.5140567396026" lat="48.70669938481645">
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="98225-7806"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13547" visible="true" lon="-122.5139104061562" lat="48.70640732877813">
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:postcode" v="98225-7806"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13548" visible="true" lon="-122.5131396628281" lat="48.71002802954226">
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13549" visible="true" lon="-122.5111152355927" lat="48.70977789458127">
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13550" visible="true" lon="-122.5104948342946" lat="48.70804676762372">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98225-7826"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13551" visible="true" lon="-122.5103737794066" lat="48.71076177591248">
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="98225-7824"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13552" visible="true" lon="-122.5103668988535" lat="48.70925627734601">
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13553" visible="true" lon="-122.5103045256973" lat="48.70963907813238">
+    <tag k="addr:housenumber" v="426"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13554" visible="true" lon="-122.5096215372099" lat="48.70897559716045">
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13555" visible="true" lon="-122.5090330813380" lat="48.70914501057712">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Willow Road"/>
+  </node>
+  <node id="-13556" visible="true" lon="-122.5089650551695" lat="48.70828623311728">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Clark Road"/>
+  </node>
+  <node id="-13557" visible="true" lon="-122.5070558315640" lat="48.71075702343251">
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Willow Road Place"/>
+  </node>
+  <node id="-13558" visible="true" lon="-122.5057344896651" lat="48.70846598989384">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98225-7847"/>
+    <tag k="addr:street" v="Lyla Lane"/>
+  </node>
+  <node id="-13559" visible="true" lon="-122.5050808469707" lat="48.70975405920527">
+    <tag k="addr:housenumber" v="602"/>
+    <tag k="addr:postcode" v="98225-7919"/>
+    <tag k="addr:street" v="Willow Road"/>
+  </node>
+  <node id="-13560" visible="true" lon="-122.5065919766685" lat="48.71054629335109">
+    <tag k="addr:housenumber" v="403"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Willow Road Place"/>
+  </node>
+  <node id="-13561" visible="true" lon="-122.5015024854375" lat="48.70898134240374">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225-7860"/>
+    <tag k="addr:street" v="Willow Ct S"/>
+  </node>
+  <node id="-13562" visible="true" lon="-122.5011905498316" lat="48.70957552883282">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225-7861"/>
+    <tag k="addr:street" v="Willow Ct S"/>
+  </node>
+  <node id="-13563" visible="true" lon="-122.5011272900412" lat="48.70928829707533">
+    <tag k="addr:housenumber" v="706"/>
+    <tag k="addr:postcode" v="98225-7861"/>
+    <tag k="addr:street" v="Willow Ct S"/>
+  </node>
+  <node id="-13564" visible="true" lon="-122.5010798324904" lat="48.70867404488469">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-13565" visible="true" lon="-122.5065698987045" lat="48.70634432936617">
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:postcode" v="98225-7855"/>
+    <tag k="addr:street" v="Canyon View Drive"/>
+  </node>
+  <node id="-13566" visible="true" lon="-122.5072057991657" lat="48.70656053266228">
+    <tag k="addr:housenumber" v="504"/>
+    <tag k="addr:postcode" v="98225-7832"/>
+    <tag k="addr:street" v="Linden Road"/>
+  </node>
+  <node id="-13567" visible="true" lon="-122.5053769018721" lat="48.70677245546310">
+    <tag k="addr:housenumber" v="530"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Linden Road"/>
+  </node>
+  <node id="-13568" visible="true" lon="-122.5021188914823" lat="48.70688314566136">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-13569" visible="true" lon="-122.5016492877400" lat="48.70707686059892">
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cross Street"/>
+  </node>
+  <node id="-13570" visible="true" lon="-122.5060527844096" lat="48.70768883578870">
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:postcode" v="98225-7820"/>
+    <tag k="addr:street" v="Everglade Road"/>
+  </node>
+  <node id="-13571" visible="true" lon="-122.5043239721389" lat="48.70587739210607">
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Linden Road"/>
+  </node>
+  <node id="-13572" visible="true" lon="-122.5040549995259" lat="48.70655486221882">
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Linden Road"/>
+  </node>
+  <node id="-13573" visible="true" lon="-122.5043053871202" lat="48.70727946082270">
+    <tag k="addr:housenumber" v="605"/>
+    <tag k="addr:postcode" v="98225-7902"/>
+    <tag k="addr:street" v="Linden Road"/>
+  </node>
+  <node id="-13574" visible="true" lon="-122.5114493583834" lat="48.70279782187318">
+    <tag k="addr:housenumber" v="705"/>
+    <tag k="addr:postcode" v="98225-7845"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13575" visible="true" lon="-122.5106089061371" lat="48.70285723275660">
+    <tag k="addr:housenumber" v="702"/>
+    <tag k="addr:postcode" v="98225-8706"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13576" visible="true" lon="-122.5099273599462" lat="48.70307789226516">
+    <tag k="addr:housenumber" v="642"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13577" visible="true" lon="-122.5080816247477" lat="48.70375617098966">
+    <tag k="addr:housenumber" v="662"/>
+    <tag k="addr:postcode" v="98225-7842"/>
+    <tag k="addr:street" v="Clark Road"/>
+  </node>
+  <node id="-13578" visible="true" lon="-122.5096898695388" lat="48.70445475227835">
+    <tag k="addr:housenumber" v="624"/>
+    <tag k="addr:postcode" v="98225-7828"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13579" visible="true" lon="-122.5087872344597" lat="48.70483303982036">
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13580" visible="true" lon="-122.5096675547515" lat="48.70497497363682">
+    <tag k="addr:housenumber" v="616"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13581" visible="true" lon="-122.5107677917068" lat="48.70565656115007">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98225-7813"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13582" visible="true" lon="-122.5091067655501" lat="48.70585789632469">
+    <tag k="addr:housenumber" v="603"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13583" visible="true" lon="-122.5137401337284" lat="48.70611781147782">
+    <tag k="addr:housenumber" v="528"/>
+    <tag k="addr:postcode" v="98225-7806"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13584" visible="true" lon="-122.5096871461825" lat="48.70506680815744">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13585" visible="true" lon="-122.5080077343588" lat="48.70519985372399">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98225-7842"/>
+    <tag k="addr:street" v="Clark Road"/>
+  </node>
+  <node id="-13586" visible="true" lon="-122.5088661524205" lat="48.70344856025098">
+    <tag k="addr:housenumber" v="635"/>
+    <tag k="addr:postcode" v="98225-7827"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13587" visible="true" lon="-122.5092918190124" lat="48.70264511356378">
+    <tag k="addr:housenumber" v="703"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13588" visible="true" lon="-122.5074473293001" lat="48.69139609137026">
+    <tag k="addr:housenumber" v="4668"/>
+    <tag k="addr:postcode" v="98225-7830"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13589" visible="true" lon="-122.5048925044501" lat="48.70182045935539">
+    <tag k="addr:housenumber" v="352"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Viewcrest Road"/>
+  </node>
+  <node id="-13590" visible="true" lon="-122.5018738144888" lat="48.70250810096544">
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13591" visible="true" lon="-122.5019448122151" lat="48.70294130396432">
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13592" visible="true" lon="-122.5006121213785" lat="48.70304931610305">
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:postcode" v="98229-9367"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13593" visible="true" lon="-122.5019980034723" lat="48.70329838892063">
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13594" visible="true" lon="-122.5007322575699" lat="48.70382782167622">
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sea Pines Road"/>
+  </node>
+  <node id="-13595" visible="true" lon="-122.5043122344695" lat="48.70540601021563">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Linden Road"/>
+  </node>
+  <node id="-13596" visible="true" lon="-122.5044807603688" lat="48.70387680450561">
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:postcode" v="98229-8975"/>
+    <tag k="addr:street" v="Viewcrest Road"/>
+  </node>
+  <node id="-13597" visible="true" lon="-122.5003447160073" lat="48.70473097004120">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98229-8923"/>
+    <tag k="addr:street" v="Crest Lane"/>
+  </node>
+  <node id="-13598" visible="true" lon="-122.5055595309854" lat="48.70288090384211">
+    <tag k="addr:housenumber" v="358"/>
+    <tag k="addr:postcode" v="98229-8975"/>
+    <tag k="addr:street" v="Viewcrest Road"/>
+  </node>
+  <node id="-13599" visible="true" lon="-122.5097759120676" lat="48.69480755504328">
+    <tag k="addr:housenumber" v="4600"/>
+    <tag k="addr:postcode" v="98225-7830"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13600" visible="true" lon="-122.5146540532239" lat="48.70110340074532">
+    <tag k="addr:housenumber" v="826"/>
+    <tag k="addr:postcode" v="98225-7829"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13601" visible="true" lon="-122.5117509353174" lat="48.70194233337480">
+    <tag k="addr:housenumber" v="716"/>
+    <tag k="addr:postcode" v="98225-8704"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13602" visible="true" lon="-122.5084174819395" lat="48.70214229889014">
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:postcode" v="98225-8702"/>
+    <tag k="addr:street" v="South Clarkwood Drive"/>
+  </node>
+  <node id="-13603" visible="true" lon="-122.5102455569588" lat="48.69892940069381">
+    <tag k="addr:housenumber" v="403"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Arbutus Place"/>
+  </node>
+  <node id="-13604" visible="true" lon="-122.5106695699264" lat="48.69932903753573">
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Arbutus Place"/>
+  </node>
+  <node id="-13605" visible="true" lon="-122.5084714000298" lat="48.69968890350840">
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Arbutus Place"/>
+  </node>
+  <node id="-13606" visible="true" lon="-122.5096197190649" lat="48.69962053376833">
+    <tag k="addr:housenumber" v="409"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Arbutus Place"/>
+  </node>
+  <node id="-13607" visible="true" lon="-122.5115919762924" lat="48.69943114422198">
+    <tag k="addr:housenumber" v="737"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13608" visible="true" lon="-122.5101985853951" lat="48.69965385600634">
+    <tag k="addr:housenumber" v="407"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Arbutus Place"/>
+  </node>
+  <node id="-13609" visible="true" lon="-122.5101240157722" lat="48.70089878859014">
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:postcode" v="98225-8702"/>
+    <tag k="addr:street" v="South Clarkwood Drive"/>
+  </node>
+  <node id="-13610" visible="true" lon="-122.5096274668866" lat="48.70038450097774">
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South Clarkwood Drive"/>
+  </node>
+  <node id="-13611" visible="true" lon="-122.5145109919165" lat="48.70222760081739">
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13612" visible="true" lon="-122.5138717015713" lat="48.70077832165618">
+    <tag k="addr:housenumber" v="834"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13613" visible="true" lon="-122.5142892699806" lat="48.70256253914976">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13614" visible="true" lon="-122.5103177364105" lat="48.69834166046994">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225-8703"/>
+    <tag k="addr:street" v="Arbutus Place"/>
+  </node>
+  <node id="-13615" visible="true" lon="-122.5119979251257" lat="48.69999854785615">
+    <tag k="addr:housenumber" v="731"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Fieldston Road"/>
+  </node>
+  <node id="-13616" visible="true" lon="-122.5129953572794" lat="48.70109420754633">
+    <tag k="addr:housenumber" v="837"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13617" visible="true" lon="-122.5142937904834" lat="48.70091752244770">
+    <tag k="addr:housenumber" v="830"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13618" visible="true" lon="-122.5127055354523" lat="48.70050703507174">
+    <tag k="addr:housenumber" v="842"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13619" visible="true" lon="-122.5145806378560" lat="48.70187813862844">
+    <tag k="addr:housenumber" v="818"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13620" visible="true" lon="-122.5107314072102" lat="48.70072882015266">
+    <tag k="addr:housenumber" v="414"/>
+    <tag k="addr:postcode" v="98225-8702"/>
+    <tag k="addr:street" v="South Clarkwood Drive"/>
+  </node>
+  <node id="-13621" visible="true" lon="-122.5146472704579" lat="48.70155037732751">
+    <tag k="addr:housenumber" v="822"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13622" visible="true" lon="-122.5133473413905" lat="48.70138082487028">
+    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13623" visible="true" lon="-122.5134199536028" lat="48.70058115184082">
+    <tag k="addr:housenumber" v="838"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Briar Road"/>
+  </node>
+  <node id="-13624" visible="true" lon="-122.5135719053323" lat="48.70163419204513">
+    <tag k="addr:housenumber" v="708"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13625" visible="true" lon="-122.5135494142573" lat="48.70193170501297">
+    <tag k="addr:housenumber" v="704"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayside Road"/>
+  </node>
+  <node id="-13626" visible="true" lon="-122.5088703328957" lat="48.70203323777881">
+    <tag k="addr:housenumber" v="407"/>
+    <tag k="addr:postcode" v="98225-8702"/>
+    <tag k="addr:street" v="South Clarkwood Drive"/>
   </node>
 </osm>

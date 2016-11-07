@@ -9165,4 +9165,284 @@
     <tag k="addr:postcode" v="98225-7427"/>
     <tag k="addr:street" v="Larrabee Avenue"/>
   </node>
+  <node id="-3093" visible="true" lon="-122.4906452398760" lat="48.71708082446165">
+    <tag k="addr:housenumber" v="2017"/>
+    <tag k="addr:postcode" v="98225-7542"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3094" visible="true" lon="-122.5018780345916" lat="48.72072108195382">
+    <tag k="addr:housenumber" v="1204"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-3095" visible="true" lon="-122.4968681698723" lat="48.72048680706305">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98225-7112"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-3096" visible="true" lon="-122.4996403990326" lat="48.72031951231367">
+    <tag k="addr:housenumber" v="1221"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-3097" visible="true" lon="-122.4994230453390" lat="48.72028273739895">
+    <tag k="addr:housenumber" v="1403"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3098" visible="true" lon="-122.4983206946407" lat="48.72080340432807">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98225-7111"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-3099" visible="true" lon="-122.4980957535476" lat="48.72061336264590">
+    <tag k="addr:housenumber" v="1205"/>
+    <tag k="addr:postcode" v="98225-7111"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-3100" visible="true" lon="-122.4976482706061" lat="48.72072256328917">
+    <tag k="addr:housenumber" v="1518"/>
+    <tag k="addr:postcode" v="98225-7131"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-3101" visible="true" lon="-122.4974307421227" lat="48.72072053771423">
+    <tag k="addr:housenumber" v="1522"/>
+    <tag k="addr:postcode" v="98225-7131"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-3102" visible="true" lon="-122.4920492177651" lat="48.71954876239145">
+    <tag k="addr:housenumber" v="1915"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3103" visible="true" lon="-122.4938508729151" lat="48.71958804169630">
+    <tag k="addr:housenumber" v="1807"/>
+    <tag k="addr:postcode" v="98225-7215"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3104" visible="true" lon="-122.4926385424621" lat="48.71973939293639">
+    <tag k="addr:housenumber" v="1904"/>
+    <tag k="addr:postcode" v="98225-6741"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3105" visible="true" lon="-122.4942005477287" lat="48.72065717189897">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98225-6724"/>
+    <tag k="addr:street" v="18th Street"/>
+  </node>
+  <node id="-3106" visible="true" lon="-122.4925281984167" lat="48.72037238708496">
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:postcode" v="98225-6742"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3107" visible="true" lon="-122.5003842525182" lat="48.71876995487003">
+    <tag k="addr:housenumber" v="1309"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Larrabee Avenue"/>
+  </node>
+  <node id="-3108" visible="true" lon="-122.5007434741883" lat="48.71885856599003">
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-3109" visible="true" lon="-122.5006822604971" lat="48.71906423802806">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-3110" visible="true" lon="-122.5018427705524" lat="48.71939220591833">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3111" visible="true" lon="-122.5014280305453" lat="48.71939239945164">
+    <tag k="addr:housenumber" v="1231"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3112" visible="true" lon="-122.5011813489691" lat="48.71940032353483">
+    <tag k="addr:housenumber" v="1249"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3113" visible="true" lon="-122.5006834879607" lat="48.71988613907446">
+    <tag k="addr:housenumber" v="1304"/>
+    <tag k="addr:postcode" v="98225-7116"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3114" visible="true" lon="-122.5004636487142" lat="48.71999050079001">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98225-7116"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3115" visible="true" lon="-122.5003891033862" lat="48.71999156946765">
+    <tag k="addr:housenumber" v="1316"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3116" visible="true" lon="-122.5016507037166" lat="48.72030817457615">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98225-7125"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3117" visible="true" lon="-122.5002851268569" lat="48.71999223698451">
+    <tag k="addr:housenumber" v="1312"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3118" visible="true" lon="-122.5014996304268" lat="48.71997679986871">
+    <tag k="addr:housenumber" v="1212"/>
+    <tag k="addr:postcode" v="98225-7139"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3119" visible="true" lon="-122.4960978021155" lat="48.71907943712186">
+    <tag k="addr:housenumber" v="1614"/>
+    <tag k="addr:postcode" v="98225-7102"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3120" visible="true" lon="-122.4952170580565" lat="48.71877839370124">
+    <tag k="addr:housenumber" v="1707"/>
+    <tag k="addr:postcode" v="98225-7205"/>
+    <tag k="addr:street" v="Larrabee Avenue"/>
+  </node>
+  <node id="-3121" visible="true" lon="-122.4952185224471" lat="48.71988952437479">
+    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:postcode" v="98225-6745"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3122" visible="true" lon="-122.4993697658037" lat="48.71959901083131">
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3123" visible="true" lon="-122.4961707505673" lat="48.71960038554227">
+    <tag k="addr:housenumber" v="1617"/>
+    <tag k="addr:postcode" v="98225-7101"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3124" visible="true" lon="-122.4952513397398" lat="48.71907974838312">
+    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:postcode" v="98225-7214"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-3125" visible="true" lon="-122.4960467584684" lat="48.71988892548291">
+    <tag k="addr:housenumber" v="1618"/>
+    <tag k="addr:postcode" v="98225-7134"/>
+    <tag k="addr:street" v="Harris Avenue"/>
+  </node>
+  <node id="-3126" visible="true" lon="-122.4946241957209" lat="48.71882671105426">
+    <tag k="addr:housenumber" v="1412"/>
+    <tag k="addr:postcode" v="98225-7201"/>
+    <tag k="addr:street" v="18th Street"/>
+  </node>
+  <node id="-3127" visible="true" lon="-122.4934020539543" lat="48.71733457212908">
+    <tag k="addr:housenumber" v="1818"/>
+    <tag k="addr:postcode" v="98225-7524"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-3128" visible="true" lon="-122.4928452751213" lat="48.71658640000501">
+    <tag k="addr:housenumber" v="1902"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3129" visible="true" lon="-122.4926775603385" lat="48.71658925218308">
+    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3130" visible="true" lon="-122.4907488229455" lat="48.71708099319149">
+    <tag k="addr:housenumber" v="2015"/>
+    <tag k="addr:postcode" v="98225-7542"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3131" visible="true" lon="-122.4925179917658" lat="48.71659068906452">
+    <tag k="addr:housenumber" v="1910"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3132" visible="true" lon="-122.4923435665594" lat="48.71659275863956">
+    <tag k="addr:housenumber" v="1914"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3133" visible="true" lon="-122.4928590257171" lat="48.71634010299630">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3134" visible="true" lon="-122.4926713369829" lat="48.71633894083134">
+    <tag k="addr:housenumber" v="1904"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3135" visible="true" lon="-122.4925191926147" lat="48.71633943258557">
+    <tag k="addr:housenumber" v="1908"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3136" visible="true" lon="-122.4923642198897" lat="48.71634172653322">
+    <tag k="addr:housenumber" v="1912"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3137" visible="true" lon="-122.4922227169857" lat="48.71639052257615">
+    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3138" visible="true" lon="-122.4921043683821" lat="48.71646375021948">
+    <tag k="addr:housenumber" v="1920"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3139" visible="true" lon="-122.4920526989085" lat="48.71655409669467">
+    <tag k="addr:housenumber" v="1924"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3140" visible="true" lon="-122.4920539909733" lat="48.71665313107260">
+    <tag k="addr:housenumber" v="1928"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cascadia Lane"/>
+  </node>
+  <node id="-3141" visible="true" lon="-122.5018311432876" lat="48.71824091858196">
+    <tag k="addr:housenumber" v="1501"/>
+    <tag k="addr:postcode" v="98225-7419"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-3142" visible="true" lon="-122.4967127638754" lat="48.71740287049565">
+    <tag k="addr:housenumber" v="1606"/>
+    <tag k="addr:postcode" v="98225-7408"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-3143" visible="true" lon="-122.4961695903864" lat="48.71698961959830">
+    <tag k="addr:housenumber" v="1619"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3144" visible="true" lon="-122.4960419604439" lat="48.71740761254736">
+    <tag k="addr:housenumber" v="1618"/>
+    <tag k="addr:postcode" v="98225-7408"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-3145" visible="true" lon="-122.4959972218326" lat="48.71697645717475">
+    <tag k="addr:housenumber" v="1623"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3146" visible="true" lon="-122.4959881381273" lat="48.71711695480438">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-3147" visible="true" lon="-122.4954412163109" lat="48.71740797636613">
+    <tag k="addr:housenumber" v="1704"/>
+    <tag k="addr:postcode" v="98225-7522"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-3148" visible="true" lon="-122.4968608080408" lat="48.71739884851353">
+    <tag k="addr:housenumber" v="1603"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
 </osm>

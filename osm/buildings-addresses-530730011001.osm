@@ -11875,14 +11875,22 @@
   <node id="-4240" visible="true" lon="-122.4971151755778" lat="48.73403077685614"/>
   <node id="-4241" visible="true" lon="-122.4970238546627" lat="48.73398100215498"/>
   <node id="-4242" visible="true" lon="-122.4970596004937" lat="48.73395349468786"/>
-  <node id="-4243" visible="true" lon="-122.4970990563466" lat="48.73397788028862"/>
+  <node id="-4243" visible="true" lon="-122.4970990563466" lat="48.73397788028862">
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:postcode" v="98225-5804"/>
+    <tag k="addr:street" v="Forest Lane"/>
+  </node>
   <node id="-4244" visible="true" lon="-122.4971521498411" lat="48.73393864763330"/>
   <node id="-4245" visible="true" lon="-122.4972446398568" lat="48.73399020082126"/>
   <node id="-4246" visible="true" lon="-122.4972277571995" lat="48.73400109454867"/>
   <node id="-4247" visible="true" lon="-122.4972748237259" lat="48.73402822788936"/>
   <node id="-4248" visible="true" lon="-122.4972706300676" lat="48.73403183982124"/>
   <node id="-4249" visible="true" lon="-122.4973078277996" lat="48.73405269761720"/>
-  <node id="-4250" visible="true" lon="-122.4972585368342" lat="48.73408974694141"/>
+  <node id="-4250" visible="true" lon="-122.4972585368342" lat="48.73408974694141">
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:postcode" v="98225-5825"/>
+    <tag k="addr:street" v="South State Street"/>
+  </node>
   <node id="-4251" visible="true" lon="-122.4972703655620" lat="48.73409828354647"/>
   <node id="-4252" visible="true" lon="-122.4972089038685" lat="48.73414686704547"/>
   <node id="-4253" visible="true" lon="-122.4971868293948" lat="48.73413416860746"/>
@@ -11894,7 +11902,11 @@
   <node id="-4259" visible="true" lon="-122.4970513629140" lat="48.73414500543861"/>
   <node id="-4260" visible="true" lon="-122.4970355758338" lat="48.73415659763243"/>
   <node id="-4261" visible="true" lon="-122.4969478278126" lat="48.73410011401445"/>
-  <node id="-4262" visible="true" lon="-122.4969960971790" lat="48.73406603953843"/>
+  <node id="-4262" visible="true" lon="-122.4969960971790" lat="48.73406603953843">
+    <tag k="addr:housenumber" v="242"/>
+    <tag k="addr:postcode" v="98225-5804"/>
+    <tag k="addr:street" v="Forest Lane"/>
+  </node>
   <node id="-4263" visible="true" lon="-122.4969489195031" lat="48.73403903809736"/>
   <node id="-4264" visible="true" lon="-122.4969849875378" lat="48.73401210889266"/>
   <way id="-516" visible="true">
@@ -27124,5 +27136,355 @@
     <tag k="addr:housenumber" v="800"/>
     <tag k="addr:postcode" v="98225-6219"/>
     <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-9685" visible="true" lon="-122.4858599347633" lat="48.74280801153821">
+    <tag k="addr:housenumber" v="711"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9686" visible="true" lon="-122.4857250243241" lat="48.74288411510722">
+    <tag k="addr:housenumber" v="721"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9687" visible="true" lon="-122.4855746076547" lat="48.74335959023487">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wharf Street"/>
+  </node>
+  <node id="-9688" visible="true" lon="-122.4916556454907" lat="48.74115770871092">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-9689" visible="true" lon="-122.4910837426567" lat="48.74142849788534">
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-9690" visible="true" lon="-122.4902468127662" lat="48.73914850199868">
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:postcode" v="98225-5328"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9691" visible="true" lon="-122.4883536622265" lat="48.73905400147400">
+    <tag k="addr:housenumber" v="422"/>
+    <tag k="addr:postcode" v="98225-5311"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-9692" visible="true" lon="-122.4906723628422" lat="48.73746434958131">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98225-5309"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-9693" visible="true" lon="-122.4897295501505" lat="48.73809842320648">
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-9694" visible="true" lon="-122.4902390581946" lat="48.73691152328833">
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Terrace"/>
+  </node>
+  <node id="-9695" visible="true" lon="-122.4903970590515" lat="48.73767799825575">
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="98225-5309"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-9696" visible="true" lon="-122.4899405096993" lat="48.73801540409552">
+    <tag k="addr:housenumber" v="328"/>
+    <tag k="addr:postcode" v="98225-5309"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-9697" visible="true" lon="-122.4913704061701" lat="48.73685565129173">
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:postcode" v="98225-5815"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-9698" visible="true" lon="-122.4942223551171" lat="48.73508917068825">
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:postcode" v="98225-5809"/>
+    <tag k="addr:street" v="South Forest Street"/>
+  </node>
+  <node id="-9699" visible="true" lon="-122.4956301110894" lat="48.73571880585613">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9700" visible="true" lon="-122.4950179671757" lat="48.73592247494443">
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:postcode" v="98225-5803"/>
+    <tag k="addr:street" v="Forest Lane"/>
+  </node>
+  <node id="-9701" visible="true" lon="-122.4955854897398" lat="48.73592319290256">
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="98225-5837"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9702" visible="true" lon="-122.4951446193343" lat="48.73612024966926">
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9703" visible="true" lon="-122.4937938321437" lat="48.73619401704443">
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South Forest Street"/>
+  </node>
+  <node id="-9704" visible="true" lon="-122.4948903358198" lat="48.73629138976629">
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9705" visible="true" lon="-122.4954129641782" lat="48.73579866800971">
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="98225-5837"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9706" visible="true" lon="-122.4925997001745" lat="48.73639701071308">
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:postcode" v="98225-5802"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-9707" visible="true" lon="-122.4937273492827" lat="48.73757485912591">
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:postcode" v="98225-5323"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-9708" visible="true" lon="-122.4946260134134" lat="48.73628200597213">
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="98225-5803"/>
+    <tag k="addr:street" v="Forest Lane"/>
+  </node>
+  <node id="-9709" visible="true" lon="-122.4917313151912" lat="48.73464355078969">
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:postcode" v="98225-5420"/>
+    <tag k="addr:street" v="Morey Avenue"/>
+  </node>
+  <node id="-9710" visible="true" lon="-122.4916321940698" lat="48.73324097022009">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-9711" visible="true" lon="-122.4913703201113" lat="48.72944293843678">
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="98225-6403"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-9712" visible="true" lon="-122.4909579483970" lat="48.73198835016673">
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West College Way"/>
+  </node>
+  <node id="-9713" visible="true" lon="-122.4911290600100" lat="48.73560484023963">
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Morey Avenue"/>
+  </node>
+  <node id="-9714" visible="true" lon="-122.4905875334992" lat="48.73479557928918">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="98225-5412"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-9715" visible="true" lon="-122.4924463543320" lat="48.73242302241260">
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:postcode" v="98225-5416"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-9716" visible="true" lon="-122.4973088269857" lat="48.73405040320875">
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South State Street"/>
+  </node>
+  <node id="-9717" visible="true" lon="-122.4971216377501" lat="48.73418037958492">
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:postcode" v="98225-5825"/>
+    <tag k="addr:street" v="South State Street"/>
+  </node>
+  <node id="-9718" visible="true" lon="-122.4958443082858" lat="48.73453633529108">
+    <tag k="addr:housenumber" v="222"/>
+    <tag k="addr:postcode" v="98225-5812"/>
+    <tag k="addr:street" v="South Forest Street"/>
+  </node>
+  <node id="-9719" visible="true" lon="-122.4932724095970" lat="48.72961170183188">
+    <tag k="addr:housenumber" v="504"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ridgeway Drive"/>
+  </node>
+  <node id="-9720" visible="true" lon="-122.4954532347565" lat="48.73013763904673">
+    <tag k="addr:housenumber" v="443"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9721" visible="true" lon="-122.4954614654574" lat="48.73032366262143">
+    <tag k="addr:housenumber" v="437"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9722" visible="true" lon="-122.4954691535287" lat="48.73047953433468">
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="98225-6330"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9723" visible="true" lon="-122.4940726674964" lat="48.73108591979558">
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-9724" visible="true" lon="-122.4930937538714" lat="48.73347799110299">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="98225-5420"/>
+    <tag k="addr:street" v="Morey Avenue"/>
+  </node>
+  <node id="-9725" visible="true" lon="-122.4967184824925" lat="48.73253539866810">
+    <tag k="addr:housenumber" v="318"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South Garden Street"/>
+  </node>
+  <node id="-9726" visible="true" lon="-122.4974736615293" lat="48.73191652253593">
+    <tag k="addr:housenumber" v="358"/>
+    <tag k="addr:postcode" v="98225-5822"/>
+    <tag k="addr:street" v="South Garden Street"/>
+  </node>
+  <node id="-9727" visible="true" lon="-122.5014590519325" lat="48.73232566107735">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bayview Drive"/>
+  </node>
+  <node id="-9728" visible="true" lon="-122.5010550795472" lat="48.72963635030042">
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-9729" visible="true" lon="-122.4989426875186" lat="48.72834080771851">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225-6115"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-9730" visible="true" lon="-122.4989419819973" lat="48.72785062959365">
+    <tag k="addr:housenumber" v="616"/>
+    <tag k="addr:postcode" v="98225-6115"/>
+    <tag k="addr:street" v="15th Street"/>
+  </node>
+  <node id="-9731" visible="true" lon="-122.5010548556557" lat="48.72943978458332">
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:postcode" v="98225-6102"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-9732" visible="true" lon="-122.5030103977930" lat="48.72789619929323">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225-6123"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-9733" visible="true" lon="-122.5029543522933" lat="48.72824946239375">
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:postcode" v="98225-6123"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-9734" visible="true" lon="-122.5018498132717" lat="48.72778701802901">
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:postcode" v="98225-6125"/>
+    <tag k="addr:street" v="13th Street"/>
+  </node>
+  <node id="-9735" visible="true" lon="-122.5022375620446" lat="48.73045657600725">
+    <tag k="addr:housenumber" v="490"/>
+    <tag k="addr:postcode" v="98225-6154"/>
+    <tag k="addr:street" v="South State Street"/>
+  </node>
+  <node id="-9736" visible="true" lon="-122.5027780068767" lat="48.72988365399817">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98225-6134"/>
+    <tag k="addr:street" v="South State Street"/>
+  </node>
+  <node id="-9737" visible="true" lon="-122.5028856409123" lat="48.72861572808343">
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:postcode" v="98225-6121"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-9738" visible="true" lon="-122.4975737231968" lat="48.72728297685438">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225-6319"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-9739" visible="true" lon="-122.4961873291687" lat="48.72897542409797">
+    <tag k="addr:housenumber" v="518"/>
+    <tag k="addr:postcode" v="98225-6333"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9740" visible="true" lon="-122.4967677984087" lat="48.72900989192503">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98225-6314"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-9741" visible="true" lon="-122.4961870006818" lat="48.72918104420342">
+    <tag k="addr:housenumber" v="510"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9742" visible="true" lon="-122.4975749561215" lat="48.72820795682395">
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:postcode" v="98225-6317"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-9743" visible="true" lon="-122.4954186392931" lat="48.72646364100854">
+    <tag k="addr:housenumber" v="727"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9744" visible="true" lon="-122.4935701098922" lat="48.72871425867968">
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="98225-6422"/>
+    <tag k="addr:street" v="Ridgeway Drive"/>
+  </node>
+  <node id="-9745" visible="true" lon="-122.4952181039031" lat="48.72605829054144">
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:postcode" v="98225-6338"/>
+    <tag k="addr:street" v="17th Street"/>
+  </node>
+  <node id="-9746" visible="true" lon="-122.4935269593525" lat="48.72915735939544">
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:postcode" v="98225-6422"/>
+    <tag k="addr:street" v="Ridgeway Drive"/>
+  </node>
+  <node id="-9747" visible="true" lon="-122.5002234694889" lat="48.72579963493283">
+    <tag k="addr:housenumber" v="816"/>
+    <tag k="addr:postcode" v="98225-6304"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-9748" visible="true" lon="-122.5030076776097" lat="48.72579182365671">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:postcode" v="98225-6213"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-9749" visible="true" lon="-122.5060266296117" lat="48.72565820023119">
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Taylor Avenue"/>
+  </node>
+  <node id="-9750" visible="true" lon="-122.5057602210346" lat="48.72700900272575">
+    <tag k="addr:housenumber" v="805"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bennett Avenue"/>
+  </node>
+  <node id="-9751" visible="true" lon="-122.5034634920261" lat="48.72579158407073">
+    <tag k="addr:housenumber" v="813"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="11th Street"/>
+  </node>
+  <node id="-9752" visible="true" lon="-122.5030088422106" lat="48.72664854213537">
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:postcode" v="98225-6211"/>
+    <tag k="addr:street" v="12th Street"/>
+  </node>
+  <node id="-9753" visible="true" lon="-122.4975725662188" lat="48.72606876183697">
+    <tag k="addr:housenumber" v="808"/>
+    <tag k="addr:postcode" v="98225-6321"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-9754" visible="true" lon="-122.4961848922091" lat="48.72593234280570">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="98225-6339"/>
+    <tag k="addr:street" v="17th Street"/>
   </node>
 </osm>

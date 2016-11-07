@@ -10886,4 +10886,314 @@
     <tag k="addr:postcode" v="98225-5016"/>
     <tag k="addr:street" v="North State Street"/>
   </node>
+  <node id="-3702" visible="true" lon="-122.4805822574530" lat="48.74509393467734">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98225-5509"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3703" visible="true" lon="-122.4802625798767" lat="48.74530955748410">
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:postcode" v="98225-5509"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3704" visible="true" lon="-122.4801822419987" lat="48.74536333112334">
+    <tag k="addr:housenumber" v="1015"/>
+    <tag k="addr:postcode" v="98225-5509"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3705" visible="true" lon="-122.4796722167098" lat="48.74551313651025">
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:postcode" v="98225-5509"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3706" visible="true" lon="-122.4796566402993" lat="48.74491595237939">
+    <tag k="addr:housenumber" v="1014"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3707" visible="true" lon="-122.4762217372751" lat="48.74678570865419">
+    <tag k="addr:housenumber" v="1217"/>
+    <tag k="addr:postcode" v="98225-5125"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3708" visible="true" lon="-122.4762063174112" lat="48.74667076694681">
+    <tag k="addr:housenumber" v="1213"/>
+    <tag k="addr:postcode" v="98225-5125"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3709" visible="true" lon="-122.4760062829324" lat="48.74680518444876">
+    <tag k="addr:housenumber" v="1219"/>
+    <tag k="addr:postcode" v="98225-5125"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3710" visible="true" lon="-122.4767545247931" lat="48.74686863880047">
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3711" visible="true" lon="-122.4750011052635" lat="48.74668010251871">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Holly Street"/>
+  </node>
+  <node id="-3712" visible="true" lon="-122.4777858906333" lat="48.74617471952073">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98225-5120"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3713" visible="true" lon="-122.4785801806774" lat="48.74700869878904">
+    <tag k="addr:housenumber" v="1160"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-3714" visible="true" lon="-122.4771184337913" lat="48.74741837968590">
+    <tag k="addr:housenumber" v="1217"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3715" visible="true" lon="-122.4766705505035" lat="48.74376780267176">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98225-5116"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-3716" visible="true" lon="-122.4766338796427" lat="48.74557462381073">
+    <tag k="addr:housenumber" v="1124"/>
+    <tag k="addr:postcode" v="98225-5124"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3717" visible="true" lon="-122.4764486868593" lat="48.74362371685721">
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:postcode" v="98225-5116"/>
+    <tag k="addr:street" v="East Maple Street"/>
+  </node>
+  <node id="-3718" visible="true" lon="-122.4782654557993" lat="48.74585211835884">
+    <tag k="addr:housenumber" v="1110"/>
+    <tag k="addr:postcode" v="98225-5132"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3719" visible="true" lon="-122.4778819038264" lat="48.74337345324252">
+    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3720" visible="true" lon="-122.4777074504935" lat="48.74349078908249">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:postcode" v="98225-5626"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3721" visible="true" lon="-122.4776175385849" lat="48.74553200712452">
+    <tag k="addr:housenumber" v="1111"/>
+    <tag k="addr:postcode" v="98225-5123"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3722" visible="true" lon="-122.4775229050530" lat="48.74578475462818">
+    <tag k="addr:housenumber" v="1117"/>
+    <tag k="addr:postcode" v="98225-5123"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3723" visible="true" lon="-122.4804089284180" lat="48.74167278098502">
+    <tag k="addr:housenumber" v="816"/>
+    <tag k="addr:postcode" v="98225-5518"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3724" visible="true" lon="-122.4800771280686" lat="48.74185896658621">
+    <tag k="addr:housenumber" v="824"/>
+    <tag k="addr:postcode" v="98225-5518"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3725" visible="true" lon="-122.4793037798380" lat="48.74205523699143">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="98225-5621"/>
+    <tag k="addr:street" v="East Myrtle Street"/>
+  </node>
+  <node id="-3726" visible="true" lon="-122.4791654456355" lat="48.74397592047310">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98225-5532"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3727" visible="true" lon="-122.4793753771688" lat="48.74230469377054">
+    <tag k="addr:housenumber" v="904"/>
+    <tag k="addr:postcode" v="98225-5602"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3728" visible="true" lon="-122.4797763100651" lat="48.74483502949101">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3729" visible="true" lon="-122.4791072926511" lat="48.74215753417820">
+    <tag k="addr:housenumber" v="617"/>
+    <tag k="addr:postcode" v="98225-5621"/>
+    <tag k="addr:street" v="East Myrtle Street"/>
+  </node>
+  <node id="-3730" visible="true" lon="-122.4806850627565" lat="48.74431279165797">
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:postcode" v="98225-5508"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3731" visible="true" lon="-122.4832720127566" lat="48.74111214432393">
+    <tag k="addr:housenumber" v="710"/>
+    <tag k="addr:postcode" v="98225-5406"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3732" visible="true" lon="-122.4825246943410" lat="48.74104926840302">
+    <tag k="addr:housenumber" v="717"/>
+    <tag k="addr:postcode" v="98225-5407"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3733" visible="true" lon="-122.4820826840167" lat="48.74191472610855">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="98225-5512"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3734" visible="true" lon="-122.4816031801446" lat="48.74223734346627">
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:postcode" v="98225-5512"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3735" visible="true" lon="-122.4820656501842" lat="48.74127142192949">
+    <tag k="addr:housenumber" v="729"/>
+    <tag k="addr:postcode" v="98225-5442"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3736" visible="true" lon="-122.4837735038898" lat="48.74285814340440">
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ivy Street"/>
+  </node>
+  <node id="-3737" visible="true" lon="-122.4832150996454" lat="48.74332015048786">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Berry Street"/>
+  </node>
+  <node id="-3738" visible="true" lon="-122.4822902562735" lat="48.74001189003600">
+    <tag k="addr:housenumber" v="625"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Oak Street"/>
+  </node>
+  <node id="-3739" visible="true" lon="-122.4825202778487" lat="48.74014469071417">
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Oak Street"/>
+  </node>
+  <node id="-3740" visible="true" lon="-122.4862623446055" lat="48.74126790818792">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="98225-9404"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3741" visible="true" lon="-122.4857837025295" lat="48.74159053196713">
+    <tag k="addr:housenumber" v="625"/>
+    <tag k="addr:postcode" v="98225-5313"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3742" visible="true" lon="-122.4857048330897" lat="48.74027215588273">
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="98225-5404"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3743" visible="true" lon="-122.4854672855408" lat="48.73974523178389">
+    <tag k="addr:housenumber" v="530"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3744" visible="true" lon="-122.4853860277591" lat="48.74048750716165">
+    <tag k="addr:housenumber" v="611"/>
+    <tag k="addr:postcode" v="98225-5404"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3745" visible="true" lon="-122.4852266278381" lat="48.74059531913005">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3746" visible="true" lon="-122.4850887151757" lat="48.74068829610002">
+    <tag k="addr:housenumber" v="619"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3747" visible="true" lon="-122.4850342311788" lat="48.74128713261182">
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:postcode" v="98225-5403"/>
+    <tag k="addr:street" v="Oak Street"/>
+  </node>
+  <node id="-3748" visible="true" lon="-122.4845363827896" lat="48.74174202770130">
+    <tag k="addr:housenumber" v="704"/>
+    <tag k="addr:postcode" v="98225-5316"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3749" visible="true" lon="-122.4841244340283" lat="48.74184656840093">
+    <tag k="addr:housenumber" v="712"/>
+    <tag k="addr:postcode" v="98225-5393"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3750" visible="true" lon="-122.4855080396399" lat="48.74216468372621">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-3751" visible="true" lon="-122.4863302909100" lat="48.73979419527396">
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:postcode" v="98225-5454"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3752" visible="true" lon="-122.4841444475254" lat="48.74048700441337">
+    <tag k="addr:housenumber" v="638"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3753" visible="true" lon="-122.4872685974410" lat="48.73993988255505">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Forest Street"/>
+  </node>
+  <node id="-3754" visible="true" lon="-122.4868704666706" lat="48.74098419966067">
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:postcode" v="98225-5321"/>
+    <tag k="addr:street" v="East Pine Street"/>
+  </node>
+  <node id="-3755" visible="true" lon="-122.4866698014648" lat="48.74156121912865">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225-5332"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-3756" visible="true" lon="-122.4872631292633" lat="48.73922224741966">
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:postcode" v="98225-5401"/>
+    <tag k="addr:street" v="Cedar Street"/>
+  </node>
+  <node id="-3757" visible="true" lon="-122.4870151468788" lat="48.73919430554488">
+    <tag k="addr:housenumber" v="503"/>
+    <tag k="addr:postcode" v="98225-5411"/>
+    <tag k="addr:street" v="North Garden Street"/>
+  </node>
+  <node id="-3758" visible="true" lon="-122.4778592582789" lat="48.74264513767674">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Laurel Street"/>
+  </node>
+  <node id="-3759" visible="true" lon="-122.4871448088558" lat="48.73759394867078">
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3760" visible="true" lon="-122.4866294749788" lat="48.73793880677664">
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3761" visible="true" lon="-122.4875574702570" lat="48.73804796192864">
+    <tag k="addr:housenumber" v="443"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3762" visible="true" lon="-122.4857810832103" lat="48.73852773650819">
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-3763" visible="true" lon="-122.4876160185418" lat="48.73757581036791">
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
 </osm>

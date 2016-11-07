@@ -25591,4 +25591,919 @@
     <tag k="addr:postcode" v="98229-2482"/>
     <tag k="addr:street" v="Electric Avenue"/>
   </node>
+  <node id="-8618" visible="true" lon="-122.4180223768778" lat="48.69982106463154">
+    <tag k="addr:housenumber" v="1682"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Galbraith Lane"/>
+  </node>
+  <node id="-8619" visible="true" lon="-122.4009142184262" lat="48.69879912549759">
+    <tag k="addr:housenumber" v="4179"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Stoney Brook Lane"/>
+  </node>
+  <node id="-8620" visible="true" lon="-122.3982778446549" lat="48.69139394954026">
+    <tag k="addr:housenumber" v="5136"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-8621" visible="true" lon="-122.4191879548112" lat="48.74811678304680">
+    <tag k="addr:housenumber" v="3933"/>
+    <tag k="addr:postcode" v="98229-2528"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8622" visible="true" lon="-122.4196743305310" lat="48.74881128186399">
+    <tag k="addr:housenumber" v="3925"/>
+    <tag k="addr:postcode" v="98229-2528"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8623" visible="true" lon="-122.4211050992384" lat="48.75226346623447">
+    <tag k="addr:housenumber" v="3842"/>
+    <tag k="addr:postcode" v="98229-5024"/>
+    <tag k="addr:street" v="Idaho Street"/>
+  </node>
+  <node id="-8624" visible="true" lon="-122.4208982222141" lat="48.75226354739110">
+    <tag k="addr:housenumber" v="3848"/>
+    <tag k="addr:postcode" v="98229-5024"/>
+    <tag k="addr:street" v="Idaho Street"/>
+  </node>
+  <node id="-8625" visible="true" lon="-122.4178355832749" lat="48.75274321684775">
+    <tag k="addr:housenumber" v="4000"/>
+    <tag k="addr:postcode" v="98229-6055"/>
+    <tag k="addr:street" v="Flynn Street"/>
+  </node>
+  <node id="-8626" visible="true" lon="-122.4213754520049" lat="48.75367278934458">
+    <tag k="addr:housenumber" v="3829"/>
+    <tag k="addr:postcode" v="98229-6054"/>
+    <tag k="addr:street" v="Kansas Street"/>
+  </node>
+  <node id="-8627" visible="true" lon="-122.4190117882897" lat="48.75459177014818">
+    <tag k="addr:housenumber" v="3901"/>
+    <tag k="addr:postcode" v="98229-6003"/>
+    <tag k="addr:street" v="Flynn Street"/>
+  </node>
+  <node id="-8628" visible="true" lon="-122.4211529314965" lat="48.75673221935335">
+    <tag k="addr:housenumber" v="2020"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8629" visible="true" lon="-122.4213201935969" lat="48.75739361371884">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Old Mill Road"/>
+  </node>
+  <node id="-8630" visible="true" lon="-122.4066887677948" lat="48.74351390213375">
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:postcode" v="98229-2515"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8631" visible="true" lon="-122.4091224648646" lat="48.74401143833208">
+    <tag k="addr:housenumber" v="1251"/>
+    <tag k="addr:postcode" v="98229-2503"/>
+    <tag k="addr:street" v="Geneva Hills Road"/>
+  </node>
+  <node id="-8632" visible="true" lon="-122.4078064384341" lat="48.74485800007731">
+    <tag k="addr:housenumber" v="4328"/>
+    <tag k="addr:postcode" v="98229-2601"/>
+    <tag k="addr:street" v="North Terrace Avenue"/>
+  </node>
+  <node id="-8633" visible="true" lon="-122.4076535619630" lat="48.74512873152352">
+    <tag k="addr:housenumber" v="4332"/>
+    <tag k="addr:postcode" v="98229-2601"/>
+    <tag k="addr:street" v="North Terrace Avenue"/>
+  </node>
+  <node id="-8634" visible="true" lon="-122.4075038469703" lat="48.74539448568494">
+    <tag k="addr:housenumber" v="4336"/>
+    <tag k="addr:postcode" v="98229-2601"/>
+    <tag k="addr:street" v="North Terrace Avenue"/>
+  </node>
+  <node id="-8635" visible="true" lon="-122.3860810028539" lat="48.73236899321628">
+    <tag k="addr:housenumber" v="1930"/>
+    <tag k="addr:postcode" v="98229-2778"/>
+    <tag k="addr:street" v="Valleybrook Lane"/>
+  </node>
+  <node id="-8636" visible="true" lon="-122.3860354699581" lat="48.73208504299454">
+    <tag k="addr:housenumber" v="2003"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-8637" visible="true" lon="-122.3806585931261" lat="48.73243526965664">
+    <tag k="addr:housenumber" v="2030"/>
+    <tag k="addr:postcode" v="98229-2760"/>
+    <tag k="addr:street" v="Valleybrook Lane"/>
+  </node>
+  <node id="-8638" visible="true" lon="-122.3824178866486" lat="48.73271051421832">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Valleybrook Lane"/>
+  </node>
+  <node id="-8639" visible="true" lon="-122.3820103984629" lat="48.73270622911483">
+    <tag k="addr:housenumber" v="2033"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-8640" visible="true" lon="-122.3788716248000" lat="48.73209496202055">
+    <tag k="addr:housenumber" v="2043"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-8641" visible="true" lon="-122.3809935243591" lat="48.73242620961840">
+    <tag k="addr:housenumber" v="2065"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-8642" visible="true" lon="-122.3791191530700" lat="48.73209538834065">
+    <tag k="addr:housenumber" v="2080"/>
+    <tag k="addr:postcode" v="98229-2760"/>
+    <tag k="addr:street" v="Valleybrook Lane"/>
+  </node>
+  <node id="-8643" visible="true" lon="-122.3867463757481" lat="48.73331446064442">
+    <tag k="addr:housenumber" v="1925"/>
+    <tag k="addr:postcode" v="98229-2723"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-8644" visible="true" lon="-122.4142818810384" lat="48.74273958451776">
+    <tag k="addr:housenumber" v="1293"/>
+    <tag k="addr:postcode" v="98229-2566"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8645" visible="true" lon="-122.4117506982246" lat="48.74304124600144">
+    <tag k="addr:housenumber" v="1304"/>
+    <tag k="addr:postcode" v="98229-2522"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8646" visible="true" lon="-122.4129439860635" lat="48.74311826036690">
+    <tag k="addr:housenumber" v="1303"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8647" visible="true" lon="-122.4129382820834" lat="48.74337521317740">
+    <tag k="addr:housenumber" v="1307"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8648" visible="true" lon="-122.4130438458309" lat="48.74401171931149">
+    <tag k="addr:housenumber" v="1313"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8649" visible="true" lon="-122.4103186678382" lat="48.74431570806175">
+    <tag k="addr:housenumber" v="4260"/>
+    <tag k="addr:postcode" v="98229-2546"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8650" visible="true" lon="-122.4147304464201" lat="48.74475587031914">
+    <tag k="addr:housenumber" v="1328"/>
+    <tag k="addr:postcode" v="98229-2539"/>
+    <tag k="addr:street" v="Oriental Avenue"/>
+  </node>
+  <node id="-8651" visible="true" lon="-122.4130265483246" lat="48.74476311631449">
+    <tag k="addr:housenumber" v="1341"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8652" visible="true" lon="-122.4114474756383" lat="48.74487107218017">
+    <tag k="addr:housenumber" v="4250"/>
+    <tag k="addr:postcode" v="98229-2546"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8653" visible="true" lon="-122.4130207787285" lat="48.74503131003626">
+    <tag k="addr:housenumber" v="1345"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8654" visible="true" lon="-122.4130233082692" lat="48.74531309835243">
+    <tag k="addr:housenumber" v="1349"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8655" visible="true" lon="-122.4145069111407" lat="48.74576639724205">
+    <tag k="addr:housenumber" v="4130"/>
+    <tag k="addr:postcode" v="98229-2525"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8656" visible="true" lon="-122.4149686058562" lat="48.74577657072209">
+    <tag k="addr:housenumber" v="4100"/>
+    <tag k="addr:postcode" v="98229-2525"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8657" visible="true" lon="-122.4161015345686" lat="48.74578994970769">
+    <tag k="addr:housenumber" v="4030"/>
+    <tag k="addr:postcode" v="98229-2527"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8658" visible="true" lon="-122.4168298652425" lat="48.74614931486169">
+    <tag k="addr:housenumber" v="4024"/>
+    <tag k="addr:postcode" v="98229-2527"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8659" visible="true" lon="-122.4156505492377" lat="48.74576428270907">
+    <tag k="addr:housenumber" v="4032"/>
+    <tag k="addr:postcode" v="98229-2527"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8660" visible="true" lon="-122.4149559278923" lat="48.74295467540586">
+    <tag k="addr:housenumber" v="1312"/>
+    <tag k="addr:postcode" v="98229-2539"/>
+    <tag k="addr:street" v="Oriental Avenue"/>
+  </node>
+  <node id="-8661" visible="true" lon="-122.4130371289119" lat="48.74431611362039">
+    <tag k="addr:housenumber" v="1319"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8662" visible="true" lon="-122.4117582869150" lat="48.74402094284105">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98229-2522"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8663" visible="true" lon="-122.4149605199077" lat="48.74268896528883">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98229-2539"/>
+    <tag k="addr:street" v="Oriental Avenue"/>
+  </node>
+  <node id="-8664" visible="true" lon="-122.4129490613707" lat="48.74285446241042">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8665" visible="true" lon="-122.4130316653651" lat="48.74454071418359">
+    <tag k="addr:housenumber" v="1333"/>
+    <tag k="addr:postcode" v="98229-2521"/>
+    <tag k="addr:street" v="Lowe Avenue"/>
+  </node>
+  <node id="-8666" visible="true" lon="-122.4054708751002" lat="48.73566318110657">
+    <tag k="addr:housenumber" v="946"/>
+    <tag k="addr:postcode" v="98229-2571"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8667" visible="true" lon="-122.4066199163596" lat="48.73591027912239">
+    <tag k="addr:housenumber" v="942"/>
+    <tag k="addr:postcode" v="98229-2571"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8668" visible="true" lon="-122.4078599972084" lat="48.73591132027818">
+    <tag k="addr:housenumber" v="938"/>
+    <tag k="addr:postcode" v="98229-2571"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8669" visible="true" lon="-122.4021694114853" lat="48.73618970361943">
+    <tag k="addr:housenumber" v="4599"/>
+    <tag k="addr:postcode" v="98229-2576"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8670" visible="true" lon="-122.4035329047858" lat="48.73664421015098">
+    <tag k="addr:housenumber" v="4591"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8671" visible="true" lon="-122.4086069176010" lat="48.73673050326703">
+    <tag k="addr:housenumber" v="929"/>
+    <tag k="addr:postcode" v="98229-2571"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8672" visible="true" lon="-122.4065244776077" lat="48.73785088572478">
+    <tag k="addr:housenumber" v="975"/>
+    <tag k="addr:postcode" v="98229-2571"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8673" visible="true" lon="-122.4052453631987" lat="48.73974114586841">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:postcode" v="98229-2520"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8674" visible="true" lon="-122.4077246215343" lat="48.74027071784649">
+    <tag k="addr:housenumber" v="1021"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8675" visible="true" lon="-122.4054969484060" lat="48.74242438135400">
+    <tag k="addr:housenumber" v="4430"/>
+    <tag k="addr:postcode" v="98229-2558"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
+  <node id="-8676" visible="true" lon="-122.4075547307763" lat="48.74242972752408">
+    <tag k="addr:housenumber" v="1125"/>
+    <tag k="addr:postcode" v="98229-2517"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8677" visible="true" lon="-122.4040147523050" lat="48.74231966501009">
+    <tag k="addr:housenumber" v="4520"/>
+    <tag k="addr:postcode" v="98229-2641"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
+  <node id="-8678" visible="true" lon="-122.4058453081354" lat="48.74237635866420">
+    <tag k="addr:housenumber" v="4424"/>
+    <tag k="addr:postcode" v="98229-2558"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
+  <node id="-8679" visible="true" lon="-122.4080798122538" lat="48.74321682431061">
+    <tag k="addr:housenumber" v="1234"/>
+    <tag k="addr:postcode" v="98229-2503"/>
+    <tag k="addr:street" v="Geneva Hills Road"/>
+  </node>
+  <node id="-8680" visible="true" lon="-122.4071572721113" lat="48.74297207365400">
+    <tag k="addr:housenumber" v="4375"/>
+    <tag k="addr:postcode" v="98229-2515"/>
+    <tag k="addr:street" v="Lakeview Court"/>
+  </node>
+  <node id="-8681" visible="true" lon="-122.3951584012439" lat="48.73644414623394">
+    <tag k="addr:housenumber" v="4750"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8682" visible="true" lon="-122.3951524273767" lat="48.73683022396381">
+    <tag k="addr:housenumber" v="4746"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8683" visible="true" lon="-122.3943166940238" lat="48.73752708121280">
+    <tag k="addr:housenumber" v="1795"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Louise Road"/>
+  </node>
+  <node id="-8684" visible="true" lon="-122.3939661673474" lat="48.73553024317562">
+    <tag k="addr:housenumber" v="4764"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8685" visible="true" lon="-122.3939032879701" lat="48.73681820276670">
+    <tag k="addr:housenumber" v="4736"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8686" visible="true" lon="-122.3938919616677" lat="48.73644880604282">
+    <tag k="addr:housenumber" v="4754"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8687" visible="true" lon="-122.4129119291087" lat="48.73912081048351">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:postcode" v="98229-2501"/>
+    <tag k="addr:street" v="Piedmont Place"/>
+  </node>
+  <node id="-8688" visible="true" lon="-122.4129301390242" lat="48.73933357551238">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98229-2501"/>
+    <tag k="addr:street" v="Piedmont Place"/>
+  </node>
+  <node id="-8689" visible="true" lon="-122.4141721674957" lat="48.73939456202297">
+    <tag k="addr:housenumber" v="1078"/>
+    <tag k="addr:postcode" v="98229-2506"/>
+    <tag k="addr:street" v="Cedar Hills Avenue"/>
+  </node>
+  <node id="-8690" visible="true" lon="-122.4092503411686" lat="48.73942679744903">
+    <tag k="addr:housenumber" v="993"/>
+    <tag k="addr:postcode" v="98229-2571"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-8691" visible="true" lon="-122.4150839023261" lat="48.73995047675488">
+    <tag k="addr:housenumber" v="1067"/>
+    <tag k="addr:postcode" v="98229-2507"/>
+    <tag k="addr:street" v="Cedar Hills Avenue"/>
+  </node>
+  <node id="-8692" visible="true" lon="-122.4126391077787" lat="48.74010623533200">
+    <tag k="addr:housenumber" v="1094"/>
+    <tag k="addr:postcode" v="98229-2505"/>
+    <tag k="addr:street" v="Cedar Hills Avenue"/>
+  </node>
+  <node id="-8693" visible="true" lon="-122.4092529802958" lat="48.74027497193691">
+    <tag k="addr:housenumber" v="4306"/>
+    <tag k="addr:postcode" v="98229-2548"/>
+    <tag k="addr:street" v="Columbus Avenue"/>
+  </node>
+  <node id="-8694" visible="true" lon="-122.4140907327763" lat="48.74037574552270">
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:postcode" v="98229-2509"/>
+    <tag k="addr:street" v="Dondee Court"/>
+  </node>
+  <node id="-8695" visible="true" lon="-122.4107862960342" lat="48.74047926557603">
+    <tag k="addr:housenumber" v="4242"/>
+    <tag k="addr:postcode" v="98229-2508"/>
+    <tag k="addr:street" v="Cedar Hills Court"/>
+  </node>
+  <node id="-8696" visible="true" lon="-122.4113463735273" lat="48.74082997961479">
+    <tag k="addr:housenumber" v="4237"/>
+    <tag k="addr:postcode" v="98229-2508"/>
+    <tag k="addr:street" v="Cedar Hills Court"/>
+  </node>
+  <node id="-8697" visible="true" lon="-122.4149754443284" lat="48.74104854061336">
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:postcode" v="98229-2510"/>
+    <tag k="addr:street" v="Dondee Court"/>
+  </node>
+  <node id="-8698" visible="true" lon="-122.4140977467187" lat="48.74105526025324">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98229-2509"/>
+    <tag k="addr:street" v="Dondee Court"/>
+  </node>
+  <node id="-8699" visible="true" lon="-122.4105954794344" lat="48.74120998638212">
+    <tag k="addr:housenumber" v="4256"/>
+    <tag k="addr:postcode" v="98229-2533"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8700" visible="true" lon="-122.4113559275850" lat="48.74121831662552">
+    <tag k="addr:housenumber" v="4238"/>
+    <tag k="addr:postcode" v="98229-2533"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8701" visible="true" lon="-122.4140743047787" lat="48.74124802998232">
+    <tag k="addr:housenumber" v="1126"/>
+    <tag k="addr:postcode" v="98229-2509"/>
+    <tag k="addr:street" v="Dondee Court"/>
+  </node>
+  <node id="-8702" visible="true" lon="-122.4132234973297" lat="48.74130144840822">
+    <tag k="addr:housenumber" v="4158"/>
+    <tag k="addr:postcode" v="98229-2560"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8703" visible="true" lon="-122.4135129535507" lat="48.74139922573187">
+    <tag k="addr:housenumber" v="4146"/>
+    <tag k="addr:postcode" v="98229-2560"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8704" visible="true" lon="-122.4138296105936" lat="48.74149197197183">
+    <tag k="addr:housenumber" v="1130"/>
+    <tag k="addr:postcode" v="98229-2509"/>
+    <tag k="addr:street" v="Dondee Court"/>
+  </node>
+  <node id="-8705" visible="true" lon="-122.4118817428931" lat="48.74176029888537">
+    <tag k="addr:housenumber" v="4225"/>
+    <tag k="addr:postcode" v="98229-2532"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8706" visible="true" lon="-122.4112062850063" lat="48.74176617258166">
+    <tag k="addr:housenumber" v="4241"/>
+    <tag k="addr:postcode" v="98229-2532"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8707" visible="true" lon="-122.4128490830450" lat="48.74207724253596">
+    <tag k="addr:housenumber" v="4157"/>
+    <tag k="addr:postcode" v="98229-2559"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8708" visible="true" lon="-122.4140535703994" lat="48.74219521607388">
+    <tag k="addr:housenumber" v="4127"/>
+    <tag k="addr:postcode" v="98229-2559"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8709" visible="true" lon="-122.4145955544171" lat="48.74236248254584">
+    <tag k="addr:housenumber" v="4115"/>
+    <tag k="addr:postcode" v="98229-2559"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8710" visible="true" lon="-122.4134088520320" lat="48.74241698610833">
+    <tag k="addr:housenumber" v="4149"/>
+    <tag k="addr:postcode" v="98229-2559"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8711" visible="true" lon="-122.4142845321430" lat="48.74231791080616">
+    <tag k="addr:housenumber" v="4121"/>
+    <tag k="addr:postcode" v="98229-2559"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8712" visible="true" lon="-122.4140933271085" lat="48.73995215285678">
+    <tag k="addr:housenumber" v="1081"/>
+    <tag k="addr:postcode" v="98229-2507"/>
+    <tag k="addr:street" v="Cedar Hills Avenue"/>
+  </node>
+  <node id="-8713" visible="true" lon="-122.4135065804685" lat="48.74017121689238">
+    <tag k="addr:housenumber" v="1093"/>
+    <tag k="addr:postcode" v="98229-2507"/>
+    <tag k="addr:street" v="Cedar Hills Avenue"/>
+  </node>
+  <node id="-8714" visible="true" lon="-122.4120295293093" lat="48.74081879277281">
+    <tag k="addr:housenumber" v="4225"/>
+    <tag k="addr:postcode" v="98229-2508"/>
+    <tag k="addr:street" v="Cedar Hills Court"/>
+  </node>
+  <node id="-8715" visible="true" lon="-122.4122282841685" lat="48.74176080586246">
+    <tag k="addr:housenumber" v="4215"/>
+    <tag k="addr:postcode" v="98229-2532"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8716" visible="true" lon="-122.4117165475438" lat="48.74081755655936">
+    <tag k="addr:housenumber" v="4229"/>
+    <tag k="addr:postcode" v="98229-2508"/>
+    <tag k="addr:street" v="Cedar Hills Court"/>
+  </node>
+  <node id="-8717" visible="true" lon="-122.4115428062097" lat="48.74176434946236">
+    <tag k="addr:housenumber" v="4233"/>
+    <tag k="addr:postcode" v="98229-2532"/>
+    <tag k="addr:street" v="Ridgewood Avenue"/>
+  </node>
+  <node id="-8718" visible="true" lon="-122.4140766003119" lat="48.74085487196005">
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="98229-2509"/>
+    <tag k="addr:street" v="Dondee Court"/>
+  </node>
+  <node id="-8719" visible="true" lon="-122.4118549994782" lat="48.74024325892219">
+    <tag k="addr:housenumber" v="4226"/>
+    <tag k="addr:postcode" v="98229-2508"/>
+    <tag k="addr:street" v="Cedar Hills Court"/>
+  </node>
+  <node id="-8720" visible="true" lon="-122.4129529718688" lat="48.73972200589157">
+    <tag k="addr:housenumber" v="1040"/>
+    <tag k="addr:postcode" v="98229-2501"/>
+    <tag k="addr:street" v="Piedmont Place"/>
+  </node>
+  <node id="-8721" visible="true" lon="-122.4282700824223" lat="48.74199323693232">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:postcode" v="98229-2418"/>
+    <tag k="addr:street" v="Raymond Street"/>
+  </node>
+  <node id="-8722" visible="true" lon="-122.4223102204120" lat="48.75001697800707">
+    <tag k="addr:housenumber" v="3800"/>
+    <tag k="addr:postcode" v="98229-5041"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-8723" visible="true" lon="-122.4220790740284" lat="48.75012910018470">
+    <tag k="addr:housenumber" v="3804"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-8724" visible="true" lon="-122.4219861436181" lat="48.75187969815622">
+    <tag k="addr:housenumber" v="3833"/>
+    <tag k="addr:postcode" v="98229-5053"/>
+    <tag k="addr:street" v="Fraser Street"/>
+  </node>
+  <node id="-8725" visible="true" lon="-122.4225153266414" lat="48.75266832049822">
+    <tag k="addr:housenumber" v="3813"/>
+    <tag k="addr:postcode" v="98229-5023"/>
+    <tag k="addr:street" v="Idaho Street"/>
+  </node>
+  <node id="-8726" visible="true" lon="-122.3974545380734" lat="48.73823910940791">
+    <tag k="addr:housenumber" v="4690"/>
+    <tag k="addr:postcode" v="98229-2575"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8727" visible="true" lon="-122.4020106430498" lat="48.73840749678931">
+    <tag k="addr:housenumber" v="4580"/>
+    <tag k="addr:postcode" v="98229-2576"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8728" visible="true" lon="-122.3974534422157" lat="48.73863499106895">
+    <tag k="addr:housenumber" v="4684"/>
+    <tag k="addr:postcode" v="98229-2575"/>
+    <tag k="addr:street" v="Lost Creek Lane"/>
+  </node>
+  <node id="-8729" visible="true" lon="-122.3965162477581" lat="48.73914571159326">
+    <tag k="addr:housenumber" v="4813"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lookout Avenue"/>
+  </node>
+  <node id="-8730" visible="true" lon="-122.4019961666704" lat="48.74000870721213">
+    <tag k="addr:housenumber" v="775"/>
+    <tag k="addr:postcode" v="98229-2709"/>
+    <tag k="addr:street" v="Austin Street"/>
+  </node>
+  <node id="-8731" visible="true" lon="-122.4013692053340" lat="48.74096899434429">
+    <tag k="addr:housenumber" v="4601"/>
+    <tag k="addr:postcode" v="98229-2771"/>
+    <tag k="addr:street" v="Ann Court"/>
+  </node>
+  <node id="-8732" visible="true" lon="-122.4019256735593" lat="48.74101632194287">
+    <tag k="addr:housenumber" v="4381"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="6th Street"/>
+  </node>
+  <node id="-8733" visible="true" lon="-122.4013673662829" lat="48.74142053816287">
+    <tag k="addr:housenumber" v="4600"/>
+    <tag k="addr:postcode" v="98229-2771"/>
+    <tag k="addr:street" v="Ann Court"/>
+  </node>
+  <node id="-8734" visible="true" lon="-122.4009553897600" lat="48.74142170357585">
+    <tag k="addr:housenumber" v="4610"/>
+    <tag k="addr:postcode" v="98229-2771"/>
+    <tag k="addr:street" v="Ann Court"/>
+  </node>
+  <node id="-8735" visible="true" lon="-122.4003100889407" lat="48.74142409192676">
+    <tag k="addr:housenumber" v="4630"/>
+    <tag k="addr:postcode" v="98229-2771"/>
+    <tag k="addr:street" v="Ann Court"/>
+  </node>
+  <node id="-8736" visible="true" lon="-122.4008396704058" lat="48.74210561251607">
+    <tag k="addr:housenumber" v="4610"/>
+    <tag k="addr:postcode" v="98229-2608"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
+  <node id="-8737" visible="true" lon="-122.4199389599183" lat="48.76054492087047">
+    <tag k="addr:housenumber" v="2200"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8738" visible="true" lon="-122.4228624413749" lat="48.74727028856164">
+    <tag k="addr:housenumber" v="1321"/>
+    <tag k="addr:postcode" v="98229-2511"/>
+    <tag k="addr:street" v="Bonanza Way"/>
+  </node>
+  <node id="-8739" visible="true" lon="-122.4226412295413" lat="48.74805024315457">
+    <tag k="addr:housenumber" v="1337"/>
+    <tag k="addr:postcode" v="98229-2511"/>
+    <tag k="addr:street" v="Bonanza Way"/>
+  </node>
+  <node id="-8740" visible="true" lon="-122.4222816512648" lat="48.74963314336377">
+    <tag k="addr:housenumber" v="3801"/>
+    <tag k="addr:postcode" v="98229-2465"/>
+    <tag k="addr:street" v="Morning Mist Way"/>
+  </node>
+  <node id="-8741" visible="true" lon="-122.4211001850363" lat="48.74905493233668">
+    <tag k="addr:housenumber" v="3827"/>
+    <tag k="addr:postcode" v="98229-2465"/>
+    <tag k="addr:street" v="Morning Mist Way"/>
+  </node>
+  <node id="-8742" visible="true" lon="-122.4207876130229" lat="48.74771791221658">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Scenic Avenue"/>
+  </node>
+  <node id="-8743" visible="true" lon="-122.4206684329872" lat="48.74836639842477">
+    <tag k="addr:housenumber" v="3900"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8744" visible="true" lon="-122.4252762378781" lat="48.74185816143358">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98229-2426"/>
+    <tag k="addr:street" v="Birch Falls Drive"/>
+  </node>
+  <node id="-8745" visible="true" lon="-122.4252827443204" lat="48.74166915722822">
+    <tag k="addr:housenumber" v="1125"/>
+    <tag k="addr:postcode" v="98229-2426"/>
+    <tag k="addr:street" v="Birch Falls Drive"/>
+  </node>
+  <node id="-8746" visible="true" lon="-122.4260725194760" lat="48.74420617894603">
+    <tag k="addr:housenumber" v="1214"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8747" visible="true" lon="-122.4252888227003" lat="48.74146647038927">
+    <tag k="addr:housenumber" v="1121"/>
+    <tag k="addr:postcode" v="98229-2426"/>
+    <tag k="addr:street" v="Birch Falls Drive"/>
+  </node>
+  <node id="-8748" visible="true" lon="-122.4252955858994" lat="48.74128567716737">
+    <tag k="addr:housenumber" v="1117"/>
+    <tag k="addr:postcode" v="98229-2426"/>
+    <tag k="addr:street" v="Birch Falls Drive"/>
+  </node>
+  <node id="-8749" visible="true" lon="-122.4253020065882" lat="48.74109393621723">
+    <tag k="addr:housenumber" v="1113"/>
+    <tag k="addr:postcode" v="98229-2426"/>
+    <tag k="addr:street" v="Birch Falls Drive"/>
+  </node>
+  <node id="-8750" visible="true" lon="-122.4256259458129" lat="48.74683690835224">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98229-2424"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8751" visible="true" lon="-122.4175109491539" lat="48.74451133718058">
+    <tag k="addr:housenumber" v="1336"/>
+    <tag k="addr:postcode" v="98229-2580"/>
+    <tag k="addr:street" v="Parkstone Lane"/>
+  </node>
+  <node id="-8752" visible="true" lon="-122.4266978463074" lat="48.74516077960975">
+    <tag k="addr:housenumber" v="1231"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8753" visible="true" lon="-122.4175139468867" lat="48.74508700469914">
+    <tag k="addr:housenumber" v="1348"/>
+    <tag k="addr:postcode" v="98229-2580"/>
+    <tag k="addr:street" v="Parkstone Lane"/>
+  </node>
+  <node id="-8754" visible="true" lon="-122.4266498089335" lat="48.74552419656636">
+    <tag k="addr:housenumber" v="1239"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8755" visible="true" lon="-122.4267248463876" lat="48.74534397682547">
+    <tag k="addr:housenumber" v="1235"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8756" visible="true" lon="-122.4174393709305" lat="48.74611862314633">
+    <tag k="addr:housenumber" v="1384"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Parkstone Lane"/>
+  </node>
+  <node id="-8757" visible="true" lon="-122.4175625738622" lat="48.74649742253504">
+    <tag k="addr:housenumber" v="1390"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Parkstone Lane"/>
+  </node>
+  <node id="-8758" visible="true" lon="-122.4173625488859" lat="48.74677903478651">
+    <tag k="addr:housenumber" v="4022"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8759" visible="true" lon="-122.4204608043874" lat="48.74402302064382">
+    <tag k="addr:housenumber" v="1325"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Overlook Way"/>
+  </node>
+  <node id="-8760" visible="true" lon="-122.4204213230594" lat="48.74310319160739">
+    <tag k="addr:housenumber" v="1317"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Overlook Way"/>
+  </node>
+  <node id="-8761" visible="true" lon="-122.4204699191040" lat="48.74494980968225">
+    <tag k="addr:housenumber" v="1333"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Overlook Way"/>
+  </node>
+  <node id="-8762" visible="true" lon="-122.4204146556337" lat="48.74562559188353">
+    <tag k="addr:housenumber" v="3903"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Parkstone Way"/>
+  </node>
+  <node id="-8763" visible="true" lon="-122.4274577021126" lat="48.74727389668095">
+    <tag k="addr:housenumber" v="3520"/>
+    <tag k="addr:postcode" v="98229-2412"/>
+    <tag k="addr:street" v="Riley Street"/>
+  </node>
+  <node id="-8764" visible="true" lon="-122.4268297301699" lat="48.74866187606202">
+    <tag k="addr:housenumber" v="3539"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-8765" visible="true" lon="-122.4257682260328" lat="48.74776706189883">
+    <tag k="addr:housenumber" v="1330"/>
+    <tag k="addr:postcode" v="98229-2424"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8766" visible="true" lon="-122.4245475345379" lat="48.74852807179892">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98229-2445"/>
+    <tag k="addr:street" v="Portal Drive"/>
+  </node>
+  <node id="-8767" visible="true" lon="-122.4234050625424" lat="48.75438027343805">
+    <tag k="addr:housenumber" v="1827"/>
+    <tag k="addr:postcode" v="98229-4519"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8768" visible="true" lon="-122.4221328617665" lat="48.75463983801427">
+    <tag k="addr:housenumber" v="3806"/>
+    <tag k="addr:postcode" v="98229-6036"/>
+    <tag k="addr:street" v="Ohio Street"/>
+  </node>
+  <node id="-8769" visible="true" lon="-122.4223935592070" lat="48.75630955014718">
+    <tag k="addr:housenumber" v="1935"/>
+    <tag k="addr:postcode" v="98229-4524"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8770" visible="true" lon="-122.4239743940187" lat="48.75451532288726">
+    <tag k="addr:housenumber" v="1828"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Silver Beach Road"/>
+  </node>
+  <node id="-8771" visible="true" lon="-122.4217041952282" lat="48.75587621523347">
+    <tag k="addr:housenumber" v="1932"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8772" visible="true" lon="-122.4269577359143" lat="48.75029213002833">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8773" visible="true" lon="-122.4245327483616" lat="48.75182022959589">
+    <tag k="addr:housenumber" v="1705"/>
+    <tag k="addr:postcode" v="98229-2431"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8774" visible="true" lon="-122.4241274660765" lat="48.75019609459339">
+    <tag k="addr:housenumber" v="1512"/>
+    <tag k="addr:postcode" v="98229-2436"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8775" visible="true" lon="-122.4301437136436" lat="48.75025905747984">
+    <tag k="addr:housenumber" v="1601"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Silver Beach Road"/>
+  </node>
+  <node id="-8776" visible="true" lon="-122.4276497222902" lat="48.74601856519655">
+    <tag k="addr:housenumber" v="1246"/>
+    <tag k="addr:postcode" v="98229-2416"/>
+    <tag k="addr:street" v="Raymond Street"/>
+  </node>
+  <node id="-8777" visible="true" lon="-122.4310369299954" lat="48.74945135307352">
+    <tag k="addr:housenumber" v="1505"/>
+    <tag k="addr:postcode" v="98229-2451"/>
+    <tag k="addr:street" v="Silver Beach Road"/>
+  </node>
+  <node id="-8778" visible="true" lon="-122.4234193874208" lat="48.74442262466239">
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8779" visible="true" lon="-122.4234119657097" lat="48.74539425817411">
+    <tag k="addr:housenumber" v="1230"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8780" visible="true" lon="-122.4233912435655" lat="48.74415528705870">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8781" visible="true" lon="-122.4233764046313" lat="48.74393952631560">
+    <tag k="addr:housenumber" v="1203"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8782" visible="true" lon="-122.4233294017870" lat="48.74373075118815">
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8783" visible="true" lon="-122.4231489108032" lat="48.74588763206267">
+    <tag k="addr:housenumber" v="1236"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Portal Drive"/>
+  </node>
+  <node id="-8784" visible="true" lon="-122.4229874376145" lat="48.74528166704527">
+    <tag k="addr:housenumber" v="1224"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8785" visible="true" lon="-122.4229317246703" lat="48.74499566874082">
+    <tag k="addr:housenumber" v="1220"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8786" visible="true" lon="-122.4228850626123" lat="48.74476904054662">
+    <tag k="addr:housenumber" v="1216"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8787" visible="true" lon="-122.4228629470970" lat="48.74452184874574">
+    <tag k="addr:housenumber" v="1212"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8788" visible="true" lon="-122.4227957230033" lat="48.74421280403951">
+    <tag k="addr:housenumber" v="1208"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8789" visible="true" lon="-122.4227837462869" lat="48.74374296677950">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8790" visible="true" lon="-122.4266479068035" lat="48.74494490623547">
+    <tag k="addr:housenumber" v="1227"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8791" visible="true" lon="-122.4266175375705" lat="48.74466451115844">
+    <tag k="addr:housenumber" v="1223"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8792" visible="true" lon="-122.4266058225564" lat="48.74440527788802">
+    <tag k="addr:housenumber" v="1219"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8793" visible="true" lon="-122.4266690442919" lat="48.74412598097226">
+    <tag k="addr:housenumber" v="1211"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8794" visible="true" lon="-122.4267033420752" lat="48.74384232030917">
+    <tag k="addr:housenumber" v="1207"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8795" visible="true" lon="-122.4228038949777" lat="48.74325193165586">
+    <tag k="addr:housenumber" v="1166"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8796" visible="true" lon="-122.4233490637082" lat="48.74332354514582">
+    <tag k="addr:housenumber" v="1167"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Creekwood Lane"/>
+  </node>
+  <node id="-8797" visible="true" lon="-122.4261136317041" lat="48.74354511493428">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8798" visible="true" lon="-122.4268388682812" lat="48.74357393157126">
+    <tag k="addr:housenumber" v="1203"/>
+    <tag k="addr:postcode" v="98229-2428"/>
+    <tag k="addr:street" v="Birch Street"/>
+  </node>
+  <node id="-8799" visible="true" lon="-122.4229824201276" lat="48.75519832689508">
+    <tag k="addr:housenumber" v="1911"/>
+    <tag k="addr:postcode" v="98229-4524"/>
+    <tag k="addr:street" v="Electric Avenue"/>
+  </node>
+  <node id="-8800" visible="true" lon="-122.4329818388848" lat="48.73850854434642">
+    <tag k="addr:housenumber" v="3100"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Alvarado Drive"/>
+  </node>
 </osm>

@@ -5074,7 +5074,7 @@
     <nd ref="-1577"/>
     <nd ref="-1555"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Columbia Es"/>
+    <tag k="name" v="Columbia Elementary School"/>
     <tag k="building:levels" v="1.5"/>
     <tag k="addr:housenumber" v="2508"/>
     <tag k="addr:postcode" v="98225-2708"/>
@@ -30476,5 +30476,355 @@
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="98225-2957"/>
     <tag k="addr:street" v="Bellwether Way"/>
+  </node>
+  <node id="-9575" visible="true" lon="-122.4853393791030" lat="48.76217518775095">
+    <tag k="addr:housenumber" v="2105"/>
+    <tag k="addr:postcode" v="98225-3345"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-9576" visible="true" lon="-122.4852906562103" lat="48.76284562844226">
+    <tag k="addr:housenumber" v="2419"/>
+    <tag k="addr:postcode" v="98225-2435"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-9577" visible="true" lon="-122.4914786472894" lat="48.76352978759614">
+    <tag k="addr:housenumber" v="2510"/>
+    <tag k="addr:postcode" v="98225-2728"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-9578" visible="true" lon="-122.4898873652409" lat="48.76357610682220">
+    <tag k="addr:housenumber" v="2511"/>
+    <tag k="addr:postcode" v="98225-2715"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-9579" visible="true" lon="-122.4914718801326" lat="48.76376586081280">
+    <tag k="addr:housenumber" v="2518"/>
+    <tag k="addr:postcode" v="98225-2728"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-9580" visible="true" lon="-122.4915971445037" lat="48.76390663419251">
+    <tag k="addr:housenumber" v="2520"/>
+    <tag k="addr:postcode" v="98225-2728"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-9581" visible="true" lon="-122.4898856805737" lat="48.76391909341800">
+    <tag k="addr:housenumber" v="2519"/>
+    <tag k="addr:postcode" v="98225-2715"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-9582" visible="true" lon="-122.4914813240394" lat="48.76343180557479">
+    <tag k="addr:housenumber" v="2504"/>
+    <tag k="addr:postcode" v="98225-2728"/>
+    <tag k="addr:street" v="Walnut Street"/>
+  </node>
+  <node id="-9583" visible="true" lon="-122.4926505253817" lat="48.75999997145988">
+    <tag k="addr:housenumber" v="2212"/>
+    <tag k="addr:postcode" v="98225-2816"/>
+    <tag k="addr:street" v="Utter Street"/>
+  </node>
+  <node id="-9584" visible="true" lon="-122.4933039552224" lat="48.76051653927372">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98225-2820"/>
+    <tag k="addr:street" v="Washington Street"/>
+  </node>
+  <node id="-9585" visible="true" lon="-122.4955896977073" lat="48.76055305262370">
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:postcode" v="98225-2244"/>
+    <tag k="addr:street" v="Washington Street"/>
+  </node>
+  <node id="-9586" visible="true" lon="-122.4859045548326" lat="48.76336136227248">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:postcode" v="98225-2407"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-9587" visible="true" lon="-122.4852871227302" lat="48.76349020542619">
+    <tag k="addr:housenumber" v="2505"/>
+    <tag k="addr:postcode" v="98225-2437"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-9588" visible="true" lon="-122.4846232785806" lat="48.76358187056594">
+    <tag k="addr:housenumber" v="2508"/>
+    <tag k="addr:postcode" v="98225-2438"/>
+    <tag k="addr:street" v="Peabody Street"/>
+  </node>
+  <node id="-9589" visible="true" lon="-122.4841386223111" lat="48.76417323357943">
+    <tag k="addr:housenumber" v="901"/>
+    <tag k="addr:postcode" v="98225-2431"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-9590" visible="true" lon="-122.5050342890402" lat="48.76281073029614">
+    <tag k="addr:housenumber" v="2705"/>
+    <tag k="addr:postcode" v="98225-2026"/>
+    <tag k="addr:street" v="Jefferson Street"/>
+  </node>
+  <node id="-9591" visible="true" lon="-122.5048292585523" lat="48.76328494154145">
+    <tag k="addr:housenumber" v="2715"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jefferson Street"/>
+  </node>
+  <node id="-9592" visible="true" lon="-122.5045108198080" lat="48.76297067605228">
+    <tag k="addr:housenumber" v="2701"/>
+    <tag k="addr:postcode" v="98225-2026"/>
+    <tag k="addr:street" v="Jefferson Street"/>
+  </node>
+  <node id="-9593" visible="true" lon="-122.5029659251567" lat="48.76353347547314">
+    <tag k="addr:housenumber" v="2528"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jefferson Street"/>
+  </node>
+  <node id="-9594" visible="true" lon="-122.5015627274744" lat="48.76475090658528">
+    <tag k="addr:housenumber" v="2414"/>
+    <tag k="addr:postcode" v="98225-2059"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-9595" visible="true" lon="-122.5005538835482" lat="48.76300451912464">
+    <tag k="addr:housenumber" v="2311"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Jefferson Street"/>
+  </node>
+  <node id="-9596" visible="true" lon="-122.5017588967100" lat="48.76333746658653">
+    <tag k="addr:housenumber" v="2502"/>
+    <tag k="addr:postcode" v="98225-2033"/>
+    <tag k="addr:street" v="Keesling Street"/>
+  </node>
+  <node id="-9597" visible="true" lon="-122.4978713725806" lat="48.76370849041014">
+    <tag k="addr:housenumber" v="2511"/>
+    <tag k="addr:postcode" v="98225-2133"/>
+    <tag k="addr:street" v="Lynn Street"/>
+  </node>
+  <node id="-9598" visible="true" lon="-122.4915129200460" lat="48.76170303567741">
+    <tag k="addr:housenumber" v="1515"/>
+    <tag k="addr:postcode" v="98225-2831"/>
+    <tag k="addr:street" v="Monroe Street"/>
+  </node>
+  <node id="-9599" visible="true" lon="-122.4910387533182" lat="48.76227184497782">
+    <tag k="addr:housenumber" v="2409"/>
+    <tag k="addr:postcode" v="98225-2722"/>
+    <tag k="addr:street" v="Park Street"/>
+  </node>
+  <node id="-9600" visible="true" lon="-122.4886986469875" lat="48.76372545880832">
+    <tag k="addr:housenumber" v="2515"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Elm Street"/>
+  </node>
+  <node id="-9601" visible="true" lon="-122.4834766757970" lat="48.76396576792992">
+    <tag k="addr:housenumber" v="2520"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Vallette Street"/>
+  </node>
+  <node id="-9602" visible="true" lon="-122.4835791553414" lat="48.76417184641692">
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:postcode" v="98225-2429"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-9603" visible="true" lon="-122.4822795404019" lat="48.76427525199966">
+    <tag k="addr:housenumber" v="719"/>
+    <tag k="addr:postcode" v="98225-2427"/>
+    <tag k="addr:street" v="West North Street"/>
+  </node>
+  <node id="-9604" visible="true" lon="-122.4823117012846" lat="48.76410604074749">
+    <tag k="addr:housenumber" v="2405"/>
+    <tag k="addr:postcode" v="98225-2401"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-9605" visible="true" lon="-122.4972337984558" lat="48.76200434574530">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98225-2138"/>
+    <tag k="addr:street" v="Monroe Street"/>
+  </node>
+  <node id="-9606" visible="true" lon="-122.4875873660467" lat="48.76111738642383">
+    <tag k="addr:housenumber" v="2311"/>
+    <tag k="addr:postcode" v="98225-2847"/>
+    <tag k="addr:street" v="Kulshan Street"/>
+  </node>
+  <node id="-9607" visible="true" lon="-122.4875863048360" lat="48.76128874525394">
+    <tag k="addr:housenumber" v="2319"/>
+    <tag k="addr:postcode" v="98225-2847"/>
+    <tag k="addr:street" v="Kulshan Street"/>
+  </node>
+  <node id="-9608" visible="true" lon="-122.4875854342644" lat="48.76145324851357">
+    <tag k="addr:housenumber" v="2321"/>
+    <tag k="addr:postcode" v="98225-2847"/>
+    <tag k="addr:street" v="Kulshan Street"/>
+  </node>
+  <node id="-9609" visible="true" lon="-122.4870356218550" lat="48.76091977961678">
+    <tag k="addr:housenumber" v="1901"/>
+    <tag k="addr:postcode" v="98225-3237"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-9610" visible="true" lon="-122.4869924995320" lat="48.76198346712975">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98225-2850"/>
+    <tag k="addr:street" v="Monroe Street"/>
+  </node>
+  <node id="-9611" visible="true" lon="-122.4869165576582" lat="48.76257552969258">
+    <tag k="addr:housenumber" v="2416"/>
+    <tag k="addr:postcode" v="98225-2735"/>
+    <tag k="addr:street" v="Kulshan Street"/>
+  </node>
+  <node id="-9612" visible="true" lon="-122.4858993780214" lat="48.76173408011270">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-9613" visible="true" lon="-122.4967771629993" lat="48.76088551337930">
+    <tag k="addr:housenumber" v="2307"/>
+    <tag k="addr:postcode" v="98225-2208"/>
+    <tag k="addr:street" v="Henry Street"/>
+  </node>
+  <node id="-9614" visible="true" lon="-122.4944456597601" lat="48.76200844152590">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98225-2229"/>
+    <tag k="addr:street" v="Monroe Street"/>
+  </node>
+  <node id="-9615" visible="true" lon="-122.5073872657422" lat="48.76228065017847">
+    <tag k="addr:housenumber" v="2823"/>
+    <tag k="addr:postcode" v="98225-2019"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-9616" visible="true" lon="-122.5067399161419" lat="48.76237033148202">
+    <tag k="addr:housenumber" v="2816"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-9617" visible="true" lon="-122.5038250960089" lat="48.76221251479885">
+    <tag k="addr:housenumber" v="2402"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+  </node>
+  <node id="-9618" visible="true" lon="-122.5057019162469" lat="48.76215039140710">
+    <tag k="addr:housenumber" v="2726"/>
+    <tag k="addr:postcode" v="98225-2018"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-9619" visible="true" lon="-122.5027449766578" lat="48.75759355895708">
+    <tag k="addr:housenumber" v="734"/>
+    <tag k="addr:postcode" v="98225-2057"/>
+    <tag k="addr:street" v="Coho Way"/>
+  </node>
+  <node id="-9620" visible="true" lon="-122.5024750258890" lat="48.75622624060199">
+    <tag k="addr:housenumber" v="2609"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South Harbor Loop Drive"/>
+  </node>
+  <node id="-9621" visible="true" lon="-122.5009150997001" lat="48.75694544568538">
+    <tag k="addr:housenumber" v="2610"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North Harbor Loop Drive"/>
+  </node>
+  <node id="-9622" visible="true" lon="-122.5019996791835" lat="48.75848768110297">
+    <tag k="addr:housenumber" v="850"/>
+    <tag k="addr:postcode" v="98225-2068"/>
+    <tag k="addr:street" v="Coho Way"/>
+  </node>
+  <node id="-9623" visible="true" lon="-122.5020700628955" lat="48.75843006070781">
+    <tag k="addr:housenumber" v="860"/>
+    <tag k="addr:postcode" v="98225-2068"/>
+    <tag k="addr:street" v="Coho Way"/>
+  </node>
+  <node id="-9624" visible="true" lon="-122.5039763608155" lat="48.75628041884897">
+    <tag k="addr:housenumber" v="2613"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South Harbor Loop Drive"/>
+  </node>
+  <node id="-9625" visible="true" lon="-122.5084007185857" lat="48.75660346454590">
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-9626" visible="true" lon="-122.5034779404871" lat="48.75670414429116">
+    <tag k="addr:housenumber" v="2611"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South Harbor Loop Drive"/>
+  </node>
+  <node id="-9627" visible="true" lon="-122.5031269459489" lat="48.75933580804791">
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-9628" visible="true" lon="-122.5043992694886" lat="48.76011575747363">
+    <tag k="addr:housenumber" v="2694"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-9629" visible="true" lon="-122.5071604767047" lat="48.76018811014968">
+    <tag k="addr:housenumber" v="2701"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-9630" visible="true" lon="-122.5078450653018" lat="48.76122465514501">
+    <tag k="addr:housenumber" v="2805"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-9631" visible="true" lon="-122.5041818101601" lat="48.76109718618820">
+    <tag k="addr:housenumber" v="2621"/>
+    <tag k="addr:postcode" v="98225-2015"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-9632" visible="true" lon="-122.5072826451576" lat="48.76083937705315">
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:postcode" v="98225-2060"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-9633" visible="true" lon="-122.5045787159683" lat="48.75942147270877">
+    <tag k="addr:housenumber" v="2654"/>
+    <tag k="addr:postcode" v="98225-2022"/>
+    <tag k="addr:street" v="North Harbor Loop Drive"/>
+  </node>
+  <node id="-9634" visible="true" lon="-122.4972249435294" lat="48.76049064043134">
+    <tag k="addr:housenumber" v="2224"/>
+    <tag k="addr:postcode" v="98225-2128"/>
+    <tag k="addr:street" v="Lynn Street"/>
+  </node>
+  <node id="-9635" visible="true" lon="-122.4979120970043" lat="48.76091041711531">
+    <tag k="addr:housenumber" v="2301"/>
+    <tag k="addr:postcode" v="98225-2129"/>
+    <tag k="addr:street" v="Lynn Street"/>
+  </node>
+  <node id="-9636" visible="true" lon="-122.4899894226944" lat="48.75998614787066">
+    <tag k="addr:housenumber" v="2205"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-9637" visible="true" lon="-122.4891993777394" lat="48.76033342049588">
+    <tag k="addr:housenumber" v="2224"/>
+    <tag k="addr:postcode" v="98225-2828"/>
+    <tag k="addr:street" v="Elizabeth Street"/>
+  </node>
+  <node id="-9638" visible="true" lon="-122.4910908184453" lat="48.75823669933478">
+    <tag k="addr:housenumber" v="1313"/>
+    <tag k="addr:postcode" v="98225-2920"/>
+    <tag k="addr:street" v="Broadway Street"/>
+  </node>
+  <node id="-9639" visible="true" lon="-122.4946414458034" lat="48.75478131596076">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bellwether Way"/>
+  </node>
+  <node id="-9640" visible="true" lon="-122.4927329852507" lat="48.75638794957484">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bellwether Way"/>
+  </node>
+  <node id="-9641" visible="true" lon="-122.4925777319466" lat="48.75875773470084">
+    <tag k="addr:housenumber" v="2116"/>
+    <tag k="addr:postcode" v="98225-2814"/>
+    <tag k="addr:street" v="Utter Street"/>
+  </node>
+  <node id="-9642" visible="true" lon="-122.4956251085880" lat="48.75913770502613">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-9643" visible="true" lon="-122.4970914223527" lat="48.75782713663619">
+    <tag k="addr:housenumber" v="1915"/>
+    <tag k="addr:postcode" v="98225-2257"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
+  <node id="-9644" visible="true" lon="-122.4920290233154" lat="48.75513489015878">
+    <tag k="addr:housenumber" v="1051"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Hilton Avenue"/>
   </node>
 </osm>

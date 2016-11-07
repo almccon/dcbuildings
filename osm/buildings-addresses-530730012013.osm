@@ -1881,7 +1881,7 @@
     <member ref="-55" role="inner" type="way"/>
     <tag k="type" v="multipolygon"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Sehome Hs"/>
+    <tag k="name" v="Sehome High School"/>
     <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="2700"/>
     <tag k="addr:postcode" v="98225-5909"/>
@@ -3840,7 +3840,7 @@
     <nd ref="-1549"/>
     <nd ref="-1524"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Happy Valley Es"/>
+    <tag k="name" v="Happy Valley Elementary School"/>
     <tag k="building:levels" v="2"/>
     <tag k="addr:housenumber" v="1041"/>
     <tag k="addr:postcode" v="98225-8603"/>
@@ -18343,5 +18343,340 @@
     <tag k="addr:housenumber" v="2410"/>
     <tag k="addr:postcode" v="98225-6954"/>
     <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6313" visible="true" lon="-122.4747392656732" lat="48.72373205087526">
+    <tag k="addr:housenumber" v="923"/>
+    <tag k="addr:postcode" v="98225-6911"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6314" visible="true" lon="-122.4746487872988" lat="48.72893263995517">
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:postcode" v="98225-6551"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6315" visible="true" lon="-122.4746325088775" lat="48.72752811069419">
+    <tag k="addr:housenumber" v="631"/>
+    <tag k="addr:postcode" v="98225-6905"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6316" visible="true" lon="-122.4746125974859" lat="48.72846572013542">
+    <tag k="addr:housenumber" v="529"/>
+    <tag k="addr:postcode" v="98225-6553"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6317" visible="true" lon="-122.4738261366859" lat="48.73134335720916">
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:postcode" v="98225-935"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6318" visible="true" lon="-122.4720573799117" lat="48.73155989420949">
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:postcode" v="98225-6540"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-6319" visible="true" lon="-122.4745684494390" lat="48.72794297034891">
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:postcode" v="98225-6950"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6320" visible="true" lon="-122.4759476254396" lat="48.72870430302218">
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:postcode" v="98225-6512"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6321" visible="true" lon="-122.4781544843414" lat="48.72891744422983">
+    <tag k="addr:housenumber" v="3010"/>
+    <tag k="addr:postcode" v="98225-6555"/>
+    <tag k="addr:street" v="Ferry Avenue"/>
+  </node>
+  <node id="-6322" visible="true" lon="-122.4770279571137" lat="48.72907148770676">
+    <tag k="addr:housenumber" v="3100"/>
+    <tag k="addr:postcode" v="98225-6542"/>
+    <tag k="addr:street" v="Ferry Avenue"/>
+  </node>
+  <node id="-6323" visible="true" lon="-122.4759304124076" lat="48.72998433727751">
+    <tag k="addr:housenumber" v="3137"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ferry Avenue"/>
+  </node>
+  <node id="-6324" visible="true" lon="-122.4849713067797" lat="48.72611503640825">
+    <tag k="addr:housenumber" v="805"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-6325" visible="true" lon="-122.4849377759379" lat="48.72464452588625">
+    <tag k="addr:housenumber" v="913"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-6326" visible="true" lon="-122.4843343298738" lat="48.72467913866534">
+    <tag k="addr:housenumber" v="912"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="26th Street"/>
+  </node>
+  <node id="-6327" visible="true" lon="-122.4842486958149" lat="48.72435580002291">
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="26th Street"/>
+  </node>
+  <node id="-6328" visible="true" lon="-122.4835764517941" lat="48.72502722789328">
+    <tag k="addr:housenumber" v="915"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="26th Street"/>
+  </node>
+  <node id="-6329" visible="true" lon="-122.4835097988086" lat="48.72432860322230">
+    <tag k="addr:housenumber" v="947"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="26th Street"/>
+  </node>
+  <node id="-6330" visible="true" lon="-122.4805992148364" lat="48.72497472943277">
+    <tag k="addr:housenumber" v="2801"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Taylor Avenue"/>
+  </node>
+  <node id="-6331" visible="true" lon="-122.4763090926836" lat="48.72427806295114">
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:postcode" v="98225-6964"/>
+    <tag k="addr:street" v="31st Place"/>
+  </node>
+  <node id="-6332" visible="true" lon="-122.4782298045639" lat="48.72488434807858">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98225-6946"/>
+    <tag k="addr:street" v="Taylor Avenue"/>
+  </node>
+  <node id="-6333" visible="true" lon="-122.4790641600325" lat="48.72490407186550">
+    <tag k="addr:housenumber" v="2950"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Taylor Avenue"/>
+  </node>
+  <node id="-6334" visible="true" lon="-122.4757253836063" lat="48.72751185008430">
+    <tag k="addr:housenumber" v="624"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6335" visible="true" lon="-122.4757315942766" lat="48.72755728176441">
+    <tag k="addr:housenumber" v="622"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6336" visible="true" lon="-122.4757299176893" lat="48.72760227795684">
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6337" visible="true" lon="-122.4757289636908" lat="48.72764624126955">
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6338" visible="true" lon="-122.4757285159166" lat="48.72770589463953">
+    <tag k="addr:housenumber" v="616"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6339" visible="true" lon="-122.4757323552818" lat="48.72775136070211">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6340" visible="true" lon="-122.4757363465342" lat="48.72780153414067">
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6341" visible="true" lon="-122.4757429635767" lat="48.72785951730248">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98225-6906"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6342" visible="true" lon="-122.4830350206933" lat="48.72352983712953">
+    <tag k="addr:housenumber" v="2714"/>
+    <tag k="addr:postcode" v="98225-6961"/>
+    <tag k="addr:street" v="Douglas Avenue"/>
+  </node>
+  <node id="-6343" visible="true" lon="-122.4841686248225" lat="48.72051251507271">
+    <tag k="addr:housenumber" v="2514"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-6344" visible="true" lon="-122.4843205009835" lat="48.72043731152645">
+    <tag k="addr:housenumber" v="2516"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-6345" visible="true" lon="-122.4839949073955" lat="48.72037238687322">
+    <tag k="addr:housenumber" v="2518"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-6346" visible="true" lon="-122.4853270678704" lat="48.71946625356701">
+    <tag k="addr:housenumber" v="2405"/>
+    <tag k="addr:postcode" v="98225-6933"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6347" visible="true" lon="-122.4825426520565" lat="48.71869510210259">
+    <tag k="addr:housenumber" v="2708"/>
+    <tag k="addr:postcode" v="98225-6940"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6348" visible="true" lon="-122.4822522882055" lat="48.72286800817417">
+    <tag k="addr:housenumber" v="2701"/>
+    <tag k="addr:postcode" v="98225-8666"/>
+    <tag k="addr:street" v="Durbin Court"/>
+  </node>
+  <node id="-6349" visible="true" lon="-122.4818302589040" lat="48.72318131738881">
+    <tag k="addr:housenumber" v="2716"/>
+    <tag k="addr:postcode" v="98225-6928"/>
+    <tag k="addr:street" v="Douglas Avenue"/>
+  </node>
+  <node id="-6350" visible="true" lon="-122.4814346121210" lat="48.71895308595798">
+    <tag k="addr:housenumber" v="2710"/>
+    <tag k="addr:postcode" v="98225-6940"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6351" visible="true" lon="-122.4795787713884" lat="48.72057173798750">
+    <tag k="addr:housenumber" v="2901"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-6352" visible="true" lon="-122.4793525270972" lat="48.71978949000074">
+    <tag k="addr:housenumber" v="2903"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6353" visible="true" lon="-122.4790994682184" lat="48.72265085139263">
+    <tag k="addr:housenumber" v="2902"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Douglas Avenue"/>
+  </node>
+  <node id="-6354" visible="true" lon="-122.4789856225733" lat="48.71842391243360">
+    <tag k="addr:housenumber" v="3001"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6355" visible="true" lon="-122.4789213667964" lat="48.71978161014869">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6356" visible="true" lon="-122.4782108108415" lat="48.71953861890937">
+    <tag k="addr:housenumber" v="6930"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-6357" visible="true" lon="-122.4781634157250" lat="48.71742583621983">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6358" visible="true" lon="-122.4775992807576" lat="48.71811541994985">
+    <tag k="addr:housenumber" v="3101"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6359" visible="true" lon="-122.4856527693429" lat="48.72142073383534">
+    <tag k="addr:housenumber" v="2411"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mill Avenue"/>
+  </node>
+  <node id="-6360" visible="true" lon="-122.4767150404880" lat="48.71974598609524">
+    <tag k="addr:housenumber" v="1216"/>
+    <tag k="addr:postcode" v="98225-6918"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6361" visible="true" lon="-122.4763019268783" lat="48.71861209668098">
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:postcode" v="98225-6922"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6362" visible="true" lon="-122.4758447455715" lat="48.71806700322306">
+    <tag k="addr:housenumber" v="1501"/>
+    <tag k="addr:postcode" v="98225-7604"/>
+    <tag k="addr:street" v="Bonnie Lane"/>
+  </node>
+  <node id="-6363" visible="true" lon="-122.4757645149524" lat="48.72168034893345">
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="98225-6916"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6364" visible="true" lon="-122.4857216155246" lat="48.71689072164993">
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:postcode" v="98225-7652"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6365" visible="true" lon="-122.4850118086388" lat="48.71502311976791">
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-6366" visible="true" lon="-122.4843022468474" lat="48.71713514132210">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:postcode" v="98225-7622"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6367" visible="true" lon="-122.4830788712607" lat="48.71660461543068">
+    <tag k="addr:housenumber" v="2620"/>
+    <tag k="addr:postcode" v="98225-7624"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6368" visible="true" lon="-122.4826986475557" lat="48.71651660802928">
+    <tag k="addr:housenumber" v="2676"/>
+    <tag k="addr:postcode" v="98225-7624"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6369" visible="true" lon="-122.4826293989856" lat="48.71664805539737">
+    <tag k="addr:housenumber" v="2680"/>
+    <tag k="addr:postcode" v="98225-7624"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6370" visible="true" lon="-122.4815148336586" lat="48.71602378297150">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6371" visible="true" lon="-122.4805424756462" lat="48.71671554559602">
+    <tag k="addr:housenumber" v="2809"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-6372" visible="true" lon="-122.4801607867538" lat="48.71489316351583">
+    <tag k="addr:housenumber" v="2801"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-6373" visible="true" lon="-122.4834705980259" lat="48.71660763608543">
+    <tag k="addr:housenumber" v="2628"/>
+    <tag k="addr:postcode" v="98225-7624"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6374" visible="true" lon="-122.4778082182711" lat="48.71622046791391">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98225-7603"/>
+    <tag k="addr:street" v="30th Street"/>
+  </node>
+  <node id="-6375" visible="true" lon="-122.4760775093588" lat="48.71708850415675">
+    <tag k="addr:housenumber" v="3136"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-6376" visible="true" lon="-122.4757200207618" lat="48.71616100828477">
+    <tag k="addr:housenumber" v="1702"/>
+    <tag k="addr:postcode" v="98225-7608"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6377" visible="true" lon="-122.4752168650886" lat="48.71503799584868">
+    <tag k="addr:housenumber" v="1899"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6378" visible="true" lon="-122.4751177240741" lat="48.71524356823076">
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-6379" visible="true" lon="-122.4750137491948" lat="48.71583501605500">
+    <tag k="addr:housenumber" v="1721"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="32nd Street"/>
   </node>
 </osm>

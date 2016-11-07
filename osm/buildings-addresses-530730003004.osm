@@ -3786,7 +3786,7 @@
     <nd ref="-1475"/>
     <nd ref="-1448"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Shuksan Ms"/>
+    <tag k="name" v="Shuksan Middle School"/>
     <tag k="building:levels" v="1"/>
   </way>
   <node id="-1476" visible="true" lon="-122.5030220970129" lat="48.77964566845758"/>
@@ -9537,5 +9537,180 @@
     <tag k="addr:housenumber" v="3531"/>
     <tag k="addr:postcode" v="98225-1231"/>
     <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3437" visible="true" lon="-122.4951694735711" lat="48.77325690891242">
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-3438" visible="true" lon="-122.4949754053767" lat="48.77404531925524">
+    <tag k="addr:housenumber" v="1657"/>
+    <tag k="addr:postcode" v="98225-1309"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+  </node>
+  <node id="-3439" visible="true" lon="-122.4963334772129" lat="48.77490892587603">
+    <tag k="addr:housenumber" v="3214"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3440" visible="true" lon="-122.4963771463849" lat="48.77496315079365">
+    <tag k="addr:housenumber" v="3216"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3441" visible="true" lon="-122.4964254627048" lat="48.77502003281091">
+    <tag k="addr:housenumber" v="3218"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3442" visible="true" lon="-122.4964730031532" lat="48.77507857006867">
+    <tag k="addr:housenumber" v="3220"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3443" visible="true" lon="-122.4964981865700" lat="48.77615913436856">
+    <tag k="addr:housenumber" v="3300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3444" visible="true" lon="-122.5070788892374" lat="48.78178437975298">
+    <tag k="addr:housenumber" v="2905"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-3445" visible="true" lon="-122.5067204014119" lat="48.78169049074454">
+    <tag k="addr:housenumber" v="2903"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-3446" visible="true" lon="-122.5063864084219" lat="48.78147852185155">
+    <tag k="addr:housenumber" v="2828"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Azalea Place"/>
+  </node>
+  <node id="-3447" visible="true" lon="-122.5055179190250" lat="48.78022250623696">
+    <tag k="addr:housenumber" v="2816"/>
+    <tag k="addr:postcode" v="98225-1225"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3448" visible="true" lon="-122.5053321735503" lat="48.78211790501246">
+    <tag k="addr:housenumber" v="2835"/>
+    <tag k="addr:postcode" v="98225-1051"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-3449" visible="true" lon="-122.5033703939096" lat="48.77961730281253">
+    <tag k="addr:housenumber" v="2735"/>
+    <tag k="addr:postcode" v="98225-1222"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3450" visible="true" lon="-122.5030497612937" lat="48.77961806365874">
+    <tag k="addr:housenumber" v="2731"/>
+    <tag k="addr:postcode" v="98225-1222"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3451" visible="true" lon="-122.5027216929199" lat="48.77961975232826">
+    <tag k="addr:housenumber" v="2729"/>
+    <tag k="addr:postcode" v="98225-1222"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3452" visible="true" lon="-122.5031039550481" lat="48.78009359291730">
+    <tag k="addr:housenumber" v="2732"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3453" visible="true" lon="-122.5023185279969" lat="48.78202301321911">
+    <tag k="addr:housenumber" v="3543"/>
+    <tag k="addr:postcode" v="98225-1231"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3454" visible="true" lon="-122.5021434675897" lat="48.78181549898555">
+    <tag k="addr:housenumber" v="3541"/>
+    <tag k="addr:postcode" v="98225-1231"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3455" visible="true" lon="-122.5012717773480" lat="48.77927481727915">
+    <tag k="addr:housenumber" v="2713"/>
+    <tag k="addr:postcode" v="98225-1222"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3456" visible="true" lon="-122.5010280164828" lat="48.78196527196099">
+    <tag k="addr:housenumber" v="3538"/>
+    <tag k="addr:postcode" v="98225-1237"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3457" visible="true" lon="-122.5006257406648" lat="48.78154717545216">
+    <tag k="addr:housenumber" v="3528"/>
+    <tag k="addr:postcode" v="98225-1239"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3458" visible="true" lon="-122.5005711286112" lat="48.78227280871005">
+    <tag k="addr:housenumber" v="2739"/>
+    <tag k="addr:postcode" v="98225-1339"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-3459" visible="true" lon="-122.5012699205072" lat="48.77961172177110">
+    <tag k="addr:housenumber" v="2717"/>
+    <tag k="addr:postcode" v="98225-1222"/>
+    <tag k="addr:street" v="Alderwood Avenue"/>
+  </node>
+  <node id="-3460" visible="true" lon="-122.4866705030857" lat="48.77590379508152">
+    <tag k="addr:housenumber" v="3415"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-3461" visible="true" lon="-122.4990678644256" lat="48.77767515235327">
+    <tag k="addr:housenumber" v="3401"/>
+    <tag k="addr:postcode" v="98225-1229"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3462" visible="true" lon="-122.4980547670062" lat="48.77765222638723">
+    <tag k="addr:housenumber" v="3330"/>
+    <tag k="addr:postcode" v="98225-1268"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3463" visible="true" lon="-122.4979138669121" lat="48.77579364493234">
+    <tag k="addr:housenumber" v="2608"/>
+    <tag k="addr:postcode" v="98225-1203"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-3464" visible="true" lon="-122.4993141734647" lat="48.77760975371593">
+    <tag k="addr:housenumber" v="3343"/>
+    <tag k="addr:postcode" v="98225-1229"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3465" visible="true" lon="-122.4994978495032" lat="48.77755596056249">
+    <tag k="addr:housenumber" v="3347"/>
+    <tag k="addr:postcode" v="98225-1229"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3466" visible="true" lon="-122.4997276502912" lat="48.77748127761655">
+    <tag k="addr:housenumber" v="3353"/>
+    <tag k="addr:postcode" v="98225-1229"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-3467" visible="true" lon="-122.5032584040842" lat="48.77765669731953">
+    <tag k="addr:housenumber" v="2806"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-3468" visible="true" lon="-122.5014863100415" lat="48.77705140393417">
+    <tag k="addr:housenumber" v="2720"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-3469" visible="true" lon="-122.4874304261462" lat="48.77532863762487">
+    <tag k="addr:housenumber" v="1204"/>
+    <tag k="addr:postcode" v="98225-1324"/>
+    <tag k="addr:street" v="East Maplewood Avenue"/>
+  </node>
+  <node id="-3470" visible="true" lon="-122.4918234824628" lat="48.77403536948913">
+    <tag k="addr:housenumber" v="1525"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-3471" visible="true" lon="-122.4928068576869" lat="48.77362685437543">
+    <tag k="addr:housenumber" v="1535"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
   </node>
 </osm>

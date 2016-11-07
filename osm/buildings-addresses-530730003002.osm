@@ -11932,4 +11932,244 @@
     <tag k="addr:postcode" v="98226-9087"/>
     <tag k="addr:street" v="West Bakerview Road"/>
   </node>
+  <node id="-4338" visible="true" lon="-122.4885850185061" lat="48.78930550412601">
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4339" visible="true" lon="-122.4878610889380" lat="48.78843794278586">
+    <tag k="addr:housenumber" v="4051"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Meridian Street"/>
+  </node>
+  <node id="-4340" visible="true" lon="-122.4876157509014" lat="48.78927812764450">
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4341" visible="true" lon="-122.5162007921420" lat="48.78638391476468">
+    <tag k="addr:housenumber" v="3230"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4342" visible="true" lon="-122.5123503355541" lat="48.78372404102831">
+    <tag k="addr:housenumber" v="3020"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4343" visible="true" lon="-122.5119900282832" lat="48.78352744658170">
+    <tag k="addr:housenumber" v="3016"/>
+    <tag k="addr:postcode" v="98225-1004"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4344" visible="true" lon="-122.5153149929974" lat="48.78675914026307">
+    <tag k="addr:housenumber" v="3300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4345" visible="true" lon="-122.5139661733107" lat="48.78575384273493">
+    <tag k="addr:housenumber" v="3108"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4346" visible="true" lon="-122.5139686351103" lat="48.78494972513427">
+    <tag k="addr:housenumber" v="3206"/>
+    <tag k="addr:postcode" v="98225-1073"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4347" visible="true" lon="-122.5142614498268" lat="48.78536138367223">
+    <tag k="addr:housenumber" v="3208"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Maplewood Avenue"/>
+  </node>
+  <node id="-4348" visible="true" lon="-122.5105278424336" lat="48.78284013186988">
+    <tag k="addr:housenumber" v="2944"/>
+    <tag k="addr:postcode" v="98225-1057"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4349" visible="true" lon="-122.5102574078787" lat="48.78284155991913">
+    <tag k="addr:housenumber" v="2942"/>
+    <tag k="addr:postcode" v="98225-1057"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4350" visible="true" lon="-122.5101032631350" lat="48.78326213306546">
+    <tag k="addr:housenumber" v="3623"/>
+    <tag k="addr:postcode" v="98225-1041"/>
+    <tag k="addr:street" v="Dana Street"/>
+  </node>
+  <node id="-4351" visible="true" lon="-122.5101028773988" lat="48.78351463044634">
+    <tag k="addr:housenumber" v="3709"/>
+    <tag k="addr:postcode" v="98225-1043"/>
+    <tag k="addr:street" v="Dana Street"/>
+  </node>
+  <node id="-4352" visible="true" lon="-122.5100943131052" lat="48.78925333301061">
+    <tag k="addr:housenumber" v="1075"/>
+    <tag k="addr:postcode" v="98226-9123"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4353" visible="true" lon="-122.5099769767697" lat="48.78284176054311">
+    <tag k="addr:housenumber" v="2940"/>
+    <tag k="addr:postcode" v="98225-1057"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4354" visible="true" lon="-122.5096944904513" lat="48.78284253784102">
+    <tag k="addr:housenumber" v="2938"/>
+    <tag k="addr:postcode" v="98225-1057"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4355" visible="true" lon="-122.5091620316754" lat="48.78284883197318">
+    <tag k="addr:housenumber" v="2936"/>
+    <tag k="addr:postcode" v="98225-1058"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4356" visible="true" lon="-122.5089716304024" lat="48.78854113530956">
+    <tag k="addr:housenumber" v="1055"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4357" visible="true" lon="-122.5088000283226" lat="48.78498144475290">
+    <tag k="addr:housenumber" v="3800"/>
+    <tag k="addr:postcode" v="98225-1048"/>
+    <tag k="addr:street" v="Dana Street"/>
+  </node>
+  <node id="-4358" visible="true" lon="-122.5066328884698" lat="48.78682074612620">
+    <tag k="addr:housenumber" v="805"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Home Lane"/>
+  </node>
+  <node id="-4359" visible="true" lon="-122.5063181688194" lat="48.78729750481244">
+    <tag k="addr:housenumber" v="4015"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4360" visible="true" lon="-122.5073904527265" lat="48.78836401399196">
+    <tag k="addr:housenumber" v="4043"/>
+    <tag k="addr:postcode" v="98226-9071"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4361" visible="true" lon="-122.5061390156856" lat="48.78846318766347">
+    <tag k="addr:housenumber" v="4040"/>
+    <tag k="addr:postcode" v="98226-9071"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4362" visible="true" lon="-122.5075558730008" lat="48.78886292856086">
+    <tag k="addr:housenumber" v="4063"/>
+    <tag k="addr:postcode" v="98226-9071"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4363" visible="true" lon="-122.5059412131958" lat="48.78916932800851">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4364" visible="true" lon="-122.4965848114419" lat="48.78876354449361">
+    <tag k="addr:housenumber" v="471"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4365" visible="true" lon="-122.4959772815725" lat="48.78877249381775">
+    <tag k="addr:housenumber" v="451"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4366" visible="true" lon="-122.4953177346759" lat="48.78877670032991">
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4367" visible="true" lon="-122.4938059159418" lat="48.78907077113678">
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4368" visible="true" lon="-122.4924696517984" lat="48.78873123210812">
+    <tag k="addr:housenumber" v="347"/>
+    <tag k="addr:postcode" v="98226-8105"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4369" visible="true" lon="-122.4909079577480" lat="48.78899665145276">
+    <tag k="addr:housenumber" v="4030"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Cordata Parkway"/>
+  </node>
+  <node id="-4370" visible="true" lon="-122.4998411816999" lat="48.78274657105236">
+    <tag k="addr:housenumber" v="2732"/>
+    <tag k="addr:postcode" v="98225-1338"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4371" visible="true" lon="-122.4986888612287" lat="48.78706966462165">
+    <tag k="addr:housenumber" v="4015"/>
+    <tag k="addr:postcode" v="98226-8161"/>
+    <tag k="addr:street" v="Eliza Avenue"/>
+  </node>
+  <node id="-4372" visible="true" lon="-122.4993853790210" lat="48.78875147223453">
+    <tag k="addr:housenumber" v="561"/>
+    <tag k="addr:postcode" v="98226-9171"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4373" visible="true" lon="-122.4987004099962" lat="48.78875222373705">
+    <tag k="addr:housenumber" v="557"/>
+    <tag k="addr:postcode" v="98226-9171"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4374" visible="true" lon="-122.4980022572589" lat="48.78917397676278">
+    <tag k="addr:housenumber" v="541"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4375" visible="true" lon="-122.5013456086793" lat="48.78590132165588">
+    <tag k="addr:housenumber" v="668"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sterling Drive"/>
+  </node>
+  <node id="-4376" visible="true" lon="-122.5029151109030" lat="48.78403209993925">
+    <tag k="addr:housenumber" v="3700"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4377" visible="true" lon="-122.4988103347796" lat="48.78828676037303">
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:postcode" v="98226-9171"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4378" visible="true" lon="-122.4985382914660" lat="48.78828885297490">
+    <tag k="addr:housenumber" v="553"/>
+    <tag k="addr:postcode" v="98226-9171"/>
+    <tag k="addr:street" v="West Bakerview Road"/>
+  </node>
+  <node id="-4379" visible="true" lon="-122.4967819627608" lat="48.78302521241191">
+    <tag k="addr:housenumber" v="2648"/>
+    <tag k="addr:postcode" v="98225-1368"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4380" visible="true" lon="-122.4968364813771" lat="48.78581641559249">
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:postcode" v="98226-5527"/>
+    <tag k="addr:street" v="Barnes Road"/>
+  </node>
+  <node id="-4381" visible="true" lon="-122.4965528424252" lat="48.78582046737648">
+    <tag k="addr:housenumber" v="475"/>
+    <tag k="addr:postcode" v="98226-5527"/>
+    <tag k="addr:street" v="Barnes Road"/>
+  </node>
+  <node id="-4382" visible="true" lon="-122.4953978064204" lat="48.78585752103572">
+    <tag k="addr:housenumber" v="455"/>
+    <tag k="addr:postcode" v="98226-5527"/>
+    <tag k="addr:street" v="Barnes Road"/>
+  </node>
+  <node id="-4383" visible="true" lon="-122.5065164831914" lat="48.78274624098609">
+    <tag k="addr:housenumber" v="2846"/>
+    <tag k="addr:postcode" v="98225-1059"/>
+    <tag k="addr:street" v="Mcleod Road"/>
+  </node>
+  <node id="-4384" visible="true" lon="-122.5042699989144" lat="48.78489982924571">
+    <tag k="addr:housenumber" v="3880"/>
+    <tag k="addr:postcode" v="98226-9045"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4385" visible="true" lon="-122.5023994805330" lat="48.78255608260073">
+    <tag k="addr:housenumber" v="3600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
 </osm>

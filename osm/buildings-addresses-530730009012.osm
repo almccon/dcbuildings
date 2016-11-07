@@ -10808,7 +10808,7 @@
     <nd ref="-3727"/>
     <nd ref="-3680"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Carl Cozier Es"/>
+    <tag k="name" v="Carl Cozier Elementary School"/>
     <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="1330"/>
     <tag k="addr:postcode" v="98229-6238"/>
@@ -14562,5 +14562,505 @@
     <tag k="addr:housenumber" v="1362"/>
     <tag k="addr:postcode" v="98229-2015"/>
     <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5018" visible="true" lon="-122.4632824818205" lat="48.75012314214964">
+    <tag k="addr:housenumber" v="932"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-5019" visible="true" lon="-122.4631291123244" lat="48.75022838513561">
+    <tag k="addr:housenumber" v="940"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-5020" visible="true" lon="-122.4632118398556" lat="48.74994482024718">
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-5021" visible="true" lon="-122.4631994396729" lat="48.75039959960801">
+    <tag k="addr:housenumber" v="946"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-5022" visible="true" lon="-122.4634607381126" lat="48.74778320026957">
+    <tag k="addr:housenumber" v="1440"/>
+    <tag k="addr:postcode" v="98229-6222"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-5023" visible="true" lon="-122.4629034241093" lat="48.74521161000816">
+    <tag k="addr:housenumber" v="921"/>
+    <tag k="addr:postcode" v="98229-6214"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5024" visible="true" lon="-122.4628756031382" lat="48.74635873231613">
+    <tag k="addr:housenumber" v="1345"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5025" visible="true" lon="-122.4620489003194" lat="48.74818189068019">
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:postcode" v="98229-6272"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5026" visible="true" lon="-122.4482237845715" lat="48.74921060896582">
+    <tag k="addr:housenumber" v="2094"/>
+    <tag k="addr:postcode" v="98229-5368"/>
+    <tag k="addr:street" v="Wildflower Way"/>
+  </node>
+  <node id="-5027" visible="true" lon="-122.4476018038541" lat="48.74843608775507">
+    <tag k="addr:housenumber" v="2159"/>
+    <tag k="addr:postcode" v="98229-5371"/>
+    <tag k="addr:street" v="Wildflower Court"/>
+  </node>
+  <node id="-5028" visible="true" lon="-122.4474803899053" lat="48.74917993849215">
+    <tag k="addr:housenumber" v="2117"/>
+    <tag k="addr:postcode" v="98229-5366"/>
+    <tag k="addr:street" v="Wildflower Way"/>
+  </node>
+  <node id="-5029" visible="true" lon="-122.4473909608568" lat="48.75117725492261">
+    <tag k="addr:housenumber" v="2120"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fraser Street"/>
+  </node>
+  <node id="-5030" visible="true" lon="-122.4472152196087" lat="48.74822464398061">
+    <tag k="addr:housenumber" v="2178"/>
+    <tag k="addr:postcode" v="98229-5366"/>
+    <tag k="addr:street" v="Wildflower Way"/>
+  </node>
+  <node id="-5031" visible="true" lon="-122.4472119504141" lat="48.74847882510367">
+    <tag k="addr:housenumber" v="2166"/>
+    <tag k="addr:postcode" v="98229-5366"/>
+    <tag k="addr:street" v="Wildflower Way"/>
+  </node>
+  <node id="-5032" visible="true" lon="-122.4471417170145" lat="48.74898533013295">
+    <tag k="addr:housenumber" v="2139"/>
+    <tag k="addr:postcode" v="98229-5366"/>
+    <tag k="addr:street" v="Wildflower Way"/>
+  </node>
+  <node id="-5033" visible="true" lon="-122.4468759639739" lat="48.74915693144010">
+    <tag k="addr:housenumber" v="1461"/>
+    <tag k="addr:postcode" v="98229-5361"/>
+    <tag k="addr:street" v="Sweetbay Drive"/>
+  </node>
+  <node id="-5034" visible="true" lon="-122.4466236447652" lat="48.74949082445964">
+    <tag k="addr:housenumber" v="1466"/>
+    <tag k="addr:postcode" v="98229-5361"/>
+    <tag k="addr:street" v="Sweetbay Drive"/>
+  </node>
+  <node id="-5035" visible="true" lon="-122.4455980516685" lat="48.75224222987947">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98229-5337"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-5036" visible="true" lon="-122.4455935904093" lat="48.75202297260205">
+    <tag k="addr:housenumber" v="1609"/>
+    <tag k="addr:postcode" v="98229-5338"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-5037" visible="true" lon="-122.4465481314872" lat="48.74893749772699">
+    <tag k="addr:housenumber" v="1449"/>
+    <tag k="addr:postcode" v="98229-5361"/>
+    <tag k="addr:street" v="Sweetbay Drive"/>
+  </node>
+  <node id="-5038" visible="true" lon="-122.4467121820695" lat="48.74905146266926">
+    <tag k="addr:housenumber" v="1455"/>
+    <tag k="addr:postcode" v="98229-5361"/>
+    <tag k="addr:street" v="Sweetbay Drive"/>
+  </node>
+  <node id="-5039" visible="true" lon="-122.4456760069408" lat="48.74928747435665">
+    <tag k="addr:housenumber" v="1446"/>
+    <tag k="addr:postcode" v="98229-5362"/>
+    <tag k="addr:street" v="Sweetbay Court"/>
+  </node>
+  <node id="-5040" visible="true" lon="-122.4435807629385" lat="48.75532444464210">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-5041" visible="true" lon="-122.4445661382792" lat="48.75415390183461">
+    <tag k="addr:housenumber" v="1925"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-5042" visible="true" lon="-122.4499397198622" lat="48.75370543678605">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-5043" visible="true" lon="-122.4521760825709" lat="48.75447376383617">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-5044" visible="true" lon="-122.4464431097692" lat="48.75453445959332">
+    <tag k="addr:housenumber" v="1850"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-5045" visible="true" lon="-122.4460035168728" lat="48.75474040665686">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98229-4745"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-5046" visible="true" lon="-122.4457792841011" lat="48.75357838412291">
+    <tag k="addr:housenumber" v="1803"/>
+    <tag k="addr:postcode" v="98229-5336"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-5047" visible="true" lon="-122.4462810815658" lat="48.75376552691887">
+    <tag k="addr:housenumber" v="1808"/>
+    <tag k="addr:postcode" v="98229-4747"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-5048" visible="true" lon="-122.4561237928482" lat="48.74928292428461">
+    <tag k="addr:housenumber" v="1555"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Puget Street"/>
+  </node>
+  <node id="-5049" visible="true" lon="-122.4542772243204" lat="48.75025845139081">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Puget Street"/>
+  </node>
+  <node id="-5050" visible="true" lon="-122.4557583483698" lat="48.75113320844582">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fraser Street"/>
+  </node>
+  <node id="-5051" visible="true" lon="-122.4544728034323" lat="48.75382906866376">
+    <tag k="addr:housenumber" v="1425"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Meador Avenue"/>
+  </node>
+  <node id="-5052" visible="true" lon="-122.4615361376899" lat="48.74927168517474">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98229-6248"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5053" visible="true" lon="-122.4620066635577" lat="48.74928429050264">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:postcode" v="98229-6249"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5054" visible="true" lon="-122.4611445701402" lat="48.75115700722244">
+    <tag k="addr:housenumber" v="1617"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-5055" visible="true" lon="-122.4612363893442" lat="48.75135749744123">
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-5056" visible="true" lon="-122.4615000076910" lat="48.75206824241291">
+    <tag k="addr:housenumber" v="1015"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fraser Street"/>
+  </node>
+  <node id="-5057" visible="true" lon="-122.4611354958585" lat="48.75126213377050">
+    <tag k="addr:housenumber" v="1621"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-5058" visible="true" lon="-122.4619864695339" lat="48.75226704738679">
+    <tag k="addr:housenumber" v="1714"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5059" visible="true" lon="-122.4619702747837" lat="48.75204603457809">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5060" visible="true" lon="-122.4613993194632" lat="48.74955816702724">
+    <tag k="addr:housenumber" v="1509"/>
+    <tag k="addr:postcode" v="98229-6241"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-5061" visible="true" lon="-122.4610441342942" lat="48.75082970772301">
+    <tag k="addr:housenumber" v="1605"/>
+    <tag k="addr:postcode" v="98229-6204"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-5062" visible="true" lon="-122.4520709798016" lat="48.75217988404666">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fraser Street"/>
+  </node>
+  <node id="-5063" visible="true" lon="-122.4511172678141" lat="48.74850415946359">
+    <tag k="addr:housenumber" v="1505"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5064" visible="true" lon="-122.4491414007680" lat="48.74910233987654">
+    <tag k="addr:housenumber" v="2092"/>
+    <tag k="addr:postcode" v="98229-5370"/>
+    <tag k="addr:street" v="Wildflower Court"/>
+  </node>
+  <node id="-5065" visible="true" lon="-122.4491187530816" lat="48.74897790520091">
+    <tag k="addr:housenumber" v="2098"/>
+    <tag k="addr:postcode" v="98229-5370"/>
+    <tag k="addr:street" v="Wildflower Court"/>
+  </node>
+  <node id="-5066" visible="true" lon="-122.4511421208894" lat="48.74883350446406">
+    <tag k="addr:housenumber" v="1517"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5067" visible="true" lon="-122.4483413831753" lat="48.74581514899991">
+    <tag k="addr:housenumber" v="2015"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5068" visible="true" lon="-122.4479553299868" lat="48.74594700125128">
+    <tag k="addr:housenumber" v="2063"/>
+    <tag k="addr:postcode" v="98229-5367"/>
+    <tag k="addr:street" v="Ponderosa Court"/>
+  </node>
+  <node id="-5069" visible="true" lon="-122.4479128369536" lat="48.74560451938802">
+    <tag k="addr:housenumber" v="2075"/>
+    <tag k="addr:postcode" v="98229-5367"/>
+    <tag k="addr:street" v="Ponderosa Court"/>
+  </node>
+  <node id="-5070" visible="true" lon="-122.4502888771319" lat="48.74766711908288">
+    <tag k="addr:housenumber" v="1420"/>
+    <tag k="addr:postcode" v="98229-5301"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5071" visible="true" lon="-122.4496908649621" lat="48.74611579345864">
+    <tag k="addr:housenumber" v="1355"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-5072" visible="true" lon="-122.4496902061464" lat="48.74593842806901">
+    <tag k="addr:housenumber" v="1339"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-5073" visible="true" lon="-122.4496792575434" lat="48.74625933499072">
+    <tag k="addr:housenumber" v="1371"/>
+    <tag k="addr:postcode" v="98229-2237"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-5074" visible="true" lon="-122.4491553810790" lat="48.74572847526849">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98229-2237"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-5075" visible="true" lon="-122.4491143084094" lat="48.74793426212517">
+    <tag k="addr:housenumber" v="1428"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-5076" visible="true" lon="-122.4490732579399" lat="48.74559718701779">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:postcode" v="98229-5318"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5077" visible="true" lon="-122.4488044419749" lat="48.74584222633273">
+    <tag k="addr:housenumber" v="2064"/>
+    <tag k="addr:postcode" v="98229-5367"/>
+    <tag k="addr:street" v="Ponderosa Court"/>
+  </node>
+  <node id="-5078" visible="true" lon="-122.4583386206614" lat="48.74515460131546">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="98229-2009"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5079" visible="true" lon="-122.4576073726893" lat="48.74541804241413">
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:postcode" v="98229-2002"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-5080" visible="true" lon="-122.4583012301950" lat="48.74545117698261">
+    <tag k="addr:housenumber" v="1304"/>
+    <tag k="addr:postcode" v="98229-2018"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5081" visible="true" lon="-122.4580524370405" lat="48.74545475761241">
+    <tag k="addr:housenumber" v="1338"/>
+    <tag k="addr:postcode" v="98229-2016"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5082" visible="true" lon="-122.4580562434584" lat="48.74550905852273">
+    <tag k="addr:housenumber" v="1340"/>
+    <tag k="addr:postcode" v="98229-2016"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5083" visible="true" lon="-122.4583026413303" lat="48.74551159425597">
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:postcode" v="98229-2018"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5084" visible="true" lon="-122.4578943016239" lat="48.74556818781775">
+    <tag k="addr:housenumber" v="1368"/>
+    <tag k="addr:postcode" v="98229-2015"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5085" visible="true" lon="-122.4583004971890" lat="48.74566574776401">
+    <tag k="addr:housenumber" v="1312"/>
+    <tag k="addr:postcode" v="98229-2019"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5086" visible="true" lon="-122.4580652448134" lat="48.74573011142945">
+    <tag k="addr:housenumber" v="1348"/>
+    <tag k="addr:postcode" v="98229-2014"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5087" visible="true" lon="-122.4593015158049" lat="48.74575955715053">
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5088" visible="true" lon="-122.4578986195345" lat="48.74586391555990">
+    <tag k="addr:housenumber" v="1370"/>
+    <tag k="addr:postcode" v="98229-2015"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5089" visible="true" lon="-122.4580678684233" lat="48.74588605927347">
+    <tag k="addr:housenumber" v="1354"/>
+    <tag k="addr:postcode" v="98229-2014"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5090" visible="true" lon="-122.4575978020685" lat="48.74596236415591">
+    <tag k="addr:housenumber" v="1335"/>
+    <tag k="addr:postcode" v="98229-2002"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-5091" visible="true" lon="-122.4583031124855" lat="48.74599134720911">
+    <tag k="addr:housenumber" v="1324"/>
+    <tag k="addr:postcode" v="98229-2017"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5092" visible="true" lon="-122.4580671745347" lat="48.74599888841404">
+    <tag k="addr:housenumber" v="1358"/>
+    <tag k="addr:postcode" v="98229-2014"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5093" visible="true" lon="-122.4583086489360" lat="48.74620880213645">
+    <tag k="addr:housenumber" v="1332"/>
+    <tag k="addr:postcode" v="98229-2017"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5094" visible="true" lon="-122.4597609372280" lat="48.74726133871503">
+    <tag k="addr:housenumber" v="1220"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Civic Field Way"/>
+  </node>
+  <node id="-5095" visible="true" lon="-122.4580575291040" lat="48.74620565233122">
+    <tag k="addr:housenumber" v="1366"/>
+    <tag k="addr:postcode" v="98229-2015"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5096" visible="true" lon="-122.4580523577319" lat="48.74540030571603">
+    <tag k="addr:housenumber" v="1336"/>
+    <tag k="addr:postcode" v="98229-2016"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5097" visible="true" lon="-122.4583005519694" lat="48.74571780479226">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98229-2019"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5098" visible="true" lon="-122.4583047598008" lat="48.74539535160218">
+    <tag k="addr:housenumber" v="1302"/>
+    <tag k="addr:postcode" v="98229-2018"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5099" visible="true" lon="-122.4583010951800" lat="48.74588490327327">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98229-2019"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-5100" visible="true" lon="-122.4563648571082" lat="48.74516653309615">
+    <tag k="addr:housenumber" v="1415"/>
+    <tag k="addr:postcode" v="98229-2007"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5101" visible="true" lon="-122.4566443301907" lat="48.74516893921172">
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:postcode" v="98229-2007"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5102" visible="true" lon="-122.4530206119812" lat="48.74804884064410">
+    <tag k="addr:housenumber" v="1509"/>
+    <tag k="addr:postcode" v="98229-4384"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-5103" visible="true" lon="-122.4526447232668" lat="48.74617210418493">
+    <tag k="addr:housenumber" v="1716"/>
+    <tag k="addr:postcode" v="98229-5334"/>
+    <tag k="addr:street" v="St Paul Lane"/>
+  </node>
+  <node id="-5104" visible="true" lon="-122.4523524715234" lat="48.74616559207615">
+    <tag k="addr:housenumber" v="1319"/>
+    <tag k="addr:postcode" v="98229-5308"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-5105" visible="true" lon="-122.4516778602157" lat="48.74612298988659">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-5106" visible="true" lon="-122.4511048909895" lat="48.74647282193266">
+    <tag k="addr:housenumber" v="1327"/>
+    <tag k="addr:postcode" v="98229-5304"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5107" visible="true" lon="-122.4511043339463" lat="48.74603802869412">
+    <tag k="addr:housenumber" v="1317"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5108" visible="true" lon="-122.4507815917554" lat="48.74665688502661">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5109" visible="true" lon="-122.4516738829610" lat="48.74792117920406">
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:postcode" v="98229-5305"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-5110" visible="true" lon="-122.4510657379237" lat="48.74808959215584">
+    <tag k="addr:housenumber" v="1427"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-5111" visible="true" lon="-122.4553939928581" lat="48.74681747650840">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Puget Street"/>
+  </node>
+  <node id="-5112" visible="true" lon="-122.4542012618938" lat="48.74568294430546">
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-5113" visible="true" lon="-122.4542010106083" lat="48.74600041290579">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-5114" visible="true" lon="-122.4531410972275" lat="48.74584558642164">
+    <tag k="addr:housenumber" v="1717"/>
+    <tag k="addr:postcode" v="98229-5334"/>
+    <tag k="addr:street" v="St Paul Lane"/>
+  </node>
+  <node id="-5115" visible="true" lon="-122.4381142322866" lat="48.74787763631891">
+    <tag k="addr:housenumber" v="2701"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5116" visible="true" lon="-122.4620533885905" lat="48.74780404945457">
+    <tag k="addr:housenumber" v="1436"/>
+    <tag k="addr:postcode" v="98229-6269"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5117" visible="true" lon="-122.4613112849443" lat="48.74785446108964">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98229-6229"/>
+    <tag k="addr:street" v="Moore Street"/>
   </node>
 </osm>

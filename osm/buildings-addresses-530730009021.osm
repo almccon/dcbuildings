@@ -10562,7 +10562,7 @@
     <nd ref="-3602"/>
     <nd ref="-3556"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Wade King Es"/>
+    <tag k="name" v="Wade King Elementary School"/>
   </way>
   <node id="-3603" visible="true" lon="-122.4431567513795" lat="48.71910190234841"/>
   <node id="-3604" visible="true" lon="-122.4431474308640" lat="48.71910038731686"/>
@@ -40424,4 +40424,1289 @@
     <nd ref="-14077"/>
     <tag k="building" v="yes"/>
   </way>
+  <node id="-14083" visible="true" lon="-122.4421249119173" lat="48.72752283317497">
+    <tag k="addr:housenumber" v="2375"/>
+    <tag k="addr:postcode" v="98229-8828"/>
+    <tag k="addr:street" v="Forest View Drive"/>
+  </node>
+  <node id="-14084" visible="true" lon="-122.4435873772484" lat="48.72839002035882">
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14085" visible="true" lon="-122.4411944636189" lat="48.72968311896182">
+    <tag k="addr:housenumber" v="2448"/>
+    <tag k="addr:postcode" v="98229-6802"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14086" visible="true" lon="-122.4423966626261" lat="48.73010266712976">
+    <tag k="addr:housenumber" v="2454"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14087" visible="true" lon="-122.4415211910031" lat="48.73183957601719">
+    <tag k="addr:housenumber" v="2502"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14088" visible="true" lon="-122.4415250899257" lat="48.73198656354009">
+    <tag k="addr:housenumber" v="2508"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14089" visible="true" lon="-122.4415277666131" lat="48.73211909415873">
+    <tag k="addr:housenumber" v="2514"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14090" visible="true" lon="-122.4414894993104" lat="48.73229155575954">
+    <tag k="addr:housenumber" v="2520"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14091" visible="true" lon="-122.4422110424189" lat="48.73188994604919">
+    <tag k="addr:housenumber" v="2505"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14092" visible="true" lon="-122.4422146341236" lat="48.73202366657705">
+    <tag k="addr:housenumber" v="2511"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14093" visible="true" lon="-122.4422227560928" lat="48.73217669568794">
+    <tag k="addr:housenumber" v="2517"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14094" visible="true" lon="-122.4411037930094" lat="48.73183455111601">
+    <tag k="addr:housenumber" v="2507"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14095" visible="true" lon="-122.4411035197919" lat="48.73198189941667">
+    <tag k="addr:housenumber" v="2513"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14096" visible="true" lon="-122.4411207184466" lat="48.73213045700400">
+    <tag k="addr:housenumber" v="2519"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14097" visible="true" lon="-122.4411182563274" lat="48.73227651786544">
+    <tag k="addr:housenumber" v="2525"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14098" visible="true" lon="-122.4344901682754" lat="48.70562592678817">
+    <tag k="addr:housenumber" v="4949"/>
+    <tag k="addr:postcode" v="98229-8994"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14099" visible="true" lon="-122.4302562150839" lat="48.70333984518589">
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:postcode" v="98229-3280"/>
+    <tag k="addr:street" v="Wheatstone Way"/>
+  </node>
+  <node id="-14100" visible="true" lon="-122.4298972992920" lat="48.70452026546017">
+    <tag k="addr:housenumber" v="1244"/>
+    <tag k="addr:postcode" v="98229-3176"/>
+    <tag k="addr:street" v="Sandstone Way"/>
+  </node>
+  <node id="-14101" visible="true" lon="-122.4298849422793" lat="48.70529186330906">
+    <tag k="addr:housenumber" v="1284"/>
+    <tag k="addr:postcode" v="98229-3176"/>
+    <tag k="addr:street" v="Sandstone Way"/>
+  </node>
+  <node id="-14102" visible="true" lon="-122.4288263171979" lat="48.70241731552718">
+    <tag k="addr:housenumber" v="1175"/>
+    <tag k="addr:postcode" v="98229-3175"/>
+    <tag k="addr:street" v="Sandstone Way"/>
+  </node>
+  <node id="-14103" visible="true" lon="-122.4277327372736" lat="48.70449483538739">
+    <tag k="addr:housenumber" v="1251"/>
+    <tag k="addr:postcode" v="98229-3176"/>
+    <tag k="addr:street" v="Sandstone Way"/>
+  </node>
+  <node id="-14104" visible="true" lon="-122.4264614134219" lat="48.70494186848398">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98229-8956"/>
+    <tag k="addr:street" v="Gerity Road"/>
+  </node>
+  <node id="-14105" visible="true" lon="-122.4257119758099" lat="48.69906611768425">
+    <tag k="addr:housenumber" v="4980"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14106" visible="true" lon="-122.4231190972222" lat="48.70300702166889">
+    <tag k="addr:housenumber" v="1713"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="North Galbraith Lane"/>
+  </node>
+  <node id="-14107" visible="true" lon="-122.4231186010937" lat="48.70332285066739">
+    <tag k="addr:housenumber" v="1735"/>
+    <tag k="addr:postcode" v="98229-6900"/>
+    <tag k="addr:street" v="North Galbraith Lane"/>
+  </node>
+  <node id="-14108" visible="true" lon="-122.4225905574700" lat="48.69782771642049">
+    <tag k="addr:housenumber" v="4994"/>
+    <tag k="addr:postcode" v="98229-6930"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14109" visible="true" lon="-122.4224850249151" lat="48.70521119195097">
+    <tag k="addr:housenumber" v="1791"/>
+    <tag k="addr:postcode" v="98229-6900"/>
+    <tag k="addr:street" v="North Galbraith Lane"/>
+  </node>
+  <node id="-14110" visible="true" lon="-122.4437683959917" lat="48.70955166421925">
+    <tag k="addr:housenumber" v="1883"/>
+    <tag k="addr:postcode" v="98229-8910"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14111" visible="true" lon="-122.4416933847061" lat="48.71031045487324">
+    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:postcode" v="98229-8944"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14112" visible="true" lon="-122.4416826283370" lat="48.71122901316225">
+    <tag k="addr:housenumber" v="976"/>
+    <tag k="addr:postcode" v="98229-6839"/>
+    <tag k="addr:street" v="Colony Court"/>
+  </node>
+  <node id="-14113" visible="true" lon="-122.4405173685962" lat="48.70940611487904">
+    <tag k="addr:housenumber" v="1896"/>
+    <tag k="addr:postcode" v="98229-8910"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14114" visible="true" lon="-122.4404757604237" lat="48.70988590752754">
+    <tag k="addr:housenumber" v="1902"/>
+    <tag k="addr:postcode" v="98229-8944"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14115" visible="true" lon="-122.4402357539841" lat="48.71212575631662">
+    <tag k="addr:housenumber" v="1954"/>
+    <tag k="addr:postcode" v="98229-8909"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14116" visible="true" lon="-122.4393570201072" lat="48.71061279129295">
+    <tag k="addr:housenumber" v="1904"/>
+    <tag k="addr:postcode" v="98229-8944"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14117" visible="true" lon="-122.4392212195596" lat="48.71304529683769">
+    <tag k="addr:housenumber" v="1982"/>
+    <tag k="addr:postcode" v="98229-8909"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14118" visible="true" lon="-122.4381817707397" lat="48.71063861462323">
+    <tag k="addr:housenumber" v="1003"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Sehome Avenue"/>
+  </node>
+  <node id="-14119" visible="true" lon="-122.4364572361583" lat="48.71274688481476">
+    <tag k="addr:housenumber" v="1048"/>
+    <tag k="addr:postcode" v="98229-8866"/>
+    <tag k="addr:street" v="Sehome Avenue"/>
+  </node>
+  <node id="-14120" visible="true" lon="-122.4354135568768" lat="48.71102797929284">
+    <tag k="addr:housenumber" v="1053"/>
+    <tag k="addr:postcode" v="98229-8866"/>
+    <tag k="addr:street" v="Sehome Avenue"/>
+  </node>
+  <node id="-14121" visible="true" lon="-122.4440987820036" lat="48.71351406997692">
+    <tag k="addr:housenumber" v="809"/>
+    <tag k="addr:postcode" v="98229-6846"/>
+    <tag k="addr:street" v="South Hills Drive"/>
+  </node>
+  <node id="-14122" visible="true" lon="-122.4406501093143" lat="48.71308668848009">
+    <tag k="addr:housenumber" v="1997"/>
+    <tag k="addr:postcode" v="98229-8909"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14123" visible="true" lon="-122.4429068032210" lat="48.70939553977552">
+    <tag k="addr:housenumber" v="1894"/>
+    <tag k="addr:postcode" v="98229-8910"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14124" visible="true" lon="-122.4367873914985" lat="48.71140468107247">
+    <tag k="addr:housenumber" v="1031"/>
+    <tag k="addr:postcode" v="98229-8866"/>
+    <tag k="addr:street" v="Sehome Avenue"/>
+  </node>
+  <node id="-14125" visible="true" lon="-122.4441775769004" lat="48.73365060827727">
+    <tag k="addr:housenumber" v="2564"/>
+    <tag k="addr:postcode" v="98229-8816"/>
+    <tag k="addr:street" v="Woodbine Place"/>
+  </node>
+  <node id="-14126" visible="true" lon="-122.4429400871748" lat="48.73381027132844">
+    <tag k="addr:housenumber" v="2553"/>
+    <tag k="addr:postcode" v="98229-6821"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14127" visible="true" lon="-122.4421603231253" lat="48.73394193363784">
+    <tag k="addr:housenumber" v="2566"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14128" visible="true" lon="-122.4429395927480" lat="48.73399121765154">
+    <tag k="addr:housenumber" v="2559"/>
+    <tag k="addr:postcode" v="98229-6821"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14129" visible="true" lon="-122.4410764802332" lat="48.73614235073646">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-14130" visible="true" lon="-122.4408419152090" lat="48.73863623932859">
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-14131" visible="true" lon="-122.4421437676572" lat="48.73407375517527">
+    <tag k="addr:housenumber" v="2570"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14132" visible="true" lon="-122.4421670838321" lat="48.73381490935975">
+    <tag k="addr:housenumber" v="2560"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14133" visible="true" lon="-122.4421629553769" lat="48.73423496354206">
+    <tag k="addr:housenumber" v="2580"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14134" visible="true" lon="-122.4421603674761" lat="48.73372041983785">
+    <tag k="addr:housenumber" v="2556"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14135" visible="true" lon="-122.4414842359827" lat="48.73248891626402">
+    <tag k="addr:housenumber" v="2526"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14136" visible="true" lon="-122.4417414380768" lat="48.73251472766570">
+    <tag k="addr:housenumber" v="2532"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14137" visible="true" lon="-122.4422357035329" lat="48.73232873341996">
+    <tag k="addr:housenumber" v="2523"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14138" visible="true" lon="-122.4422514889073" lat="48.73252581454321">
+    <tag k="addr:housenumber" v="2529"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14139" visible="true" lon="-122.4419668573469" lat="48.73251573975311">
+    <tag k="addr:housenumber" v="2535"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Elmont Court"/>
+  </node>
+  <node id="-14140" visible="true" lon="-122.4411201971186" lat="48.73240588631132">
+    <tag k="addr:housenumber" v="2531"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14141" visible="true" lon="-122.4411291179292" lat="48.73256416251816">
+    <tag k="addr:housenumber" v="2537"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14142" visible="true" lon="-122.4462990314740" lat="48.71171007775038">
+    <tag k="addr:housenumber" v="872"/>
+    <tag k="addr:postcode" v="98229-6846"/>
+    <tag k="addr:street" v="South Hills Drive"/>
+  </node>
+  <node id="-14143" visible="true" lon="-122.4554984155114" lat="48.71274559839847">
+    <tag k="addr:housenumber" v="4659"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Raptor Lane"/>
+  </node>
+  <node id="-14144" visible="true" lon="-122.4554822066970" lat="48.70934989017869">
+    <tag k="addr:housenumber" v="4621"/>
+    <tag k="addr:postcode" v="98229-3499"/>
+    <tag k="addr:street" v="Willis Street"/>
+  </node>
+  <node id="-14145" visible="true" lon="-122.4549911666462" lat="48.71277899297774">
+    <tag k="addr:housenumber" v="4707"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Raptor Lane"/>
+  </node>
+  <node id="-14146" visible="true" lon="-122.4546754305446" lat="48.71320641460424">
+    <tag k="addr:housenumber" v="4715"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Raptor Lane"/>
+  </node>
+  <node id="-14147" visible="true" lon="-122.4542529078068" lat="48.71273911770932">
+    <tag k="addr:housenumber" v="4723"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Raptor Lane"/>
+  </node>
+  <node id="-14148" visible="true" lon="-122.4528318424813" lat="48.71022163472856">
+    <tag k="addr:housenumber" v="737"/>
+    <tag k="addr:postcode" v="98229-1900"/>
+    <tag k="addr:street" v="Cedar Creek Lane"/>
+  </node>
+  <node id="-14149" visible="true" lon="-122.4517452588232" lat="48.71311509515851">
+    <tag k="addr:housenumber" v="1991"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Governor Road"/>
+  </node>
+  <node id="-14150" visible="true" lon="-122.4517381341626" lat="48.70915012236956">
+    <tag k="addr:housenumber" v="1895"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Governor Road"/>
+  </node>
+  <node id="-14151" visible="true" lon="-122.4512502078108" lat="48.71155548787937">
+    <tag k="addr:housenumber" v="766"/>
+    <tag k="addr:postcode" v="98229-3410"/>
+    <tag k="addr:street" v="Governor Place"/>
+  </node>
+  <node id="-14152" visible="true" lon="-122.4512287609179" lat="48.71115022274032">
+    <tag k="addr:housenumber" v="765"/>
+    <tag k="addr:postcode" v="98229-3410"/>
+    <tag k="addr:street" v="Governor Place"/>
+  </node>
+  <node id="-14153" visible="true" lon="-122.4507032789935" lat="48.71106677839419">
+    <tag k="addr:housenumber" v="769"/>
+    <tag k="addr:postcode" v="98229-3410"/>
+    <tag k="addr:street" v="Governor Place"/>
+  </node>
+  <node id="-14154" visible="true" lon="-122.4510354814362" lat="48.71348932118583">
+    <tag k="addr:housenumber" v="1993"/>
+    <tag k="addr:postcode" v="98229-6939"/>
+    <tag k="addr:street" v="North Mahonia Place"/>
+  </node>
+  <node id="-14155" visible="true" lon="-122.4513527811925" lat="48.71386625179078">
+    <tag k="addr:housenumber" v="2003"/>
+    <tag k="addr:postcode" v="98229-6940"/>
+    <tag k="addr:street" v="North Mahonia Place"/>
+  </node>
+  <node id="-14156" visible="true" lon="-122.4546564394187" lat="48.70614661067587">
+    <tag k="addr:housenumber" v="4700"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14157" visible="true" lon="-122.4543808246412" lat="48.70666538308686">
+    <tag k="addr:housenumber" v="4715"/>
+    <tag k="addr:postcode" v="98229-3445"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14158" visible="true" lon="-122.4478149631350" lat="48.70678670082272">
+    <tag k="addr:housenumber" v="4879"/>
+    <tag k="addr:postcode" v="98229-3443"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14159" visible="true" lon="-122.4450822443243" lat="48.70762343700245">
+    <tag k="addr:housenumber" v="875"/>
+    <tag k="addr:postcode" v="98229-8913"/>
+    <tag k="addr:street" v="Timberlake Way"/>
+  </node>
+  <node id="-14160" visible="true" lon="-122.4424143870512" lat="48.70677734627883">
+    <tag k="addr:housenumber" v="4909"/>
+    <tag k="addr:postcode" v="98229-8986"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14161" visible="true" lon="-122.4422755021288" lat="48.70796662331012">
+    <tag k="addr:housenumber" v="4915"/>
+    <tag k="addr:postcode" v="98229-6904"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14162" visible="true" lon="-122.4347057897834" lat="48.72057133349330">
+    <tag k="addr:housenumber" v="2131"/>
+    <tag k="addr:postcode" v="98229-8990"/>
+    <tag k="addr:street" v="Moena Drive"/>
+  </node>
+  <node id="-14163" visible="true" lon="-122.4360338763635" lat="48.72186594582369">
+    <tag k="addr:housenumber" v="2230"/>
+    <tag k="addr:postcode" v="98229-6902"/>
+    <tag k="addr:street" v="Wilderness Ridge Road"/>
+  </node>
+  <node id="-14164" visible="true" lon="-122.4319406362290" lat="48.72508762145667">
+    <tag k="addr:housenumber" v="2349"/>
+    <tag k="addr:postcode" v="98229-6825"/>
+    <tag k="addr:street" v="Moena Drive"/>
+  </node>
+  <node id="-14165" visible="true" lon="-122.4332132214362" lat="48.72184584141633">
+    <tag k="addr:housenumber" v="2180"/>
+    <tag k="addr:postcode" v="98229-8990"/>
+    <tag k="addr:street" v="Moena Drive"/>
+  </node>
+  <node id="-14166" visible="true" lon="-122.4344438564342" lat="48.72400793798744">
+    <tag k="addr:housenumber" v="2263"/>
+    <tag k="addr:postcode" v="98229-8996"/>
+    <tag k="addr:street" v="Moena Drive"/>
+  </node>
+  <node id="-14167" visible="true" lon="-122.4391309773000" lat="48.73725814436954">
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:postcode" v="98229-6807"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-14168" visible="true" lon="-122.4403272086731" lat="48.73676334010331">
+    <tag k="addr:housenumber" v="830"/>
+    <tag k="addr:postcode" v="98229-8815"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-14169" visible="true" lon="-122.4373576432589" lat="48.71848413759551">
+    <tag k="addr:housenumber" v="2090"/>
+    <tag k="addr:postcode" v="98229-8919"/>
+    <tag k="addr:street" v="Jefferson Avenue"/>
+  </node>
+  <node id="-14170" visible="true" lon="-122.4387152462637" lat="48.71762240883233">
+    <tag k="addr:housenumber" v="2087"/>
+    <tag k="addr:postcode" v="98229-8919"/>
+    <tag k="addr:street" v="Jefferson Avenue"/>
+  </node>
+  <node id="-14171" visible="true" lon="-122.4405247262480" lat="48.71541432501977">
+    <tag k="addr:housenumber" v="2045"/>
+    <tag k="addr:postcode" v="98229-8970"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14172" visible="true" lon="-122.4376711756088" lat="48.71498328770365">
+    <tag k="addr:housenumber" v="2032"/>
+    <tag k="addr:postcode" v="98229-8919"/>
+    <tag k="addr:street" v="Jefferson Avenue"/>
+  </node>
+  <node id="-14173" visible="true" lon="-122.4405154789374" lat="48.71510822488136">
+    <tag k="addr:housenumber" v="2041"/>
+    <tag k="addr:postcode" v="98229-8937"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14174" visible="true" lon="-122.4390688069873" lat="48.71464926961983">
+    <tag k="addr:housenumber" v="2012"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14175" visible="true" lon="-122.4376918881161" lat="48.71428638346524">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98229-8919"/>
+    <tag k="addr:street" v="Jefferson Avenue"/>
+  </node>
+  <node id="-14176" visible="true" lon="-122.4374651654522" lat="48.72139715223317">
+    <tag k="addr:housenumber" v="2211"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Wilderness Ridge Road"/>
+  </node>
+  <node id="-14177" visible="true" lon="-122.4378015866802" lat="48.71660395355922">
+    <tag k="addr:housenumber" v="2076"/>
+    <tag k="addr:postcode" v="98229-8919"/>
+    <tag k="addr:street" v="Jefferson Avenue"/>
+  </node>
+  <node id="-14178" visible="true" lon="-122.4376625268333" lat="48.71583958141586">
+    <tag k="addr:housenumber" v="2056"/>
+    <tag k="addr:postcode" v="98229-8919"/>
+    <tag k="addr:street" v="Jefferson Avenue"/>
+  </node>
+  <node id="-14179" visible="true" lon="-122.4405018514906" lat="48.73201982929038">
+    <tag k="addr:housenumber" v="2510"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14180" visible="true" lon="-122.4404955048500" lat="48.73185491017677">
+    <tag k="addr:housenumber" v="2504"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14181" visible="true" lon="-122.4405149639474" lat="48.73216248730779">
+    <tag k="addr:housenumber" v="2522"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14182" visible="true" lon="-122.4405147774208" lat="48.73233623293514">
+    <tag k="addr:housenumber" v="2528"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14183" visible="true" lon="-122.4405045855191" lat="48.73252950152830">
+    <tag k="addr:housenumber" v="2534"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Hewlett T"/>
+  </node>
+  <node id="-14184" visible="true" lon="-122.4477704276914" lat="48.72384664650576">
+    <tag k="addr:housenumber" v="821"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="East Douglas Avenue"/>
+  </node>
+  <node id="-14185" visible="true" lon="-122.4448454128005" lat="48.72480095945473">
+    <tag k="addr:housenumber" v="2303"/>
+    <tag k="addr:postcode" v="98229-6800"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14186" visible="true" lon="-122.4460250892492" lat="48.72610406956743">
+    <tag k="addr:housenumber" v="855"/>
+    <tag k="addr:postcode" v="98229-8834"/>
+    <tag k="addr:street" v="Bennett Road"/>
+  </node>
+  <node id="-14187" visible="true" lon="-122.4471193834048" lat="48.72733411083075">
+    <tag k="addr:housenumber" v="831"/>
+    <tag k="addr:postcode" v="98229-8804"/>
+    <tag k="addr:street" v="Reveille Street"/>
+  </node>
+  <node id="-14188" visible="true" lon="-122.4456485585359" lat="48.72844124352125">
+    <tag k="addr:housenumber" v="858"/>
+    <tag k="addr:postcode" v="98229-8804"/>
+    <tag k="addr:street" v="Reveille Street"/>
+  </node>
+  <node id="-14189" visible="true" lon="-122.4443600167384" lat="48.72850892507272">
+    <tag k="addr:housenumber" v="870"/>
+    <tag k="addr:postcode" v="98229-8804"/>
+    <tag k="addr:street" v="Reveille Street"/>
+  </node>
+  <node id="-14190" visible="true" lon="-122.4462425778119" lat="48.72949342150370">
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:postcode" v="98229-8829"/>
+    <tag k="addr:street" v="Democrat Street"/>
+  </node>
+  <node id="-14191" visible="true" lon="-122.4455139287883" lat="48.72959426738504">
+    <tag k="addr:housenumber" v="855"/>
+    <tag k="addr:postcode" v="98229-8829"/>
+    <tag k="addr:street" v="Democrat Street"/>
+  </node>
+  <node id="-14192" visible="true" lon="-122.4426276737734" lat="48.71829039188992">
+    <tag k="addr:housenumber" v="2155"/>
+    <tag k="addr:postcode" v="98229-8812"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14193" visible="true" lon="-122.4432828322327" lat="48.71993996999360">
+    <tag k="addr:housenumber" v="2175"/>
+    <tag k="addr:postcode" v="98229-8844"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14194" visible="true" lon="-122.4429673676499" lat="48.72123230014285">
+    <tag k="addr:housenumber" v="2218"/>
+    <tag k="addr:postcode" v="98229-8855"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14195" visible="true" lon="-122.4425443012985" lat="48.72228020335326">
+    <tag k="addr:housenumber" v="2224"/>
+    <tag k="addr:postcode" v="98229-8855"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14196" visible="true" lon="-122.4432175090026" lat="48.72294502365995">
+    <tag k="addr:housenumber" v="2254"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14197" visible="true" lon="-122.4432325055691" lat="48.72365514092456">
+    <tag k="addr:housenumber" v="2286"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14198" visible="true" lon="-122.4432331201909" lat="48.72392352636729">
+    <tag k="addr:housenumber" v="2284"/>
+    <tag k="addr:postcode" v="98229-6828"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14199" visible="true" lon="-122.4419535744917" lat="48.72476889940994">
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:postcode" v="98229-6800"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14200" visible="true" lon="-122.4433337740789" lat="48.72480023796377">
+    <tag k="addr:housenumber" v="2304"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14201" visible="true" lon="-122.4441111671677" lat="48.72540384547735">
+    <tag k="addr:housenumber" v="2319"/>
+    <tag k="addr:postcode" v="98229-6800"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14202" visible="true" lon="-122.4439372769533" lat="48.72606123087889">
+    <tag k="addr:housenumber" v="2337"/>
+    <tag k="addr:postcode" v="98229-6801"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14203" visible="true" lon="-122.4438319718239" lat="48.72691307363204">
+    <tag k="addr:housenumber" v="2365"/>
+    <tag k="addr:postcode" v="98229-6801"/>
+    <tag k="addr:street" v="Yew Street Road"/>
+  </node>
+  <node id="-14204" visible="true" lon="-122.4414992647039" lat="48.72692204895237">
+    <tag k="addr:housenumber" v="2366"/>
+    <tag k="addr:postcode" v="98229-8828"/>
+    <tag k="addr:street" v="Forest View Drive"/>
+  </node>
+  <node id="-14205" visible="true" lon="-122.4482557419585" lat="48.71999630399745">
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:postcode" v="98229-6838"/>
+    <tag k="addr:street" v="Palmer Road"/>
+  </node>
+  <node id="-14206" visible="true" lon="-122.4494860157722" lat="48.72254554653099">
+    <tag k="addr:housenumber" v="2297"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Rusty Lane"/>
+  </node>
+  <node id="-14207" visible="true" lon="-122.4481559635670" lat="48.72441399546514">
+    <tag k="addr:housenumber" v="826"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="East Douglas Avenue"/>
+  </node>
+  <node id="-14208" visible="true" lon="-122.4613382677938" lat="48.72175954923719">
+    <tag k="addr:housenumber" v="4210"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Wildwood Drive"/>
+  </node>
+  <node id="-14209" visible="true" lon="-122.4615010780102" lat="48.72172742530105">
+    <tag k="addr:housenumber" v="4202"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Wildwood Drive"/>
+  </node>
+  <node id="-14210" visible="true" lon="-122.4604415004711" lat="48.72192696324144">
+    <tag k="addr:housenumber" v="4300"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Wildwood Drive"/>
+  </node>
+  <node id="-14211" visible="true" lon="-122.4601448464629" lat="48.72232674837948">
+    <tag k="addr:housenumber" v="4301"/>
+    <tag k="addr:postcode" v="98229-3134"/>
+    <tag k="addr:street" v="Wildwood Drive"/>
+  </node>
+  <node id="-14212" visible="true" lon="-122.4599110344368" lat="48.72289367597942">
+    <tag k="addr:housenumber" v="921"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14213" visible="true" lon="-122.4597864026592" lat="48.72319479310941">
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14214" visible="true" lon="-122.4596625096209" lat="48.72433617619880">
+    <tag k="addr:housenumber" v="906"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14215" visible="true" lon="-122.4591107013053" lat="48.72384712845432">
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14216" visible="true" lon="-122.4599944860297" lat="48.72262658064984">
+    <tag k="addr:housenumber" v="925"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14217" visible="true" lon="-122.4604469651164" lat="48.72340460090949">
+    <tag k="addr:housenumber" v="922"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14218" visible="true" lon="-122.4602392877508" lat="48.72393360414088">
+    <tag k="addr:housenumber" v="914"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14219" visible="true" lon="-122.4600115176542" lat="48.72414514636048">
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14220" visible="true" lon="-122.4591190825426" lat="48.72431718209739">
+    <tag k="addr:housenumber" v="902"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14221" visible="true" lon="-122.4594542100799" lat="48.72369154159274">
+    <tag k="addr:housenumber" v="909"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14222" visible="true" lon="-122.4607961366503" lat="48.72253202289119">
+    <tag k="addr:housenumber" v="934"/>
+    <tag k="addr:postcode" v="98229-3125"/>
+    <tag k="addr:street" v="Whitewater Drive"/>
+  </node>
+  <node id="-14223" visible="true" lon="-122.4599406652943" lat="48.71536557826098">
+    <tag k="addr:housenumber" v="4304"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14224" visible="true" lon="-122.4662304081062" lat="48.71559598699610">
+    <tag k="addr:housenumber" v="3858"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cowgill Avenue"/>
+  </node>
+  <node id="-14225" visible="true" lon="-122.4695724932973" lat="48.71692251572799">
+    <tag k="addr:housenumber" v="1603"/>
+    <tag k="addr:postcode" v="98229-3237"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14226" visible="true" lon="-122.4603290000315" lat="48.71568117794182">
+    <tag k="addr:housenumber" v="4300"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14227" visible="true" lon="-122.4599468703028" lat="48.71680479425047">
+    <tag k="addr:housenumber" v="4221"/>
+    <tag k="addr:postcode" v="98229-4939"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14228" visible="true" lon="-122.4594704605036" lat="48.71658555537819">
+    <tag k="addr:housenumber" v="4301"/>
+    <tag k="addr:postcode" v="98229-4910"/>
+    <tag k="addr:street" v="Samish Crest Lane"/>
+  </node>
+  <node id="-14229" visible="true" lon="-122.4607008248957" lat="48.71601153804050">
+    <tag k="addr:housenumber" v="4214"/>
+    <tag k="addr:postcode" v="98229-4939"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14230" visible="true" lon="-122.4611500351348" lat="48.71517264780530">
+    <tag k="addr:housenumber" v="1807"/>
+    <tag k="addr:postcode" v="98229-4940"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14231" visible="true" lon="-122.4586079816244" lat="48.71648354449112">
+    <tag k="addr:housenumber" v="4305"/>
+    <tag k="addr:postcode" v="98229-4910"/>
+    <tag k="addr:street" v="Samish Crest Lane"/>
+  </node>
+  <node id="-14232" visible="true" lon="-122.4627057971054" lat="48.71685929429829">
+    <tag k="addr:housenumber" v="4205"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14233" visible="true" lon="-122.4593291918781" lat="48.71518889326406">
+    <tag k="addr:housenumber" v="4310"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14234" visible="true" lon="-122.4584272959549" lat="48.71513856714949">
+    <tag k="addr:housenumber" v="4315"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14235" visible="true" lon="-122.4588140261721" lat="48.71541111412414">
+    <tag k="addr:housenumber" v="4311"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14236" visible="true" lon="-122.4646289457055" lat="48.71647274079357">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="40th Place"/>
+  </node>
+  <node id="-14237" visible="true" lon="-122.4697936162532" lat="48.71016425095870">
+    <tag k="addr:housenumber" v="2317"/>
+    <tag k="addr:postcode" v="98229-6317"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14238" visible="true" lon="-122.4678279135040" lat="48.71245915560254">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98229-3300"/>
+    <tag k="addr:street" v="38th Street"/>
+  </node>
+  <node id="-14239" visible="true" lon="-122.4670810285310" lat="48.71101444426692">
+    <tag k="addr:housenumber" v="2235"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="38th Street"/>
+  </node>
+  <node id="-14240" visible="true" lon="-122.4623895718409" lat="48.71281511549752">
+    <tag k="addr:housenumber" v="2012"/>
+    <tag k="addr:postcode" v="98229-3306"/>
+    <tag k="addr:street" v="Finch Court"/>
+  </node>
+  <node id="-14241" visible="true" lon="-122.4623678381918" lat="48.71091855112144">
+    <tag k="addr:housenumber" v="4110"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Padden Hills Court"/>
+  </node>
+  <node id="-14242" visible="true" lon="-122.4691837983743" lat="48.71250999626597">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98229-6314"/>
+    <tag k="addr:street" v="37th Street"/>
+  </node>
+  <node id="-14243" visible="true" lon="-122.4686210267963" lat="48.71411650451748">
+    <tag k="addr:housenumber" v="1906"/>
+    <tag k="addr:postcode" v="98229-3266"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14244" visible="true" lon="-122.4650197965847" lat="48.71322894265789">
+    <tag k="addr:housenumber" v="3940"/>
+    <tag k="addr:postcode" v="98229-3395"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-14245" visible="true" lon="-122.4651543239779" lat="48.70950240125271">
+    <tag k="addr:housenumber" v="2420"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="40th Street"/>
+  </node>
+  <node id="-14246" visible="true" lon="-122.4669338052668" lat="48.71279456727162">
+    <tag k="addr:housenumber" v="3821"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Connelly Avenue"/>
+  </node>
+  <node id="-14247" visible="true" lon="-122.4669255059573" lat="48.71302676610262">
+    <tag k="addr:housenumber" v="3817"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Connelly Avenue"/>
+  </node>
+  <node id="-14248" visible="true" lon="-122.4671176690379" lat="48.71339529726951">
+    <tag k="addr:housenumber" v="3860"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-14249" visible="true" lon="-122.4671257186679" lat="48.71313818620892">
+    <tag k="addr:housenumber" v="3870"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-14250" visible="true" lon="-122.4686397712748" lat="48.71430211912791">
+    <tag k="addr:housenumber" v="3616"/>
+    <tag k="addr:postcode" v="98229-3200"/>
+    <tag k="addr:street" v="Julia Avenue"/>
+  </node>
+  <node id="-14251" visible="true" lon="-122.4623376085439" lat="48.70606605345415">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Wilkin Street"/>
+  </node>
+  <node id="-14252" visible="true" lon="-122.4618821687232" lat="48.71065449110841">
+    <tag k="addr:housenumber" v="4203"/>
+    <tag k="addr:postcode" v="98229-3405"/>
+    <tag k="addr:street" v="Harrison Street"/>
+  </node>
+  <node id="-14253" visible="true" lon="-122.4614107328356" lat="48.71162584045245">
+    <tag k="addr:housenumber" v="4205"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Padden Hills Court"/>
+  </node>
+  <node id="-14254" visible="true" lon="-122.4613307546279" lat="48.70778407375770">
+    <tag k="addr:housenumber" v="4208"/>
+    <tag k="addr:postcode" v="98229-3492"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14255" visible="true" lon="-122.4610481162942" lat="48.71071442179851">
+    <tag k="addr:housenumber" v="4209"/>
+    <tag k="addr:postcode" v="98229-3405"/>
+    <tag k="addr:street" v="Harrison Street"/>
+  </node>
+  <node id="-14256" visible="true" lon="-122.4603476848766" lat="48.71463228131064">
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98229-4940"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14257" visible="true" lon="-122.4601951065832" lat="48.71281321690973">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98229-4909"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14258" visible="true" lon="-122.4597906444379" lat="48.71397635003931">
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:postcode" v="98229-4941"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14259" visible="true" lon="-122.4595027365191" lat="48.71334132616585">
+    <tag k="addr:housenumber" v="2003"/>
+    <tag k="addr:postcode" v="98229-4909"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14260" visible="true" lon="-122.4617954812206" lat="48.70741264893331">
+    <tag k="addr:housenumber" v="4204"/>
+    <tag k="addr:postcode" v="98229-3492"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14261" visible="true" lon="-122.4607869400273" lat="48.71375432690257">
+    <tag k="addr:housenumber" v="1904"/>
+    <tag k="addr:postcode" v="98229-4941"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14262" visible="true" lon="-122.4598754703943" lat="48.70690501895660">
+    <tag k="addr:housenumber" v="4320"/>
+    <tag k="addr:postcode" v="98229-3454"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14263" visible="true" lon="-122.4599966168064" lat="48.71247439859428">
+    <tag k="addr:housenumber" v="4314"/>
+    <tag k="addr:postcode" v="98229-3304"/>
+    <tag k="addr:street" v="Parkhurst Drive"/>
+  </node>
+  <node id="-14264" visible="true" lon="-122.4618869728131" lat="48.71466474077763">
+    <tag k="addr:housenumber" v="1806"/>
+    <tag k="addr:postcode" v="98229-4940"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14265" visible="true" lon="-122.4617918434829" lat="48.71337426234476">
+    <tag k="addr:housenumber" v="2003"/>
+    <tag k="addr:postcode" v="98229-3306"/>
+    <tag k="addr:street" v="Finch Court"/>
+  </node>
+  <node id="-14266" visible="true" lon="-122.4589408670911" lat="48.71487329018924">
+    <tag k="addr:housenumber" v="4312"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14267" visible="true" lon="-122.4585507075469" lat="48.70659124125361">
+    <tag k="addr:housenumber" v="4411"/>
+    <tag k="addr:postcode" v="98229-3487"/>
+    <tag k="addr:street" v="Wilkin Street"/>
+  </node>
+  <node id="-14268" visible="true" lon="-122.4582143478278" lat="48.71251083412042">
+    <tag k="addr:housenumber" v="4417"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Parkhurst Drive"/>
+  </node>
+  <node id="-14269" visible="true" lon="-122.4567642059375" lat="48.71271258001227">
+    <tag k="addr:housenumber" v="4533"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Merlin Court"/>
+  </node>
+  <node id="-14270" visible="true" lon="-122.4565739999860" lat="48.71057958250228">
+    <tag k="addr:housenumber" v="4606"/>
+    <tag k="addr:postcode" v="98229-3384"/>
+    <tag k="addr:street" v="Parkhurst Drive"/>
+  </node>
+  <node id="-14271" visible="true" lon="-122.4563958086786" lat="48.70661698957668">
+    <tag k="addr:housenumber" v="4601"/>
+    <tag k="addr:postcode" v="98229-3447"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14272" visible="true" lon="-122.4562622699232" lat="48.71271766773047">
+    <tag k="addr:housenumber" v="4647"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Raptor Lane"/>
+  </node>
+  <node id="-14273" visible="true" lon="-122.4581398800173" lat="48.71421740032640">
+    <tag k="addr:housenumber" v="4320"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14274" visible="true" lon="-122.4585281948390" lat="48.71453300614970">
+    <tag k="addr:housenumber" v="4316"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14275" visible="true" lon="-122.4578638194927" lat="48.71412198889219">
+    <tag k="addr:housenumber" v="4324"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14276" visible="true" lon="-122.4574837505396" lat="48.71405781046816">
+    <tag k="addr:housenumber" v="4326"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14277" visible="true" lon="-122.4568852111045" lat="48.71401057894231">
+    <tag k="addr:housenumber" v="4328"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14278" visible="true" lon="-122.4563475090056" lat="48.71408360250211">
+    <tag k="addr:housenumber" v="4332"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14279" visible="true" lon="-122.4558829688836" lat="48.71400471454779">
+    <tag k="addr:housenumber" v="4334"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14280" visible="true" lon="-122.4559523044541" lat="48.71429758193373">
+    <tag k="addr:housenumber" v="4333"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14281" visible="true" lon="-122.4565354084804" lat="48.71480166912792">
+    <tag k="addr:housenumber" v="4329"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14282" visible="true" lon="-122.4568964742320" lat="48.71436381737118">
+    <tag k="addr:housenumber" v="4327"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14283" visible="true" lon="-122.4576656128249" lat="48.71449205112069">
+    <tag k="addr:housenumber" v="4321"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14284" visible="true" lon="-122.4581307255571" lat="48.71487071526066">
+    <tag k="addr:housenumber" v="4317"/>
+    <tag k="addr:postcode" v="98229-3343"/>
+    <tag k="addr:street" v="Samish Crest Drive"/>
+  </node>
+  <node id="-14285" visible="true" lon="-122.4574086365633" lat="48.70840766803392">
+    <tag k="addr:housenumber" v="2510"/>
+    <tag k="addr:postcode" v="98229-3436"/>
+    <tag k="addr:street" v="46th Street"/>
+  </node>
+  <node id="-14286" visible="true" lon="-122.4736548227336" lat="48.71403381098546">
+    <tag k="addr:housenumber" v="3311"/>
+    <tag k="addr:postcode" v="98229-3319"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-14287" visible="true" lon="-122.4731773036306" lat="48.71379408260980">
+    <tag k="addr:housenumber" v="1918"/>
+    <tag k="addr:postcode" v="98229-3201"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-14288" visible="true" lon="-122.4731602435420" lat="48.71424201658058">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98229-3201"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-14289" visible="true" lon="-122.4723550698925" lat="48.71475013655846">
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98229-3246"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-14290" visible="true" lon="-122.4723438535229" lat="48.71518674730777">
+    <tag k="addr:housenumber" v="1811"/>
+    <tag k="addr:postcode" v="98229-3246"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-14291" visible="true" lon="-122.4723256408023" lat="48.71615257437389">
+    <tag k="addr:housenumber" v="1707"/>
+    <tag k="addr:postcode" v="98229-3248"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-14292" visible="true" lon="-122.4687072118620" lat="48.71698051710889">
+    <tag k="addr:housenumber" v="3700"/>
+    <tag k="addr:postcode" v="98229-3227"/>
+    <tag k="addr:street" v="Donovan Avenue"/>
+  </node>
+  <node id="-14293" visible="true" lon="-122.4641015177021" lat="48.71573086459802">
+    <tag k="addr:housenumber" v="1702"/>
+    <tag k="addr:postcode" v="98229-4935"/>
+    <tag k="addr:street" v="40th Street"/>
+  </node>
+  <node id="-14294" visible="true" lon="-122.4640809972107" lat="48.71635786657382">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98229-4900"/>
+    <tag k="addr:street" v="40th Street"/>
+  </node>
+  <node id="-14295" visible="true" lon="-122.4668092500829" lat="48.71649657845224">
+    <tag k="addr:housenumber" v="1623"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="38th Street"/>
+  </node>
+  <node id="-14296" visible="true" lon="-122.4624177432203" lat="48.71493336248616">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98229-4940"/>
+    <tag k="addr:street" v="Samish Crest Way"/>
+  </node>
+  <node id="-14297" visible="true" lon="-122.4717832425101" lat="48.71519738971193">
+    <tag k="addr:housenumber" v="1810"/>
+    <tag k="addr:postcode" v="98229-3274"/>
+    <tag k="addr:street" v="35th Street"/>
+  </node>
+  <node id="-14298" visible="true" lon="-122.4709589915805" lat="48.71619949324324">
+    <tag k="addr:housenumber" v="1707"/>
+    <tag k="addr:postcode" v="98229-3262"/>
+    <tag k="addr:street" v="35th Street"/>
+  </node>
+  <node id="-14299" visible="true" lon="-122.4708752952818" lat="48.71380183031059">
+    <tag k="addr:housenumber" v="1917"/>
+    <tag k="addr:postcode" v="98229-3260"/>
+    <tag k="addr:street" v="35th Street"/>
+  </node>
+  <node id="-14300" visible="true" lon="-122.4708256502915" lat="48.71444766336328">
+    <tag k="addr:housenumber" v="1823"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="35th Street"/>
+  </node>
+  <node id="-14301" visible="true" lon="-122.4703063607062" lat="48.71637237864041">
+    <tag k="addr:housenumber" v="1624"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14302" visible="true" lon="-122.4703001828791" lat="48.71654106979476">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14303" visible="true" lon="-122.4703189408368" lat="48.71456216861400">
+    <tag k="addr:housenumber" v="1820"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14304" visible="true" lon="-122.4716821341544" lat="48.71205509013625">
+    <tag k="addr:housenumber" v="3603"/>
+    <tag k="addr:postcode" v="98229-3333"/>
+    <tag k="addr:street" v="Cody Avenue"/>
+  </node>
+  <node id="-14305" visible="true" lon="-122.4730529528567" lat="48.71208152120867">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="34th Street"/>
+  </node>
+  <node id="-14306" visible="true" lon="-122.4739202015424" lat="48.71323413161718">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="33rd Street"/>
+  </node>
+  <node id="-14307" visible="true" lon="-122.4691507931582" lat="48.71324930585299">
+    <tag k="addr:housenumber" v="2004"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="37th Street"/>
+  </node>
+  <node id="-14308" visible="true" lon="-122.4731458445583" lat="48.71337040933940">
+    <tag k="addr:housenumber" v="3320"/>
+    <tag k="addr:postcode" v="98229-3320"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-14309" visible="true" lon="-122.4629095965814" lat="48.71338821136898">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:postcode" v="98229-3305"/>
+    <tag k="addr:street" v="40th Street"/>
+  </node>
+  <node id="-14310" visible="true" lon="-122.4670957170101" lat="48.71123986577605">
+    <tag k="addr:housenumber" v="2225"/>
+    <tag k="addr:postcode" v="98229-3378"/>
+    <tag k="addr:street" v="38th Street"/>
+  </node>
+  <node id="-14311" visible="true" lon="-122.4715484754799" lat="48.71293536327141">
+    <tag k="addr:housenumber" v="3419"/>
+    <tag k="addr:postcode" v="98229-3329"/>
+    <tag k="addr:street" v="Connelly Avenue"/>
+  </node>
+  <node id="-14312" visible="true" lon="-122.4663785290417" lat="48.71295590858099">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="39th Street"/>
+  </node>
+  <node id="-14313" visible="true" lon="-122.4663866684060" lat="48.71278920751828">
+    <tag k="addr:housenumber" v="2014"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="39th Street"/>
+  </node>
+  <node id="-14314" visible="true" lon="-122.4656222109169" lat="48.71334134847240">
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="39th Street"/>
+  </node>
+  <node id="-14315" visible="true" lon="-122.4656298762186" lat="48.71315977993078">
+    <tag k="addr:housenumber" v="2005"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="39th Street"/>
+  </node>
+  <node id="-14316" visible="true" lon="-122.4656246338117" lat="48.71299624221773">
+    <tag k="addr:housenumber" v="2009"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="39th Street"/>
+  </node>
+  <node id="-14317" visible="true" lon="-122.4656488178677" lat="48.71282831220877">
+    <tag k="addr:housenumber" v="2013"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="39th Street"/>
+  </node>
+  <node id="-14318" visible="true" lon="-122.4716668358633" lat="48.70751360725818">
+    <tag k="addr:housenumber" v="3402"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-14319" visible="true" lon="-122.4687886953858" lat="48.70757337710031">
+    <tag k="addr:housenumber" v="3715"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-14320" visible="true" lon="-122.4725548237318" lat="48.70803610374628">
+    <tag k="addr:housenumber" v="3378"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-14321" visible="true" lon="-122.4724725455100" lat="48.70832669877502">
+    <tag k="addr:housenumber" v="3388"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-14322" visible="true" lon="-122.4716890697903" lat="48.70849331020282">
+    <tag k="addr:housenumber" v="3410"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-14323" visible="true" lon="-122.4659645138408" lat="48.70852540841550">
+    <tag k="addr:housenumber" v="3909"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Broad Street"/>
+  </node>
+  <node id="-14324" visible="true" lon="-122.4744491076575" lat="48.70890825124900">
+    <tag k="addr:housenumber" v="3300"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kellogg Street"/>
+  </node>
+  <node id="-14325" visible="true" lon="-122.4721395792797" lat="48.70959252906881">
+    <tag k="addr:housenumber" v="3425"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Harrison Street"/>
+  </node>
+  <node id="-14326" visible="true" lon="-122.4681942908895" lat="48.71006420376472">
+    <tag k="addr:housenumber" v="3711"/>
+    <tag k="addr:postcode" v="98229-3321"/>
+    <tag k="addr:street" v="Harrison Street"/>
+  </node>
+  <node id="-14327" visible="true" lon="-122.4709801601214" lat="48.71035897437578">
+    <tag k="addr:housenumber" v="3524"/>
+    <tag k="addr:postcode" v="98229-3230"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14328" visible="true" lon="-122.4705682393192" lat="48.71037327194652">
+    <tag k="addr:housenumber" v="2316"/>
+    <tag k="addr:postcode" v="98229-6301"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14329" visible="true" lon="-122.4709796172859" lat="48.71051895723079">
+    <tag k="addr:housenumber" v="3536"/>
+    <tag k="addr:postcode" v="98229-3230"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14330" visible="true" lon="-122.4715547857484" lat="48.71054096812685">
+    <tag k="addr:housenumber" v="3500"/>
+    <tag k="addr:postcode" v="98229-3230"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14331" visible="true" lon="-122.4705736502718" lat="48.71054156644927">
+    <tag k="addr:housenumber" v="2310"/>
+    <tag k="addr:postcode" v="98229-6301"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14332" visible="true" lon="-122.4717881185909" lat="48.71054520771133">
+    <tag k="addr:housenumber" v="3436"/>
+    <tag k="addr:postcode" v="98229-3225"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14333" visible="true" lon="-122.4722888355270" lat="48.71055132471630">
+    <tag k="addr:housenumber" v="3412"/>
+    <tag k="addr:postcode" v="98229-3225"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14334" visible="true" lon="-122.4725505343286" lat="48.71055328214597">
+    <tag k="addr:housenumber" v="3400"/>
+    <tag k="addr:postcode" v="98229-3225"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14335" visible="true" lon="-122.4697730302753" lat="48.71065801825958">
+    <tag k="addr:housenumber" v="2303"/>
+    <tag k="addr:postcode" v="98229-6317"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14336" visible="true" lon="-122.4709677052264" lat="48.71067910021461">
+    <tag k="addr:housenumber" v="3548"/>
+    <tag k="addr:postcode" v="98229-3230"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-14337" visible="true" lon="-122.4705869449030" lat="48.71072899285474">
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:postcode" v="98229-6301"/>
+    <tag k="addr:street" v="36th Street"/>
+  </node>
+  <node id="-14338" visible="true" lon="-122.4641640088633" lat="48.70837452945974">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:postcode" v="98229-3486"/>
+    <tag k="addr:street" v="Samish Way"/>
+  </node>
+  <node id="-14339" visible="true" lon="-122.4762513584121" lat="48.70742325077840">
+    <tag k="addr:housenumber" v="2555"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="33rd Street"/>
+  </node>
 </osm>

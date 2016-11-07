@@ -124,7 +124,7 @@
     <tag k="building" v="yes"/>
     <tag k="addr:housenumber" v="820"/>
     <tag k="addr:postcode" v="98225-5506"/>
-    <tag k="addr:street" v="Indian Street"/>
+    <tag k="addr:street" v="Billy Frank Jr. Street"/>
   </way>
   <node id="-40" visible="true" lon="-122.4788559569407" lat="48.74125936637090"/>
   <node id="-41" visible="true" lon="-122.4791026071867" lat="48.74141500930222"/>
@@ -3110,5 +3110,265 @@
     <tag k="addr:housenumber" v="309"/>
     <tag k="addr:postcode" v="98225"/>
     <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1245" visible="true" lon="-122.4801558050612" lat="48.74047311107010">
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="98225-5504"/>
+    <tag k="addr:street" v="Indian Terrace"/>
+  </node>
+  <node id="-1246" visible="true" lon="-122.4798799524980" lat="48.74065877862476">
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:postcode" v="98225-5504"/>
+    <tag k="addr:street" v="Indian Terrace"/>
+  </node>
+  <node id="-1247" visible="true" lon="-122.4795226058833" lat="48.74087520666671">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:postcode" v="98225-5504"/>
+    <tag k="addr:street" v="Indian Terrace"/>
+  </node>
+  <node id="-1248" visible="true" lon="-122.4805484192606" lat="48.73803345190424">
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1249" visible="true" lon="-122.4828845611929" lat="48.73996563929555">
+    <tag k="addr:housenumber" v="610"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Oak Street"/>
+  </node>
+  <node id="-1250" visible="true" lon="-122.4885663059592" lat="48.73623863342974">
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-1251" visible="true" lon="-122.4849498719568" lat="48.73641433954885">
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1252" visible="true" lon="-122.4854318980755" lat="48.73691418712513">
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="-1253" visible="true" lon="-122.4843578901106" lat="48.73698183371499">
+    <tag k="addr:housenumber" v="377"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1254" visible="true" lon="-122.4841541260897" lat="48.73732175279726">
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1255" visible="true" lon="-122.4849310115249" lat="48.73767434039630">
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1256" visible="true" lon="-122.4839389220168" lat="48.73776666815532">
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1257" visible="true" lon="-122.4748671175891" lat="48.73507331671453">
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="98225-6005"/>
+    <tag k="addr:street" v="32nd Street"/>
+  </node>
+  <node id="-1258" visible="true" lon="-122.4749960237965" lat="48.73473954464998">
+    <tag k="addr:housenumber" v="3201"/>
+    <tag k="addr:postcode" v="98225-6071"/>
+    <tag k="addr:street" v="Allen Avenue"/>
+  </node>
+  <node id="-1259" visible="true" lon="-122.4893937950506" lat="48.73515194075392">
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Highland Drive"/>
+  </node>
+  <node id="-1260" visible="true" lon="-122.4890259961774" lat="48.72978445056604">
+    <tag k="addr:housenumber" v="1931"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1261" visible="true" lon="-122.4878160146736" lat="48.72952567500371">
+    <tag k="addr:housenumber" v="490"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1262" visible="true" lon="-122.4877546666166" lat="48.73497149531116">
+    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1263" visible="true" lon="-122.4876632359738" lat="48.73415061195636">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1264" visible="true" lon="-122.4875002890617" lat="48.73570848193472">
+    <tag k="addr:housenumber" v="1682"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1265" visible="true" lon="-122.4874325804518" lat="48.73489984553308">
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1266" visible="true" lon="-122.4872926269059" lat="48.73602748908750">
+    <tag k="addr:housenumber" v="1672"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1267" visible="true" lon="-122.4872913142529" lat="48.72937165342925">
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1268" visible="true" lon="-122.4870029551562" lat="48.73294817095866">
+    <tag k="addr:housenumber" v="1789"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1269" visible="true" lon="-122.4868145060064" lat="48.73285879559676">
+    <tag k="addr:housenumber" v="1795"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1270" visible="true" lon="-122.4861127569903" lat="48.73489554752258">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1271" visible="true" lon="-122.4859999637509" lat="48.73113398595994">
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1272" visible="true" lon="-122.4859704379790" lat="48.73430583811874">
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1273" visible="true" lon="-122.4859403779661" lat="48.73244296878843">
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1274" visible="true" lon="-122.4858777277398" lat="48.72919122793631">
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1275" visible="true" lon="-122.4858371809241" lat="48.73140632585750">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1276" visible="true" lon="-122.4852785381776" lat="48.73069941041923">
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1277" visible="true" lon="-122.4852713300976" lat="48.73035308714660">
+    <tag k="addr:housenumber" v="458"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1278" visible="true" lon="-122.4847553834999" lat="48.73348721191776">
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East College Way"/>
+  </node>
+  <node id="-1279" visible="true" lon="-122.4872316886173" lat="48.72959649468581">
+    <tag k="addr:housenumber" v="489"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1280" visible="true" lon="-122.4900469407661" lat="48.72788680077301">
+    <tag k="addr:housenumber" v="1991"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1281" visible="true" lon="-122.4889253916328" lat="48.72742575943582">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1282" visible="true" lon="-122.4884996877171" lat="48.72795296006341">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1283" visible="true" lon="-122.4883745184992" lat="48.72873104410178">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1284" visible="true" lon="-122.4878944329189" lat="48.72712515312038">
+    <tag k="addr:housenumber" v="782"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1285" visible="true" lon="-122.4888138331418" lat="48.72782354861992">
+    <tag k="addr:housenumber" v="634"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1286" visible="true" lon="-122.4870075846960" lat="48.72676159945386">
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:postcode" v="98225-9081"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1287" visible="true" lon="-122.4868804721857" lat="48.72864238942517">
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1288" visible="true" lon="-122.4868407070041" lat="48.72873560738675">
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="South College Drive"/>
+  </node>
+  <node id="-1289" visible="true" lon="-122.4858736672162" lat="48.72801530180169">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1290" visible="true" lon="-122.4858156244275" lat="48.72677687644748">
+    <tag k="addr:housenumber" v="790"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1291" visible="true" lon="-122.4853894729124" lat="48.72706379195267">
+    <tag k="addr:housenumber" v="785"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1292" visible="true" lon="-122.4853337799009" lat="48.72849959861008">
+    <tag k="addr:housenumber" v="543"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1293" visible="true" lon="-122.4851368252546" lat="48.72791132522516">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1294" visible="true" lon="-122.4849292325884" lat="48.72723802973571">
+    <tag k="addr:housenumber" v="771"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-1295" visible="true" lon="-122.4826376703799" lat="48.72840702781270">
+    <tag k="addr:housenumber" v="2701"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Bill Mcdonald Parkway"/>
+  </node>
+  <node id="-1296" visible="true" lon="-122.4864317282799" lat="48.72857919117188">
+    <tag k="addr:housenumber" v="532"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
   </node>
 </osm>

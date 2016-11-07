@@ -19156,4 +19156,329 @@
     <tag k="addr:postcode" v="98226-3621"/>
     <tag k="addr:street" v="Racine Street"/>
   </node>
+  <node id="-6508" visible="true" lon="-122.4581042523641" lat="48.77075614507006">
+    <tag k="addr:housenumber" v="1270"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-6509" visible="true" lon="-122.4573990253405" lat="48.77097187064447">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98226-6642"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-6510" visible="true" lon="-122.4572123841561" lat="48.77097173296752">
+    <tag k="addr:housenumber" v="1302"/>
+    <tag k="addr:postcode" v="98226-6642"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-6511" visible="true" lon="-122.4569303538573" lat="48.77069877789182">
+    <tag k="addr:housenumber" v="3034"/>
+    <tag k="addr:postcode" v="98226-3542"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6512" visible="true" lon="-122.4613413797717" lat="48.77130757094511">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-6513" visible="true" lon="-122.4530639991053" lat="48.77092964263365">
+    <tag k="addr:housenumber" v="3038"/>
+    <tag k="addr:postcode" v="98226-3684"/>
+    <tag k="addr:street" v="Barkley Grove Loop"/>
+  </node>
+  <node id="-6514" visible="true" lon="-122.4528475474956" lat="48.77097013257661">
+    <tag k="addr:housenumber" v="3036"/>
+    <tag k="addr:postcode" v="98226-3684"/>
+    <tag k="addr:street" v="Barkley Grove Loop"/>
+  </node>
+  <node id="-6515" visible="true" lon="-122.4565751748189" lat="48.77020836400525">
+    <tag k="addr:housenumber" v="3023"/>
+    <tag k="addr:postcode" v="98226-3516"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6516" visible="true" lon="-122.4513123677971" lat="48.77028572929981">
+    <tag k="addr:housenumber" v="1715"/>
+    <tag k="addr:postcode" v="98226-3673"/>
+    <tag k="addr:street" v="Concord Court"/>
+  </node>
+  <node id="-6517" visible="true" lon="-122.4512838606938" lat="48.77082372748242">
+    <tag k="addr:housenumber" v="1721"/>
+    <tag k="addr:postcode" v="98226-3672"/>
+    <tag k="addr:street" v="Akron Court"/>
+  </node>
+  <node id="-6518" visible="true" lon="-122.4512659339056" lat="48.77059917580446">
+    <tag k="addr:housenumber" v="1722"/>
+    <tag k="addr:postcode" v="98226-3672"/>
+    <tag k="addr:street" v="Akron Court"/>
+  </node>
+  <node id="-6519" visible="true" lon="-122.4536510996933" lat="48.76881502286421">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98226-3659"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-6520" visible="true" lon="-122.4571396303476" lat="48.76960228570683">
+    <tag k="addr:housenumber" v="3004"/>
+    <tag k="addr:postcode" v="98226-3542"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6521" visible="true" lon="-122.4574151077104" lat="48.76855311807267">
+    <tag k="addr:housenumber" v="2906"/>
+    <tag k="addr:postcode" v="98226-3544"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6522" visible="true" lon="-122.4569760285800" lat="48.76908944426160">
+    <tag k="addr:housenumber" v="2931"/>
+    <tag k="addr:postcode" v="98226-3518"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6523" visible="true" lon="-122.4570823656430" lat="48.76841610317121">
+    <tag k="addr:housenumber" v="1313"/>
+    <tag k="addr:postcode" v="98226-3549"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6524" visible="true" lon="-122.4535895223231" lat="48.76832707506032">
+    <tag k="addr:housenumber" v="1525"/>
+    <tag k="addr:postcode" v="98226-3646"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6525" visible="true" lon="-122.4536507320579" lat="48.76918101372759">
+    <tag k="addr:housenumber" v="2931"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-6526" visible="true" lon="-122.4565248491563" lat="48.76874724455689">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6527" visible="true" lon="-122.4569487575975" lat="48.76872024892450">
+    <tag k="addr:housenumber" v="2915"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6528" visible="true" lon="-122.4572372810115" lat="48.76988361578595">
+    <tag k="addr:housenumber" v="3010"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6529" visible="true" lon="-122.4548429549191" lat="48.76826630621386">
+    <tag k="addr:housenumber" v="1425"/>
+    <tag k="addr:postcode" v="98226-3648"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6530" visible="true" lon="-122.4601378886550" lat="48.76702620035145">
+    <tag k="addr:housenumber" v="1111"/>
+    <tag k="addr:postcode" v="98226-3523"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6531" visible="true" lon="-122.4600091472116" lat="48.76779862864373">
+    <tag k="addr:housenumber" v="1106"/>
+    <tag k="addr:postcode" v="98226-3520"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6532" visible="true" lon="-122.4600339344827" lat="48.76795125693038">
+    <tag k="addr:housenumber" v="1104"/>
+    <tag k="addr:postcode" v="98226-3520"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6533" visible="true" lon="-122.4586852704749" lat="48.76827604602045">
+    <tag k="addr:housenumber" v="2900"/>
+    <tag k="addr:postcode" v="98226-3533"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6534" visible="true" lon="-122.4595351740596" lat="48.76863043611992">
+    <tag k="addr:housenumber" v="2915"/>
+    <tag k="addr:postcode" v="98226-3532"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6535" visible="true" lon="-122.4601365367555" lat="48.76886410563591">
+    <tag k="addr:housenumber" v="2916"/>
+    <tag k="addr:postcode" v="98226-3560"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6536" visible="true" lon="-122.4587751270187" lat="48.76985497713517">
+    <tag k="addr:housenumber" v="4028"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6537" visible="true" lon="-122.4585121727999" lat="48.77006234033778">
+    <tag k="addr:housenumber" v="3015"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6538" visible="true" lon="-122.4602793023429" lat="48.76836151649927">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98226-3560"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6539" visible="true" lon="-122.4594211727056" lat="48.76794272767940">
+    <tag k="addr:housenumber" v="2835"/>
+    <tag k="addr:postcode" v="98226-3534"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6540" visible="true" lon="-122.4594208467296" lat="48.76775275579448">
+    <tag k="addr:housenumber" v="2831"/>
+    <tag k="addr:postcode" v="98226-3534"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6541" visible="true" lon="-122.4522758026436" lat="48.76788807698196">
+    <tag k="addr:housenumber" v="1608"/>
+    <tag k="addr:postcode" v="98226-3645"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6542" visible="true" lon="-122.4522743676353" lat="48.76951077380861">
+    <tag k="addr:housenumber" v="3010"/>
+    <tag k="addr:postcode" v="98226-3684"/>
+    <tag k="addr:street" v="Barkley Grove Loop"/>
+  </node>
+  <node id="-6543" visible="true" lon="-122.4523207620087" lat="48.76916694445126">
+    <tag k="addr:housenumber" v="2940"/>
+    <tag k="addr:postcode" v="98226-3676"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-6544" visible="true" lon="-122.4611312891578" lat="48.76709595316041">
+    <tag k="addr:housenumber" v="2809"/>
+    <tag k="addr:postcode" v="98226-3529"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6545" visible="true" lon="-122.4608664817986" lat="48.76728029476225">
+    <tag k="addr:housenumber" v="2815"/>
+    <tag k="addr:postcode" v="98226-3529"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6546" visible="true" lon="-122.4610880270407" lat="48.76754998691663">
+    <tag k="addr:housenumber" v="2823"/>
+    <tag k="addr:postcode" v="98226-3529"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6547" visible="true" lon="-122.4615073114165" lat="48.76776966295237">
+    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:postcode" v="98226-3559"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6548" visible="true" lon="-122.4611082611887" lat="48.76880988376602">
+    <tag k="addr:housenumber" v="2915"/>
+    <tag k="addr:postcode" v="98226-3561"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6549" visible="true" lon="-122.4608047071606" lat="48.76892109515597">
+    <tag k="addr:housenumber" v="2917"/>
+    <tag k="addr:postcode" v="98226-3561"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6550" visible="true" lon="-122.4611374154474" lat="48.76893337477276">
+    <tag k="addr:housenumber" v="2919"/>
+    <tag k="addr:postcode" v="98226-3561"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6551" visible="true" lon="-122.4612097512908" lat="48.76919216891403">
+    <tag k="addr:housenumber" v="2923"/>
+    <tag k="addr:postcode" v="98226-3561"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6552" visible="true" lon="-122.4617036855393" lat="48.76789546389300">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98226-3559"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6553" visible="true" lon="-122.4616397359687" lat="48.76762532318037">
+    <tag k="addr:housenumber" v="1006"/>
+    <tag k="addr:postcode" v="98226-3559"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6554" visible="true" lon="-122.4614249208765" lat="48.76737819463600">
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:postcode" v="98226-3559"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6555" visible="true" lon="-122.4543795836345" lat="48.76733846558267">
+    <tag k="addr:housenumber" v="2812"/>
+    <tag k="addr:postcode" v="98226-3674"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6556" visible="true" lon="-122.4548025069818" lat="48.76734552852886">
+    <tag k="addr:housenumber" v="2806"/>
+    <tag k="addr:postcode" v="98226-3674"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6557" visible="true" lon="-122.4544906644718" lat="48.76734952948119">
+    <tag k="addr:housenumber" v="2810"/>
+    <tag k="addr:postcode" v="98226-3674"/>
+    <tag k="addr:street" v="Queen Street"/>
+  </node>
+  <node id="-6558" visible="true" lon="-122.4536164119127" lat="48.76696856709442">
+    <tag k="addr:housenumber" v="1517"/>
+    <tag k="addr:postcode" v="98226-3638"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6559" visible="true" lon="-122.4537196783429" lat="48.76492725144409">
+    <tag k="addr:housenumber" v="2621"/>
+    <tag k="addr:postcode" v="98226-3619"/>
+    <tag k="addr:street" v="Racine Street"/>
+  </node>
+  <node id="-6560" visible="true" lon="-122.4566323414759" lat="48.76631246337607">
+    <tag k="addr:housenumber" v="2735"/>
+    <tag k="addr:postcode" v="98226-4648"/>
+    <tag k="addr:street" v="Pacific Street"/>
+  </node>
+  <node id="-6561" visible="true" lon="-122.4572370896676" lat="48.76412044020544">
+    <tag k="addr:housenumber" v="2538"/>
+    <tag k="addr:postcode" v="98226-4663"/>
+    <tag k="addr:street" v="Orleans Street"/>
+  </node>
+  <node id="-6562" visible="true" lon="-122.4522830883634" lat="48.76356960589070">
+    <tag k="addr:housenumber" v="2515"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6563" visible="true" lon="-122.4602695857225" lat="48.76326044374961">
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="98226-4610"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-6564" visible="true" lon="-122.4596687147454" lat="48.76326061698691">
+    <tag k="addr:housenumber" v="1117"/>
+    <tag k="addr:postcode" v="98226-4610"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-6565" visible="true" lon="-122.4594093105258" lat="48.76328993286371">
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:postcode" v="98226-4610"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-6566" visible="true" lon="-122.4595590455423" lat="48.76345080306518">
+    <tag k="addr:housenumber" v="2511"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6567" visible="true" lon="-122.4587682671448" lat="48.76650716936191">
+    <tag k="addr:housenumber" v="2732"/>
+    <tag k="addr:postcode" v="98226-4620"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6568" visible="true" lon="-122.4601371198977" lat="48.76538132310148">
+    <tag k="addr:housenumber" v="2638"/>
+    <tag k="addr:postcode" v="98226-4632"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6569" visible="true" lon="-122.4593516491253" lat="48.76484042586851">
+    <tag k="addr:housenumber" v="2619"/>
+    <tag k="addr:postcode" v="98226-4621"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6570" visible="true" lon="-122.4595369035734" lat="48.76505250831288">
+    <tag k="addr:housenumber" v="2623"/>
+    <tag k="addr:postcode" v="98226-4621"/>
+    <tag k="addr:street" v="Nevada Street"/>
+  </node>
+  <node id="-6571" visible="true" lon="-122.4609874233424" lat="48.76499769129638">
+    <tag k="addr:housenumber" v="2621"/>
+    <tag k="addr:postcode" v="98226-4631"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
+  <node id="-6572" visible="true" lon="-122.4609873907749" lat="48.76521700981213">
+    <tag k="addr:housenumber" v="2629"/>
+    <tag k="addr:postcode" v="98226-4631"/>
+    <tag k="addr:street" v="Moore Street"/>
+  </node>
 </osm>

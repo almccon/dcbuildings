@@ -5517,7 +5517,7 @@
     <nd ref="-1793"/>
     <nd ref="-1772"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Roosevelt Es"/>
+    <tag k="name" v="Roosevelt Elementary School"/>
     <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2900"/>
     <tag k="addr:postcode" v="98226-6127"/>
@@ -20898,5 +20898,395 @@
     <tag k="addr:housenumber" v="2502"/>
     <tag k="addr:postcode" v="98226-3736"/>
     <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-6617" visible="true" lon="-122.4464420920716" lat="48.77075686475506">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-6618" visible="true" lon="-122.4457706398726" lat="48.77020985548396">
+    <tag k="addr:housenumber" v="3031"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-6619" visible="true" lon="-122.4472830083303" lat="48.77084991755674">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Barkley Boulevard"/>
+  </node>
+  <node id="-6620" visible="true" lon="-122.4475852649768" lat="48.77069961421236">
+    <tag k="addr:housenumber" v="3030"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Howe Place"/>
+  </node>
+  <node id="-6621" visible="true" lon="-122.4383015324648" lat="48.76987299342053">
+    <tag k="addr:housenumber" v="3011"/>
+    <tag k="addr:postcode" v="98226-6105"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6622" visible="true" lon="-122.4381011742240" lat="48.77037484958481">
+    <tag k="addr:housenumber" v="2705"/>
+    <tag k="addr:postcode" v="98226-6118"/>
+    <tag k="addr:street" v="Roslyn Place"/>
+  </node>
+  <node id="-6623" visible="true" lon="-122.4367240389856" lat="48.76980276826932">
+    <tag k="addr:housenumber" v="3012"/>
+    <tag k="addr:postcode" v="98226-6106"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6624" visible="true" lon="-122.4365982206641" lat="48.76940315182696">
+    <tag k="addr:housenumber" v="3006"/>
+    <tag k="addr:postcode" v="98226-6106"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6625" visible="true" lon="-122.4360571301392" lat="48.77041428676139">
+    <tag k="addr:housenumber" v="3024"/>
+    <tag k="addr:postcode" v="98226-6106"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6626" visible="true" lon="-122.4368086831484" lat="48.77040910929551">
+    <tag k="addr:housenumber" v="3020"/>
+    <tag k="addr:postcode" v="98226-6106"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6627" visible="true" lon="-122.4365952943041" lat="48.77170491985856">
+    <tag k="addr:housenumber" v="3140"/>
+    <tag k="addr:postcode" v="98226-6104"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6628" visible="true" lon="-122.4375979691491" lat="48.76934524013456">
+    <tag k="addr:housenumber" v="3001"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6629" visible="true" lon="-122.4368079566101" lat="48.77022818254959">
+    <tag k="addr:housenumber" v="3018"/>
+    <tag k="addr:postcode" v="98226-6106"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6630" visible="true" lon="-122.4508056110135" lat="48.76727284829305">
+    <tag k="addr:housenumber" v="1717"/>
+    <tag k="addr:postcode" v="98226-3635"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6631" visible="true" lon="-122.4508613937439" lat="48.76854650280539">
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="98226-3642"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6632" visible="true" lon="-122.4505842349092" lat="48.76897107241270">
+    <tag k="addr:housenumber" v="1818"/>
+    <tag k="addr:postcode" v="98226-3679"/>
+    <tag k="addr:street" v="Williamsburg Court"/>
+  </node>
+  <node id="-6633" visible="true" lon="-122.4506410675569" lat="48.76943178771332">
+    <tag k="addr:housenumber" v="2942"/>
+    <tag k="addr:postcode" v="98226-3680"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6634" visible="true" lon="-122.4516371183935" lat="48.76732042294200">
+    <tag k="addr:housenumber" v="2808"/>
+    <tag k="addr:postcode" v="98226-3608"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6635" visible="true" lon="-122.4515722924239" lat="48.76741426782996">
+    <tag k="addr:housenumber" v="2810"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6636" visible="true" lon="-122.4510016351931" lat="48.76769872556355">
+    <tag k="addr:housenumber" v="1716"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6637" visible="true" lon="-122.4509937141137" lat="48.76757420149411">
+    <tag k="addr:housenumber" v="1718"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6638" visible="true" lon="-122.4512809653031" lat="48.76725163235970">
+    <tag k="addr:housenumber" v="2804"/>
+    <tag k="addr:postcode" v="98226-3608"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6639" visible="true" lon="-122.4504749604881" lat="48.76790660971778">
+    <tag k="addr:housenumber" v="1728"/>
+    <tag k="addr:postcode" v="98226-3643"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6640" visible="true" lon="-122.4513522753066" lat="48.76703683912319">
+    <tag k="addr:housenumber" v="1707"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6641" visible="true" lon="-122.4512470385967" lat="48.76733586166623">
+    <tag k="addr:housenumber" v="2806"/>
+    <tag k="addr:postcode" v="98226-3608"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6642" visible="true" lon="-122.4493751638473" lat="48.76647567844056">
+    <tag k="addr:housenumber" v="1812"/>
+    <tag k="addr:postcode" v="98226-3634"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6643" visible="true" lon="-122.4497412111552" lat="48.76707152622767">
+    <tag k="addr:housenumber" v="1819"/>
+    <tag k="addr:postcode" v="98226-3633"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6644" visible="true" lon="-122.4498739216614" lat="48.76707160260496">
+    <tag k="addr:housenumber" v="1817"/>
+    <tag k="addr:postcode" v="98226-3633"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6645" visible="true" lon="-122.4496045979109" lat="48.76757511226063">
+    <tag k="addr:housenumber" v="1824"/>
+    <tag k="addr:postcode" v="98226-3601"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6646" visible="true" lon="-122.4498299812525" lat="48.76765943591805">
+    <tag k="addr:housenumber" v="1822"/>
+    <tag k="addr:postcode" v="98226-3601"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6647" visible="true" lon="-122.4500945781682" lat="48.76769880149754">
+    <tag k="addr:housenumber" v="1812"/>
+    <tag k="addr:postcode" v="98226-3601"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-6648" visible="true" lon="-122.4476481392834" lat="48.76682286276860">
+    <tag k="addr:housenumber" v="2815"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-6649" visible="true" lon="-122.4348015677204" lat="48.76762372995118">
+    <tag k="addr:housenumber" v="2821"/>
+    <tag k="addr:postcode" v="98226-4130"/>
+    <tag k="addr:street" v="Erie Street"/>
+  </node>
+  <node id="-6650" visible="true" lon="-122.4358776464515" lat="48.76922610682802">
+    <tag k="addr:housenumber" v="3002"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6651" visible="true" lon="-122.4355303802224" lat="48.76896023167991">
+    <tag k="addr:housenumber" v="2950"/>
+    <tag k="addr:postcode" v="98226-6106"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6652" visible="true" lon="-122.4457693197709" lat="48.76965801655252">
+    <tag k="addr:housenumber" v="3003"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-6653" visible="true" lon="-122.4471448014644" lat="48.76860922352635">
+    <tag k="addr:housenumber" v="2901"/>
+    <tag k="addr:postcode" v="98226-3865"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-6654" visible="true" lon="-122.4460687820225" lat="48.76935783259842">
+    <tag k="addr:housenumber" v="2130"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Premier Way"/>
+  </node>
+  <node id="-6655" visible="true" lon="-122.4388365780817" lat="48.76918149444222">
+    <tag k="addr:housenumber" v="3003"/>
+    <tag k="addr:postcode" v="98226-6105"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6656" visible="true" lon="-122.4375974542654" lat="48.76909221048189">
+    <tag k="addr:housenumber" v="2929"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6657" visible="true" lon="-122.4512004206842" lat="48.76625787111506">
+    <tag k="addr:housenumber" v="2720"/>
+    <tag k="addr:postcode" v="98226-3610"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6658" visible="true" lon="-122.4511835261484" lat="48.76633952787638">
+    <tag k="addr:housenumber" v="2722"/>
+    <tag k="addr:postcode" v="98226-3610"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6659" visible="true" lon="-122.4515997418992" lat="48.76642518536509">
+    <tag k="addr:housenumber" v="2728"/>
+    <tag k="addr:postcode" v="98226-3610"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6660" visible="true" lon="-122.4507741380445" lat="48.76658509666525">
+    <tag k="addr:housenumber" v="1722"/>
+    <tag k="addr:postcode" v="98226-3660"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6661" visible="true" lon="-122.4510229681053" lat="48.76658520223479">
+    <tag k="addr:housenumber" v="1716"/>
+    <tag k="addr:postcode" v="98226-3660"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-6662" visible="true" lon="-122.4429725820786" lat="48.76354329805108">
+    <tag k="addr:housenumber" v="2519"/>
+    <tag k="addr:postcode" v="98226-3936"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-6663" visible="true" lon="-122.4408351000377" lat="48.76383876090827">
+    <tag k="addr:housenumber" v="2522"/>
+    <tag k="addr:postcode" v="98226-3910"/>
+    <tag k="addr:street" v="Superior Street"/>
+  </node>
+  <node id="-6664" visible="true" lon="-122.4429828962762" lat="48.76389543349121">
+    <tag k="addr:housenumber" v="2525"/>
+    <tag k="addr:postcode" v="98226-3936"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-6665" visible="true" lon="-122.4435735053038" lat="48.76395086639018">
+    <tag k="addr:housenumber" v="2530"/>
+    <tag k="addr:postcode" v="98226-3841"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-6666" visible="true" lon="-122.4408203951409" lat="48.76454132771774">
+    <tag k="addr:housenumber" v="2608"/>
+    <tag k="addr:postcode" v="98226-3908"/>
+    <tag k="addr:street" v="Superior Street"/>
+  </node>
+  <node id="-6667" visible="true" lon="-122.4428179694699" lat="48.76464257191031">
+    <tag k="addr:housenumber" v="2607"/>
+    <tag k="addr:postcode" v="98226-3934"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-6668" visible="true" lon="-122.4431322587900" lat="48.76436956120836">
+    <tag k="addr:housenumber" v="2533"/>
+    <tag k="addr:postcode" v="98226-3936"/>
+    <tag k="addr:street" v="Yew Street"/>
+  </node>
+  <node id="-6669" visible="true" lon="-122.4444250175320" lat="48.76360233329319">
+    <tag k="addr:housenumber" v="2519"/>
+    <tag k="addr:postcode" v="98226-3840"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-6670" visible="true" lon="-122.4375079429058" lat="48.76393976893255">
+    <tag k="addr:housenumber" v="2523"/>
+    <tag k="addr:postcode" v="98226-4007"/>
+    <tag k="addr:street" v="St Clair Street"/>
+  </node>
+  <node id="-6671" visible="true" lon="-122.4380847841125" lat="48.76454480855590">
+    <tag k="addr:housenumber" v="2604"/>
+    <tag k="addr:postcode" v="98226-4021"/>
+    <tag k="addr:street" v="Ontario Street"/>
+  </node>
+  <node id="-6672" visible="true" lon="-122.4402612723424" lat="48.76501016328969">
+    <tag k="addr:housenumber" v="2625"/>
+    <tag k="addr:postcode" v="98226-4038"/>
+    <tag k="addr:street" v="Michigan Street"/>
+  </node>
+  <node id="-6673" visible="true" lon="-122.4379415809605" lat="48.76519788111736">
+    <tag k="addr:housenumber" v="2708"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Connecticut Street"/>
+  </node>
+  <node id="-6674" visible="true" lon="-122.4382292899025" lat="48.76520413012354">
+    <tag k="addr:housenumber" v="2630"/>
+    <tag k="addr:postcode" v="98226-4021"/>
+    <tag k="addr:street" v="Ontario Street"/>
+  </node>
+  <node id="-6675" visible="true" lon="-122.4476748503962" lat="48.76356151259199">
+    <tag k="addr:housenumber" v="2516"/>
+    <tag k="addr:postcode" v="98226-3744"/>
+    <tag k="addr:street" v="Verona Street"/>
+  </node>
+  <node id="-6676" visible="true" lon="-122.4493351682306" lat="48.76375477458375">
+    <tag k="addr:housenumber" v="2525"/>
+    <tag k="addr:postcode" v="98226-3730"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6677" visible="true" lon="-122.4476746633852" lat="48.76384306422671">
+    <tag k="addr:housenumber" v="2526"/>
+    <tag k="addr:postcode" v="98226-3744"/>
+    <tag k="addr:street" v="Verona Street"/>
+  </node>
+  <node id="-6678" visible="true" lon="-122.4486857011468" lat="48.76415245436984">
+    <tag k="addr:housenumber" v="2532"/>
+    <tag k="addr:postcode" v="98226-3731"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6679" visible="true" lon="-122.4493806987027" lat="48.76356936671896">
+    <tag k="addr:housenumber" v="2517"/>
+    <tag k="addr:postcode" v="98226-3730"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6680" visible="true" lon="-122.4482468479381" lat="48.76500299421427">
+    <tag k="addr:housenumber" v="2618"/>
+    <tag k="addr:postcode" v="98226-3729"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6681" visible="true" lon="-122.4493348541833" lat="48.76381015606520">
+    <tag k="addr:housenumber" v="2527"/>
+    <tag k="addr:postcode" v="98226-3730"/>
+    <tag k="addr:street" v="Undine Street"/>
+  </node>
+  <node id="-6682" visible="true" lon="-122.4456517726143" lat="48.76378710447376">
+    <tag k="addr:housenumber" v="2523"/>
+    <tag k="addr:postcode" v="98226-3823"/>
+    <tag k="addr:street" v="Woburn Street"/>
+  </node>
+  <node id="-6683" visible="true" lon="-122.4470334476237" lat="48.76338848723419">
+    <tag k="addr:housenumber" v="2503"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Valencia Street"/>
+  </node>
+  <node id="-6684" visible="true" lon="-122.4455593207410" lat="48.76323719580879">
+    <tag k="addr:housenumber" v="2121"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-6685" visible="true" lon="-122.4332756177936" lat="48.76330580568847">
+    <tag k="addr:housenumber" v="3025"/>
+    <tag k="addr:postcode" v="98226-4148"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-6686" visible="true" lon="-122.4347918101055" lat="48.76449503454266">
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:postcode" v="98226-4134"/>
+    <tag k="addr:street" v="Erie Street"/>
+  </node>
+  <node id="-6687" visible="true" lon="-122.4335623353853" lat="48.76513041886439">
+    <tag k="addr:housenumber" v="3015"/>
+    <tag k="addr:postcode" v="98226-4181"/>
+    <tag k="addr:street" v="East North Street"/>
+  </node>
+  <node id="-6688" visible="true" lon="-122.4338467663568" lat="48.76329685574740">
+    <tag k="addr:housenumber" v="3009"/>
+    <tag k="addr:postcode" v="98226-4148"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-6689" visible="true" lon="-122.4515818960068" lat="48.76348210060296">
+    <tag k="addr:housenumber" v="2512"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6690" visible="true" lon="-122.4506301982060" lat="48.76444490967974">
+    <tag k="addr:housenumber" v="2601"/>
+    <tag k="addr:postcode" v="98226-3605"/>
+    <tag k="addr:street" v="Toledo Street"/>
+  </node>
+  <node id="-6691" visible="true" lon="-122.4514246697721" lat="48.76488566223372">
+    <tag k="addr:housenumber" v="2618"/>
+    <tag k="addr:postcode" v="98226-3612"/>
+    <tag k="addr:street" v="St Paul Street"/>
+  </node>
+  <node id="-6692" visible="true" lon="-122.4435033424883" lat="48.76341361965187">
+    <tag k="addr:housenumber" v="2510"/>
+    <tag k="addr:postcode" v="98226-3841"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-6693" visible="true" lon="-122.4435034623893" lat="48.76337971305815">
+    <tag k="addr:housenumber" v="2508"/>
+    <tag k="addr:postcode" v="98226-3841"/>
+    <tag k="addr:street" v="Xenia Street"/>
+  </node>
+  <node id="-6694" visible="true" lon="-122.4403748486641" lat="48.76323651118562">
+    <tag k="addr:housenumber" v="2515"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Alabama Street"/>
   </node>
 </osm>

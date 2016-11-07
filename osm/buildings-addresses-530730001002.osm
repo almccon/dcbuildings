@@ -6736,4 +6736,1249 @@
     <nd ref="-2481"/>
     <tag k="building" v="yes"/>
   </way>
+  <node id="-2485" visible="true" lon="-122.4334072835701" lat="48.81512261292691">
+    <tag k="addr:housenumber" v="1051"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2486" visible="true" lon="-122.4344976744841" lat="48.80940006269434">
+    <tag k="addr:housenumber" v="4605"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Vacca Lane"/>
+  </node>
+  <node id="-2487" visible="true" lon="-122.4349980142463" lat="48.80692898050035">
+    <tag k="addr:housenumber" v="4575"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Vacca Lane"/>
+  </node>
+  <node id="-2488" visible="true" lon="-122.4351936218923" lat="48.80939049537503">
+    <tag k="addr:housenumber" v="4601"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Vacca Lane"/>
+  </node>
+  <node id="-2489" visible="true" lon="-122.4356450353077" lat="48.81526821180486">
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2490" visible="true" lon="-122.4361112927993" lat="48.81163565317060">
+    <tag k="addr:housenumber" v="1041"/>
+    <tag k="addr:postcode" v="98226-7920"/>
+    <tag k="addr:street" v="Sterk Lane"/>
+  </node>
+  <node id="-2491" visible="true" lon="-122.4364789904174" lat="48.81377849159998">
+    <tag k="addr:housenumber" v="1045"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2492" visible="true" lon="-122.4370074650731" lat="48.81555615105168">
+    <tag k="addr:housenumber" v="1021"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2493" visible="true" lon="-122.4370646914708" lat="48.81748778356515">
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2494" visible="true" lon="-122.4381946227991" lat="48.81477906368121">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2495" visible="true" lon="-122.4388624618030" lat="48.81331883202370">
+    <tag k="addr:housenumber" v="966"/>
+    <tag k="addr:postcode" v="98226-7919"/>
+    <tag k="addr:street" v="Sterk Lane"/>
+  </node>
+  <node id="-2496" visible="true" lon="-122.4387998417847" lat="48.81540974861876">
+    <tag k="addr:housenumber" v="980"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2497" visible="true" lon="-122.4388933376126" lat="48.81419099922181">
+    <tag k="addr:housenumber" v="983"/>
+    <tag k="addr:postcode" v="98226-7727"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2498" visible="true" lon="-122.4401509731307" lat="48.81160139009024">
+    <tag k="addr:housenumber" v="4704"/>
+    <tag k="addr:postcode" v="98226-7769"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2499" visible="true" lon="-122.4402905748414" lat="48.81728954475460">
+    <tag k="addr:housenumber" v="983"/>
+    <tag k="addr:postcode" v="98226-7470"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2500" visible="true" lon="-122.4407653129737" lat="48.81570969938640">
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:postcode" v="98226-7727"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2501" visible="true" lon="-122.4415080179684" lat="48.81331167809141">
+    <tag k="addr:housenumber" v="4746"/>
+    <tag k="addr:postcode" v="98226-7769"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2502" visible="true" lon="-122.4415375822194" lat="48.81418029894814">
+    <tag k="addr:housenumber" v="4784"/>
+    <tag k="addr:postcode" v="98226-7769"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2503" visible="true" lon="-122.4571321329582" lat="48.81838098170060">
+    <tag k="addr:housenumber" v="641"/>
+    <tag k="addr:postcode" v="98226-9780"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2504" visible="true" lon="-122.4559626049499" lat="48.81762391964930">
+    <tag k="addr:housenumber" v="675"/>
+    <tag k="addr:postcode" v="98226-9780"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2505" visible="true" lon="-122.4547087616760" lat="48.81761889420533">
+    <tag k="addr:housenumber" v="693"/>
+    <tag k="addr:postcode" v="98226-9780"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2506" visible="true" lon="-122.4457406939680" lat="48.81155870375931">
+    <tag k="addr:housenumber" v="4717"/>
+    <tag k="addr:postcode" v="98226-7769"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2507" visible="true" lon="-122.4457564066577" lat="48.81239407209905">
+    <tag k="addr:housenumber" v="4733"/>
+    <tag k="addr:postcode" v="98226-7769"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2508" visible="true" lon="-122.4512450576992" lat="48.81759631264955">
+    <tag k="addr:housenumber" v="747"/>
+    <tag k="addr:postcode" v="98226-9732"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2509" visible="true" lon="-122.4523771707590" lat="48.81720748021628">
+    <tag k="addr:housenumber" v="733"/>
+    <tag k="addr:postcode" v="98226-9732"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2510" visible="true" lon="-122.4446263161929" lat="48.81636639503686">
+    <tag k="addr:housenumber" v="4869"/>
+    <tag k="addr:postcode" v="98226-7703"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2511" visible="true" lon="-122.4505166168742" lat="48.81536915326674">
+    <tag k="addr:housenumber" v="788"/>
+    <tag k="addr:postcode" v="98226-7702"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2512" visible="true" lon="-122.4443815954597" lat="48.81020569899844">
+    <tag k="addr:housenumber" v="4649"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2513" visible="true" lon="-122.4535813469725" lat="48.81661860648824">
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:postcode" v="98226-9732"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2514" visible="true" lon="-122.4529715015151" lat="48.81777656325527">
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:postcode" v="98226-9732"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2515" visible="true" lon="-122.4423588998720" lat="48.80937637245120">
+    <tag k="addr:housenumber" v="4644"/>
+    <tag k="addr:postcode" v="98226-7716"/>
+    <tag k="addr:street" v="Hannegan Road"/>
+  </node>
+  <node id="-2516" visible="true" lon="-122.4651865443655" lat="48.82838047934783">
+    <tag k="addr:housenumber" v="5150"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Red Tree Lane"/>
+  </node>
+  <node id="-2517" visible="true" lon="-122.4661045737346" lat="48.83001429624451">
+    <tag k="addr:housenumber" v="5191"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Red Tree Lane"/>
+  </node>
+  <node id="-2518" visible="true" lon="-122.4656347107301" lat="48.83240441791830">
+    <tag k="addr:housenumber" v="5275"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Red Tree Lane"/>
+  </node>
+  <node id="-2519" visible="true" lon="-122.4658193692332" lat="48.83141683639744">
+    <tag k="addr:housenumber" v="5251"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Red Tree Lane"/>
+  </node>
+  <node id="-2520" visible="true" lon="-122.4661361566272" lat="48.82887095648673">
+    <tag k="addr:housenumber" v="5185"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Red Tree Lane"/>
+  </node>
+  <node id="-2521" visible="true" lon="-122.4644349567037" lat="48.83086476977557">
+    <tag k="addr:housenumber" v="5220"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Red Tree Lane"/>
+  </node>
+  <node id="-2522" visible="true" lon="-122.3851382073531" lat="48.81172102362103">
+    <tag k="addr:housenumber" v="1965"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2523" visible="true" lon="-122.3831874775656" lat="48.81191035388481">
+    <tag k="addr:housenumber" v="1987"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2524" visible="true" lon="-122.3795472727398" lat="48.81193378217415">
+    <tag k="addr:housenumber" v="2063"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2525" visible="true" lon="-122.3806457160229" lat="48.81199882076477">
+    <tag k="addr:housenumber" v="2041"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2526" visible="true" lon="-122.3819603138337" lat="48.81204850585610">
+    <tag k="addr:housenumber" v="2017"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2527" visible="true" lon="-122.3780795780598" lat="48.81212442342419">
+    <tag k="addr:housenumber" v="2089"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2528" visible="true" lon="-122.3857022472596" lat="48.81268096522717">
+    <tag k="addr:housenumber" v="1960"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2529" visible="true" lon="-122.3778470199424" lat="48.81276864623605">
+    <tag k="addr:housenumber" v="4731"/>
+    <tag k="addr:postcode" v="98226-7903"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2530" visible="true" lon="-122.3788874911337" lat="48.81287311904535">
+    <tag k="addr:housenumber" v="2066"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2531" visible="true" lon="-122.3830679188741" lat="48.81292558086851">
+    <tag k="addr:housenumber" v="1990"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2532" visible="true" lon="-122.3889189918645" lat="48.81301118418233">
+    <tag k="addr:housenumber" v="1893"/>
+    <tag k="addr:postcode" v="98226-7507"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2533" visible="true" lon="-122.3797897785617" lat="48.81302587620462">
+    <tag k="addr:housenumber" v="2048"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2534" visible="true" lon="-122.3809849695100" lat="48.81314129542075">
+    <tag k="addr:housenumber" v="2032"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2535" visible="true" lon="-122.3818239065419" lat="48.81316920727767">
+    <tag k="addr:housenumber" v="2012"/>
+    <tag k="addr:postcode" v="98226-8747"/>
+    <tag k="addr:street" v="Timberline Drive"/>
+  </node>
+  <node id="-2536" visible="true" lon="-122.3781608003305" lat="48.81424995578395">
+    <tag k="addr:housenumber" v="4791"/>
+    <tag k="addr:postcode" v="98226-8738"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2537" visible="true" lon="-122.3887532078572" lat="48.81467715304395">
+    <tag k="addr:housenumber" v="1885"/>
+    <tag k="addr:postcode" v="98226-7507"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2538" visible="true" lon="-122.3802865875978" lat="48.81487058664570">
+    <tag k="addr:housenumber" v="2049"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timber Creek Lane"/>
+  </node>
+  <node id="-2539" visible="true" lon="-122.3796724646772" lat="48.81487277409759">
+    <tag k="addr:housenumber" v="2055"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timber Creek Lane"/>
+  </node>
+  <node id="-2540" visible="true" lon="-122.3809915414176" lat="48.81488508477780">
+    <tag k="addr:housenumber" v="2043"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timber Creek Lane"/>
+  </node>
+  <node id="-2541" visible="true" lon="-122.3836477518966" lat="48.81490942200016">
+    <tag k="addr:housenumber" v="1995"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timber Creek Lane"/>
+  </node>
+  <node id="-2542" visible="true" lon="-122.3778161844608" lat="48.81494021974996">
+    <tag k="addr:housenumber" v="4817"/>
+    <tag k="addr:postcode" v="98226-8738"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2543" visible="true" lon="-122.3789925118829" lat="48.81688709241067">
+    <tag k="addr:housenumber" v="4867"/>
+    <tag k="addr:postcode" v="98226-8738"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2544" visible="true" lon="-122.3887219456894" lat="48.81722058007624">
+    <tag k="addr:housenumber" v="1883"/>
+    <tag k="addr:postcode" v="98226-7507"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2545" visible="true" lon="-122.3779770353844" lat="48.81744948128175">
+    <tag k="addr:housenumber" v="2096"/>
+    <tag k="addr:postcode" v="98226-8708"/>
+    <tag k="addr:street" v="Timber Creek Lane"/>
+  </node>
+  <node id="-2546" visible="true" lon="-122.3914910496458" lat="48.81780583629886">
+    <tag k="addr:housenumber" v="1837"/>
+    <tag k="addr:postcode" v="98226-7507"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2547" visible="true" lon="-122.3837305968439" lat="48.81795635643222">
+    <tag k="addr:housenumber" v="4889"/>
+    <tag k="addr:postcode" v="98226-8738"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2548" visible="true" lon="-122.3913681812415" lat="48.81832661800949">
+    <tag k="addr:housenumber" v="1835"/>
+    <tag k="addr:postcode" v="98226-7507"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2549" visible="true" lon="-122.3553985273795" lat="48.81974859074472">
+    <tag k="addr:housenumber" v="1945"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mission Road"/>
+  </node>
+  <node id="-2550" visible="true" lon="-122.3555685170896" lat="48.81940846107728">
+    <tag k="addr:housenumber" v="1941"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mission Road"/>
+  </node>
+  <node id="-2551" visible="true" lon="-122.3843703266983" lat="48.83033243833196">
+    <tag k="addr:housenumber" v="5198"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Ranchos Road"/>
+  </node>
+  <node id="-2552" visible="true" lon="-122.4167645460272" lat="48.79408707928997">
+    <tag k="addr:housenumber" v="1370"/>
+    <tag k="addr:postcode" v="98226-8723"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2553" visible="true" lon="-122.4188822139785" lat="48.79425564981523">
+    <tag k="addr:housenumber" v="1364"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2554" visible="true" lon="-122.4157347803613" lat="48.79454326582996">
+    <tag k="addr:housenumber" v="1404"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2555" visible="true" lon="-122.4144124936946" lat="48.79582748424681">
+    <tag k="addr:housenumber" v="1424"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2556" visible="true" lon="-122.4201913427719" lat="48.79590460322034">
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:postcode" v="98226-7872"/>
+    <tag k="addr:street" v="Hunsicker Road"/>
+  </node>
+  <node id="-2557" visible="true" lon="-122.4202018225182" lat="48.79754300587418">
+    <tag k="addr:housenumber" v="4352"/>
+    <tag k="addr:postcode" v="98226-7859"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2558" visible="true" lon="-122.4218567506045" lat="48.79824911516846">
+    <tag k="addr:housenumber" v="4350"/>
+    <tag k="addr:postcode" v="98226-7859"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2559" visible="true" lon="-122.4216451904339" lat="48.79915447527643">
+    <tag k="addr:housenumber" v="4374"/>
+    <tag k="addr:postcode" v="98226-7859"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2560" visible="true" lon="-122.4223280117014" lat="48.80099260202293">
+    <tag k="addr:housenumber" v="4423"/>
+    <tag k="addr:postcode" v="98226-1703"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2561" visible="true" lon="-122.4190230849762" lat="48.80273622013772">
+    <tag k="addr:housenumber" v="4470"/>
+    <tag k="addr:postcode" v="98226-1703"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2562" visible="true" lon="-122.4216223353959" lat="48.80313778817361">
+    <tag k="addr:housenumber" v="4457"/>
+    <tag k="addr:postcode" v="98226-1703"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2563" visible="true" lon="-122.4216600205358" lat="48.80491480546583">
+    <tag k="addr:housenumber" v="1276"/>
+    <tag k="addr:postcode" v="98226-7900"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2564" visible="true" lon="-122.4182285653024" lat="48.80495222286514">
+    <tag k="addr:housenumber" v="1330"/>
+    <tag k="addr:postcode" v="98226-7901"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2565" visible="true" lon="-122.4160528282163" lat="48.80542536418519">
+    <tag k="addr:housenumber" v="1376"/>
+    <tag k="addr:postcode" v="98226-7901"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2566" visible="true" lon="-122.4148642400889" lat="48.80582667487574">
+    <tag k="addr:housenumber" v="1398"/>
+    <tag k="addr:postcode" v="98226-7901"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2567" visible="true" lon="-122.4226486908681" lat="48.80603270069256">
+    <tag k="addr:housenumber" v="4550"/>
+    <tag k="addr:postcode" v="98226-7931"/>
+    <tag k="addr:street" v="Husky Drive"/>
+  </node>
+  <node id="-2568" visible="true" lon="-122.4183474996763" lat="48.80706258472893">
+    <tag k="addr:housenumber" v="4554"/>
+    <tag k="addr:postcode" v="98226-7921"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2569" visible="true" lon="-122.4199392416727" lat="48.80780960687782">
+    <tag k="addr:housenumber" v="4611"/>
+    <tag k="addr:postcode" v="98226-7933"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2570" visible="true" lon="-122.4178496902148" lat="48.80821499031673">
+    <tag k="addr:housenumber" v="4626"/>
+    <tag k="addr:postcode" v="98226-7933"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2571" visible="true" lon="-122.4197969626854" lat="48.80899555781527">
+    <tag k="addr:housenumber" v="4655"/>
+    <tag k="addr:postcode" v="98226-7933"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2572" visible="true" lon="-122.4178150796476" lat="48.80919496414403">
+    <tag k="addr:housenumber" v="4672"/>
+    <tag k="addr:postcode" v="98226-7933"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2573" visible="true" lon="-122.4200040163478" lat="48.81040291607986">
+    <tag k="addr:housenumber" v="4675"/>
+    <tag k="addr:postcode" v="98226-7933"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2574" visible="true" lon="-122.4178093960763" lat="48.81058356177883">
+    <tag k="addr:housenumber" v="4676"/>
+    <tag k="addr:postcode" v="98226-7933"/>
+    <tag k="addr:street" v="Van Wyck Lane"/>
+  </node>
+  <node id="-2575" visible="true" lon="-122.4142203907626" lat="48.81296058867640">
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2576" visible="true" lon="-122.4141074228851" lat="48.81426620309060">
+    <tag k="addr:housenumber" v="1417"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2577" visible="true" lon="-122.4152173067061" lat="48.81462369479544">
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2578" visible="true" lon="-122.4142484358923" lat="48.81523638840937">
+    <tag k="addr:housenumber" v="1392"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2579" visible="true" lon="-122.4140174140316" lat="48.81640351909472">
+    <tag k="addr:housenumber" v="1368"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2580" visible="true" lon="-122.4221145838928" lat="48.80182506581649">
+    <tag k="addr:housenumber" v="4445"/>
+    <tag k="addr:postcode" v="98226-1703"/>
+    <tag k="addr:street" v="Dewey Road"/>
+  </node>
+  <node id="-2581" visible="true" lon="-122.4135667937541" lat="48.79603963339387">
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2582" visible="true" lon="-122.4167802909357" lat="48.80229246620536">
+    <tag k="addr:housenumber" v="1399"/>
+    <tag k="addr:postcode" v="98226-7901"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2583" visible="true" lon="-122.4296817256229" lat="48.80176327430126">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2584" visible="true" lon="-122.4291885749209" lat="48.80451831418274">
+    <tag k="addr:housenumber" v="1148"/>
+    <tag k="addr:postcode" v="98226-7908"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2585" visible="true" lon="-122.4292190845872" lat="48.80583944312766">
+    <tag k="addr:housenumber" v="1156"/>
+    <tag k="addr:postcode" v="98226-7908"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2586" visible="true" lon="-122.4292278178879" lat="48.80659441897646">
+    <tag k="addr:housenumber" v="1160"/>
+    <tag k="addr:postcode" v="98226-7908"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2587" visible="true" lon="-122.4307603107843" lat="48.80665485599076">
+    <tag k="addr:housenumber" v="4572"/>
+    <tag k="addr:postcode" v="98226-7529"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-2588" visible="true" lon="-122.4292147595991" lat="48.80758444779387">
+    <tag k="addr:housenumber" v="1152"/>
+    <tag k="addr:postcode" v="98226-7908"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2589" visible="true" lon="-122.4310135714893" lat="48.80943825146559">
+    <tag k="addr:housenumber" v="4644"/>
+    <tag k="addr:postcode" v="98226-7543"/>
+    <tag k="addr:street" v="Vining Road"/>
+  </node>
+  <node id="-2590" visible="true" lon="-122.4334184009231" lat="48.81600300002187">
+    <tag k="addr:housenumber" v="1049"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2591" visible="true" lon="-122.4307075399470" lat="48.81704026191361">
+    <tag k="addr:housenumber" v="4865"/>
+    <tag k="addr:postcode" v="98226-9783"/>
+    <tag k="addr:street" v="Nettle Lane"/>
+  </node>
+  <node id="-2592" visible="true" lon="-122.4287345917383" lat="48.81753305755374">
+    <tag k="addr:housenumber" v="1163"/>
+    <tag k="addr:postcode" v="98226-7493"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2593" visible="true" lon="-122.4331704201409" lat="48.81779106094859">
+    <tag k="addr:housenumber" v="1093"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2594" visible="true" lon="-122.4307356701831" lat="48.81797469495879">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98226-7493"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2595" visible="true" lon="-122.4342745603060" lat="48.81810431567123">
+    <tag k="addr:housenumber" v="1069"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2596" visible="true" lon="-122.4320588928207" lat="48.80369963856432">
+    <tag k="addr:housenumber" v="1093"/>
+    <tag k="addr:postcode" v="98226-7909"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2597" visible="true" lon="-122.4333015750845" lat="48.81165974468124">
+    <tag k="addr:housenumber" v="1063"/>
+    <tag k="addr:postcode" v="98226-7920"/>
+    <tag k="addr:street" v="Sterk Lane"/>
+  </node>
+  <node id="-2598" visible="true" lon="-122.4333200245186" lat="48.81245669368265">
+    <tag k="addr:housenumber" v="1055"/>
+    <tag k="addr:postcode" v="98226-7920"/>
+    <tag k="addr:street" v="Sterk Lane"/>
+  </node>
+  <node id="-2599" visible="true" lon="-122.4333801770190" lat="48.81422215801184">
+    <tag k="addr:housenumber" v="1053"/>
+    <tag k="addr:postcode" v="98226-9731"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2600" visible="true" lon="-122.4477083308470" lat="48.81435668003977">
+    <tag k="addr:housenumber" v="825"/>
+    <tag k="addr:postcode" v="98226-7702"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2601" visible="true" lon="-122.4459879492411" lat="48.81436265830197">
+    <tag k="addr:housenumber" v="829"/>
+    <tag k="addr:postcode" v="98226-7702"/>
+    <tag k="addr:street" v="Kline Road"/>
+  </node>
+  <node id="-2602" visible="true" lon="-122.4109619598305" lat="48.79888050708733">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2603" visible="true" lon="-122.4129135213831" lat="48.81316829328819">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2604" visible="true" lon="-122.4128862360588" lat="48.81445382887818">
+    <tag k="addr:housenumber" v="1429"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2605" visible="true" lon="-122.4126779364835" lat="48.81536460253589">
+    <tag k="addr:housenumber" v="1448"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2606" visible="true" lon="-122.4109731444906" lat="48.81560646114941">
+    <tag k="addr:housenumber" v="1490"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2607" visible="true" lon="-122.4127402296970" lat="48.81604663875788">
+    <tag k="addr:housenumber" v="1446"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2608" visible="true" lon="-122.4125534286921" lat="48.79666526184745">
+    <tag k="addr:housenumber" v="1454"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2609" visible="true" lon="-122.4132041125908" lat="48.79716058368841">
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2610" visible="true" lon="-122.4127322970221" lat="48.80215525186036">
+    <tag k="addr:housenumber" v="1487"/>
+    <tag k="addr:postcode" v="98226-7902"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2611" visible="true" lon="-122.3881778789622" lat="48.80440546309017">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98226-7912"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2612" visible="true" lon="-122.3774231702241" lat="48.80441698625297">
+    <tag k="addr:housenumber" v="2098"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2613" visible="true" lon="-122.3798175981237" lat="48.80452894939739">
+    <tag k="addr:housenumber" v="2054"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2614" visible="true" lon="-122.3784156590876" lat="48.80455886666221">
+    <tag k="addr:housenumber" v="2084"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2615" visible="true" lon="-122.3911306219691" lat="48.80461797918556">
+    <tag k="addr:housenumber" v="1840"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2616" visible="true" lon="-122.3871555743017" lat="48.80466829544763">
+    <tag k="addr:housenumber" v="1904"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2617" visible="true" lon="-122.3897891740439" lat="48.80473792565594">
+    <tag k="addr:housenumber" v="1868"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2618" visible="true" lon="-122.3807795812311" lat="48.80476047497016">
+    <tag k="addr:housenumber" v="2026"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2619" visible="true" lon="-122.3853364989042" lat="48.80515388264475">
+    <tag k="addr:housenumber" v="1946"/>
+    <tag k="addr:postcode" v="98226-7912"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2620" visible="true" lon="-122.3872438350389" lat="48.80516117273220">
+    <tag k="addr:housenumber" v="1916"/>
+    <tag k="addr:postcode" v="98226-7912"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2621" visible="true" lon="-122.3859355314010" lat="48.80546794281505">
+    <tag k="addr:housenumber" v="1942"/>
+    <tag k="addr:postcode" v="98226-7912"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2622" visible="true" lon="-122.3917260152846" lat="48.80549620080630">
+    <tag k="addr:housenumber" v="1838"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2623" visible="true" lon="-122.3778296838802" lat="48.80573421876139">
+    <tag k="addr:housenumber" v="4523"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2624" visible="true" lon="-122.3833528845190" lat="48.80573643540679">
+    <tag k="addr:housenumber" v="1978"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2625" visible="true" lon="-122.3849716931289" lat="48.80594850661770">
+    <tag k="addr:housenumber" v="1966"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2626" visible="true" lon="-122.3864159723287" lat="48.80598851716120">
+    <tag k="addr:housenumber" v="4550"/>
+    <tag k="addr:postcode" v="98226-7939"/>
+    <tag k="addr:street" v="Totem Trl"/>
+  </node>
+  <node id="-2627" visible="true" lon="-122.3890366057222" lat="48.80643988281353">
+    <tag k="addr:housenumber" v="4560"/>
+    <tag k="addr:postcode" v="98226-7926"/>
+    <tag k="addr:street" v="Misty Lane"/>
+  </node>
+  <node id="-2628" visible="true" lon="-122.3818472705554" lat="48.80663421205762">
+    <tag k="addr:housenumber" v="2020"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2629" visible="true" lon="-122.3906212886263" lat="48.80666236285674">
+    <tag k="addr:housenumber" v="1860"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2630" visible="true" lon="-122.3803515846385" lat="48.80666416668491">
+    <tag k="addr:housenumber" v="2030"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2631" visible="true" lon="-122.3871967701441" lat="48.80727476498734">
+    <tag k="addr:housenumber" v="4570"/>
+    <tag k="addr:postcode" v="98226-7939"/>
+    <tag k="addr:street" v="Totem Trl"/>
+  </node>
+  <node id="-2632" visible="true" lon="-122.3783259731005" lat="48.80730170861839">
+    <tag k="addr:housenumber" v="4595"/>
+    <tag k="addr:postcode" v="98226-7923"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2633" visible="true" lon="-122.3803400139679" lat="48.80825228105914">
+    <tag k="addr:housenumber" v="4611"/>
+    <tag k="addr:postcode" v="98226-7923"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2634" visible="true" lon="-122.3878232321343" lat="48.80825421867366">
+    <tag k="addr:housenumber" v="4605"/>
+    <tag k="addr:postcode" v="98226-7940"/>
+    <tag k="addr:street" v="Totem Trl"/>
+  </node>
+  <node id="-2635" visible="true" lon="-122.3893019443856" lat="48.80832160461672">
+    <tag k="addr:housenumber" v="4611"/>
+    <tag k="addr:postcode" v="98226-7927"/>
+    <tag k="addr:street" v="Misty Lane"/>
+  </node>
+  <node id="-2636" visible="true" lon="-122.3868068977832" lat="48.80894875603433">
+    <tag k="addr:housenumber" v="4620"/>
+    <tag k="addr:postcode" v="98226-7940"/>
+    <tag k="addr:street" v="Totem Trl"/>
+  </node>
+  <node id="-2637" visible="true" lon="-122.3816957380438" lat="48.80911699348351">
+    <tag k="addr:housenumber" v="4625"/>
+    <tag k="addr:postcode" v="98226-7923"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2638" visible="true" lon="-122.3849168693894" lat="48.80915562919515">
+    <tag k="addr:housenumber" v="4613"/>
+    <tag k="addr:postcode" v="98226-7925"/>
+    <tag k="addr:street" v="East 19th Crst"/>
+  </node>
+  <node id="-2639" visible="true" lon="-122.3895369325932" lat="48.80931175559483">
+    <tag k="addr:housenumber" v="4615"/>
+    <tag k="addr:postcode" v="98226-7927"/>
+    <tag k="addr:street" v="Misty Lane"/>
+  </node>
+  <node id="-2640" visible="true" lon="-122.3903018750158" lat="48.80973474444173">
+    <tag k="addr:housenumber" v="4653"/>
+    <tag k="addr:postcode" v="98226-7927"/>
+    <tag k="addr:street" v="Misty Lane"/>
+  </node>
+  <node id="-2641" visible="true" lon="-122.3781905737586" lat="48.80990644025632">
+    <tag k="addr:housenumber" v="4657"/>
+    <tag k="addr:postcode" v="98226-7923"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2642" visible="true" lon="-122.3831992269161" lat="48.81016345422263">
+    <tag k="addr:housenumber" v="4654"/>
+    <tag k="addr:postcode" v="98226-7925"/>
+    <tag k="addr:street" v="East 19th Crst"/>
+  </node>
+  <node id="-2643" visible="true" lon="-122.3857136621008" lat="48.81021158512257">
+    <tag k="addr:housenumber" v="1950"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2644" visible="true" lon="-122.3892372908110" lat="48.81028632385460">
+    <tag k="addr:housenumber" v="4652"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Misty Lane"/>
+  </node>
+  <node id="-2645" visible="true" lon="-122.3843317146819" lat="48.81041887099708">
+    <tag k="addr:housenumber" v="4655"/>
+    <tag k="addr:postcode" v="98226-7925"/>
+    <tag k="addr:street" v="East 19th Crst"/>
+  </node>
+  <node id="-2646" visible="true" lon="-122.3805333850076" lat="48.81052779650639">
+    <tag k="addr:housenumber" v="4705"/>
+    <tag k="addr:postcode" v="98226-7903"/>
+    <tag k="addr:street" v="Everson Goshen Road"/>
+  </node>
+  <node id="-2647" visible="true" lon="-122.3818100209000" lat="48.80493859634213">
+    <tag k="addr:housenumber" v="2016"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2648" visible="true" lon="-122.4086704338235" lat="48.79927996830268">
+    <tag k="addr:housenumber" v="1520"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2649" visible="true" lon="-122.4096352708746" lat="48.79949499972903">
+    <tag k="addr:housenumber" v="1516"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2650" visible="true" lon="-122.4106001740707" lat="48.79956472802158">
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2651" visible="true" lon="-122.4093991810136" lat="48.80285531967832">
+    <tag k="addr:housenumber" v="1521"/>
+    <tag k="addr:postcode" v="98226-7907"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2652" visible="true" lon="-122.4084324404638" lat="48.81536480151642">
+    <tag k="addr:housenumber" v="1520"/>
+    <tag k="addr:postcode" v="98226-9790"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2653" visible="true" lon="-122.4105052404950" lat="48.81462754004979">
+    <tag k="addr:housenumber" v="1495"/>
+    <tag k="addr:postcode" v="98226-9735"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2654" visible="true" lon="-122.4082868251273" lat="48.80286378588810">
+    <tag k="addr:housenumber" v="1535"/>
+    <tag k="addr:postcode" v="98226-7907"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2655" visible="true" lon="-122.4107755458222" lat="48.80461421485908">
+    <tag k="addr:housenumber" v="1494"/>
+    <tag k="addr:postcode" v="98226-7902"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2656" visible="true" lon="-122.4094515821381" lat="48.81546167415168">
+    <tag k="addr:housenumber" v="1516"/>
+    <tag k="addr:postcode" v="98226-9790"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2657" visible="true" lon="-122.4075710113432" lat="48.79967671064097">
+    <tag k="addr:housenumber" v="1556"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2658" visible="true" lon="-122.4074996315079" lat="48.80651062022258">
+    <tag k="addr:housenumber" v="1520"/>
+    <tag k="addr:postcode" v="98226-7907"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2659" visible="true" lon="-122.4062120507378" lat="48.80098023996946">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2660" visible="true" lon="-122.4052752545188" lat="48.81566839653907">
+    <tag k="addr:housenumber" v="1592"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2661" visible="true" lon="-122.4046805213513" lat="48.80140225226173">
+    <tag k="addr:housenumber" v="1614"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2662" visible="true" lon="-122.4045901956193" lat="48.80291041897489">
+    <tag k="addr:housenumber" v="1603"/>
+    <tag k="addr:postcode" v="98226-7906"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2663" visible="true" lon="-122.4031362249621" lat="48.80197601574258">
+    <tag k="addr:housenumber" v="1630"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2664" visible="true" lon="-122.4019077483817" lat="48.80194596165281">
+    <tag k="addr:housenumber" v="1656"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2665" visible="true" lon="-122.4018708317739" lat="48.80450171631286">
+    <tag k="addr:housenumber" v="1676"/>
+    <tag k="addr:postcode" v="98226-7906"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2666" visible="true" lon="-122.3993582452322" lat="48.81667521188803">
+    <tag k="addr:housenumber" v="4843"/>
+    <tag k="addr:postcode" v="98226-8758"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2667" visible="true" lon="-122.3985946828025" lat="48.80363962524389">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2668" visible="true" lon="-122.3984795113732" lat="48.81634698875620">
+    <tag k="addr:housenumber" v="4850"/>
+    <tag k="addr:postcode" v="98226-8758"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2669" visible="true" lon="-122.3984278498324" lat="48.80823211825641">
+    <tag k="addr:housenumber" v="4616"/>
+    <tag k="addr:postcode" v="98226-7924"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2670" visible="true" lon="-122.3983409140491" lat="48.80383808555482">
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2671" visible="true" lon="-122.3982331897702" lat="48.81520366532462">
+    <tag k="addr:housenumber" v="4796"/>
+    <tag k="addr:postcode" v="98226-7930"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2672" visible="true" lon="-122.3982188681006" lat="48.81209568721032">
+    <tag k="addr:housenumber" v="4700"/>
+    <tag k="addr:postcode" v="98226-7930"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2673" visible="true" lon="-122.3981742254173" lat="48.81492675251634">
+    <tag k="addr:housenumber" v="1729"/>
+    <tag k="addr:postcode" v="98226-8754"/>
+    <tag k="addr:street" v="Noon Valley Road"/>
+  </node>
+  <node id="-2674" visible="true" lon="-122.3978542963872" lat="48.80731198239187">
+    <tag k="addr:housenumber" v="4566"/>
+    <tag k="addr:postcode" v="98226-8701"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2675" visible="true" lon="-122.3978016619745" lat="48.80830470268007">
+    <tag k="addr:housenumber" v="4612"/>
+    <tag k="addr:postcode" v="98226-7924"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2676" visible="true" lon="-122.3975007921859" lat="48.80466519899492">
+    <tag k="addr:housenumber" v="1726"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2677" visible="true" lon="-122.3973703449625" lat="48.80487666759402">
+    <tag k="addr:housenumber" v="1742"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2678" visible="true" lon="-122.3966951819454" lat="48.81055931012306">
+    <tag k="addr:housenumber" v="4668"/>
+    <tag k="addr:postcode" v="98226-7924"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2679" visible="true" lon="-122.3963554315458" lat="48.81683410057312">
+    <tag k="addr:housenumber" v="1734"/>
+    <tag k="addr:postcode" v="98226-8754"/>
+    <tag k="addr:street" v="Noon Valley Road"/>
+  </node>
+  <node id="-2680" visible="true" lon="-122.3957911240438" lat="48.80440992786164">
+    <tag k="addr:housenumber" v="1750"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2681" visible="true" lon="-122.3957897787933" lat="48.80877228469954">
+    <tag k="addr:housenumber" v="4634"/>
+    <tag k="addr:postcode" v="98226-7924"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2682" visible="true" lon="-122.3949335149117" lat="48.81515266738032">
+    <tag k="addr:housenumber" v="1776"/>
+    <tag k="addr:postcode" v="98226-8754"/>
+    <tag k="addr:street" v="Noon Valley Road"/>
+  </node>
+  <node id="-2683" visible="true" lon="-122.3946010262707" lat="48.81187904150173">
+    <tag k="addr:housenumber" v="4708"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2684" visible="true" lon="-122.3942344089875" lat="48.80452287363751">
+    <tag k="addr:housenumber" v="1790"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2685" visible="true" lon="-122.3939600487650" lat="48.81720562406066">
+    <tag k="addr:housenumber" v="1791"/>
+    <tag k="addr:postcode" v="98226-8728"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2686" visible="true" lon="-122.3934855515210" lat="48.80501364194997">
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2687" visible="true" lon="-122.3926871893338" lat="48.80453549035362">
+    <tag k="addr:housenumber" v="1814"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2688" visible="true" lon="-122.4010278921468" lat="48.80253569387767">
+    <tag k="addr:housenumber" v="1680"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2689" visible="true" lon="-122.4063100565911" lat="48.80437523940076">
+    <tag k="addr:housenumber" v="1592"/>
+    <tag k="addr:postcode" v="98226-7907"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2690" visible="true" lon="-122.4063604102770" lat="48.81388720002041">
+    <tag k="addr:housenumber" v="1573"/>
+    <tag k="addr:postcode" v="98226-9790"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2691" visible="true" lon="-122.4050832236056" lat="48.81442557484804">
+    <tag k="addr:housenumber" v="1595"/>
+    <tag k="addr:postcode" v="98226-9790"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2692" visible="true" lon="-122.4033467163244" lat="48.81450080069570">
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:postcode" v="98226-9743"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2693" visible="true" lon="-122.4030114390223" lat="48.81529757819631">
+    <tag k="addr:housenumber" v="1626"/>
+    <tag k="addr:postcode" v="98226-9743"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2694" visible="true" lon="-122.4033367919906" lat="48.81311817773695">
+    <tag k="addr:housenumber" v="1635"/>
+    <tag k="addr:postcode" v="98226-9743"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2695" visible="true" lon="-122.4064021069344" lat="48.81817087787406">
+    <tag k="addr:housenumber" v="1557"/>
+    <tag k="addr:postcode" v="98226-9730"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2696" visible="true" lon="-122.4023294454518" lat="48.81800044840750">
+    <tag k="addr:housenumber" v="1651"/>
+    <tag k="addr:postcode" v="98226-9588"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2697" visible="true" lon="-122.4009569974010" lat="48.81723187094913">
+    <tag k="addr:housenumber" v="1669"/>
+    <tag k="addr:postcode" v="98226-9588"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2698" visible="true" lon="-122.3996684734362" lat="48.81562931669877">
+    <tag k="addr:housenumber" v="4821"/>
+    <tag k="addr:postcode" v="98226-8758"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2699" visible="true" lon="-122.3996804769818" lat="48.81795795921217">
+    <tag k="addr:housenumber" v="4859"/>
+    <tag k="addr:postcode" v="98226-8758"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2700" visible="true" lon="-122.4070635100007" lat="48.80289402678468">
+    <tag k="addr:housenumber" v="1563"/>
+    <tag k="addr:postcode" v="98226-7907"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2701" visible="true" lon="-122.3975773889713" lat="48.80428733751097">
+    <tag k="addr:housenumber" v="1728"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2702" visible="true" lon="-122.4058236241027" lat="48.80291186791794">
+    <tag k="addr:housenumber" v="1577"/>
+    <tag k="addr:postcode" v="98226-7907"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2703" visible="true" lon="-122.3991140351559" lat="48.81502763356569">
+    <tag k="addr:housenumber" v="4811"/>
+    <tag k="addr:postcode" v="98226-8758"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2704" visible="true" lon="-122.4077205850749" lat="48.81462161415811">
+    <tag k="addr:housenumber" v="1565"/>
+    <tag k="addr:postcode" v="98226-9790"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2705" visible="true" lon="-122.4030376792595" lat="48.81614705431886">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98226-9743"/>
+    <tag k="addr:street" v="Huntley Road"/>
+  </node>
+  <node id="-2706" visible="true" lon="-122.4036179449543" lat="48.81806615506670">
+    <tag k="addr:housenumber" v="1607"/>
+    <tag k="addr:postcode" v="98226-9588"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2707" visible="true" lon="-122.3964585460400" lat="48.80784522240371">
+    <tag k="addr:housenumber" v="4622"/>
+    <tag k="addr:postcode" v="98226-7924"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2708" visible="true" lon="-122.3980103670870" lat="48.80522364613956">
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2709" visible="true" lon="-122.3994904628920" lat="48.80430028932010">
+    <tag k="addr:housenumber" v="1694"/>
+    <tag k="addr:postcode" v="98226-7906"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2710" visible="true" lon="-122.3999488444376" lat="48.80304558213765">
+    <tag k="addr:housenumber" v="1694"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2711" visible="true" lon="-122.4033015743988" lat="48.80362109429298">
+    <tag k="addr:housenumber" v="1625"/>
+    <tag k="addr:postcode" v="98226-7906"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2712" visible="true" lon="-122.3935904670422" lat="48.81827020804800">
+    <tag k="addr:housenumber" v="1785"/>
+    <tag k="addr:postcode" v="98226-8728"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2713" visible="true" lon="-122.3929457741991" lat="48.81301594993224">
+    <tag k="addr:housenumber" v="4712"/>
+    <tag k="addr:postcode" v="98226-7930"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2714" visible="true" lon="-122.3972479583746" lat="48.81245631027977">
+    <tag k="addr:housenumber" v="4704"/>
+    <tag k="addr:postcode" v="98226-7930"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2715" visible="true" lon="-122.3994381142935" lat="48.80345406370223">
+    <tag k="addr:housenumber" v="4479"/>
+    <tag k="addr:postcode" v="98226-8701"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2716" visible="true" lon="-122.3969868167476" lat="48.80631265290016">
+    <tag k="addr:housenumber" v="1754"/>
+    <tag k="addr:postcode" v="98226-7905"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2717" visible="true" lon="-122.3977022735231" lat="48.81823905042210">
+    <tag k="addr:housenumber" v="1719"/>
+    <tag k="addr:postcode" v="98226-8728"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2718" visible="true" lon="-122.3947904160167" lat="48.80516578779779">
+    <tag k="addr:housenumber" v="1788"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-2719" visible="true" lon="-122.4019714701422" lat="48.82345247735886">
+    <tag k="addr:housenumber" v="5053"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Noon Road"/>
+  </node>
+  <node id="-2720" visible="true" lon="-122.4259215918149" lat="48.81758195835796">
+    <tag k="addr:housenumber" v="1219"/>
+    <tag k="addr:postcode" v="98226-9778"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2721" visible="true" lon="-122.4258460078963" lat="48.81580601472593">
+    <tag k="addr:housenumber" v="1223"/>
+    <tag k="addr:postcode" v="98226-9778"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2722" visible="true" lon="-122.4238425402252" lat="48.81533691339131">
+    <tag k="addr:housenumber" v="1225"/>
+    <tag k="addr:postcode" v="98226-9778"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2723" visible="true" lon="-122.4232144660531" lat="48.81763153842794">
+    <tag k="addr:housenumber" v="1265"/>
+    <tag k="addr:postcode" v="98226-9778"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2724" visible="true" lon="-122.4227220024289" lat="48.80917335473818">
+    <tag k="addr:housenumber" v="4640"/>
+    <tag k="addr:postcode" v="98226-7932"/>
+    <tag k="addr:street" v="Husky Drive"/>
+  </node>
+  <node id="-2725" visible="true" lon="-122.4226564858144" lat="48.80670670730047">
+    <tag k="addr:housenumber" v="4580"/>
+    <tag k="addr:postcode" v="98226-7931"/>
+    <tag k="addr:street" v="Husky Drive"/>
+  </node>
+  <node id="-2726" visible="true" lon="-122.4273273162111" lat="48.81754601328999">
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:postcode" v="98226-7493"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2727" visible="true" lon="-122.4253949692371" lat="48.80916070693318">
+    <tag k="addr:housenumber" v="4633"/>
+    <tag k="addr:postcode" v="98226-7932"/>
+    <tag k="addr:street" v="Husky Drive"/>
+  </node>
+  <node id="-2728" visible="true" lon="-122.4238368062722" lat="48.81629428904593">
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:postcode" v="98226-9778"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2729" visible="true" lon="-122.4274142236569" lat="48.80475073237356">
+    <tag k="addr:housenumber" v="1192"/>
+    <tag k="addr:postcode" v="98226-7908"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2730" visible="true" lon="-122.4255090255349" lat="48.80730321371323">
+    <tag k="addr:housenumber" v="4611"/>
+    <tag k="addr:postcode" v="98226-7932"/>
+    <tag k="addr:street" v="Husky Drive"/>
+  </node>
+  <node id="-2731" visible="true" lon="-122.4273911487184" lat="48.80618204106678">
+    <tag k="addr:housenumber" v="1190"/>
+    <tag k="addr:postcode" v="98226-7908"/>
+    <tag k="addr:street" v="Van Wyck Road"/>
+  </node>
+  <node id="-2732" visible="true" lon="-122.4245130975413" lat="48.81762230977791">
+    <tag k="addr:housenumber" v="1239"/>
+    <tag k="addr:postcode" v="98226-9778"/>
+    <tag k="addr:street" v="East Kelly Road"/>
+  </node>
+  <node id="-2733" visible="true" lon="-122.4236316101943" lat="48.80774801969474">
+    <tag k="addr:housenumber" v="4604"/>
+    <tag k="addr:postcode" v="98226-7932"/>
+    <tag k="addr:street" v="Husky Drive"/>
+  </node>
 </osm>

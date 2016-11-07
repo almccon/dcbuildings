@@ -1503,7 +1503,7 @@
     <nd ref="-468"/>
     <nd ref="-439"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Sunnyland Es"/>
+    <tag k="name" v="Sunnyland Elementary School"/>
     <tag k="building:levels" v="1"/>
     <tag k="addr:housenumber" v="2800"/>
     <tag k="addr:postcode" v="98225-2639"/>
@@ -24921,5 +24921,395 @@
     <tag k="addr:housenumber" v="2228"/>
     <tag k="addr:postcode" v="98225-3719"/>
     <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-7784" visible="true" lon="-122.4634628535754" lat="48.77101845678789">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-7785" visible="true" lon="-122.4628774063962" lat="48.76708821815443">
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-7786" visible="true" lon="-122.4622898700320" lat="48.76803790007670">
+    <tag k="addr:housenumber" v="998"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7787" visible="true" lon="-122.4644888005474" lat="48.76987566511071">
+    <tag k="addr:housenumber" v="2936"/>
+    <tag k="addr:postcode" v="98225-2641"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7788" visible="true" lon="-122.4685794529501" lat="48.76914206222347">
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-7789" visible="true" lon="-122.4659424835020" lat="48.76694347212076">
+    <tag k="addr:housenumber" v="711"/>
+    <tag k="addr:postcode" v="98225-2647"/>
+    <tag k="addr:street" v="East Maryland Street"/>
+  </node>
+  <node id="-7790" visible="true" lon="-122.4667939214455" lat="48.76625994891204">
+    <tag k="addr:housenumber" v="2721"/>
+    <tag k="addr:postcode" v="98225-2632"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-7791" visible="true" lon="-122.4653550146613" lat="48.76800810367034">
+    <tag k="addr:housenumber" v="720"/>
+    <tag k="addr:postcode" v="98225-2630"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7792" visible="true" lon="-122.4654131726432" lat="48.76842562414882">
+    <tag k="addr:housenumber" v="2905"/>
+    <tag k="addr:postcode" v="98225-2640"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7793" visible="true" lon="-122.4682453073528" lat="48.76576666537773">
+    <tag k="addr:housenumber" v="2701"/>
+    <tag k="addr:postcode" v="98225-2609"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7794" visible="true" lon="-122.4651491165417" lat="48.76711094781223">
+    <tag k="addr:housenumber" v="2807"/>
+    <tag k="addr:postcode" v="98225-2638"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7795" visible="true" lon="-122.4689454375901" lat="48.76581688441146">
+    <tag k="addr:housenumber" v="2704"/>
+    <tag k="addr:postcode" v="98225-2606"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-7796" visible="true" lon="-122.4679002754146" lat="48.76845103889075">
+    <tag k="addr:housenumber" v="519"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7797" visible="true" lon="-122.4671476339784" lat="48.76921551240707">
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:postcode" v="98225-1928"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-7798" visible="true" lon="-122.4630934463389" lat="48.76263102629457">
+    <tag k="addr:housenumber" v="908"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-7799" visible="true" lon="-122.4624409046312" lat="48.76286010895551">
+    <tag k="addr:housenumber" v="2439"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-7800" visible="true" lon="-122.4616882651287" lat="48.76302497993438">
+    <tag k="addr:housenumber" v="1050"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-7801" visible="true" lon="-122.4624401574321" lat="48.76384677919503">
+    <tag k="addr:housenumber" v="2525"/>
+    <tag k="addr:postcode" v="98225-3536"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-7802" visible="true" lon="-122.4638182135268" lat="48.76422397971276">
+    <tag k="addr:housenumber" v="818"/>
+    <tag k="addr:postcode" v="98225-3541"/>
+    <tag k="addr:street" v="East North Street"/>
+  </node>
+  <node id="-7803" visible="true" lon="-122.4624395178044" lat="48.76488855143609">
+    <tag k="addr:housenumber" v="2617"/>
+    <tag k="addr:postcode" v="98225-3537"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-7804" visible="true" lon="-122.4644932074013" lat="48.76494367805682">
+    <tag k="addr:housenumber" v="2616"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7805" visible="true" lon="-122.4632913316377" lat="48.76518616274129">
+    <tag k="addr:housenumber" v="2620"/>
+    <tag k="addr:postcode" v="98225-3535"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-7806" visible="true" lon="-122.4618191575319" lat="48.76547119334003">
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="East Connecticut Street"/>
+  </node>
+  <node id="-7807" visible="true" lon="-122.4631710293806" lat="48.76324438659524">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:postcode" v="98225-3533"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-7808" visible="true" lon="-122.4623790194885" lat="48.76514901641269">
+    <tag k="addr:housenumber" v="2633"/>
+    <tag k="addr:postcode" v="98225-3537"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-7809" visible="true" lon="-122.4674118199314" lat="48.76499728892131">
+    <tag k="addr:housenumber" v="2622"/>
+    <tag k="addr:postcode" v="98225-3513"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7810" visible="true" lon="-122.4673983780394" lat="48.76477744861536">
+    <tag k="addr:housenumber" v="2614"/>
+    <tag k="addr:postcode" v="98225-3513"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7811" visible="true" lon="-122.4660050084325" lat="48.76499814651601">
+    <tag k="addr:housenumber" v="2624"/>
+    <tag k="addr:postcode" v="98225-3528"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-7812" visible="true" lon="-122.4654815880142" lat="48.76449925996464">
+    <tag k="addr:housenumber" v="717"/>
+    <tag k="addr:postcode" v="98225-3598"/>
+    <tag k="addr:street" v="East North Street"/>
+  </node>
+  <node id="-7813" visible="true" lon="-122.4652567412902" lat="48.76465665963845">
+    <tag k="addr:housenumber" v="2609"/>
+    <tag k="addr:postcode" v="98225-3530"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7814" visible="true" lon="-122.4683761865092" lat="48.76280703661014">
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:postcode" v="98225-3843"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-7815" visible="true" lon="-122.4682469599070" lat="48.76245053875335">
+    <tag k="addr:housenumber" v="2425"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7816" visible="true" lon="-122.4682468561946" lat="48.76239571053077">
+    <tag k="addr:housenumber" v="2423"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7817" visible="true" lon="-122.4669458414631" lat="48.76964734145595">
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:postcode" v="98225-1928"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-7818" visible="true" lon="-122.4715487394977" lat="48.76826130234380">
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:postcode" v="98225-2613"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7819" visible="true" lon="-122.4717145325035" lat="48.76842565142313">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98225-2627"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7820" visible="true" lon="-122.4667943499180" lat="48.76582130532996">
+    <tag k="addr:housenumber" v="2705"/>
+    <tag k="addr:postcode" v="98225-2632"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-7821" visible="true" lon="-122.4653424167926" lat="48.76625920090499">
+    <tag k="addr:housenumber" v="2723"/>
+    <tag k="addr:postcode" v="98225-2636"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7822" visible="true" lon="-122.4704976184714" lat="48.76829946463700">
+    <tag k="addr:housenumber" v="409"/>
+    <tag k="addr:postcode" v="98225-2615"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7823" visible="true" lon="-122.4702630270508" lat="48.76845265213222">
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7824" visible="true" lon="-122.4699329481372" lat="48.76845400427330">
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="East Illinois Street"/>
+  </node>
+  <node id="-7825" visible="true" lon="-122.4674595229471" lat="48.76919002553425">
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:postcode" v="98225-1928"/>
+    <tag k="addr:street" v="East Sunset Drive"/>
+  </node>
+  <node id="-7826" visible="true" lon="-122.4667531858000" lat="48.76795427461893">
+    <tag k="addr:housenumber" v="2839"/>
+    <tag k="addr:postcode" v="98225-2634"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-7827" visible="true" lon="-122.4645526903270" lat="48.76659197822788">
+    <tag k="addr:housenumber" v="2734"/>
+    <tag k="addr:postcode" v="98225-2637"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7828" visible="true" lon="-122.4699263320445" lat="48.76273178965914">
+    <tag k="addr:housenumber" v="2433"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-7829" visible="true" lon="-122.4704027341270" lat="48.76280706086002">
+    <tag k="addr:housenumber" v="2438"/>
+    <tag k="addr:postcode" v="98225-3807"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-7830" visible="true" lon="-122.4702986686267" lat="48.76324579230259">
+    <tag k="addr:housenumber" v="403"/>
+    <tag k="addr:postcode" v="98225-3802"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-7831" visible="true" lon="-122.4702210516698" lat="48.76414568149293">
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="98225-3519"/>
+    <tag k="addr:street" v="East North Street"/>
+  </node>
+  <node id="-7832" visible="true" lon="-122.4697918400473" lat="48.76616931489312">
+    <tag k="addr:housenumber" v="2717"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-7833" visible="true" lon="-122.4674206497887" lat="48.76593576576338">
+    <tag k="addr:housenumber" v="2710"/>
+    <tag k="addr:postcode" v="98225-2610"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7834" visible="true" lon="-122.4731739706595" lat="48.76289849957403">
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:postcode" v="98225-3413"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-7835" visible="true" lon="-122.4717497712938" lat="48.76330103924951">
+    <tag k="addr:housenumber" v="2506"/>
+    <tag k="addr:postcode" v="98225-3523"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7836" visible="true" lon="-122.4726084164361" lat="48.76332157238699">
+    <tag k="addr:housenumber" v="2505"/>
+    <tag k="addr:postcode" v="98225-3522"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7837" visible="true" lon="-122.4717514533541" lat="48.76077829435925">
+    <tag k="addr:housenumber" v="2308"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7838" visible="true" lon="-122.4731825530115" lat="48.76092262819627">
+    <tag k="addr:housenumber" v="2312"/>
+    <tag k="addr:postcode" v="98225-3724"/>
+    <tag k="addr:street" v="Dean Avenue"/>
+  </node>
+  <node id="-7839" visible="true" lon="-122.4726220853111" lat="48.76100481838757">
+    <tag k="addr:housenumber" v="2315"/>
+    <tag k="addr:postcode" v="98225-3824"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7840" visible="true" lon="-122.4743121748654" lat="48.76105337600213">
+    <tag k="addr:housenumber" v="2331"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Dean Avenue"/>
+  </node>
+  <node id="-7841" visible="true" lon="-122.4739327776807" lat="48.76131123233382">
+    <tag k="addr:housenumber" v="2323"/>
+    <tag k="addr:postcode" v="98225-3723"/>
+    <tag k="addr:street" v="Dean Avenue"/>
+  </node>
+  <node id="-7842" visible="true" lon="-122.4730138339613" lat="48.76146453177542">
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-7843" visible="true" lon="-122.4731819434921" lat="48.76123818235753">
+    <tag k="addr:housenumber" v="2320"/>
+    <tag k="addr:postcode" v="98225-3724"/>
+    <tag k="addr:street" v="Dean Avenue"/>
+  </node>
+  <node id="-7844" visible="true" lon="-122.4727899871419" lat="48.76145397777140">
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:postcode" v="98225-3727"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-7845" visible="true" lon="-122.4725805904986" lat="48.76118624395198">
+    <tag k="addr:housenumber" v="2325"/>
+    <tag k="addr:postcode" v="98225-3824"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7846" visible="true" lon="-122.4725807086797" lat="48.76110961102647">
+    <tag k="addr:housenumber" v="2321"/>
+    <tag k="addr:postcode" v="98225-3824"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7847" visible="true" lon="-122.4659462906477" lat="48.76154497075685">
+    <tag k="addr:housenumber" v="2336"/>
+    <tag k="addr:postcode" v="98225-3817"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-7848" visible="true" lon="-122.4669265108755" lat="48.76061336601354">
+    <tag k="addr:housenumber" v="611"/>
+    <tag k="addr:postcode" v="98225-4107"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-7849" visible="true" lon="-122.4717514381305" lat="48.76055897460100">
+    <tag k="addr:housenumber" v="2302"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-7850" visible="true" lon="-122.4695649723274" lat="48.76091706901104">
+    <tag k="addr:housenumber" v="2315"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-7851" visible="true" lon="-122.4683718916218" lat="48.76117476418270">
+    <tag k="addr:housenumber" v="2325"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7852" visible="true" lon="-122.4675488838157" lat="48.76125733127277">
+    <tag k="addr:housenumber" v="2320"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-7853" visible="true" lon="-122.4672779306411" lat="48.76193641039392">
+    <tag k="addr:housenumber" v="611"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-7854" visible="true" lon="-122.4666675372261" lat="48.76203992805296">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="98225-3822"/>
+    <tag k="addr:street" v="Texas Street"/>
+  </node>
+  <node id="-7855" visible="true" lon="-122.4659466549435" lat="48.76061313375163">
+    <tag k="addr:housenumber" v="705"/>
+    <tag k="addr:postcode" v="98225-4109"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-7856" visible="true" lon="-122.4651905644416" lat="48.76188783830812">
+    <tag k="addr:housenumber" v="2401"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7857" visible="true" lon="-122.4644949715796" lat="48.76110612116173">
+    <tag k="addr:housenumber" v="2322"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-7858" visible="true" lon="-122.4645246831788" lat="48.76322543382513">
+    <tag k="addr:housenumber" v="801"/>
+    <tag k="addr:postcode" v="98225-3830"/>
+    <tag k="addr:street" v="Alabama Street"/>
+  </node>
+  <node id="-7859" visible="true" lon="-122.4622185035808" lat="48.76113361777544">
+    <tag k="addr:housenumber" v="2323"/>
+    <tag k="addr:postcode" v="98225-3840"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-7860" visible="true" lon="-122.4622164978710" lat="48.76107097854681">
+    <tag k="addr:housenumber" v="2321"/>
+    <tag k="addr:postcode" v="98225-3840"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-7861" visible="true" lon="-122.4625725241323" lat="48.76061244099026">
+    <tag k="addr:housenumber" v="921"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Carolina Street"/>
   </node>
 </osm>

@@ -8713,4 +8713,139 @@
     <tag k="addr:postcode" v="98225-7446"/>
     <tag k="addr:street" v="Old Fairhaven Parkway"/>
   </node>
+  <node id="-3279" visible="true" lon="-122.4907701798657" lat="48.70455793689025">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="University Street"/>
+  </node>
+  <node id="-3280" visible="true" lon="-122.4914001663031" lat="48.70512317405313">
+    <tag k="addr:housenumber" v="671"/>
+    <tag k="addr:postcode" v="98229-6920"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-3281" visible="true" lon="-122.4902357599077" lat="48.70570727889054">
+    <tag k="addr:housenumber" v="682"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-3282" visible="true" lon="-122.4914268864452" lat="48.70594386984884">
+    <tag k="addr:housenumber" v="675"/>
+    <tag k="addr:postcode" v="98229-6920"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-3283" visible="true" lon="-122.5003315060695" lat="48.71738677282340">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-3284" visible="true" lon="-122.4957438589091" lat="48.71539628250809">
+    <tag k="addr:housenumber" v="2811"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-3285" visible="true" lon="-122.4995062076483" lat="48.71705809912242">
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:postcode" v="98225-7401"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-3286" visible="true" lon="-122.4994017425623" lat="48.71733484857985">
+    <tag k="addr:housenumber" v="1605"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-3287" visible="true" lon="-122.4993095745480" lat="48.71663329354435">
+    <tag k="addr:housenumber" v="1406"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
+  <node id="-3288" visible="true" lon="-122.4992033442025" lat="48.71593529204981">
+    <tag k="addr:housenumber" v="1805"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-3289" visible="true" lon="-122.4991592433262" lat="48.71730569853265">
+    <tag k="addr:housenumber" v="1609"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="14th Street"/>
+  </node>
+  <node id="-3290" visible="true" lon="-122.4989840708631" lat="48.71393225193861">
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:postcode" v="98229-8903"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-3291" visible="true" lon="-122.4984602853446" lat="48.71221256917617">
+    <tag k="addr:housenumber" v="331"/>
+    <tag k="addr:postcode" v="98229-6922"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-3292" visible="true" lon="-122.4984429839226" lat="48.71269697697575">
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:postcode" v="98229-8939"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
+  <node id="-3293" visible="true" lon="-122.4882018433874" lat="48.71135083150869">
+    <tag k="addr:housenumber" v="2207"/>
+    <tag k="addr:postcode" v="98225-8154"/>
+    <tag k="addr:street" v="South Avenue"/>
+  </node>
+  <node id="-3294" visible="true" lon="-122.4885307701831" lat="48.71235791255883">
+    <tag k="addr:housenumber" v="2201"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cody Avenue"/>
+  </node>
+  <node id="-3295" visible="true" lon="-122.4864619804342" lat="48.71310069688512">
+    <tag k="addr:housenumber" v="2813"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-3296" visible="true" lon="-122.4893256422154" lat="48.71410014496573">
+    <tag k="addr:housenumber" v="2131"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Lindsay Avenue"/>
+  </node>
+  <node id="-3297" visible="true" lon="-122.4898727368417" lat="48.71442512352505">
+    <tag k="addr:housenumber" v="2110"/>
+    <tag k="addr:postcode" v="98225-8114"/>
+    <tag k="addr:street" v="Julia Avenue"/>
+  </node>
+  <node id="-3298" visible="true" lon="-122.4934524030868" lat="48.71557161738670">
+    <tag k="addr:housenumber" v="1900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-3299" visible="true" lon="-122.4905380551521" lat="48.71563344180272">
+    <tag k="addr:housenumber" v="2014"/>
+    <tag k="addr:postcode" v="98225-7533"/>
+    <tag k="addr:street" v="Old Fairhaven Parkway"/>
+  </node>
+  <node id="-3300" visible="true" lon="-122.4884343553921" lat="48.71227210325168">
+    <tag k="addr:housenumber" v="2211"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Cody Avenue"/>
+  </node>
+  <node id="-3301" visible="true" lon="-122.4887547200629" lat="48.71523253305298">
+    <tag k="addr:housenumber" v="1807"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-3302" visible="true" lon="-122.4913296979850" lat="48.71191736078710">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98225-8125"/>
+    <tag k="addr:street" v="Cody Avenue"/>
+  </node>
+  <node id="-3303" visible="true" lon="-122.4974591047444" lat="48.70843861109705">
+    <tag k="addr:housenumber" v="2624"/>
+    <tag k="addr:postcode" v="98229-6910"/>
+    <tag k="addr:street" v="16th Street"/>
+  </node>
+  <node id="-3304" visible="true" lon="-122.4973547129329" lat="48.70969354837240">
+    <tag k="addr:housenumber" v="1448"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Iris Lane"/>
+  </node>
+  <node id="-3305" visible="true" lon="-122.4984587214017" lat="48.71094859044312">
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:postcode" v="98229-8951"/>
+    <tag k="addr:street" v="Chuckanut Dr N"/>
+  </node>
 </osm>

@@ -11869,4 +11869,339 @@
     <tag k="addr:postcode" v="98225-1566"/>
     <tag k="addr:street" v="Eldridge Avenue"/>
   </node>
+  <node id="-4133" visible="true" lon="-122.5051137184988" lat="48.76871015100365">
+    <tag k="addr:housenumber" v="2912"/>
+    <tag k="addr:postcode" v="98225-1527"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4134" visible="true" lon="-122.5058519389578" lat="48.76891946658018">
+    <tag k="addr:housenumber" v="2923"/>
+    <tag k="addr:postcode" v="98225-1526"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4135" visible="true" lon="-122.5046210660413" lat="48.76923170929145">
+    <tag k="addr:housenumber" v="2933"/>
+    <tag k="addr:postcode" v="98225-1514"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+  </node>
+  <node id="-4136" visible="true" lon="-122.5059423114251" lat="48.76937652749548">
+    <tag k="addr:housenumber" v="2815"/>
+    <tag k="addr:postcode" v="98225-1509"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4137" visible="true" lon="-122.5045549610830" lat="48.76962287398327">
+    <tag k="addr:housenumber" v="2780"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4138" visible="true" lon="-122.5043273017800" lat="48.76962709661800">
+    <tag k="addr:housenumber" v="2776"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4139" visible="true" lon="-122.5253259690904" lat="48.76917640716024">
+    <tag k="addr:housenumber" v="741"/>
+    <tag k="addr:postcode" v="98225-1529"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4140" visible="true" lon="-122.5213849447233" lat="48.76667194563714">
+    <tag k="addr:housenumber" v="725"/>
+    <tag k="addr:postcode" v="98225-1529"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4141" visible="true" lon="-122.5213780043920" lat="48.76633785419985">
+    <tag k="addr:housenumber" v="723"/>
+    <tag k="addr:postcode" v="98225-1529"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4142" visible="true" lon="-122.5206417575289" lat="48.76784677345120">
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:postcode" v="98225-1529"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4143" visible="true" lon="-122.5213777965145" lat="48.76729382752365">
+    <tag k="addr:housenumber" v="727"/>
+    <tag k="addr:postcode" v="98225-1529"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4144" visible="true" lon="-122.5185580851313" lat="48.76557873980756">
+    <tag k="addr:housenumber" v="639"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4145" visible="true" lon="-122.5183777333841" lat="48.76583055573703">
+    <tag k="addr:housenumber" v="635"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4146" visible="true" lon="-122.5186580889192" lat="48.76648172059069">
+    <tag k="addr:housenumber" v="669"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4147" visible="true" lon="-122.5202231903903" lat="48.76675730658305">
+    <tag k="addr:housenumber" v="2871"/>
+    <tag k="addr:postcode" v="98225-1552"/>
+    <tag k="addr:street" v="Seaview Circle Drive"/>
+  </node>
+  <node id="-4148" visible="true" lon="-122.5192849189855" lat="48.76736336476206">
+    <tag k="addr:housenumber" v="2928"/>
+    <tag k="addr:postcode" v="98225-1500"/>
+    <tag k="addr:street" v="Seaview Circle Drive"/>
+  </node>
+  <node id="-4149" visible="true" lon="-122.5186429416561" lat="48.76740225080707">
+    <tag k="addr:housenumber" v="683"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4150" visible="true" lon="-122.5201129600591" lat="48.76758357510730">
+    <tag k="addr:housenumber" v="2929"/>
+    <tag k="addr:postcode" v="98225-1500"/>
+    <tag k="addr:street" v="Seaview Circle Drive"/>
+  </node>
+  <node id="-4151" visible="true" lon="-122.5190902731280" lat="48.76769871169872">
+    <tag k="addr:housenumber" v="2934"/>
+    <tag k="addr:postcode" v="98225-1500"/>
+    <tag k="addr:street" v="Seaview Circle Drive"/>
+  </node>
+  <node id="-4152" visible="true" lon="-122.5192169059054" lat="48.76781980881584">
+    <tag k="addr:housenumber" v="2936"/>
+    <tag k="addr:postcode" v="98225-1500"/>
+    <tag k="addr:street" v="Seaview Circle Drive"/>
+  </node>
+  <node id="-4153" visible="true" lon="-122.5192884674470" lat="48.76796325785166">
+    <tag k="addr:housenumber" v="2938"/>
+    <tag k="addr:postcode" v="98225-1500"/>
+    <tag k="addr:street" v="Seaview Circle Drive"/>
+  </node>
+  <node id="-4154" visible="true" lon="-122.5185308282608" lat="48.76797303297988">
+    <tag k="addr:housenumber" v="710"/>
+    <tag k="addr:postcode" v="98225-1530"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4155" visible="true" lon="-122.5183988838950" lat="48.76635634770992">
+    <tag k="addr:housenumber" v="653"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4156" visible="true" lon="-122.5176633022771" lat="48.76603444779233">
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4157" visible="true" lon="-122.5178322930061" lat="48.76659154715092">
+    <tag k="addr:housenumber" v="625"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4158" visible="true" lon="-122.5180473396136" lat="48.76686121668752">
+    <tag k="addr:housenumber" v="659"/>
+    <tag k="addr:postcode" v="98225-1528"/>
+    <tag k="addr:street" v="Marine Drive"/>
+  </node>
+  <node id="-4159" visible="true" lon="-122.4952082676438" lat="48.77308602362420">
+    <tag k="addr:housenumber" v="3204"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Northwest Avenue"/>
+  </node>
+  <node id="-4160" visible="true" lon="-122.5155448369652" lat="48.76583076312344">
+    <tag k="addr:housenumber" v="3199"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-4161" visible="true" lon="-122.5007228071993" lat="48.76694851807889">
+    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-4162" visible="true" lon="-122.5034459085095" lat="48.76681409972700">
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-4163" visible="true" lon="-122.5031173287065" lat="48.76637837666622">
+    <tag k="addr:housenumber" v="913"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-4164" visible="true" lon="-122.5046259178947" lat="48.76507286256925">
+    <tag k="addr:housenumber" v="2710"/>
+    <tag k="addr:postcode" v="98225-1533"/>
+    <tag k="addr:street" v="Nequalicum Avenue"/>
+  </node>
+  <node id="-4165" visible="true" lon="-122.5051302947158" lat="48.76547958787832">
+    <tag k="addr:housenumber" v="2626"/>
+    <tag k="addr:postcode" v="98225-1521"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4166" visible="true" lon="-122.5045947004953" lat="48.76645777525120">
+    <tag k="addr:housenumber" v="2727"/>
+    <tag k="addr:postcode" v="98225-1510"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+  </node>
+  <node id="-4167" visible="true" lon="-122.5058348399687" lat="48.76726927020832">
+    <tag k="addr:housenumber" v="2807"/>
+    <tag k="addr:postcode" v="98225-1524"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4168" visible="true" lon="-122.5045898351561" lat="48.76738255782708">
+    <tag k="addr:housenumber" v="2809"/>
+    <tag k="addr:postcode" v="98225-1512"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+  </node>
+  <node id="-4169" visible="true" lon="-122.5051211327400" lat="48.76738370045507">
+    <tag k="addr:housenumber" v="2810"/>
+    <tag k="addr:postcode" v="98225-1525"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4170" visible="true" lon="-122.5058334691399" lat="48.76754289291031">
+    <tag k="addr:housenumber" v="2817"/>
+    <tag k="addr:postcode" v="98225-1524"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4171" visible="true" lon="-122.5051197947360" lat="48.76760797548647">
+    <tag k="addr:housenumber" v="2824"/>
+    <tag k="addr:postcode" v="98225-1525"/>
+    <tag k="addr:street" v="Madrona Street"/>
+  </node>
+  <node id="-4172" visible="true" lon="-122.5045874161791" lat="48.76782644318079">
+    <tag k="addr:housenumber" v="2829"/>
+    <tag k="addr:postcode" v="98225-1512"/>
+    <tag k="addr:street" v="Lafayette Street"/>
+  </node>
+  <node id="-4173" visible="true" lon="-122.5071274321091" lat="48.76956639054034">
+    <tag k="addr:housenumber" v="2904"/>
+    <tag k="addr:postcode" v="98225-1509"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4174" visible="true" lon="-122.5076995803678" lat="48.76957517322871">
+    <tag k="addr:housenumber" v="2914"/>
+    <tag k="addr:postcode" v="98225-1509"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4175" visible="true" lon="-122.5073047493381" lat="48.76956762107023">
+    <tag k="addr:housenumber" v="2908"/>
+    <tag k="addr:postcode" v="98225-1509"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4176" visible="true" lon="-122.5075765644979" lat="48.76957316228664">
+    <tag k="addr:housenumber" v="2912"/>
+    <tag k="addr:postcode" v="98225-1509"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4177" visible="true" lon="-122.5069414789750" lat="48.76956339417288">
+    <tag k="addr:housenumber" v="2900"/>
+    <tag k="addr:postcode" v="98225-1509"/>
+    <tag k="addr:street" v="West Indiana Street"/>
+  </node>
+  <node id="-4178" visible="true" lon="-122.5070871825076" lat="48.76541308284899">
+    <tag k="addr:housenumber" v="2629"/>
+    <tag k="addr:postcode" v="98225-1542"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4179" visible="true" lon="-122.5070816090475" lat="48.76649140126439">
+    <tag k="addr:housenumber" v="2729"/>
+    <tag k="addr:postcode" v="98225-1544"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4180" visible="true" lon="-122.5075291294819" lat="48.76653174890556">
+    <tag k="addr:housenumber" v="2724"/>
+    <tag k="addr:postcode" v="98225-1539"/>
+    <tag k="addr:street" v="Nome Street"/>
+  </node>
+  <node id="-4181" visible="true" lon="-122.5063659902612" lat="48.76721557998940">
+    <tag k="addr:housenumber" v="2806"/>
+    <tag k="addr:postcode" v="98225-1547"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4182" visible="true" lon="-122.5070785871333" lat="48.76723137966764">
+    <tag k="addr:housenumber" v="2807"/>
+    <tag k="addr:postcode" v="98225-1546"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4183" visible="true" lon="-122.5070781568728" lat="48.76734433547551">
+    <tag k="addr:housenumber" v="2811"/>
+    <tag k="addr:postcode" v="98225-1546"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4184" visible="true" lon="-122.5070777176466" lat="48.76745701887565">
+    <tag k="addr:housenumber" v="2815"/>
+    <tag k="addr:postcode" v="98225-1546"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4185" visible="true" lon="-122.5076074937738" lat="48.76748750655192">
+    <tag k="addr:housenumber" v="2812"/>
+    <tag k="addr:postcode" v="98225-1540"/>
+    <tag k="addr:street" v="Nome Street"/>
+  </node>
+  <node id="-4186" visible="true" lon="-122.5063640732828" lat="48.76759859658105">
+    <tag k="addr:housenumber" v="2820"/>
+    <tag k="addr:postcode" v="98225-1547"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4187" visible="true" lon="-122.5100457031813" lat="48.76820113438750">
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="West Illinois Street"/>
+  </node>
+  <node id="-4188" visible="true" lon="-122.5145541741529" lat="48.76442763067362">
+    <tag k="addr:housenumber" v="3111"/>
+    <tag k="addr:postcode" v="98225-1564"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-4189" visible="true" lon="-122.5110100540333" lat="48.76325522952995">
+    <tag k="addr:housenumber" v="3011"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-4190" visible="true" lon="-122.5078938618631" lat="48.76280218949849">
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Squalicum Way"/>
+  </node>
+  <node id="-4191" visible="true" lon="-122.5078106817323" lat="48.76429948969189">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Nome Street"/>
+  </node>
+  <node id="-4192" visible="true" lon="-122.5070901579619" lat="48.76502456761074">
+    <tag k="addr:housenumber" v="2617"/>
+    <tag k="addr:postcode" v="98225-1542"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4193" visible="true" lon="-122.5070299064101" lat="48.76473867537994">
+    <tag k="addr:housenumber" v="2609"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Patton Street"/>
+  </node>
+  <node id="-4194" visible="true" lon="-122.5067023002847" lat="48.76401276675772">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Nequalicum Avenue"/>
+  </node>
+  <node id="-4195" visible="true" lon="-122.5144040850027" lat="48.76500579327199">
+    <tag k="addr:housenumber" v="3112"/>
+    <tag k="addr:postcode" v="98225-1563"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-4196" visible="true" lon="-122.5094782663610" lat="48.76416363329253">
+    <tag k="addr:housenumber" v="2929"/>
+    <tag k="addr:postcode" v="98225-1516"/>
+    <tag k="addr:street" v="Lindbergh Avenue"/>
+  </node>
+  <node id="-4197" visible="true" lon="-122.5158746658555" lat="48.76476878540381">
+    <tag k="addr:housenumber" v="3129"/>
+    <tag k="addr:postcode" v="98225-1564"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-4198" visible="true" lon="-122.5079986995746" lat="48.76275381448344">
+    <tag k="addr:housenumber" v="2851"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Eldridge Avenue"/>
+  </node>
+  <node id="-4199" visible="true" lon="-122.5085430200500" lat="48.76108795255345">
+    <tag k="addr:housenumber" v="2835"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Roeder Avenue"/>
+  </node>
 </osm>

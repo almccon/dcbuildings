@@ -10738,7 +10738,7 @@
     <nd ref="-3446"/>
     <nd ref="-3421"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Bellingham Hs"/>
+    <tag k="name" v="Bellingham High School"/>
     <tag k="building:levels" v="3"/>
     <tag k="addr:housenumber" v="2020"/>
     <tag k="addr:postcode" v="98225-3648"/>
@@ -18005,5 +18005,355 @@
     <tag k="addr:housenumber" v="1520"/>
     <tag k="addr:postcode" v="98225"/>
     <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5663" visible="true" lon="-122.4717547035722" lat="48.75156653268868">
+    <tag k="addr:housenumber" v="1650"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5664" visible="true" lon="-122.4719734029369" lat="48.75146955050825">
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5665" visible="true" lon="-122.4714043215054" lat="48.75005079048967">
+    <tag k="addr:housenumber" v="1526"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5666" visible="true" lon="-122.4686078823378" lat="48.75111651277197">
+    <tag k="addr:housenumber" v="1614"/>
+    <tag k="addr:postcode" v="98225-4806"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5667" visible="true" lon="-122.4686055774222" lat="48.75122538290108">
+    <tag k="addr:housenumber" v="1616"/>
+    <tag k="addr:postcode" v="98225-4806"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5668" visible="true" lon="-122.4680934993329" lat="48.75034597602017">
+    <tag k="addr:housenumber" v="1537"/>
+    <tag k="addr:postcode" v="98225-4935"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5669" visible="true" lon="-122.4680853867901" lat="48.75076444334531">
+    <tag k="addr:housenumber" v="1601"/>
+    <tag k="addr:postcode" v="98225-4813"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5670" visible="true" lon="-122.4721282325129" lat="48.75175320447841">
+    <tag k="addr:housenumber" v="1604"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5671" visible="true" lon="-122.4713087913027" lat="48.74928211941499">
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Gladstone Street"/>
+  </node>
+  <node id="-5672" visible="true" lon="-122.4720910691042" lat="48.75136193111882">
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="York Street"/>
+  </node>
+  <node id="-5673" visible="true" lon="-122.4683796241998" lat="48.75799854846826">
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5674" visible="true" lon="-122.4654010683512" lat="48.75812444354457">
+    <tag k="addr:housenumber" v="2109"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5675" visible="true" lon="-122.4682493899061" lat="48.75847479411091">
+    <tag k="addr:housenumber" v="2121"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5676" visible="true" lon="-122.4660768827241" lat="48.76017458784675">
+    <tag k="addr:housenumber" v="704"/>
+    <tag k="addr:postcode" v="98225-4110"/>
+    <tag k="addr:street" v="Carolina Street"/>
+  </node>
+  <node id="-5677" visible="true" lon="-122.4659470006002" lat="48.75990034115014">
+    <tag k="addr:housenumber" v="2224"/>
+    <tag k="addr:postcode" v="98225-4125"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5678" visible="true" lon="-122.4745855352315" lat="48.75846008642019">
+    <tag k="addr:housenumber" v="2116"/>
+    <tag k="addr:postcode" v="98225-3650"/>
+    <tag k="addr:street" v="Cornwall Avenue"/>
+  </node>
+  <node id="-5679" visible="true" lon="-122.4726022745329" lat="48.75862712384637">
+    <tag k="addr:housenumber" v="2123"/>
+    <tag k="addr:postcode" v="98225-4132"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5680" visible="true" lon="-122.4726021315060" lat="48.75876420131366">
+    <tag k="addr:housenumber" v="2125"/>
+    <tag k="addr:postcode" v="98225-4132"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5681" visible="true" lon="-122.4717528632970" lat="48.75831147717024">
+    <tag k="addr:housenumber" v="2118"/>
+    <tag k="addr:postcode" v="98225-4133"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5682" visible="true" lon="-122.4709791683050" lat="48.75744795206354">
+    <tag k="addr:housenumber" v="2015"/>
+    <tag k="addr:postcode" v="98225-4220"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5683" visible="true" lon="-122.4717531566720" lat="48.75803732304567">
+    <tag k="addr:housenumber" v="2104"/>
+    <tag k="addr:postcode" v="98225-4133"/>
+    <tag k="addr:street" v="Ellis Street"/>
+  </node>
+  <node id="-5684" visible="true" lon="-122.4705893815921" lat="48.74969240077489">
+    <tag k="addr:housenumber" v="1515"/>
+    <tag k="addr:postcode" v="98225-4910"/>
+    <tag k="addr:street" v="Franklin Street"/>
+  </node>
+  <node id="-5685" visible="true" lon="-122.4672808242971" lat="48.75132404378945">
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="98225-4814"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5686" visible="true" lon="-122.4672766586258" lat="48.75154287407486">
+    <tag k="addr:housenumber" v="1628"/>
+    <tag k="addr:postcode" v="98225-4814"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5687" visible="true" lon="-122.4670486714058" lat="48.75475911070092">
+    <tag k="addr:housenumber" v="1852"/>
+    <tag k="addr:postcode" v="98225-4630"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5688" visible="true" lon="-122.4653745273205" lat="48.75560148702335">
+    <tag k="addr:housenumber" v="1915"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5689" visible="true" lon="-122.4659489902267" lat="48.75715854822049">
+    <tag k="addr:housenumber" v="2020"/>
+    <tag k="addr:postcode" v="98225-4212"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5690" visible="true" lon="-122.4660668823708" lat="48.75747972959848">
+    <tag k="addr:housenumber" v="2036"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5691" visible="true" lon="-122.4682508571538" lat="48.75617219153818">
+    <tag k="addr:housenumber" v="1933"/>
+    <tag k="addr:postcode" v="98225-4204"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5692" visible="true" lon="-122.4702038162201" lat="48.75351041043873">
+    <tag k="addr:housenumber" v="1713"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="North State Street"/>
+  </node>
+  <node id="-5693" visible="true" lon="-122.4686383678413" lat="48.75237448905219">
+    <tag k="addr:housenumber" v="1714"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5694" visible="true" lon="-122.4673989301636" lat="48.75979086591320">
+    <tag k="addr:housenumber" v="2220"/>
+    <tag k="addr:postcode" v="98225-4121"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5695" visible="true" lon="-122.4669651115525" lat="48.75897093960597">
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:postcode" v="98225-4129"/>
+    <tag k="addr:street" v="Virginia Street"/>
+  </node>
+  <node id="-5696" visible="true" lon="-122.4667799983910" lat="48.75958122050681">
+    <tag k="addr:housenumber" v="2213"/>
+    <tag k="addr:postcode" v="98225-4124"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5697" visible="true" lon="-122.4688491891656" lat="48.75880411809857">
+    <tag k="addr:housenumber" v="2138"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5698" visible="true" lon="-122.4646427222213" lat="48.75931276155685">
+    <tag k="addr:housenumber" v="2202"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5699" visible="true" lon="-122.4628262660752" lat="48.75925822641010">
+    <tag k="addr:housenumber" v="2200"/>
+    <tag k="addr:postcode" v="98225-4146"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-5700" visible="true" lon="-122.4632273334105" lat="48.75981180527172">
+    <tag k="addr:housenumber" v="2222"/>
+    <tag k="addr:postcode" v="98225-4146"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-5701" visible="true" lon="-122.4631234094429" lat="48.75804737551839">
+    <tag k="addr:housenumber" v="2104"/>
+    <tag k="addr:postcode" v="98225-4144"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-5702" visible="true" lon="-122.4631019513468" lat="48.75842922804322">
+    <tag k="addr:housenumber" v="2122"/>
+    <tag k="addr:postcode" v="98225-4144"/>
+    <tag k="addr:street" v="King Street"/>
+  </node>
+  <node id="-5703" visible="true" lon="-122.4630466706432" lat="48.75792599719698">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5704" visible="true" lon="-122.4624157875269" lat="48.75794079349593">
+    <tag k="addr:housenumber" v="915"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5705" visible="true" lon="-122.4624457101520" lat="48.75737761478925">
+    <tag k="addr:housenumber" v="2029"/>
+    <tag k="addr:postcode" v="98225-4227"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+  </node>
+  <node id="-5706" visible="true" lon="-122.4617071520174" lat="48.75643897672261">
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Iowa Street"/>
+  </node>
+  <node id="-5707" visible="true" lon="-122.4617126651961" lat="48.75777340797227">
+    <tag k="addr:housenumber" v="1050"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5708" visible="true" lon="-122.4660385282973" lat="48.75847567567167">
+    <tag k="addr:housenumber" v="2120"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5709" visible="true" lon="-122.4659889947246" lat="48.75496830922095">
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ohio Street"/>
+  </node>
+  <node id="-5710" visible="true" lon="-122.4659492224402" lat="48.75682983986194">
+    <tag k="addr:housenumber" v="2008"/>
+    <tag k="addr:postcode" v="98225-4212"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5711" visible="true" lon="-122.4655308241787" lat="48.75760903667841">
+    <tag k="addr:housenumber" v="702"/>
+    <tag k="addr:postcode" v="98225-4200"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5712" visible="true" lon="-122.4654761483887" lat="48.75798077394995">
+    <tag k="addr:housenumber" v="711"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5713" visible="true" lon="-122.4652343112552" lat="48.75794823733625">
+    <tag k="addr:housenumber" v="2101"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5714" visible="true" lon="-122.4646499512343" lat="48.75815555118172">
+    <tag k="addr:housenumber" v="2110"/>
+    <tag k="addr:postcode" v="98225-4140"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5715" visible="true" lon="-122.4646492586466" lat="48.75801758267225">
+    <tag k="addr:housenumber" v="2104"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5716" visible="true" lon="-122.4644994585939" lat="48.75596973845322">
+    <tag k="addr:housenumber" v="1926"/>
+    <tag k="addr:postcode" v="98225-4232"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5717" visible="true" lon="-122.4688603563099" lat="48.75477406686564">
+    <tag k="addr:housenumber" v="1830"/>
+    <tag k="addr:postcode" v="98225-4601"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5718" visible="true" lon="-122.4686954866731" lat="48.75684338271871">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="98225-4241"/>
+    <tag k="addr:street" v="Kentucky Street"/>
+  </node>
+  <node id="-5719" visible="true" lon="-122.4678190532965" lat="48.75308068199180">
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Meador Avenue"/>
+  </node>
+  <node id="-5720" visible="true" lon="-122.4674002141296" lat="48.75737806029305">
+    <tag k="addr:housenumber" v="2028"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5721" visible="true" lon="-122.4673999222996" lat="48.75855663254057">
+    <tag k="addr:housenumber" v="2122"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5722" visible="true" lon="-122.4667985281782" lat="48.75825473848390">
+    <tag k="addr:housenumber" v="2115"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Iron Street"/>
+  </node>
+  <node id="-5723" visible="true" lon="-122.4686828566723" lat="48.75462814218201">
+    <tag k="addr:housenumber" v="1820"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5724" visible="true" lon="-122.4682506497463" lat="48.75606253483684">
+    <tag k="addr:housenumber" v="1931"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5725" visible="true" lon="-122.4684935673868" lat="48.75733802959873">
+    <tag k="addr:housenumber" v="2019"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Humboldt Street"/>
+  </node>
+  <node id="-5726" visible="true" lon="-122.4667696371304" lat="48.75488831422368">
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Ohio Street"/>
+  </node>
+  <node id="-5727" visible="true" lon="-122.4686330958298" lat="48.75215743101578">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="Grant Street"/>
+  </node>
+  <node id="-5728" visible="true" lon="-122.4655967369320" lat="48.75156023614102">
+    <tag k="addr:housenumber" v="1631"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5729" visible="true" lon="-122.4655921912119" lat="48.75165118561334">
+    <tag k="addr:housenumber" v="1633"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5730" visible="true" lon="-122.4639720550996" lat="48.75206296127270">
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:postcode" v="98225-4812"/>
+    <tag k="addr:street" v="Fraser Street"/>
+  </node>
+  <node id="-5731" visible="true" lon="-122.4649361252058" lat="48.75428846652044">
+    <tag k="addr:housenumber" v="1810"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="James Street"/>
+  </node>
+  <node id="-5732" visible="true" lon="-122.4626923342063" lat="48.75280912176935">
+    <tag k="addr:housenumber" v="990"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Meador Avenue"/>
   </node>
 </osm>

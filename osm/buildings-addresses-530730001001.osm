@@ -4554,4 +4554,974 @@
     <nd ref="-1479"/>
     <tag k="building" v="yes"/>
   </way>
+  <node id="-1485" visible="true" lon="-122.4150570604915" lat="48.79211178755261">
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Britton Road"/>
+  </node>
+  <node id="-1486" visible="true" lon="-122.4136464465589" lat="48.79276886675756">
+    <tag k="addr:housenumber" v="4175"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Britton Road"/>
+  </node>
+  <node id="-1487" visible="true" lon="-122.4157839098084" lat="48.79348221856807">
+    <tag k="addr:housenumber" v="4215"/>
+    <tag k="addr:postcode" v="98226-9468"/>
+    <tag k="addr:street" v="Britton Road"/>
+  </node>
+  <node id="-1488" visible="true" lon="-122.4146307555862" lat="48.79441351499455">
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1489" visible="true" lon="-122.3963348768653" lat="48.78096194032839">
+    <tag k="addr:housenumber" v="3860"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Toad Lake Road"/>
+  </node>
+  <node id="-1490" visible="true" lon="-122.3840859026559" lat="48.78141905890499">
+    <tag k="addr:housenumber" v="3919"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1491" visible="true" lon="-122.3813821633912" lat="48.77689772039086">
+    <tag k="addr:housenumber" v="3921"/>
+    <tag k="addr:postcode" v="98226-1721"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1492" visible="true" lon="-122.3806787227729" lat="48.78142491175718">
+    <tag k="addr:housenumber" v="3901"/>
+    <tag k="addr:postcode" v="98226-1721"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1493" visible="true" lon="-122.3789962943338" lat="48.77394923346074">
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Academy Road"/>
+  </node>
+  <node id="-1494" visible="true" lon="-122.3779785453174" lat="48.77785746157401">
+    <tag k="addr:housenumber" v="4323"/>
+    <tag k="addr:postcode" v="98226-8634"/>
+    <tag k="addr:street" v="Toad Lake Road"/>
+  </node>
+  <node id="-1495" visible="true" lon="-122.3779444567515" lat="48.78143298075030">
+    <tag k="addr:housenumber" v="3905"/>
+    <tag k="addr:postcode" v="98226-1721"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1496" visible="true" lon="-122.3820462752533" lat="48.78142098521087">
+    <tag k="addr:housenumber" v="3899"/>
+    <tag k="addr:postcode" v="98226-1753"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1497" visible="true" lon="-122.3792117758534" lat="48.77601696005409">
+    <tag k="addr:housenumber" v="2102"/>
+    <tag k="addr:postcode" v="98226-8662"/>
+    <tag k="addr:street" v="Academy Road"/>
+  </node>
+  <node id="-1498" visible="true" lon="-122.3793115947055" lat="48.78142909092495">
+    <tag k="addr:housenumber" v="3903"/>
+    <tag k="addr:postcode" v="98226-1721"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1499" visible="true" lon="-122.4128164853521" lat="48.79085510234353">
+    <tag k="addr:housenumber" v="4136"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Britton Loop Road"/>
+  </node>
+  <node id="-1500" visible="true" lon="-122.4112500657302" lat="48.79118419839505">
+    <tag k="addr:housenumber" v="4124"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Dale Road"/>
+  </node>
+  <node id="-1501" visible="true" lon="-122.4116227617199" lat="48.79190946167574">
+    <tag k="addr:housenumber" v="4165"/>
+    <tag k="addr:postcode" v="98226-9460"/>
+    <tag k="addr:street" v="Dale Road"/>
+  </node>
+  <node id="-1502" visible="true" lon="-122.4118303078658" lat="48.79300814911081">
+    <tag k="addr:housenumber" v="4192"/>
+    <tag k="addr:postcode" v="98226-9484"/>
+    <tag k="addr:street" v="Britton Road"/>
+  </node>
+  <node id="-1503" visible="true" lon="-122.4111341811403" lat="48.79390744584586">
+    <tag k="addr:housenumber" v="4178"/>
+    <tag k="addr:postcode" v="98226-9484"/>
+    <tag k="addr:street" v="Britton Road"/>
+  </node>
+  <node id="-1504" visible="true" lon="-122.4114737887167" lat="48.79490291266671">
+    <tag k="addr:housenumber" v="4184"/>
+    <tag k="addr:postcode" v="98226-9484"/>
+    <tag k="addr:street" v="Britton Road"/>
+  </node>
+  <node id="-1505" visible="true" lon="-122.4133844521948" lat="48.79523284212738">
+    <tag k="addr:housenumber" v="1421"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1506" visible="true" lon="-122.4125390129341" lat="48.79587525737134">
+    <tag k="addr:housenumber" v="1445"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1507" visible="true" lon="-122.4112892001424" lat="48.79652229901114">
+    <tag k="addr:housenumber" v="1465"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1508" visible="true" lon="-122.3781713905409" lat="48.79757349818613">
+    <tag k="addr:housenumber" v="4340"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1509" visible="true" lon="-122.3814189045263" lat="48.79769870046103">
+    <tag k="addr:housenumber" v="4325"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1510" visible="true" lon="-122.3891954753025" lat="48.79777600951723">
+    <tag k="addr:housenumber" v="4475"/>
+    <tag k="addr:postcode" v="98226-7868"/>
+    <tag k="addr:street" v="East 18th Crst"/>
+  </node>
+  <node id="-1511" visible="true" lon="-122.3800271166024" lat="48.79783424857818">
+    <tag k="addr:housenumber" v="4331"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1512" visible="true" lon="-122.3784983206629" lat="48.79860924391034">
+    <tag k="addr:housenumber" v="4358"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1513" visible="true" lon="-122.3801549025898" lat="48.79930632126391">
+    <tag k="addr:housenumber" v="4367"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1514" visible="true" lon="-122.3903859086771" lat="48.79941572303534">
+    <tag k="addr:housenumber" v="4465"/>
+    <tag k="addr:postcode" v="98226-7868"/>
+    <tag k="addr:street" v="East 18th Crst"/>
+  </node>
+  <node id="-1515" visible="true" lon="-122.3874452623289" lat="48.79963802838420">
+    <tag k="addr:housenumber" v="1923"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1516" visible="true" lon="-122.3816030844208" lat="48.79984933845656">
+    <tag k="addr:housenumber" v="4363"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1517" visible="true" lon="-122.3784182097692" lat="48.80000101092523">
+    <tag k="addr:housenumber" v="4371"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1518" visible="true" lon="-122.3824965158194" lat="48.80040739301342">
+    <tag k="addr:housenumber" v="2007"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1519" visible="true" lon="-122.3900319576258" lat="48.80067345162431">
+    <tag k="addr:housenumber" v="4493"/>
+    <tag k="addr:postcode" v="98226-7868"/>
+    <tag k="addr:street" v="East 18th Crst"/>
+  </node>
+  <node id="-1520" visible="true" lon="-122.3804610734033" lat="48.80073545085554">
+    <tag k="addr:housenumber" v="4396"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1521" visible="true" lon="-122.3797143269758" lat="48.80079717993079">
+    <tag k="addr:housenumber" v="4400"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1522" visible="true" lon="-122.3812090055671" lat="48.80124418436430">
+    <tag k="addr:housenumber" v="4392"/>
+    <tag k="addr:postcode" v="98226-8659"/>
+    <tag k="addr:street" v="Saddlestone Drive"/>
+  </node>
+  <node id="-1523" visible="true" lon="-122.3783381445273" lat="48.80209073306961">
+    <tag k="addr:housenumber" v="2073"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1524" visible="true" lon="-122.3885548052679" lat="48.80345979368992">
+    <tag k="addr:housenumber" v="1897"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1525" visible="true" lon="-122.3801834136860" lat="48.80350245299869">
+    <tag k="addr:housenumber" v="2045"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1526" visible="true" lon="-122.3914422388434" lat="48.80350865774393">
+    <tag k="addr:housenumber" v="1833"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1527" visible="true" lon="-122.3826307549389" lat="48.80361357695585">
+    <tag k="addr:housenumber" v="2009"/>
+    <tag k="addr:postcode" v="98226-7913"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1528" visible="true" lon="-122.3878047691805" lat="48.80363670755428">
+    <tag k="addr:housenumber" v="1905"/>
+    <tag k="addr:postcode" v="98226-7912"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1529" visible="true" lon="-122.3853543176135" lat="48.80370506911520">
+    <tag k="addr:housenumber" v="1929"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1530" visible="true" lon="-122.3904360370129" lat="48.80388041165848">
+    <tag k="addr:housenumber" v="1861"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1531" visible="true" lon="-122.3892730211524" lat="48.80388855109909">
+    <tag k="addr:housenumber" v="1869"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1532" visible="true" lon="-122.3935562284696" lat="48.79033891903387">
+    <tag k="addr:housenumber" v="1845"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1533" visible="true" lon="-122.3931287879369" lat="48.79047102370620">
+    <tag k="addr:housenumber" v="1841"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1534" visible="true" lon="-122.3929301756023" lat="48.79055620006577">
+    <tag k="addr:housenumber" v="1839"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1535" visible="true" lon="-122.3927070239822" lat="48.78966549030729">
+    <tag k="addr:housenumber" v="1842"/>
+    <tag k="addr:postcode" v="98226-7837"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1536" visible="true" lon="-122.3926370095296" lat="48.78659797106756">
+    <tag k="addr:housenumber" v="1825"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1537" visible="true" lon="-122.3922947617950" lat="48.78283695241129">
+    <tag k="addr:housenumber" v="3981"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1538" visible="true" lon="-122.3922586022390" lat="48.78370070703418">
+    <tag k="addr:housenumber" v="3980"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1539" visible="true" lon="-122.3922216096148" lat="48.78457790520507">
+    <tag k="addr:housenumber" v="3966"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1540" visible="true" lon="-122.3921799533907" lat="48.78551958938315">
+    <tag k="addr:housenumber" v="3960"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1541" visible="true" lon="-122.3921502813743" lat="48.79042463707023">
+    <tag k="addr:housenumber" v="1836"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1542" visible="true" lon="-122.3917250901227" lat="48.78766589479293">
+    <tag k="addr:housenumber" v="1840"/>
+    <tag k="addr:postcode" v="98226-7883"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1543" visible="true" lon="-122.3915824172383" lat="48.79164722750834">
+    <tag k="addr:housenumber" v="1821"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1544" visible="true" lon="-122.3912792249742" lat="48.79124445901090">
+    <tag k="addr:housenumber" v="1823"/>
+    <tag k="addr:postcode" v="98226-7837"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1545" visible="true" lon="-122.3909486567057" lat="48.79097720822686">
+    <tag k="addr:housenumber" v="1822"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1546" visible="true" lon="-122.3908187429077" lat="48.78665520189727">
+    <tag k="addr:housenumber" v="1851"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1547" visible="true" lon="-122.3908015796034" lat="48.78789619161113">
+    <tag k="addr:housenumber" v="1852"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1548" visible="true" lon="-122.3897584390325" lat="48.79308234282146">
+    <tag k="addr:housenumber" v="1799"/>
+    <tag k="addr:postcode" v="98226-8781"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1549" visible="true" lon="-122.3895681812919" lat="48.78284135175114">
+    <tag k="addr:housenumber" v="3935"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1550" visible="true" lon="-122.3895519392165" lat="48.78370675805022">
+    <tag k="addr:housenumber" v="3940"/>
+    <tag k="addr:postcode" v="98226-1721"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1551" visible="true" lon="-122.3895139343087" lat="48.78552838324203">
+    <tag k="addr:housenumber" v="3954"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1552" visible="true" lon="-122.3894417702187" lat="48.78847126970216">
+    <tag k="addr:housenumber" v="1866"/>
+    <tag k="addr:postcode" v="98226-7883"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1553" visible="true" lon="-122.3892946657726" lat="48.79296380653022">
+    <tag k="addr:housenumber" v="1799"/>
+    <tag k="addr:postcode" v="98226-8739"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1554" visible="true" lon="-122.3890886288750" lat="48.79054261253547">
+    <tag k="addr:housenumber" v="1820"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1555" visible="true" lon="-122.3889351227607" lat="48.79082757563322">
+    <tag k="addr:housenumber" v="1816"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1556" visible="true" lon="-122.3888308532658" lat="48.79101319058283">
+    <tag k="addr:housenumber" v="1812"/>
+    <tag k="addr:postcode" v="98226-8628"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1557" visible="true" lon="-122.3886006184195" lat="48.79161115020359">
+    <tag k="addr:housenumber" v="1806"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1558" visible="true" lon="-122.3885732151860" lat="48.79257347313611">
+    <tag k="addr:housenumber" v="1798"/>
+    <tag k="addr:postcode" v="98226-8637"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1559" visible="true" lon="-122.3867181645281" lat="48.78285172050481">
+    <tag k="addr:housenumber" v="3925"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1560" visible="true" lon="-122.3867075535235" lat="48.78371293853000">
+    <tag k="addr:housenumber" v="3910"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1561" visible="true" lon="-122.3857658446386" lat="48.78683754041050">
+    <tag k="addr:housenumber" v="1943"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1562" visible="true" lon="-122.3840584759714" lat="48.78881737692701">
+    <tag k="addr:housenumber" v="1960"/>
+    <tag k="addr:postcode" v="98226-8666"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1563" visible="true" lon="-122.3839556408602" lat="48.78491498933509">
+    <tag k="addr:housenumber" v="3881"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1564" visible="true" lon="-122.3806792656768" lat="48.78335128955658">
+    <tag k="addr:housenumber" v="2065"/>
+    <tag k="addr:postcode" v="98226-8668"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1565" visible="true" lon="-122.3890233725105" lat="48.78666083384662">
+    <tag k="addr:housenumber" v="1865"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1566" visible="true" lon="-122.3924406155569" lat="48.79088158061172">
+    <tag k="addr:housenumber" v="1883"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1567" visible="true" lon="-122.3937921765828" lat="48.79028065528926">
+    <tag k="addr:housenumber" v="1847"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1568" visible="true" lon="-122.3896444391043" lat="48.79023938847450">
+    <tag k="addr:housenumber" v="1824"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1569" visible="true" lon="-122.3921747695176" lat="48.79112857617711">
+    <tag k="addr:housenumber" v="1829"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1570" visible="true" lon="-122.3925798717667" lat="48.79076841518864">
+    <tag k="addr:housenumber" v="1835"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1571" visible="true" lon="-122.3841693912168" lat="48.78603365068874">
+    <tag k="addr:housenumber" v="3875"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1572" visible="true" lon="-122.3866955495460" lat="48.78542483289213">
+    <tag k="addr:housenumber" v="3880"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1573" visible="true" lon="-122.3866975197814" lat="48.78459306405535">
+    <tag k="addr:housenumber" v="3890"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1574" visible="true" lon="-122.3839611945118" lat="48.78392718780069">
+    <tag k="addr:housenumber" v="3893"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1575" visible="true" lon="-122.3885293754766" lat="48.79181852919960">
+    <tag k="addr:housenumber" v="1804"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1576" visible="true" lon="-122.3907008621650" lat="48.78903714162313">
+    <tag k="addr:housenumber" v="1848"/>
+    <tag k="addr:postcode" v="98226-7883"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1577" visible="true" lon="-122.3916643390506" lat="48.78885126904947">
+    <tag k="addr:housenumber" v="1844"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1578" visible="true" lon="-122.3896757915615" lat="48.79173796831461">
+    <tag k="addr:housenumber" v="1810"/>
+    <tag k="addr:postcode" v="98226-7856"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1579" visible="true" lon="-122.3872398835333" lat="48.78653935313362">
+    <tag k="addr:housenumber" v="1917"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1580" visible="true" lon="-122.3839662995615" lat="48.78293829458865">
+    <tag k="addr:housenumber" v="3897"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1581" visible="true" lon="-122.3912740792404" lat="48.79190246493980">
+    <tag k="addr:housenumber" v="1817"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1582" visible="true" lon="-122.3922994040635" lat="48.79099860980807">
+    <tag k="addr:housenumber" v="1831"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1583" visible="true" lon="-122.3884006076731" lat="48.79315668100332">
+    <tag k="addr:housenumber" v="1794"/>
+    <tag k="addr:postcode" v="98226-8637"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1584" visible="true" lon="-122.3898946835112" lat="48.79291110408776">
+    <tag k="addr:housenumber" v="1801"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1585" visible="true" lon="-122.3903973183278" lat="48.79253731142528">
+    <tag k="addr:housenumber" v="1807"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1586" visible="true" lon="-122.3886715980211" lat="48.79140870880884">
+    <tag k="addr:housenumber" v="1808"/>
+    <tag k="addr:postcode" v="98226-8628"/>
+    <tag k="addr:street" v="Swamp Creek Lane"/>
+  </node>
+  <node id="-1587" visible="true" lon="-122.3895339740569" lat="48.78458370043848">
+    <tag k="addr:housenumber" v="3948"/>
+    <tag k="addr:postcode" v="98226-1721"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1588" visible="true" lon="-122.3908842387852" lat="48.79215193806895">
+    <tag k="addr:housenumber" v="1811"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1589" visible="true" lon="-122.3697036751231" lat="48.78579183496230">
+    <tag k="addr:housenumber" v="2231"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1590" visible="true" lon="-122.3899928098063" lat="48.79360007256862">
+    <tag k="addr:housenumber" v="1785"/>
+    <tag k="addr:postcode" v="98226-8739"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1591" visible="true" lon="-122.3454008053257" lat="48.79676981637542">
+    <tag k="addr:housenumber" v="4301"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Lake Road"/>
+  </node>
+  <node id="-1592" visible="true" lon="-122.3903184394417" lat="48.79364807326304">
+    <tag k="addr:housenumber" v="1781"/>
+    <tag k="addr:postcode" v="98226-8739"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1593" visible="true" lon="-122.4084205296507" lat="48.78915245883029">
+    <tag k="addr:housenumber" v="1526"/>
+    <tag k="addr:postcode" v="98226-4560"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1594" visible="true" lon="-122.4104415411696" lat="48.79068003785688">
+    <tag k="addr:housenumber" v="4119"/>
+    <tag k="addr:postcode" v="98226-9460"/>
+    <tag k="addr:street" v="Dale Road"/>
+  </node>
+  <node id="-1595" visible="true" lon="-122.4107031392630" lat="48.79163626498396">
+    <tag k="addr:housenumber" v="4151"/>
+    <tag k="addr:postcode" v="98226-9460"/>
+    <tag k="addr:street" v="Dale Road"/>
+  </node>
+  <node id="-1596" visible="true" lon="-122.4090974787848" lat="48.79791582395635">
+    <tag k="addr:housenumber" v="1511"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1597" visible="true" lon="-122.4096219258415" lat="48.79657557920224">
+    <tag k="addr:housenumber" v="1469"/>
+    <tag k="addr:postcode" v="98226-8757"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1598" visible="true" lon="-122.4083071858058" lat="48.79832429190986">
+    <tag k="addr:housenumber" v="1521"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1599" visible="true" lon="-122.4004293322626" lat="48.79017453221257">
+    <tag k="addr:housenumber" v="1933"/>
+    <tag k="addr:postcode" v="98226-7741"/>
+    <tag k="addr:street" v="Pebble Beach Trl"/>
+  </node>
+  <node id="-1600" visible="true" lon="-122.4003476593913" lat="48.79363611141634">
+    <tag k="addr:housenumber" v="4212"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Ruby Place"/>
+  </node>
+  <node id="-1601" visible="true" lon="-122.3999291500140" lat="48.79166162377152">
+    <tag k="addr:housenumber" v="1688"/>
+    <tag k="addr:postcode" v="98226-8712"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1602" visible="true" lon="-122.3998290175272" lat="48.79305752429248">
+    <tag k="addr:housenumber" v="1723"/>
+    <tag k="addr:postcode" v="98226-7838"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1603" visible="true" lon="-122.3996146718863" lat="48.79152768632571">
+    <tag k="addr:housenumber" v="1692"/>
+    <tag k="addr:postcode" v="98226-8712"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1604" visible="true" lon="-122.3986710101184" lat="48.78734492074870">
+    <tag k="addr:housenumber" v="1710"/>
+    <tag k="addr:postcode" v="98226-7882"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1605" visible="true" lon="-122.3976874714992" lat="48.78283178922313">
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Toad Lake Road"/>
+  </node>
+  <node id="-1606" visible="true" lon="-122.3976833323986" lat="48.78369511655945">
+    <tag k="addr:housenumber" v="4013"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1607" visible="true" lon="-122.3976792010970" lat="48.78457215055212">
+    <tag k="addr:housenumber" v="4017"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1608" visible="true" lon="-122.3973505473474" lat="48.79290414611587">
+    <tag k="addr:housenumber" v="1744"/>
+    <tag k="addr:postcode" v="98226-7838"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1609" visible="true" lon="-122.3972344627772" lat="48.78752541699625">
+    <tag k="addr:housenumber" v="1730"/>
+    <tag k="addr:postcode" v="98226-7882"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1610" visible="true" lon="-122.3964157937133" lat="48.79313546000775">
+    <tag k="addr:housenumber" v="1750"/>
+    <tag k="addr:postcode" v="98226-7838"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1611" visible="true" lon="-122.3963330843971" lat="48.78183483135666">
+    <tag k="addr:housenumber" v="3886"/>
+    <tag k="addr:postcode" v="98226-9408"/>
+    <tag k="addr:street" v="Toad Lake Road"/>
+  </node>
+  <node id="-1612" visible="true" lon="-122.3961743572034" lat="48.78648283597447">
+    <tag k="addr:housenumber" v="1795"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1613" visible="true" lon="-122.3956662601308" lat="48.78903834251889">
+    <tag k="addr:housenumber" v="1868"/>
+    <tag k="addr:postcode" v="98226-7837"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1614" visible="true" lon="-122.3956326718687" lat="48.78735118214060">
+    <tag k="addr:housenumber" v="1790"/>
+    <tag k="addr:postcode" v="98226-7882"/>
+    <tag k="addr:street" v="Squalicum Mtn Road"/>
+  </node>
+  <node id="-1615" visible="true" lon="-122.3954515994526" lat="48.78914101003985">
+    <tag k="addr:housenumber" v="1864"/>
+    <tag k="addr:postcode" v="98226-7837"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1616" visible="true" lon="-122.3950085781480" lat="48.78283567525292">
+    <tag k="addr:housenumber" v="3995"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1617" visible="true" lon="-122.3949836613589" lat="48.78369928055098">
+    <tag k="addr:housenumber" v="4010"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1618" visible="true" lon="-122.3949583262246" lat="48.78457632477483">
+    <tag k="addr:housenumber" v="4020"/>
+    <tag k="addr:postcode" v="98226-1720"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1619" visible="true" lon="-122.3949294681626" lat="48.78551427461019">
+    <tag k="addr:housenumber" v="4030"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1620" visible="true" lon="-122.3946417565573" lat="48.78992522123711">
+    <tag k="addr:housenumber" v="1855"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1621" visible="true" lon="-122.3960006816538" lat="48.78959255468539">
+    <tag k="addr:housenumber" v="1867"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1622" visible="true" lon="-122.3944694978930" lat="48.78930111950167">
+    <tag k="addr:housenumber" v="1858"/>
+    <tag k="addr:postcode" v="98226-7837"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1623" visible="true" lon="-122.3982809464471" lat="48.79197903334832">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98226-7838"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1624" visible="true" lon="-122.4010906556708" lat="48.79112371430622">
+    <tag k="addr:housenumber" v="4133"/>
+    <tag k="addr:postcode" v="98226-8745"/>
+    <tag k="addr:street" v="Agate Road"/>
+  </node>
+  <node id="-1625" visible="true" lon="-122.3979118222972" lat="48.79239319392413">
+    <tag k="addr:housenumber" v="1710"/>
+    <tag k="addr:postcode" v="98226-7838"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1626" visible="true" lon="-122.3941943993361" lat="48.79005704920986">
+    <tag k="addr:housenumber" v="1851"/>
+    <tag k="addr:postcode" v="98226-8627"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1627" visible="true" lon="-122.3940542105699" lat="48.79026124402166">
+    <tag k="addr:housenumber" v="1849"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Sleepy Hollow Lane"/>
+  </node>
+  <node id="-1628" visible="true" lon="-122.3989315436120" lat="48.79080738363867">
+    <tag k="addr:housenumber" v="1699"/>
+    <tag k="addr:postcode" v="98226-8709"/>
+    <tag k="addr:street" v="Pebble Beach Trl"/>
+  </node>
+  <node id="-1629" visible="true" lon="-122.3950965137307" lat="48.78918458140627">
+    <tag k="addr:housenumber" v="1862"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Emerald Lake Way"/>
+  </node>
+  <node id="-1630" visible="true" lon="-122.4004341449970" lat="48.79341316848814">
+    <tag k="addr:housenumber" v="4206"/>
+    <tag k="addr:postcode" v="98226-8713"/>
+    <tag k="addr:street" v="Ruby Place"/>
+  </node>
+  <node id="-1631" visible="true" lon="-122.3978589119023" lat="48.79212506395812">
+    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:postcode" v="98226-7838"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1632" visible="true" lon="-122.3976680400459" lat="48.78550383253206">
+    <tag k="addr:housenumber" v="4031"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Isaacson Road"/>
+  </node>
+  <node id="-1633" visible="true" lon="-122.3977950851921" lat="48.79116376226673">
+    <tag k="addr:housenumber" v="1709"/>
+    <tag k="addr:postcode" v="98226-8716"/>
+    <tag k="addr:street" v="Pebble Beach Trl"/>
+  </node>
+  <node id="-1634" visible="true" lon="-122.4068295370641" lat="48.79853999963375">
+    <tag k="addr:housenumber" v="1553"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1635" visible="true" lon="-122.4058980142222" lat="48.79909236367327">
+    <tag k="addr:housenumber" v="1561"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1636" visible="true" lon="-122.4048013427298" lat="48.79947122343017">
+    <tag k="addr:housenumber" v="1585"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1637" visible="true" lon="-122.4045967867484" lat="48.79720327675726">
+    <tag k="addr:housenumber" v="1567"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1638" visible="true" lon="-122.4011505360415" lat="48.80081494835171">
+    <tag k="addr:housenumber" v="1643"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1639" visible="true" lon="-122.3998834387219" lat="48.79955391978812">
+    <tag k="addr:housenumber" v="1589"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1640" visible="true" lon="-122.3998594140337" lat="48.80244852923595">
+    <tag k="addr:housenumber" v="1693"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1641" visible="true" lon="-122.3995081739341" lat="48.80262944797878">
+    <tag k="addr:housenumber" v="1695"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1642" visible="true" lon="-122.3994620435667" lat="48.80099621822928">
+    <tag k="addr:housenumber" v="1651"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1643" visible="true" lon="-122.3990798475250" lat="48.80290000325503">
+    <tag k="addr:housenumber" v="1705"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1644" visible="true" lon="-122.3984557335744" lat="48.80114726187875">
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1645" visible="true" lon="-122.3976949424350" lat="48.80326036880090">
+    <tag k="addr:housenumber" v="1727"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1646" visible="true" lon="-122.3968826423934" lat="48.80347167163317">
+    <tag k="addr:housenumber" v="1737"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1647" visible="true" lon="-122.3961853219378" lat="48.80367045964421">
+    <tag k="addr:housenumber" v="1755"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1648" visible="true" lon="-122.3934005725013" lat="48.80358744114235">
+    <tag k="addr:housenumber" v="1815"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1649" visible="true" lon="-122.3923093971791" lat="48.79980823727992">
+    <tag k="addr:housenumber" v="4455"/>
+    <tag k="addr:postcode" v="98226-7868"/>
+    <tag k="addr:street" v="East 18th Crst"/>
+  </node>
+  <node id="-1650" visible="true" lon="-122.4060164488837" lat="48.79722002832177">
+    <tag k="addr:housenumber" v="1569"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1651" visible="true" lon="-122.4059110350698" lat="48.79798411078569">
+    <tag k="addr:housenumber" v="1563"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1652" visible="true" lon="-122.4045815400657" lat="48.79801219735530">
+    <tag k="addr:housenumber" v="1565"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1653" visible="true" lon="-122.4002331397384" lat="48.80215629851221">
+    <tag k="addr:housenumber" v="1677"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1654" visible="true" lon="-122.4009041279090" lat="48.80165791920331">
+    <tag k="addr:housenumber" v="1671"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1655" visible="true" lon="-122.3969169276100" lat="48.80279655091127">
+    <tag k="addr:housenumber" v="1733"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1656" visible="true" lon="-122.3985935151346" lat="48.80252280860739">
+    <tag k="addr:housenumber" v="1709"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1657" visible="true" lon="-122.4001923560241" lat="48.80059231925608">
+    <tag k="addr:housenumber" v="1647"/>
+    <tag k="addr:postcode" v="98226-8795"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1658" visible="true" lon="-122.3987245421895" lat="48.80303076751014">
+    <tag k="addr:housenumber" v="1715"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1659" visible="true" lon="-122.3982251906971" lat="48.80324616990938">
+    <tag k="addr:housenumber" v="1717"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1660" visible="true" lon="-122.3987642193275" lat="48.80252666204215">
+    <tag k="addr:housenumber" v="1707"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1661" visible="true" lon="-122.4056055661778" lat="48.79933728060126">
+    <tag k="addr:housenumber" v="1557"/>
+    <tag k="addr:postcode" v="98226-8722"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1662" visible="true" lon="-122.3952785496106" lat="48.80384655756890">
+    <tag k="addr:housenumber" v="1773"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1663" visible="true" lon="-122.3986311812129" lat="48.80197989644238">
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1664" visible="true" lon="-122.3924988604163" lat="48.80304931772660">
+    <tag k="addr:housenumber" v="1825"/>
+    <tag k="addr:postcode" v="98226-7911"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1665" visible="true" lon="-122.3941281809056" lat="48.80382058200400">
+    <tag k="addr:housenumber" v="1797"/>
+    <tag k="addr:postcode" v="98226-8721"/>
+    <tag k="addr:street" v="Mt Baker Highway"/>
+  </node>
+  <node id="-1666" visible="true" lon="-122.3306785166768" lat="48.76896889658914">
+    <tag k="addr:housenumber" v="3530"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Longeets Lane"/>
+  </node>
+  <node id="-1667" visible="true" lon="-122.4034735604927" lat="48.78991010191622">
+    <tag k="addr:housenumber" v="1627"/>
+    <tag k="addr:postcode" v="98226-8740"/>
+    <tag k="addr:street" v="Diamond Loop"/>
+  </node>
+  <node id="-1668" visible="true" lon="-122.4033431419544" lat="48.79542757721267">
+    <tag k="addr:housenumber" v="4264"/>
+    <tag k="addr:postcode" v="98226-8703"/>
+    <tag k="addr:street" v="Brays Way"/>
+  </node>
+  <node id="-1669" visible="true" lon="-122.4020075743674" lat="48.79286316744065">
+    <tag k="addr:housenumber" v="1639"/>
+    <tag k="addr:postcode" v="98226-8712"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1670" visible="true" lon="-122.4025747175778" lat="48.79173237124133">
+    <tag k="addr:housenumber" v="4145"/>
+    <tag k="addr:postcode" v="98226-8745"/>
+    <tag k="addr:street" v="Agate Road"/>
+  </node>
+  <node id="-1671" visible="true" lon="-122.4037497580366" lat="48.79542675586841">
+    <tag k="addr:housenumber" v="4245"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Brays Way"/>
+  </node>
+  <node id="-1672" visible="true" lon="-122.4068606780658" lat="48.79284320395980">
+    <tag k="addr:housenumber" v="1560"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Jasper Place"/>
+  </node>
+  <node id="-1673" visible="true" lon="-122.4019272587914" lat="48.78687124855063">
+    <tag k="addr:housenumber" v="4039"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Toad Lake Road"/>
+  </node>
+  <node id="-1674" visible="true" lon="-122.4038209102641" lat="48.79258569601590">
+    <tag k="addr:housenumber" v="4184"/>
+    <tag k="addr:postcode" v="98226-4587"/>
+    <tag k="addr:street" v="Brays Way"/>
+  </node>
+  <node id="-1675" visible="true" lon="-122.4062265252551" lat="48.79089357985011">
+    <tag k="addr:housenumber" v="4136"/>
+    <tag k="addr:postcode" v="98226-8725"/>
+    <tag k="addr:street" v="Malachite Drive"/>
+  </node>
+  <node id="-1676" visible="true" lon="-122.4044466181050" lat="48.79110923067372">
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="98226-8740"/>
+    <tag k="addr:street" v="Diamond Loop"/>
+  </node>
+  <node id="-1677" visible="true" lon="-122.4015810518828" lat="48.79237307033858">
+    <tag k="addr:housenumber" v="1660"/>
+    <tag k="addr:postcode" v="98226-8712"/>
+    <tag k="addr:street" v="Sapphire Trl"/>
+  </node>
+  <node id="-1678" visible="true" lon="-122.3530765469641" lat="48.76361560479232">
+    <tag k="addr:housenumber" v="2530"/>
+    <tag k="addr:postcode" v="98226"/>
+    <tag k="addr:street" v="Burnhaven Lane"/>
+  </node>
 </osm>

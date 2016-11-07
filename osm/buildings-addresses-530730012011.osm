@@ -8485,4 +8485,159 @@
     <tag k="addr:postcode" v="98225-7549"/>
     <tag k="addr:street" v="Wilson Avenue"/>
   </node>
+  <node id="-2884" visible="true" lon="-122.4893900958258" lat="48.72569839068096">
+    <tag k="addr:housenumber" v="2115"/>
+    <tag k="addr:postcode" v="98225-6456"/>
+    <tag k="addr:street" v="Taylor Avenue"/>
+  </node>
+  <node id="-2885" visible="true" lon="-122.4871828824898" lat="48.72428857059931">
+    <tag k="addr:housenumber" v="2305"/>
+    <tag k="addr:postcode" v="98225-8640"/>
+    <tag k="addr:street" v="Douglas Avenue"/>
+  </node>
+  <node id="-2886" visible="true" lon="-122.4855771967500" lat="48.72515661030441">
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="25th Street"/>
+  </node>
+  <node id="-2887" visible="true" lon="-122.4894096834644" lat="48.71661975288347">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98225-7509"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2888" visible="true" lon="-122.4892060786190" lat="48.71601691022543">
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:postcode" v="98225-7509"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2889" visible="true" lon="-122.4899702674891" lat="48.72199574109484">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:postcode" v="98225-6719"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-2890" visible="true" lon="-122.4893083590337" lat="48.72117299019068">
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:postcode" v="98225-6816"/>
+    <tag k="addr:street" v="Lenora Court"/>
+  </node>
+  <node id="-2891" visible="true" lon="-122.4899052050424" lat="48.72287247228696">
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:postcode" v="98225-6717"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-2892" visible="true" lon="-122.4899049489871" lat="48.72294101533524">
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:postcode" v="98225-6717"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-2893" visible="true" lon="-122.4899051740523" lat="48.72276966497312">
+    <tag k="addr:housenumber" v="1031"/>
+    <tag k="addr:postcode" v="98225-6717"/>
+    <tag k="addr:street" v="21st Street"/>
+  </node>
+  <node id="-2894" visible="true" lon="-122.4881272796619" lat="48.72105217703259">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98225-6805"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2895" visible="true" lon="-122.4889277666924" lat="48.72136570194792">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:postcode" v="98225-6806"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2896" visible="true" lon="-122.4866601585243" lat="48.72203282524631">
+    <tag k="addr:housenumber" v="2312"/>
+    <tag k="addr:postcode" v="98225-8610"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-2897" visible="true" lon="-122.4881402143970" lat="48.72259740199833">
+    <tag k="addr:housenumber" v="1029"/>
+    <tag k="addr:postcode" v="98225-6803"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2898" visible="true" lon="-122.4865597893301" lat="48.72356488910551">
+    <tag k="addr:housenumber" v="2310"/>
+    <tag k="addr:postcode" v="98225-8639"/>
+    <tag k="addr:street" v="Douglas Avenue"/>
+  </node>
+  <node id="-2899" visible="true" lon="-122.4889267629354" lat="48.72153870763851">
+    <tag k="addr:housenumber" v="1116"/>
+    <tag k="addr:postcode" v="98225-6806"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2900" visible="true" lon="-122.4890805814297" lat="48.72104574856547">
+    <tag k="addr:housenumber" v="1129"/>
+    <tag k="addr:postcode" v="98225-6816"/>
+    <tag k="addr:street" v="Lenora Court"/>
+  </node>
+  <node id="-2901" visible="true" lon="-122.4870209625757" lat="48.72191894745002">
+    <tag k="addr:housenumber" v="1105"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="23rd Street"/>
+  </node>
+  <node id="-2902" visible="true" lon="-122.4890938135120" lat="48.72246237807796">
+    <tag k="addr:housenumber" v="2111"/>
+    <tag k="addr:postcode" v="98225-6841"/>
+    <tag k="addr:street" v="Knox Avenue"/>
+  </node>
+  <node id="-2903" visible="true" lon="-122.4877108159899" lat="48.72175198731578">
+    <tag k="addr:housenumber" v="1110"/>
+    <tag k="addr:postcode" v="98225-6812"/>
+    <tag k="addr:street" v="23rd Street"/>
+  </node>
+  <node id="-2904" visible="true" lon="-122.4877137862135" lat="48.72123132593935">
+    <tag k="addr:housenumber" v="1124"/>
+    <tag k="addr:postcode" v="98225-6812"/>
+    <tag k="addr:street" v="23rd Street"/>
+  </node>
+  <node id="-2905" visible="true" lon="-122.4870080948624" lat="48.72151003398461">
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:postcode" v="98225-6811"/>
+    <tag k="addr:street" v="23rd Street"/>
+  </node>
+  <node id="-2906" visible="true" lon="-122.4897462746939" lat="48.71960516712260">
+    <tag k="addr:housenumber" v="2121"/>
+    <tag k="addr:postcode" v="98225-7251"/>
+    <tag k="addr:street" v="Mckenzie Avenue"/>
+  </node>
+  <node id="-2907" visible="true" lon="-122.4889027076041" lat="48.71847148751021">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:postcode" v="98225"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2908" visible="true" lon="-122.4881985334915" lat="48.71858518671878">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:postcode" v="98225-7227"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2909" visible="true" lon="-122.4889182933829" lat="48.71911357557664">
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:postcode" v="98225-7200"/>
+    <tag k="addr:street" v="22nd Street"/>
+  </node>
+  <node id="-2910" visible="true" lon="-122.4881055739593" lat="48.71602748498729">
+    <tag k="addr:housenumber" v="2212"/>
+    <tag k="addr:postcode" v="98225-7556"/>
+    <tag k="addr:street" v="Happy Court"/>
+  </node>
+  <node id="-2911" visible="true" lon="-122.4866275703473" lat="48.71645262969357">
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:postcode" v="98225-7514"/>
+    <tag k="addr:street" v="24th Street"/>
+  </node>
+  <node id="-2912" visible="true" lon="-122.4865656121537" lat="48.71790718327440">
+    <tag k="addr:housenumber" v="1504"/>
+    <tag k="addr:postcode" v="98225-7242"/>
+    <tag k="addr:street" v="24th Street"/>
+  </node>
+  <node id="-2913" visible="true" lon="-122.4914106787381" lat="48.71618384214698">
+    <tag k="addr:housenumber" v="1709"/>
+    <tag k="addr:postcode" v="98225-7504"/>
+    <tag k="addr:street" v="20th Street"/>
+  </node>
+  <node id="-2914" visible="true" lon="-122.4912166107388" lat="48.71659839098087">
+    <tag k="addr:housenumber" v="2008"/>
+    <tag k="addr:postcode" v="98225-7543"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+  </node>
 </osm>

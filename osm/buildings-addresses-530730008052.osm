@@ -4092,7 +4092,7 @@
     <nd ref="-1401"/>
     <nd ref="-1369"/>
     <tag k="building" v="public"/>
-    <tag k="name" v="Geneva Es"/>
+    <tag k="name" v="Geneva Elementary School"/>
     <tag k="building:levels" v="1"/>
   </way>
   <node id="-1402" visible="true" lon="-122.3980808898485" lat="48.75062106610495"/>
@@ -17067,5 +17067,385 @@
     <tag k="addr:housenumber" v="4411"/>
     <tag k="addr:postcode" v="98229"/>
     <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5648" visible="true" lon="-122.4171823949692" lat="48.74884513532989">
+    <tag k="addr:housenumber" v="4026"/>
+    <tag k="addr:postcode" v="98229-5035"/>
+    <tag k="addr:street" v="Willowbrook Lane"/>
+  </node>
+  <node id="-5649" visible="true" lon="-122.4165245781263" lat="48.74935440484628">
+    <tag k="addr:housenumber" v="1487"/>
+    <tag k="addr:postcode" v="98229-5045"/>
+    <tag k="addr:street" v="Willowbrook Place"/>
+  </node>
+  <node id="-5650" visible="true" lon="-122.4159875815661" lat="48.74888359902365">
+    <tag k="addr:housenumber" v="4044"/>
+    <tag k="addr:postcode" v="98229-5035"/>
+    <tag k="addr:street" v="Willowbrook Lane"/>
+  </node>
+  <node id="-5651" visible="true" lon="-122.4157402193244" lat="48.74935438286579">
+    <tag k="addr:housenumber" v="4051"/>
+    <tag k="addr:postcode" v="98229-5044"/>
+    <tag k="addr:street" v="Willowbrook Lane"/>
+  </node>
+  <node id="-5652" visible="true" lon="-122.3984386917033" lat="48.74324575977095">
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:postcode" v="98229-2602"/>
+    <tag k="addr:street" v="Austin Street"/>
+  </node>
+  <node id="-5653" visible="true" lon="-122.4011541484783" lat="48.74382355940617">
+    <tag k="addr:housenumber" v="1036"/>
+    <tag k="addr:postcode" v="98229-2620"/>
+    <tag k="addr:street" v="Geneva Street"/>
+  </node>
+  <node id="-5654" visible="true" lon="-122.4004362791101" lat="48.74385296972490">
+    <tag k="addr:housenumber" v="1040"/>
+    <tag k="addr:postcode" v="98229-2620"/>
+    <tag k="addr:street" v="Geneva Street"/>
+  </node>
+  <node id="-5655" visible="true" lon="-122.4048391569377" lat="48.74353980771847">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98229-2633"/>
+    <tag k="addr:street" v="Lakewood Lane"/>
+  </node>
+  <node id="-5656" visible="true" lon="-122.4024338045654" lat="48.74373064392540">
+    <tag k="addr:housenumber" v="4539"/>
+    <tag k="addr:postcode" v="98229-2648"/>
+    <tag k="addr:street" v="Whitney Street"/>
+  </node>
+  <node id="-5657" visible="true" lon="-122.4032452627422" lat="48.74373861402006">
+    <tag k="addr:housenumber" v="4519"/>
+    <tag k="addr:postcode" v="98229-2648"/>
+    <tag k="addr:street" v="Whitney Street"/>
+  </node>
+  <node id="-5658" visible="true" lon="-122.4086544175463" lat="48.74526843268974">
+    <tag k="addr:housenumber" v="4320"/>
+    <tag k="addr:postcode" v="98229-5100"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5659" visible="true" lon="-122.4048610883401" lat="48.74567255679640">
+    <tag k="addr:housenumber" v="1183"/>
+    <tag k="addr:postcode" v="98229-2633"/>
+    <tag k="addr:street" v="Lakewood Lane"/>
+  </node>
+  <node id="-5660" visible="true" lon="-122.4060225012521" lat="48.74585671659236">
+    <tag k="addr:housenumber" v="1250"/>
+    <tag k="addr:postcode" v="98229-2516"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-5661" visible="true" lon="-122.4050622722133" lat="48.74594535625232">
+    <tag k="addr:housenumber" v="4430"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cable Street"/>
+  </node>
+  <node id="-5662" visible="true" lon="-122.4048506005541" lat="48.74378931540836">
+    <tag k="addr:housenumber" v="1133"/>
+    <tag k="addr:postcode" v="98229-2633"/>
+    <tag k="addr:street" v="Lakewood Lane"/>
+  </node>
+  <node id="-5663" visible="true" lon="-122.4103289037266" lat="48.74617393085438">
+    <tag k="addr:housenumber" v="1349"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="-5664" visible="true" lon="-122.4109980530835" lat="48.74622089557602">
+    <tag k="addr:housenumber" v="1355"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="-5665" visible="true" lon="-122.3963424210157" lat="48.74505177415706">
+    <tag k="addr:housenumber" v="1750"/>
+    <tag k="addr:postcode" v="98229-2628"/>
+    <tag k="addr:street" v="Geneva Shore Lane"/>
+  </node>
+  <node id="-5666" visible="true" lon="-122.3967638991576" lat="48.74510258532011">
+    <tag k="addr:housenumber" v="4810"/>
+    <tag k="addr:postcode" v="98229-2612"/>
+    <tag k="addr:street" v="Desmond Street"/>
+  </node>
+  <node id="-5667" visible="true" lon="-122.3967316932170" lat="48.74632104573442">
+    <tag k="addr:housenumber" v="4735"/>
+    <tag k="addr:postcode" v="98229-2616"/>
+    <tag k="addr:street" v="Cable Street"/>
+  </node>
+  <node id="-5668" visible="true" lon="-122.3982457945236" lat="48.74682650224226">
+    <tag k="addr:housenumber" v="4714"/>
+    <tag k="addr:postcode" v="98229-5236"/>
+    <tag k="addr:street" v="Spring Street"/>
+  </node>
+  <node id="-5669" visible="true" lon="-122.3971406269007" lat="48.74733920907889">
+    <tag k="addr:housenumber" v="1303"/>
+    <tag k="addr:postcode" v="98229-5235"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5670" visible="true" lon="-122.3975147278021" lat="48.74772264385953">
+    <tag k="addr:housenumber" v="4728"/>
+    <tag k="addr:postcode" v="98229-5238"/>
+    <tag k="addr:street" v="Morgan Street"/>
+  </node>
+  <node id="-5671" visible="true" lon="-122.3992094888641" lat="48.74862783009507">
+    <tag k="addr:housenumber" v="4648"/>
+    <tag k="addr:postcode" v="98229-5234"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5672" visible="true" lon="-122.3984936963800" lat="48.74917177017058">
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:postcode" v="98229-5221"/>
+    <tag k="addr:street" v="Austin Lane"/>
+  </node>
+  <node id="-5673" visible="true" lon="-122.4013483963465" lat="48.74598422615401">
+    <tag k="addr:housenumber" v="4600"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cable Street"/>
+  </node>
+  <node id="-5674" visible="true" lon="-122.4011019869163" lat="48.74864264589342">
+    <tag k="addr:housenumber" v="4604"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5675" visible="true" lon="-122.4020574096294" lat="48.74641960693044">
+    <tag k="addr:housenumber" v="4537"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Cable Street"/>
+  </node>
+  <node id="-5676" visible="true" lon="-122.3962782727063" lat="48.74714710606400">
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5677" visible="true" lon="-122.3973653988649" lat="48.74560221867531">
+    <tag k="addr:housenumber" v="1108"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Green Street"/>
+  </node>
+  <node id="-5678" visible="true" lon="-122.3983774750966" lat="48.74556832284723">
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:postcode" v="98229-2607"/>
+    <tag k="addr:street" v="Austin Street"/>
+  </node>
+  <node id="-5679" visible="true" lon="-122.4012552746895" lat="48.74919106371066">
+    <tag k="addr:housenumber" v="4603"/>
+    <tag k="addr:postcode" v="98229-5233"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5680" visible="true" lon="-122.4008905469607" lat="48.74914005250274">
+    <tag k="addr:housenumber" v="4607"/>
+    <tag k="addr:postcode" v="98229-5233"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5681" visible="true" lon="-122.3983718838386" lat="48.74591217559171">
+    <tag k="addr:housenumber" v="4712"/>
+    <tag k="addr:postcode" v="98229-2617"/>
+    <tag k="addr:street" v="Cable Street"/>
+  </node>
+  <node id="-5682" visible="true" lon="-122.3969706236359" lat="48.74669039841213">
+    <tag k="addr:housenumber" v="4733"/>
+    <tag k="addr:postcode" v="98229-2616"/>
+    <tag k="addr:street" v="Cable Street"/>
+  </node>
+  <node id="-5683" visible="true" lon="-122.3979216971225" lat="48.74682894145704">
+    <tag k="addr:housenumber" v="4720"/>
+    <tag k="addr:postcode" v="98229-5236"/>
+    <tag k="addr:street" v="Spring Street"/>
+  </node>
+  <node id="-5684" visible="true" lon="-122.3994372594474" lat="48.74952259015946">
+    <tag k="addr:housenumber" v="1515"/>
+    <tag k="addr:postcode" v="98229-5223"/>
+    <tag k="addr:street" v="Austin Street"/>
+  </node>
+  <node id="-5685" visible="true" lon="-122.4067716491113" lat="48.75063207698175">
+    <tag k="addr:housenumber" v="1532"/>
+    <tag k="addr:postcode" v="98229-5133"/>
+    <tag k="addr:street" v="Lakeway Place"/>
+  </node>
+  <node id="-5686" visible="true" lon="-122.4066529212290" lat="48.74995654318830">
+    <tag k="addr:housenumber" v="1528"/>
+    <tag k="addr:postcode" v="98229-5133"/>
+    <tag k="addr:street" v="Lakeway Place"/>
+  </node>
+  <node id="-5687" visible="true" lon="-122.4027653990523" lat="48.74954984873720">
+    <tag k="addr:housenumber" v="4516"/>
+    <tag k="addr:postcode" v="98229-5101"/>
+    <tag k="addr:street" v="Wall Street"/>
+  </node>
+  <node id="-5688" visible="true" lon="-122.4077243132993" lat="48.74647766952012">
+    <tag k="addr:housenumber" v="4304"/>
+    <tag k="addr:postcode" v="98229-5135"/>
+    <tag k="addr:street" v="Cordero Drive"/>
+  </node>
+  <node id="-5689" visible="true" lon="-122.4034129032433" lat="48.75034629973490">
+    <tag k="addr:housenumber" v="1533"/>
+    <tag k="addr:postcode" v="98229-5125"/>
+    <tag k="addr:street" v="Milton Street"/>
+  </node>
+  <node id="-5690" visible="true" lon="-122.4056396575189" lat="48.75093413499167">
+    <tag k="addr:housenumber" v="4425"/>
+    <tag k="addr:postcode" v="98229-5119"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5691" visible="true" lon="-122.3958460314818" lat="48.74499127606777">
+    <tag k="addr:housenumber" v="1753"/>
+    <tag k="addr:postcode" v="98229-2628"/>
+    <tag k="addr:street" v="Geneva Shore Lane"/>
+  </node>
+  <node id="-5692" visible="true" lon="-122.3957288403650" lat="48.74322653113990">
+    <tag k="addr:housenumber" v="4810"/>
+    <tag k="addr:postcode" v="98229-2638"/>
+    <tag k="addr:street" v="Whitney Street"/>
+  </node>
+  <node id="-5693" visible="true" lon="-122.3946870222892" lat="48.74328931459448">
+    <tag k="addr:housenumber" v="4820"/>
+    <tag k="addr:postcode" v="98229-2638"/>
+    <tag k="addr:street" v="Whitney Street"/>
+  </node>
+  <node id="-5694" visible="true" lon="-122.3946683194009" lat="48.74605733653452">
+    <tag k="addr:housenumber" v="2897"/>
+    <tag k="addr:postcode" v="98229-5206"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5695" visible="true" lon="-122.3934964287681" lat="48.74555856057951">
+    <tag k="addr:housenumber" v="2875"/>
+    <tag k="addr:postcode" v="98229-5206"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5696" visible="true" lon="-122.3933236212897" lat="48.74497742279674">
+    <tag k="addr:housenumber" v="1041"/>
+    <tag k="addr:postcode" v="98229-2614"/>
+    <tag k="addr:street" v="Coronado Avenue"/>
+  </node>
+  <node id="-5697" visible="true" lon="-122.3940043821039" lat="48.74587297224736">
+    <tag k="addr:housenumber" v="2889"/>
+    <tag k="addr:postcode" v="98229-5206"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5698" visible="true" lon="-122.3943374955337" lat="48.74601599296099">
+    <tag k="addr:housenumber" v="2893"/>
+    <tag k="addr:postcode" v="98229-5206"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5699" visible="true" lon="-122.3949051304946" lat="48.74622303173415">
+    <tag k="addr:housenumber" v="1131"/>
+    <tag k="addr:postcode" v="98229-2628"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5700" visible="true" lon="-122.3936534905288" lat="48.74566384476922">
+    <tag k="addr:housenumber" v="2881"/>
+    <tag k="addr:postcode" v="98229-5206"/>
+    <tag k="addr:street" v="Lake Whatcom Boulevard"/>
+  </node>
+  <node id="-5701" visible="true" lon="-122.4030775896466" lat="48.74283153364338">
+    <tag k="addr:housenumber" v="4531"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Fremont Street"/>
+  </node>
+  <node id="-5702" visible="true" lon="-122.4027320759208" lat="48.74320053502549">
+    <tag k="addr:housenumber" v="4534"/>
+    <tag k="addr:postcode" v="98229-2647"/>
+    <tag k="addr:street" v="Whitney Street"/>
+  </node>
+  <node id="-5703" visible="true" lon="-122.4117123763792" lat="48.74957056214899">
+    <tag k="addr:housenumber" v="1535"/>
+    <tag k="addr:postcode" v="98229-5025"/>
+    <tag k="addr:street" v="Glen Cove Lane"/>
+  </node>
+  <node id="-5704" visible="true" lon="-122.4107225488405" lat="48.74771677588338">
+    <tag k="addr:housenumber" v="1467"/>
+    <tag k="addr:postcode" v="98229-5027"/>
+    <tag k="addr:street" v="Glen Cove Lane"/>
+  </node>
+  <node id="-5705" visible="true" lon="-122.4102989204320" lat="48.74688883935404">
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:postcode" v="98229-5114"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="-5706" visible="true" lon="-122.4102184123402" lat="48.74732746799219">
+    <tag k="addr:housenumber" v="1419"/>
+    <tag k="addr:postcode" v="98229-5114"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="-5707" visible="true" lon="-122.4131683176430" lat="48.75155947151115">
+    <tag k="addr:housenumber" v="4123"/>
+    <tag k="addr:postcode" v="98229-5008"/>
+    <tag k="addr:street" v="Susan Court"/>
+  </node>
+  <node id="-5708" visible="true" lon="-122.4115841743351" lat="48.74645306517252">
+    <tag k="addr:housenumber" v="4211"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeway Drive"/>
+  </node>
+  <node id="-5709" visible="true" lon="-122.4105675391385" lat="48.74885466452469">
+    <tag k="addr:housenumber" v="1496"/>
+    <tag k="addr:postcode" v="98229-5028"/>
+    <tag k="addr:street" v="Glen Cove Lane"/>
+  </node>
+  <node id="-5710" visible="true" lon="-122.4149510885411" lat="48.75346716128548">
+    <tag k="addr:housenumber" v="4350"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Kansas Street"/>
+  </node>
+  <node id="-5711" visible="true" lon="-122.4127253202798" lat="48.75400978770189">
+    <tag k="addr:housenumber" v="1819"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeside Avenue"/>
+  </node>
+  <node id="-5712" visible="true" lon="-122.4119449768380" lat="48.75430705289757">
+    <tag k="addr:housenumber" v="1826"/>
+    <tag k="addr:postcode" v="98229-6018"/>
+    <tag k="addr:street" v="Lakeside Avenue"/>
+  </node>
+  <node id="-5713" visible="true" lon="-122.4131586947154" lat="48.75446746660560">
+    <tag k="addr:housenumber" v="1841"/>
+    <tag k="addr:postcode" v="98229-6017"/>
+    <tag k="addr:street" v="Lakeside Avenue"/>
+  </node>
+  <node id="-5714" visible="true" lon="-122.4118972138308" lat="48.75448187734555">
+    <tag k="addr:housenumber" v="1828"/>
+    <tag k="addr:postcode" v="98229-6018"/>
+    <tag k="addr:street" v="Lakeside Avenue"/>
+  </node>
+  <node id="-5715" visible="true" lon="-122.4152234995499" lat="48.75553627360403">
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Lakeview Street"/>
+  </node>
+  <node id="-5716" visible="true" lon="-122.4146178288178" lat="48.75609180591487">
+    <tag k="addr:housenumber" v="2000"/>
+    <tag k="addr:postcode" v="98229-6032"/>
+    <tag k="addr:street" v="Lakeside Avenue"/>
+  </node>
+  <node id="-5717" visible="true" lon="-122.4112961847135" lat="48.75225227820280">
+    <tag k="addr:housenumber" v="1708"/>
+    <tag k="addr:postcode" v="98229-5111"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="-5718" visible="true" lon="-122.4124033288611" lat="48.75221135600891">
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:postcode" v="98229"/>
+    <tag k="addr:street" v="Euclid Avenue"/>
+  </node>
+  <node id="-5719" visible="true" lon="-122.4127329453819" lat="48.75440983802022">
+    <tag k="addr:housenumber" v="1833"/>
+    <tag k="addr:postcode" v="98229-6017"/>
+    <tag k="addr:street" v="Lakeside Avenue"/>
+  </node>
+  <node id="-5720" visible="true" lon="-122.4147334060813" lat="48.75634307483255">
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:postcode" v="98229-6006"/>
+    <tag k="addr:street" v="Prospect Way"/>
+  </node>
+  <node id="-5721" visible="true" lon="-122.4156808704496" lat="48.75025877637024">
+    <tag k="addr:housenumber" v="1512"/>
+    <tag k="addr:postcode" v="98229-5012"/>
+    <tag k="addr:street" v="Willowbrook Place"/>
+  </node>
+  <node id="-5722" visible="true" lon="-122.4169119266632" lat="48.75147705832009">
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="98229-5054"/>
+    <tag k="addr:street" v="Brookview Place"/>
+  </node>
+  <node id="-5723" visible="true" lon="-122.4179845121308" lat="48.75094651293700">
+    <tag k="addr:housenumber" v="4025"/>
+    <tag k="addr:postcode" v="98229-5055"/>
+    <tag k="addr:street" v="York Street"/>
   </node>
 </osm>
