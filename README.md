@@ -1,6 +1,8 @@
 Bellingham, Washington building and address import
 ==============================
 
+**UPDATE: we're using a different approach instead. Ignore this repo, and go here instead: https://github.com/osmlab/Bellingham-Bldg-Addr**
+
 This repository is based on the [DC buildings import](https://github.com/osmlab/dcbuildings/) and the later [LA buildings import](https://github.com/osmlab/labuildings/). There may be some references to DC or LA that have not been switched over yet.
 
 **[Work in progress, do not use for import yet](https://github.com/almccon/bellingham-wa-buildings/issues)**
